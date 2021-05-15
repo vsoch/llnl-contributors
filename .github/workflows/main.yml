@@ -4,8 +4,6 @@ on:
   schedule:
     # Run nightly 3am
     - cron: 0 3 * * *
-  pull_request:
-    branches_ignore: []
 
 jobs:
   update-data:
