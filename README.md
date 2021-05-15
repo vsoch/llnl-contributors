@@ -13,6 +13,8 @@ seem to be well known."
 
 ## Breakdown of contributors
 
+![img/plot.png](img/plot.png)
+
 You can see the interface [here](https://vsoch.github.io/llnl-contributors/) to
 get a sense of how repositories break down between external and internal contributors,
 and read comments for each plot on the page. These plots are updated on a nightly
