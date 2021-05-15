@@ -36,7 +36,7 @@ p {
   </div>
 </div>
 
-<p class="info">If you answered "I can barely see most of the graph because the projects on the right are so much
+<p class="info">It's a long tail! And if you answered "I can barely see the right side of the graph because the projects on the left are so much
 larger!" you are spot on. We also are trying to plot all three of internal, external, and total contributors on the same plot, and the huge range of contributors (with some repos having over 700 and the bulk majority under 10) is making it hard to see. Let's remove the top values (with total unique contributors > 100) from the picture.</p>
 
 <h2>Filtered Contributors < total N = 100</h2>
@@ -106,7 +106,10 @@ var myBarChart = new Chart(ctx, {
     data: data,
     options: {
         responsive: true,
-        maintainAspectRatio: false
+        maintainAspectRatio: false,
+        legend: {
+            position: 'left',
+        }
     }
 });
 
@@ -138,7 +141,10 @@ var myBarChart2 = new Chart(ctx2, {
     data: data2,
     options: {
         responsive: true,
-        maintainAspectRatio: false
+        maintainAspectRatio: false,
+        legend: {
+            position: 'left',
+        }
     }
 });
 
@@ -159,7 +165,10 @@ var myBarChart{{ key }} = new Chart(ctx{{ key }}, {
     data: data{{ key }},
     options: {
         responsive: true,
-        maintainAspectRatio: false
+        maintainAspectRatio: false,
+        legend: {
+            position: 'left',
+        }
     }
 });
 {% endfor %}

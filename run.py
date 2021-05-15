@@ -56,7 +56,7 @@ for repo, counts in repos.items():
         max_total = counts['total'] 
 
 # Sort data based on number of total
-repos = {k: v for k, v in sorted(repos.items(), key=lambda item: item[1]['total'])}
+repos = {k: v for k, v in sorted(repos.items(), reverse=True, key=lambda item: item[1]['total'])}
 
 # Filter down to those with less than 100
 filtered = {}
