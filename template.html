@@ -37,7 +37,7 @@ p {
 </div>
 
 <p class="info">It's a long tail! And if you answered "I can barely see the right side of the graph because the projects on the left are so much
-larger!" you are spot on. We also are trying to plot all three of internal, external, and total contributors on the same plot, and the huge range of contributors (with some repos having over 700 and the bulk majority under 10) is making it hard to see. Let's remove the top values (with total unique contributors > 100) from the picture.</p>
+larger!" you are spot on. Note that spack/spack.io and LLNL/spotfe are also fakers, because both are derived from templates. We also are trying to plot all three of internal, external, and total contributors on the same plot, and the huge range of contributors (with some repos having over 700 and the bulk majority under 10) is making it hard to see. Let's remove the top values (with total unique contributors > 100) from the picture.</p>
 
 <h2>Filtered Contributors < total N = 100</h2>
 
@@ -58,7 +58,7 @@ larger!" you are spot on. We also are trying to plot all three of internal, exte
 </div>
 {% endfor %}
 
-<p class="info">Finally, let's look at buckets of contibutor counts.</p>
+<p class="info">Interesting! So the most heavily worked on projects within the lab are not a complete overlap of what we might consider the most popular projects from the above (e.g., spack, mfem, zfs). Does this suggest there is room to grow the external contribution set of these projects? Possibly. Finally, let's look at buckets of contibutor counts.</p>
 
 <h2>Counting Project Contributors</h2>
 
