@@ -64,6 +64,10 @@ for repo, meta in repos.items():
     if meta['total'] <= 100:
         filtered[repo] = meta
 
+filtered = {k: v for k, v in sorted(filtered.items(), reverse=True, key=lambda item: item[1]['total'])}
+internal_sorted = {k: v for k, v in sorted(filtered.items(), reverse=True, key=lambda item: item[1]['internal'])}
+external_sorted = {k: v for k, v in sorted(filtered.items(), reverse=True, key=lambda item: item[1]['external'])}
+
 def count_ranges(repos, metric="total"):
     # Count ranges - we will make custom because they are so uneven
     ranges = {"0-10": 0, "10-20":0, "20-30": 0, "30-50": 0, "50-100": 0, "100-200": 0, "200+":0}
@@ -93,6 +97,6 @@ with open("template.html", "r") as fd:
     template = Template(fd.read())
     
 keys = ["external", "total", "internal"]
-result = template.render(repos=repos, filtered=filtered, keys=keys, ranges=ranges)
+result = template.render(repos=repos, filtered=filtered, keys=keys, ranges=ranges, internal=internal_sorted, external=external_sorted)
 with open("index.html", "w") as fd:
         fd.write(result)

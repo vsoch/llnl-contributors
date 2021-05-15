@@ -150,14 +150,29 @@ var myBarChart2 = new Chart(ctx2, {
 
 {% for key in keys %}var ctx{{ key }} = document.getElementById("{{ key }}-chart").getContext("2d");
 var data{{ key }} = {
-    labels: [{% for repo, meta in filtered.items() %}"{{ repo }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    {% if key == "internal" %}labels: [{% for repo, meta in internal.items() %}"{{ repo }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
     datasets: [
         {
             label: "{{ key }}",
-            backgroundColor: '{% if key == "internal" %}tomato{% elif key == "external" %}purple{% else %}seagreen{% endif %}',
-            data: [{% for repo, meta in filtered.items() %}{% if key == "internal" %}{{ meta.internal }}{% elif key == "external" %}{{ meta.external }}{% else %}{{ meta.total }}{% endif %}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+            backgroundColor: 'tomato',
+            data: [{% for repo, meta in internal.items() %}{{ meta.internal }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        }
+    ]{% elif key == "external" %}labels: [{% for repo, meta in external.items() %}"{{ repo }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    datasets: [
+        {
+            label: "{{ key }}",
+            backgroundColor: 'purple',
+            data: [{% for repo, meta in external.items() %}{{ meta.external }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
         }
     ]
+    {% else %}labels: [{% for repo, meta in filtered.items() %}"{{ repo }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    datasets: [
+        {
+            label: "{{ key }}",
+            backgroundColor: 'seagreen',
+            data: [{% for repo, meta in filtered.items() %}{{ meta.total }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        }
+    ]{% endif %}
 };
 
 var myBarChart{{ key }} = new Chart(ctx{{ key }}, {
