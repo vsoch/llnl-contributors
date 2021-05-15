@@ -1,0 +1,195 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+     <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&display=swap" rel="stylesheet">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.3.0/Chart.bundle.js"></script>
+  <style>
+  .ct-series-a .ct-bar {
+  stroke: darkblue;
+  stroke-width: 20px;
+}
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+p {
+  font-weight: 300;
+}
+.info {
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+  </style>
+  </head>
+  <body>
+<div style="max-width:10000px; padding:20px; margin:20px" class="container">
+<h1>How is LLNL doing in attracting external contributors?</h1>
+<p>We celebrate spack, flux, and some of our large successful projects. But what about the others? The plot below (and you will need to scroll and mouse over bars to see details) shows, for each project, the number of internal, external, and total contributors. We are primarily interested in looking at external contributors. What do you see? 🤔️</p>
+<br>
+<h2>Contributor Breakdown</h2>
+
+<div style="width: 100%; overflow-x: auto; overflow-y: hidden">
+  <div style="width: 20000px; height: 600px">
+        <canvas id="contributors-chart" width="20000" height="600"></canvas>
+  </div>
+</div>
+
+<p class="info">If you answered "I can barely see most of the graph because the projects on the right are so much
+larger!" you are spot on. We also are trying to plot all three of internal, external, and total contributors on the same plot, and the huge range of contributors (with some repos having over 700 and the bulk majority under 10) is making it hard to see. Let's remove the top values (with total unique contributors > 100) from the picture.</p>
+
+<h2>Filtered Contributors < total N = 100</h2>
+
+<div style="width: 100%; overflow-x: auto; overflow-y: hidden">
+  <div style="width: 20000px; height: 600px">
+        <canvas id="filtered-chart" width="20000" height="600"></canvas>
+  </div>
+</div>
+
+<p class="info">This is slightly better, but now we can see that the bulk majority have less than 10 unique contributors. Now let's more cleanly separate internal, external, and total from this filtered set.</p>
+
+{% for key in keys %}
+<h2>Filtered Contributors: {{ key.capitalize() }}</h2>
+<div style="width: 100%; overflow-x: auto; overflow-y: hidden">
+  <div style="width: 20000px; height: 600px">
+        <canvas id="{{ key }}-chart" width="20000" height="600"></canvas>
+  </div>
+</div>
+{% endfor %}
+
+<p class="info">Finally, let's look at buckets of contibutor counts.</p>
+
+<h2>Counting Project Contributors</h2>
+
+<br>
+
+<div class="row">
+{% for key, range in ranges.items() %}
+<div class="col-md-4">
+    <h3>{{ key.capitalize() }} Contributors</h3>
+    <canvas id="circle-chart-{{ key }}" width="600" height="600"></canvas>
+</div>{% endfor %}
+</div>
+
+<p class="info">We see from the above that most projects are small, meaning having under 20 total contributors, and typically 10 or fewer external contributors. We can probably say that an "average" project has about 20 total contibutors, with an almost (but not quite) breakdown between external and internal, with obviously internal being the larger of the two. This metric might be off if a contributor uses a personal GitHub account that is not associated with LLNL (or if the data used from the LLNL open source repository is off). So is this problematic? Only if some of these projects are truly useful in the open source and acadmic communities but they aren't known about. A closer look at the individual projects (outside of the scope of this small exploration) is needed. The charts above are generated via <a href="https://github.com/vsoch/llnl-contributors">this repository</a> and show the subset of packages defined at <a href="https://llnl.github.io" target="_blank">LLNL open source</a></p>
+ 
+</div><script src="https://code.jquery.com/jquery-3.6.0.slim.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+  <script>
+
+var ctx = document.getElementById("contributors-chart").getContext("2d");
+
+var data = {
+    labels: [{% for repo, meta in repos.items() %}"{{ repo }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    datasets: [
+        {
+            label: "Internal",
+            backgroundColor: "tomato",
+            data: [{% for repo, meta in repos.items() %}{{ meta.internal }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        },
+        {
+            label: "External",
+            backgroundColor: "purple",
+            data: [{% for repo, meta in repos.items() %}{{ meta.external }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        },
+        {
+            label: "Total",
+            backgroundColor: "seagreen",
+            data: [{% for repo, meta in repos.items() %}{{ meta.total }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        }
+    ]
+};
+
+var myBarChart = new Chart(ctx, {
+    type: 'bar',
+    data: data,
+    options: {
+        responsive: true,
+        maintainAspectRatio: false
+    }
+});
+
+
+var ctx2 = document.getElementById("filtered-chart").getContext("2d");
+var data2 = {
+    labels: [{% for repo, meta in filtered.items() %}"{{ repo }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    datasets: [
+        {
+            label: "Internal",
+            backgroundColor: "tomato",
+            data: [{% for repo, meta in filtered.items() %}{{ meta.internal }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        },
+        {
+            label: "External",
+            backgroundColor: "purple",
+            data: [{% for repo, meta in filtered.items() %}{{ meta.external }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        },
+        {
+            label: "Total",
+            backgroundColor: "segreen",
+            data: [{% for repo, meta in filtered.items() %}{{ meta.total }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        }
+    ]
+};
+
+var myBarChart2 = new Chart(ctx2, {
+    type: 'bar',
+    data: data2,
+    options: {
+        responsive: true,
+        maintainAspectRatio: false
+    }
+});
+
+{% for key in keys %}var ctx{{ key }} = document.getElementById("{{ key }}-chart").getContext("2d");
+var data{{ key }} = {
+    labels: [{% for repo, meta in filtered.items() %}"{{ repo }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    datasets: [
+        {
+            label: "{{ key }}",
+            backgroundColor: '{% if key == "internal" %}tomato{% elif key == "external" %}purple{% else %}seagreen{% endif %}',
+            data: [{% for repo, meta in filtered.items() %}{% if key == "internal" %}{{ meta.internal }}{% elif key == "external" %}{{ meta.external }}{% else %}{{ meta.total }}{% endif %}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
+        }
+    ]
+};
+
+var myBarChart{{ key }} = new Chart(ctx{{ key }}, {
+    type: 'bar',
+    data: data{{ key }},
+    options: {
+        responsive: true,
+        maintainAspectRatio: false
+    }
+});
+{% endfor %}
+
+{% for key, range in ranges.items() %}
+const circle{{ key }} = {
+  labels: [{% for name, count in range.items() %}"{{ name }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+  datasets: [{
+    label: 'How many {{ key }} contributors across LLNL open source projects?',
+    data: [{% for name, count in range.items() %}"{{ count }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    backgroundColor: [
+      'purple',
+      'darkblue',
+      'rgb(255, 205, 86)',
+      'seagreen',
+      'rgb(54, 162, 235)',
+      'darkorange',
+      'rgb(255, 99, 132)'
+    ],
+    hoverOffset: 4
+  }]
+};
+
+var ctx{{ key }} = $("#circle-chart-{{ key }}");
+var myChart{{ key }} = new Chart(ctx{{ key }}, {
+  type: 'pie',
+  data: circle{{ key }}
+});
+
+{% endfor %}
+</script>
+  </body>
+</html>
