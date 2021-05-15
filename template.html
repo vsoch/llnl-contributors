@@ -92,11 +92,6 @@ var data = {
             label: "External",
             backgroundColor: "purple",
             data: [{% for repo, meta in repos.items() %}{{ meta.external }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
-        },
-        {
-            label: "Total",
-            backgroundColor: "seagreen",
-            data: [{% for repo, meta in repos.items() %}{{ meta.total }}{% if loop.last %}{% else %},{% endif %}{% endfor %}]
         }
     ]
 };
