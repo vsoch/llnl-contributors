@@ -21,6 +21,9 @@ p {
   padding-top: 30px;
   padding-bottom:30px;
 }
+.card {
+  padding:20px;
+}
   </style>
   </head>
   <body>
@@ -28,6 +31,29 @@ p {
 <h1>How is LLNL doing in attracting external contributors?</h1>
 <p>We celebrate spack, flux, and some of our large successful projects. But what about the others? The plot below (and you will need to scroll and mouse over bars to see details) shows, for each project, the number of internal, external, and total contributors. We are primarily interested in looking at external contributors. What do you see? 🤔️</p>
 <br>
+<h2>Repository Summary</h2>
+
+<div class="row" style="padding-top:20px; padding-bottom:20px">
+<div class="col-md-3">
+<div class="card"><span class="badge badge-info" style="width:100px">total repositories</span>{{ summary.total_repos }}</div>
+</div>
+
+<div class="col-md-3">
+<div class="card"><span class="badge badge-info" style="width:250px">repositories with more internal contributors</span>
+{{ summary.percent_internal_more }} %</div>
+</div>
+
+<div class="col-md-3">
+<div class="card"><span class="badge badge-info" style="width:250px" title="This is pretty surprising huh?">repositories with more external contributors</span>
+{{ summary.percent_external_more }} %</div>
+</div>
+
+<div class="col-md-3">
+<div class="card"><span class="badge badge-info" style="width:200px">repositories with equal of each type</span>
+{{ summary.percent_equal }} %</div>
+</div>
+</div>
+
 <h2>Contributor Breakdown</h2>
 
 <div style="width: 100%; overflow-x: auto; overflow-y: hidden">

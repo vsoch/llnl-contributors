@@ -126,6 +126,40 @@ ranges = {
     "internal": internal_ranges,
 }
 
+# Calculate percentages
+count_internal_more = 0
+count_external_more = 0
+count_equal = 0
+count_fewer_10 = 0
+for name, counts in repos.items():
+    if counts["external"] > counts["internal"]:
+        count_external_more += 1
+    elif counts["external"] < counts["internal"]:
+        count_internal_more += 1
+    else:
+        count_equal += 1
+
+    # less than 10% external?
+    if (
+        counts["external"] == 0
+        or (counts["internal"] / counts["external"]) / len(repos) < 0.1
+    ):
+        count_fewer_10 += 1
+
+
+# Calculate a few final metrics!
+summary = {
+    "total_repos": len(repos),
+    # percentage of repos with more internal than external collabs
+    "percent_internal_more": round(count_internal_more / len(repos), 2) * 100,
+    # percentage of repos with equal contributors of both types
+    "percent_equal": round(count_equal / len(repos), 2) * 100,
+    # percentage of repos with more external collabs than internal
+    "percent_external_more": round(count_external_more / len(repos), 2) * 100,
+    # percentage of repos with < 10 % external contributors
+    "fewer_10_percent": round(count_fewer_10 / len(repos), 2) * 100,
+}
+
 # Write to template
 with open("template.html", "r") as fd:
     template = Template(fd.read())
@@ -138,6 +172,7 @@ result = template.render(
     ranges=ranges,
     internal=internal_sorted,
     external=external_sorted,
+    summary=summary,
 )
 with open("index.html", "w") as fd:
     fd.write(result)
