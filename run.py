@@ -182,6 +182,13 @@ result = template.render(
 with open("index.html", "w") as fd:
     fd.write(result)
 
+with open("table-template.html", "r") as fd:
+    template = Template(fd.read())
+
+result = template.render(repos=repos)
+with open("table.html", "w") as fd:
+    fd.write(result)
+
 # print to the terminal overlap in top 10
 overlap = set(list(internal_sorted)[0:10]).intersection(
     set(list(external_sorted)[0:10])

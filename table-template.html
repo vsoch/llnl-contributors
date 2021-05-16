@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.24/css/dataTables.bootstrap4.min.css">
+     <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;700&display=swap" rel="stylesheet">
+  <style>
+  .ct-series-a .ct-bar {
+  stroke: darkblue;
+  stroke-width: 20px;
+}
+body {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+p {
+  font-weight: 300;
+}
+.info {
+  padding-top: 30px;
+  padding-bottom:30px;
+}
+.card {
+  padding:20px;
+}
+  </style>
+  </head>
+  <body>
+<div style="max-width:10000px; padding:20px; margin:20px" class="container">
+<h1>How is LLNL doing in attracting external contributors?</h1>
+<p>This page shows counts for each repository in an interactive table. See <a type="button" class="btn btn-sm btn-primary" href="index.html">the home graphs page.</a></p>
+<br>
+
+<h2>Contributor Breakdown</h2>
+
+<div class="container-fluid">
+<div class="row">
+  <div class="col-md-12">
+
+<table id="contrib-table" class="table table-bordered table-compact" style="width:100%">
+        <thead>
+            <tr>
+                <th>Project</th>
+                <th>External Contributors</th>
+                <th>Internal Contributors</th>
+                <th>Total Contributors</th>
+            </tr>
+        </thead>
+        <tbody>{% for repo, counts in repos.items ()%}
+            <tr>
+                <td>{{ repo }}</td>
+                <td>{{ counts.external }}</td>
+                <td>{{ counts.internal }}</td>
+                <td>{{ counts.total }}</td>
+            </tr>{% endfor %}
+        </tbody>
+    </table>
+  </div>
+</div>
+</div>
+</div><script src="https://code.jquery.com/jquery-3.6.0.slim.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.10.24/js/dataTables.bootstrap4.min.js"></script>
+<script>
+
+$(document).ready(function() {
+    $('#contrib-table').DataTable( {
+        "order": [[ 3, "desc" ]],
+        "pageLength": 50
+    } );
+} );
+</script>
+  </body>
+</html>

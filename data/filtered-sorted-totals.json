@@ -1,0 +1,3632 @@
+{
+    "CDAT/cdat": {
+        "external": 93,
+        "internal": 1,
+        "total": 94
+    },
+    "mfem/web": {
+        "external": 44,
+        "internal": 35,
+        "total": 79
+    },
+    "GEOSX/LvArray": {
+        "external": 64,
+        "internal": 11,
+        "total": 75
+    },
+    "CEED/libCEED": {
+        "external": 52,
+        "internal": 14,
+        "total": 66
+    },
+    "CEED/Laghos": {
+        "external": 43,
+        "internal": 20,
+        "total": 63
+    },
+    "CEED/benchmarks": {
+        "external": 41,
+        "internal": 18,
+        "total": 59
+    },
+    "openzfs/spl": {
+        "external": 54,
+        "internal": 4,
+        "total": 58
+    },
+    "mfem/github-actions": {
+        "external": 32,
+        "internal": 24,
+        "total": 56
+    },
+    "LLNL/RAJA": {
+        "external": 15,
+        "internal": 38,
+        "total": 53
+    },
+    "GLVis/glvis": {
+        "external": 32,
+        "internal": 21,
+        "total": 53
+    },
+    "visit-dav/visit": {
+        "external": 41,
+        "internal": 6,
+        "total": 47
+    },
+    "jpype-project/jpype": {
+        "external": 45,
+        "internal": 1,
+        "total": 46
+    },
+    "LLNL/axom": {
+        "external": 5,
+        "internal": 40,
+        "total": 45
+    },
+    "rose-compiler/rose": {
+        "external": 39,
+        "internal": 6,
+        "total": 45
+    },
+    "rose-compiler/rose-develop": {
+        "external": 38,
+        "internal": 6,
+        "total": 44
+    },
+    "hpc/mpifileutils": {
+        "external": 32,
+        "internal": 9,
+        "total": 41
+    },
+    "LLNL/blt": {
+        "external": 10,
+        "internal": 30,
+        "total": 40
+    },
+    "LLNL/conduit": {
+        "external": 4,
+        "internal": 32,
+        "total": 36
+    },
+    "openzfs/openzfs-docs": {
+        "external": 34,
+        "internal": 2,
+        "total": 36
+    },
+    "spack/spack-configs": {
+        "external": 26,
+        "internal": 9,
+        "total": 35
+    },
+    "CDAT/VisTrails": {
+        "external": 34,
+        "internal": 1,
+        "total": 35
+    },
+    "LLNL/gidiplus": {
+        "external": 0,
+        "internal": 33,
+        "total": 33
+    },
+    "LLNL/lbann": {
+        "external": 12,
+        "internal": 21,
+        "total": 33
+    },
+    "GLVis/doxygen": {
+        "external": 14,
+        "internal": 18,
+        "total": 32
+    },
+    "GLVis/releases": {
+        "external": 14,
+        "internal": 18,
+        "total": 32
+    },
+    "GLVis/web": {
+        "external": 14,
+        "internal": 18,
+        "total": 32
+    },
+    "LLNL/Umpire": {
+        "external": 8,
+        "internal": 23,
+        "total": 31
+    },
+    "hypre-space/hypre": {
+        "external": 19,
+        "internal": 12,
+        "total": 31
+    },
+    "spack/seps": {
+        "external": 22,
+        "internal": 9,
+        "total": 31
+    },
+    "LLNL/CHAI": {
+        "external": 4,
+        "internal": 26,
+        "total": 30
+    },
+    "LLNL/RAJAPerf": {
+        "external": 3,
+        "internal": 27,
+        "total": 30
+    },
+    "spack/spack-cscs2019": {
+        "external": 21,
+        "internal": 9,
+        "total": 30
+    },
+    "LLNL/RAJAProxies": {
+        "external": 2,
+        "internal": 27,
+        "total": 29
+    },
+    "hpc/Spindle": {
+        "external": 16,
+        "internal": 13,
+        "total": 29
+    },
+    "LLNL/llnl.github.io": {
+        "external": 3,
+        "internal": 25,
+        "total": 28
+    },
+    "Alpine-DAV/ascent": {
+        "external": 24,
+        "internal": 4,
+        "total": 28
+    },
+    "LLNL/zfp": {
+        "external": 13,
+        "internal": 14,
+        "total": 27
+    },
+    "hpc/dcp": {
+        "external": 21,
+        "internal": 6,
+        "total": 27
+    },
+    "chaos/ldiskfsprogs": {
+        "external": 22,
+        "internal": 5,
+        "total": 27
+    },
+    "CDAT/vcs": {
+        "external": 25,
+        "internal": 2,
+        "total": 27
+    },
+    "LLNL/maestrowf": {
+        "external": 4,
+        "internal": 22,
+        "total": 26
+    },
+    "LLNL/HPCCEA": {
+        "external": 7,
+        "internal": 19,
+        "total": 26
+    },
+    "LLNL/libmsr": {
+        "external": 5,
+        "internal": 21,
+        "total": 26
+    },
+    "LLNL/msr-safe": {
+        "external": 5,
+        "internal": 21,
+        "total": 26
+    },
+    "LLNL/Caliper": {
+        "external": 10,
+        "internal": 15,
+        "total": 25
+    },
+    "LLNL/PnMPI": {
+        "external": 6,
+        "internal": 19,
+        "total": 25
+    },
+    "GMLC-TDC/HELICS": {
+        "external": 22,
+        "internal": 3,
+        "total": 25
+    },
+    "LLNL/wrap": {
+        "external": 6,
+        "internal": 18,
+        "total": 24
+    },
+    "spack/build-si-modeling": {
+        "external": 12,
+        "internal": 12,
+        "total": 24
+    },
+    "spack/spack-monitor": {
+        "external": 12,
+        "internal": 12,
+        "total": 24
+    },
+    "ESGF/esgf-installer": {
+        "external": 23,
+        "internal": 1,
+        "total": 24
+    },
+    "LLNL/scr": {
+        "external": 6,
+        "internal": 17,
+        "total": 23
+    },
+    "ESGF/esgf.github.io": {
+        "external": 20,
+        "internal": 3,
+        "total": 23
+    },
+    "LLNL/LaunchMON": {
+        "external": 5,
+        "internal": 18,
+        "total": 23
+    },
+    "hpc/OpenLorenz": {
+        "external": 12,
+        "internal": 11,
+        "total": 23
+    },
+    "flux-framework/flux-core": {
+        "external": 11,
+        "internal": 12,
+        "total": 23
+    },
+    "GLVis/glvis-js": {
+        "external": 8,
+        "internal": 15,
+        "total": 23
+    },
+    "GLVis/pyglvis": {
+        "external": 8,
+        "internal": 15,
+        "total": 23
+    },
+    "ESGF/esg-publisher": {
+        "external": 22,
+        "internal": 1,
+        "total": 23
+    },
+    "ESGF/esg-search": {
+        "external": 23,
+        "internal": 0,
+        "total": 23
+    },
+    "LLNL/UnifyFS": {
+        "external": 9,
+        "internal": 13,
+        "total": 22
+    },
+    "mfem/doxygen": {
+        "external": 9,
+        "internal": 13,
+        "total": 22
+    },
+    "mfem/releases": {
+        "external": 9,
+        "internal": 13,
+        "total": 22
+    },
+    "chaos/diod": {
+        "external": 17,
+        "internal": 5,
+        "total": 22
+    },
+    "LLNL/DiHydrogen": {
+        "external": 3,
+        "internal": 18,
+        "total": 21
+    },
+    "LLNL/DragonView": {
+        "external": 2,
+        "internal": 19,
+        "total": 21
+    },
+    "LLNL/SAMRAI": {
+        "external": 6,
+        "internal": 15,
+        "total": 21
+    },
+    "LLNL/STAT": {
+        "external": 3,
+        "internal": 18,
+        "total": 21
+    },
+    "LLNL/serac": {
+        "external": 2,
+        "internal": 19,
+        "total": 21
+    },
+    "LLNL/spheral": {
+        "external": 9,
+        "internal": 12,
+        "total": 21
+    },
+    "CDAT/cdms": {
+        "external": 19,
+        "internal": 2,
+        "total": 21
+    },
+    "ESGF/config": {
+        "external": 21,
+        "internal": 0,
+        "total": 21
+    },
+    "ESGF/esgf-pyclient": {
+        "external": 21,
+        "internal": 0,
+        "total": 21
+    },
+    "LLNL/adept-utils": {
+        "external": 2,
+        "internal": 18,
+        "total": 20
+    },
+    "LLNL/callpath": {
+        "external": 1,
+        "internal": 19,
+        "total": 20
+    },
+    "LLNL/mpi-tools": {
+        "external": 1,
+        "internal": 19,
+        "total": 20
+    },
+    "ESGF/esgf-node-manager": {
+        "external": 19,
+        "internal": 1,
+        "total": 20
+    },
+    "ESGF/esgf-security": {
+        "external": 20,
+        "internal": 0,
+        "total": 20
+    },
+    "ESGF/esgf-dashboard": {
+        "external": 20,
+        "internal": 0,
+        "total": 20
+    },
+    "LLNL/AutomaDeD": {
+        "external": 0,
+        "internal": 19,
+        "total": 19
+    },
+    "LLNL/Elemental": {
+        "external": 2,
+        "internal": 17,
+        "total": 19
+    },
+    "LLNL/Gremlins": {
+        "external": 0,
+        "internal": 19,
+        "total": 19
+    },
+    "LLNL/axom-docker": {
+        "external": 0,
+        "internal": 19,
+        "total": 19
+    },
+    "LLNL/llnl-hires-timers": {
+        "external": 1,
+        "internal": 18,
+        "total": 19
+    },
+    "LLNL/lmt": {
+        "external": 5,
+        "internal": 14,
+        "total": 19
+    },
+    "LLNL/perf-dump": {
+        "external": 1,
+        "internal": 18,
+        "total": 19
+    },
+    "LLNL/rubik": {
+        "external": 0,
+        "internal": 19,
+        "total": 19
+    },
+    "flux-framework/flux-sched": {
+        "external": 7,
+        "internal": 12,
+        "total": 19
+    },
+    "chaos/slurm": {
+        "external": 14,
+        "internal": 5,
+        "total": 19
+    },
+    "openzfs/zfs-buildbot": {
+        "external": 15,
+        "internal": 4,
+        "total": 19
+    },
+    "ESGF/esgf-web-fe": {
+        "external": 19,
+        "internal": 0,
+        "total": 19
+    },
+    "LLNL/ADAPT": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/Adagio": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/DysectAPI": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/GOTCHA": {
+        "external": 6,
+        "internal": 12,
+        "total": 18
+    },
+    "LLNL/MemAxes": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/Mitos": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/axom_data": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/boxfish": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/cardioid": {
+        "external": 4,
+        "internal": 14,
+        "total": 18
+    },
+    "LLNL/core_stack_merge": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/cram": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/dataracebench": {
+        "external": 5,
+        "internal": 13,
+        "total": 18
+    },
+    "LLNL/graphlib": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/libROM": {
+        "external": 2,
+        "internal": 16,
+        "total": 18
+    },
+    "LLNL/magpie": {
+        "external": 8,
+        "internal": 10,
+        "total": 18
+    },
+    "LLNL/muster": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/nami": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/pynamic": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/qball": {
+        "external": 5,
+        "internal": 13,
+        "total": 18
+    },
+    "LLNL/ravel": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/simutil": {
+        "external": 5,
+        "internal": 13,
+        "total": 18
+    },
+    "flux-framework/flux-k8s": {
+        "external": 10,
+        "internal": 8,
+        "total": 18
+    },
+    "CDAT/cdat.github.io": {
+        "external": 17,
+        "internal": 1,
+        "total": 18
+    },
+    "ESGF/esgf-compute-wps": {
+        "external": 17,
+        "internal": 1,
+        "total": 18
+    },
+    "LLNL/Kripke": {
+        "external": 4,
+        "internal": 13,
+        "total": 17
+    },
+    "LLNL/umap": {
+        "external": 2,
+        "internal": 15,
+        "total": 17
+    },
+    "LLNL/Rescal-snow": {
+        "external": 7,
+        "internal": 10,
+        "total": 17
+    },
+    "LLNL/camp": {
+        "external": 2,
+        "internal": 15,
+        "total": 17
+    },
+    "LLNL/hiop": {
+        "external": 6,
+        "internal": 11,
+        "total": 17
+    },
+    "LLNL/ior": {
+        "external": 3,
+        "internal": 14,
+        "total": 17
+    },
+    "flux-framework/flux-core-v0.11": {
+        "external": 7,
+        "internal": 10,
+        "total": 17
+    },
+    "flux-framework/flux-docs": {
+        "external": 5,
+        "internal": 12,
+        "total": 17
+    },
+    "flux-framework/flux-framework.github.io": {
+        "external": 6,
+        "internal": 11,
+        "total": 17
+    },
+    "flux-framework/flux-sched-v0.7": {
+        "external": 7,
+        "internal": 10,
+        "total": 17
+    },
+    "flux-framework/rfc": {
+        "external": 5,
+        "internal": 12,
+        "total": 17
+    },
+    "CDAT/uvcmetrics": {
+        "external": 16,
+        "internal": 1,
+        "total": 17
+    },
+    "ESGF/esgf-prepare": {
+        "external": 16,
+        "internal": 1,
+        "total": 17
+    },
+    "ESGF/esg-orp": {
+        "external": 17,
+        "internal": 0,
+        "total": 17
+    },
+    "LLNL/umap-apps": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
+    "LLNL/SNLS": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
+    "LLNL/dtcmp": {
+        "external": 4,
+        "internal": 12,
+        "total": 16
+    },
+    "LLNL/havoqgt": {
+        "external": 2,
+        "internal": 14,
+        "total": 16
+    },
+    "LLNL/libyogrt": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
+    "LLNL/lustre-tools-llnl": {
+        "external": 3,
+        "internal": 13,
+        "total": 16
+    },
+    "LLNL/merlin": {
+        "external": 2,
+        "internal": 14,
+        "total": 16
+    },
+    "LLNL/scraper": {
+        "external": 5,
+        "internal": 11,
+        "total": 16
+    },
+    "CDAT/vcdat": {
+        "external": 15,
+        "internal": 1,
+        "total": 16
+    },
+    "ESGF/esgf-docker": {
+        "external": 16,
+        "internal": 0,
+        "total": 16
+    },
+    "ESGF/esgf-idp": {
+        "external": 16,
+        "internal": 0,
+        "total": 16
+    },
+    "LLNL/maestro_sheetmusic": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
+    "LLNL/HPC-Tutorials": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
+    "LLNL/INGRID": {
+        "external": 6,
+        "internal": 9,
+        "total": 15
+    },
+    "LLNL/MPI-Stages": {
+        "external": 5,
+        "internal": 10,
+        "total": 15
+    },
+    "LLNL/RAJA-project-template": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
+    "LLNL/mpiP": {
+        "external": 7,
+        "internal": 8,
+        "total": 15
+    },
+    "LLNL/pyranda": {
+        "external": 4,
+        "internal": 11,
+        "total": 15
+    },
+    "LLNL/shroud": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
+    "LLNL/units": {
+        "external": 5,
+        "internal": 10,
+        "total": 15
+    },
+    "chaos/scrub": {
+        "external": 10,
+        "internal": 5,
+        "total": 15
+    },
+    "CDAT/uvcdat-testdata": {
+        "external": 14,
+        "internal": 1,
+        "total": 15
+    },
+    "ESGF/esgf-swt": {
+        "external": 15,
+        "internal": 0,
+        "total": 15
+    },
+    "chaos/genders": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "LLNL/scr-fe": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
+    "LLNL/slapi": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
+    "LLNL/Adiak": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
+    "LLNL/Aluminum": {
+        "external": 2,
+        "internal": 12,
+        "total": 14
+    },
+    "LLNL/GridDyn": {
+        "external": 2,
+        "internal": 12,
+        "total": 14
+    },
+    "LLNL/MACSio": {
+        "external": 3,
+        "internal": 11,
+        "total": 14
+    },
+    "LLNL/fdtree": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/mdtest": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/merlin-spellbook": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/mib": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/simul": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/smoothG": {
+        "external": 3,
+        "internal": 11,
+        "total": 14
+    },
+    "LLNL/spl": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/uberenv": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
+    "LLNL/zfs": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "flux-framework/flux-security": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "flux-framework/flux-workflow-examples": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "spack/legacy-spack.io": {
+        "external": 9,
+        "internal": 5,
+        "total": 14
+    },
+    "ESGF/compute": {
+        "external": 13,
+        "internal": 1,
+        "total": 14
+    },
+    "ESGF/esgf-compute-api": {
+        "external": 13,
+        "internal": 1,
+        "total": 14
+    },
+    "ESGF/output_viewer": {
+        "external": 13,
+        "internal": 1,
+        "total": 14
+    },
+    "ESGF/apache-frontend": {
+        "external": 14,
+        "internal": 0,
+        "total": 14
+    },
+    "ESGF/esgf-artifacts": {
+        "external": 14,
+        "internal": 0,
+        "total": 14
+    },
+    "ESGF/esgf-publisher-resources": {
+        "external": 14,
+        "internal": 0,
+        "total": 14
+    },
+    "ESGF/esgf-utils": {
+        "external": 14,
+        "internal": 0,
+        "total": 14
+    },
+    "ESGF/esgf-drslib": {
+        "external": 14,
+        "internal": 0,
+        "total": 14
+    },
+    "ESGF/DiagnosticsViewer": {
+        "external": 14,
+        "internal": 0,
+        "total": 14
+    },
+    "ESGF/esgf-getcert": {
+        "external": 14,
+        "internal": 0,
+        "total": 14
+    },
+    "ESGF/esgf-jenkins": {
+        "external": 14,
+        "internal": 0,
+        "total": 14
+    },
+    "LLNL/ATS": {
+        "external": 0,
+        "internal": 13,
+        "total": 13
+    },
+    "LLNL/CARE": {
+        "external": 0,
+        "internal": 13,
+        "total": 13
+    },
+    "LLNL/Curvallis": {
+        "external": 4,
+        "internal": 9,
+        "total": 13
+    },
+    "LLNL/H5Z-ZFP": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
+    "LLNL/Jekyll-LLNL-Theme": {
+        "external": 0,
+        "internal": 13,
+        "total": 13
+    },
+    "LLNL/LULESH": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/MaPPeRTrac": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/MacPatch": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/Quicksilver": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/UEDGE": {
+        "external": 4,
+        "internal": 9,
+        "total": 13
+    },
+    "LLNL/ac-mpibind": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
+    "LLNL/apollo": {
+        "external": 1,
+        "internal": 12,
+        "total": 13
+    },
+    "LLNL/b-mpi3": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/irep": {
+        "external": 0,
+        "internal": 13,
+        "total": 13
+    },
+    "LLNL/lwgrp": {
+        "external": 1,
+        "internal": 12,
+        "total": 13
+    },
+    "LLNL/mgmol": {
+        "external": 4,
+        "internal": 9,
+        "total": 13
+    },
+    "LLNL/spot2_container": {
+        "external": 1,
+        "internal": 12,
+        "total": 13
+    },
+    "LLNL/spotbe": {
+        "external": 1,
+        "internal": 12,
+        "total": 13
+    },
+    "LLNL/variorum": {
+        "external": 1,
+        "internal": 12,
+        "total": 13
+    },
+    "flux-framework/capacitor": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
+    "flux-framework/distribution": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
+    "flux-framework/flux-dyad": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
+    "flux-framework/flux-hierarchy": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
+    "flux-framework/flux-rs": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
+    "flux-framework/flux-sys-rs": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
+    "chaos/pdsh": {
+        "external": 8,
+        "internal": 5,
+        "total": 13
+    },
+    "hatchet/hatchet": {
+        "external": 8,
+        "internal": 5,
+        "total": 13
+    },
+    "CDAT/cdatweb": {
+        "external": 12,
+        "internal": 1,
+        "total": 13
+    },
+    "ESGF/icnwg": {
+        "external": 13,
+        "internal": 0,
+        "total": 13
+    },
+    "ESGF/esgf-dist": {
+        "external": 13,
+        "internal": 0,
+        "total": 13
+    },
+    "ESGF/esgf-test-suite": {
+        "external": 13,
+        "internal": 0,
+        "total": 13
+    },
+    "LLNL/Sina": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
+    "LLNL/AMPE": {
+        "external": 3,
+        "internal": 9,
+        "total": 12
+    },
+    "LLNL/COGENT": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
+    "LLNL/CallFlow": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
+    "LLNL/ExaConstit": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
+    "LLNL/MPIDiff": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
+    "LLNL/MacPatch-AutoPKG": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/OMSClient": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/PyDV": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/cruise": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
+    "LLNL/inq": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/metall": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
+    "LLNL/mpibind": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/pLiner": {
+        "external": 3,
+        "internal": 9,
+        "total": 12
+    },
+    "LLNL/parelag": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
+    "LLNL/simpool": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
+    "LLNL/sundials": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
+    "LLNL/wcs": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
+    "flux-framework/FluxRM.jl": {
+        "external": 6,
+        "internal": 6,
+        "total": 12
+    },
+    "ATOMconsortium/AMPL": {
+        "external": 10,
+        "internal": 2,
+        "total": 12
+    },
+    "CDAT/cdutil": {
+        "external": 11,
+        "internal": 1,
+        "total": 12
+    },
+    "CDAT/conda-recipes": {
+        "external": 11,
+        "internal": 1,
+        "total": 12
+    },
+    "ESGF/esgf-ansible": {
+        "external": 12,
+        "internal": 0,
+        "total": 12
+    },
+    "ESGF/esgf-build": {
+        "external": 12,
+        "internal": 0,
+        "total": 12
+    },
+    "ESGF/esgf-stats-api": {
+        "external": 12,
+        "internal": 0,
+        "total": 12
+    },
+    "ESGF/esgf-fetcher": {
+        "external": 12,
+        "internal": 0,
+        "total": 12
+    },
+    "ESGF/esgf-stager": {
+        "external": 12,
+        "internal": 0,
+        "total": 12
+    },
+    "chaos/cerebro": {
+        "external": 4,
+        "internal": 7,
+        "total": 11
+    },
+    "ECP-VeloC/AXL": {
+        "external": 4,
+        "internal": 7,
+        "total": 11
+    },
+    "LLNL/meco": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/zfpy-wheels": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/.github": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/Admiral": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/ExaCMech": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/Juqbox.jl": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "LLNL/PIPS-SBB": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "LLNL/UMT": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/burstfs": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/caliper-examples": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/certipy": {
+        "external": 3,
+        "internal": 8,
+        "total": 11
+    },
+    "LLNL/devil_ray": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/mstk-docker": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/paraDIS_lib": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/py-hostlist": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/quandary": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/radiuss-spack-configs": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/rhizome": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "LLNL/saamge": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/spark-hdf5": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/strawman": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/yorick": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "chaos/ngrm": {
+        "external": 4,
+        "internal": 7,
+        "total": 11
+    },
+    "XBraid/xbraid": {
+        "external": 5,
+        "internal": 6,
+        "total": 11
+    },
+    "spack/sbang": {
+        "external": 6,
+        "internal": 5,
+        "total": 11
+    },
+    "spack/spack-tutorial-container": {
+        "external": 6,
+        "internal": 5,
+        "total": 11
+    },
+    "chaos/nodediag": {
+        "external": 5,
+        "internal": 6,
+        "total": 11
+    },
+    "CDAT/dv3d": {
+        "external": 10,
+        "internal": 1,
+        "total": 11
+    },
+    "CDAT/genutil": {
+        "external": 10,
+        "internal": 1,
+        "total": 11
+    },
+    "CDAT/vcs-js": {
+        "external": 10,
+        "internal": 1,
+        "total": 11
+    },
+    "ESGF/esgf-globus-download": {
+        "external": 10,
+        "internal": 1,
+        "total": 11
+    },
+    "GMLC-TDC/HELICS-Examples": {
+        "external": 9,
+        "internal": 2,
+        "total": 11
+    },
+    "ESGF/CDNOT": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
+    "CDAT/cdat-notebook-widgets": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
+    "ESGF/esgf-dashboard-ui": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
+    "ESGF/esgf-helm": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
+    "ESGF/esgf-toolbox": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
+    "LLNL/ddcMDconverter": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "flux-framework/PerfFlowAspect": {
+        "external": 3,
+        "internal": 7,
+        "total": 10
+    },
+    "LLNL/AMG": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/AutoParBench": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/CoMD-Chapel": {
+        "external": 2,
+        "internal": 8,
+        "total": 10
+    },
+    "LLNL/Collabmaps": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/FAROS": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/FAST": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/FGPU": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/FRS": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/GOTCHA-tracer": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/GRAPE": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/GridKit": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/ISO-DART": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/LOKI": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/MAT": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/MI-ChemVis": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/MacPatch-Docs": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/MacPatch-Docs-gh": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/NDDAV": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/OpenRES": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/PYB11Generator": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/RAJA-tutorials": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/Sedov-ML": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/SoRa": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/TopoMS": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/TreeScope": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/USER-EPH": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/Wemul": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/acrotensor": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/adapt-fp": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/barni": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/blockbuster": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/bridge-kernel": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/clippy": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/clippy-cpp": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/cowc": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/ddcMD": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/direct-fuse": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/fastcam": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/goulash": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/gtest-mpi-listener": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/hdtopology": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/iris": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/json-cwx": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/loupe": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/melodee": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/mpiBench": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/mpiGraph": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/ns3-if77-module": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/prorad": {
+        "external": 2,
+        "internal": 8,
+        "total": 10
+    },
+    "LLNL/psuade": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/psuade-lite": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/qnd": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/quantkriging": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/radiuss-automation": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/radiuss-ci": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/radiuss-ci-info-action": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/radiuss-stack": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/radiuss-uberenv": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/recbis": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/remote-mirror-security": {
+        "external": 2,
+        "internal": 8,
+        "total": 10
+    },
+    "LLNL/ross-matrix-models": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/scisample": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/scr-top": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/selfsupervised": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/simplexdesign": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/sonar-driver": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/typeforge": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/variorum-spack-mirrors": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/ygm": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/yorick-doc": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "spack/localized-docs": {
+        "external": 5,
+        "internal": 5,
+        "total": 10
+    },
+    "chaos/9nbd": {
+        "external": 5,
+        "internal": 5,
+        "total": 10
+    },
+    "chaos/lustre-kdmu": {
+        "external": 5,
+        "internal": 5,
+        "total": 10
+    },
+    "chaos/powerman": {
+        "external": 4,
+        "internal": 6,
+        "total": 10
+    },
+    "chaos/v9fs": {
+        "external": 5,
+        "internal": 5,
+        "total": 10
+    },
+    "CDAT/cdp": {
+        "external": 8,
+        "internal": 2,
+        "total": 10
+    },
+    "CDAT/jupyter-vcdat": {
+        "external": 8,
+        "internal": 2,
+        "total": 10
+    },
+    "CDAT/usage": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
+    "CDAT/uvbot": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
+    "CDAT/vcsaddons": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
+    "GMLC-TDC/HELICS-Use-Cases": {
+        "external": 8,
+        "internal": 2,
+        "total": 10
+    },
+    "ESGF/esgf-auth": {
+        "external": 10,
+        "internal": 0,
+        "total": 10
+    },
+    "ESGF/esgf-ingestion": {
+        "external": 10,
+        "internal": 0,
+        "total": 10
+    },
+    "ESGF/esgfpy-solr": {
+        "external": 10,
+        "internal": 0,
+        "total": 10
+    },
+    "ESGF/esgf-user-support": {
+        "external": 10,
+        "internal": 0,
+        "total": 10
+    },
+    "ESGF/esgf-config": {
+        "external": 10,
+        "internal": 0,
+        "total": 10
+    },
+    "ESGF/deep_hurricane_tracker": {
+        "external": 10,
+        "internal": 0,
+        "total": 10
+    },
+    "ESGF/basejump": {
+        "external": 10,
+        "internal": 0,
+        "total": 10
+    },
+    "ESGF/esgf-notify": {
+        "external": 10,
+        "internal": 0,
+        "total": 10
+    },
+    "chaos/gendersllnl": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "chaos/whatsup": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "ECP-VeloC/KVTree": {
+        "external": 2,
+        "internal": 7,
+        "total": 9
+    },
+    "LLNL/Frescox": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/2DHEVF": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ANS": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Babel": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/CRADL": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Comb": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Copson_Expansion_Solution": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/CxxPolyFit": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/DFTT": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/DJINN": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/FPChecker": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/H2OI95": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/HyDAGS": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/LH2Transfer": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/LIST": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/LibPowerMon": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/MPI-Usage": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MTL-suite": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MTLRecSys": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MahonFitting": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MemSurfer": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MerlinWorkflows": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MultiscaleTopOpt": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/NPB": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Open-Facility-Viewer": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/PENNANT": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/PF3DCOMM": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/PF3DIO": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/PF3DK": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/PairScore": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/PolyClipper": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/QRUS": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/RAJA-SDP": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/RASE": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/SAFIRE": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/SBLLmalloc": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/SC-PD-FED": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/SSHSpawner": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/STKAddressConverter": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/SW4CK": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Saloon": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ScrubJay": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/SmallMolEval": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Task-Time-Tracker": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Tizona": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Tool-Gear": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/TourRobotDance": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/UQ_combustion": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Varity": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/WRF-IBM": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/al_nlp": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ap": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/avalaunch": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/backstroke": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/bindee": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/bmsl": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/caliper-compiler": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/coda-calibration-tool": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/cryoH2vehicle": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/csld": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/cxxopts": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/dynim": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/f-strings": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/flume-plugins": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/fpp": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/fpzip": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/fudge": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/gecko": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/gitlab-runner-auth": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/goTLS": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/googletest-mpi-listener": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/graph-embed": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/ibtopo": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/iirabm": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/iniabu": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/kosh": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ldapotp-java-api": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/ldapotp-jni-lib": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/ldms-plugins-llnl": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/legion": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/lestofire": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/lime": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/lime-apps": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/mappgene": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/mhysa": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/minq": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/mpileaks": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/mpy1": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/mttime": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/narrows": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/nfs-directory-source": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ovis": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/parelagmc": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/phloem": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/pmgr_collective": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/polycube": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/pyMMAopt": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/pyPICfusion": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/pyorick": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/pysaber": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/radiuss-ci-info-action-go": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/rover": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/rst2slides": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/sepsense": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/spawnnet": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/spify": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/tango": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/tox": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/trainGMM": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/unum": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/yorick-gl": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/yorick-ml4": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/yorick-mpeg": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/yorick-z": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/zero-rk": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/zhw": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "PRUNERS/FLiT": {
+        "external": 8,
+        "internal": 1,
+        "total": 9
+    },
+    "flux-framework/Tutorials": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/fliirm": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/flux-accounting": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/flux-coral2": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/flux-depend": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/flux-research-artifacts": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/flux-scalability": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/flux-spack": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/planning": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/power-research": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/pr-validator": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "spack/spack-bootstrap-installer": {
+        "external": 4,
+        "internal": 5,
+        "total": 9
+    },
+    "spack/spack-github-action": {
+        "external": 4,
+        "internal": 5,
+        "total": 9
+    },
+    "spack/spack-infrastructure": {
+        "external": 4,
+        "internal": 5,
+        "total": 9
+    },
+    "chaos/ldiskfs": {
+        "external": 4,
+        "internal": 5,
+        "total": 9
+    },
+    "chaos/mrsh": {
+        "external": 4,
+        "internal": 5,
+        "total": 9
+    },
+    "chaos/netroot": {
+        "external": 4,
+        "internal": 5,
+        "total": 9
+    },
+    "chaos/rquota": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "chaos/slurm-spank-plugins": {
+        "external": 4,
+        "internal": 5,
+        "total": 9
+    },
+    "openzfs/zfs-images": {
+        "external": 8,
+        "internal": 1,
+        "total": 9
+    },
+    "rose-compiler/build-blocker-plugin": {
+        "external": 5,
+        "internal": 4,
+        "total": 9
+    },
+    "rose-compiler/matlab-frontend": {
+        "external": 5,
+        "internal": 4,
+        "total": 9
+    },
+    "chu11/freeipmi-mirror": {
+        "external": 8,
+        "internal": 1,
+        "total": 9
+    },
+    "PRUNERS/archer": {
+        "external": 7,
+        "internal": 2,
+        "total": 9
+    },
+    "CDAT/Jupyter-notebooks": {
+        "external": 8,
+        "internal": 1,
+        "total": 9
+    },
+    "CDAT/cdat_info": {
+        "external": 8,
+        "internal": 1,
+        "total": 9
+    },
+    "GMLC-TDC/helics-ns3": {
+        "external": 6,
+        "internal": 3,
+        "total": 9
+    },
+    "ESGF/esgf-devOps": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "ESGF/COG": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "ESGF/dep-filters": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "ESGF/dream": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "ESGF/esgf-idp-proxy-theme": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "ESGF/esgf-idp-theme": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "ESGF/esgf-keycloak-user-migration": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "ESGF/esgf-wget": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "ESGF/sproket": {
+        "external": 9,
+        "internal": 0,
+        "total": 9
+    },
+    "LLNL/CDash": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/FastGlobalFileStatus": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/MountPointAttributes": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/MultiMatTest": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/WVL": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/configurable-http-proxy": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/coreFPUtest": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/geopm": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/hscs": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/jupyterhub": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/omnibus-gitlab": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/open-source-guidelines": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/python-lora": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/refex-rolx": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/umpire-interactive-tutorial": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "chaos/apt": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "chaos/chaos.github.com": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "chaos/dpkg": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "chaos/dpkg-dotkit": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "chaos/dpkg-scripts": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "chaos/lmt-gui": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "chaos/nfsroot": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "chaos/nph": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "chaos/pathwalk": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "rose-compiler/rose-plugin": {
+        "external": 4,
+        "internal": 4,
+        "total": 8
+    },
+    "rose-compiler/spack": {
+        "external": 4,
+        "internal": 4,
+        "total": 8
+    },
+    "CDAT/thermo": {
+        "external": 7,
+        "internal": 1,
+        "total": 8
+    },
+    "CDAT/wk": {
+        "external": 7,
+        "internal": 1,
+        "total": 8
+    },
+    "CDAT/VCS-widgets": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "CDAT/cdat-old-site": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/cic": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/data_node_assets": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/esgf-ca": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/esgf-config-parser": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/esgf-dream-data-service": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/esgf-map": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/esgf-slcs-server": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/esgf-slcs-server-playbook": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/esgf-tools": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/esgf-tracking": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "ESGF/future-architecture": {
+        "external": 8,
+        "internal": 0,
+        "total": 8
+    },
+    "spack/Smeagle": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "spack/contrib": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "spack/spack-asp-prototypes": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "spack/spack-bot": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "spack/spack-ci-containers": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "hpcgroup/TraceR": {
+        "external": 4,
+        "internal": 3,
+        "total": 7
+    },
+    "visit-dav/third-party": {
+        "external": 4,
+        "internal": 3,
+        "total": 7
+    },
+    "CDAT/cdtime": {
+        "external": 6,
+        "internal": 1,
+        "total": 7
+    },
+    "CDAT/changelogger": {
+        "external": 6,
+        "internal": 1,
+        "total": 7
+    },
+    "CDAT/ci-bots": {
+        "external": 6,
+        "internal": 1,
+        "total": 7
+    },
+    "CDAT/jupyter-practice-extension": {
+        "external": 6,
+        "internal": 1,
+        "total": 7
+    },
+    "CDAT/lats": {
+        "external": 6,
+        "internal": 1,
+        "total": 7
+    },
+    "CDAT/libdrs": {
+        "external": 6,
+        "internal": 1,
+        "total": 7
+    },
+    "CDAT/uvdjango": {
+        "external": 6,
+        "internal": 1,
+        "total": 7
+    },
+    "GMLC-TDC/HELICS-Characterization-Tests": {
+        "external": 5,
+        "internal": 2,
+        "total": 7
+    },
+    "GMLC-TDC/HELICS-Tutorial": {
+        "external": 5,
+        "internal": 2,
+        "total": 7
+    },
+    "GMLC-TDC/MATPOWER-wrapper": {
+        "external": 5,
+        "internal": 2,
+        "total": 7
+    },
+    "GMLC-TDC/pesgm-2019-helics-tutorial": {
+        "external": 5,
+        "internal": 2,
+        "total": 7
+    },
+    "CDAT/cdp-site": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
+    "CDAT/vcdat-jupyterlab-ext": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
+    "CDAT/uvcdat-web-be": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
+    "CDAT/staged-recipes": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
+    "CDAT/cdatgui": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
+    "ECP-VeloC/filo": {
+        "external": 2,
+        "internal": 4,
+        "total": 6
+    },
+    "spack/spack-bibliography": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spack-contributions": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spack-repo-template": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spack-search": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spack-tutorial-ami": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spack-user-survey": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "visit-dav/dashboard": {
+        "external": 3,
+        "internal": 3,
+        "total": 6
+    },
+    "PRUNERS/ReMPI": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
+    "PRUNERS/pruners.github.io": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
+    "CDAT/EzGet": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/TestsRunner": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/cdat_compute_graph": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/compute_graph": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/distarray": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/image-compare": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/libcdms": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/libcf": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/unidata": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "CDAT/xmgrace": {
+        "external": 5,
+        "internal": 1,
+        "total": 6
+    },
+    "GMLC-TDC/HELICS.jl": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
+    "GMLC-TDC/helics.org": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
+    "GMLC-TDC/helics_benchmark_results": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
+    "GMLC-TDC/pyhelics": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
+    "CDAT/imageloader.js": {
+        "external": 6,
+        "internal": 0,
+        "total": 6
+    },
+    "openzfs/openzfs-build": {
+        "external": 6,
+        "internal": 0,
+        "total": 6
+    },
+    "openzfs/openzfs-ci": {
+        "external": 6,
+        "internal": 0,
+        "total": 6
+    },
+    "ECP-VeloC/er": {
+        "external": 2,
+        "internal": 3,
+        "total": 5
+    },
+    "ECP-VeloC/shuffile": {
+        "external": 2,
+        "internal": 3,
+        "total": 5
+    },
+    "dun/munge": {
+        "external": 4,
+        "internal": 1,
+        "total": 5
+    },
+    "visit-dav/largedata": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "visit-dav/live-customer-response": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "CDAT/cd77": {
+        "external": 4,
+        "internal": 1,
+        "total": 5
+    },
+    "CDAT/e3sm_nex": {
+        "external": 4,
+        "internal": 1,
+        "total": 5
+    },
+    "CDAT/parallel": {
+        "external": 4,
+        "internal": 1,
+        "total": 5
+    },
+    "CDAT/staticView": {
+        "external": 4,
+        "internal": 1,
+        "total": 5
+    },
+    "CDAT/tutorials": {
+        "external": 4,
+        "internal": 1,
+        "total": 5
+    },
+    "CDAT/vtk-cdat": {
+        "external": 4,
+        "internal": 1,
+        "total": 5
+    },
+    "GMLC-TDC/helics-omnetpp": {
+        "external": 2,
+        "internal": 3,
+        "total": 5
+    },
+    "GMLC-TDC/HELICS-FMI": {
+        "external": 2,
+        "internal": 3,
+        "total": 5
+    },
+    "GMLC-TDC/HELICS-HLA": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/HELICS-Tutorial-2020-03-13": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/HELICS-User_Guide": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/HELICSBuilder": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/PSLF-wrapper": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/cymepy": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/helics-cli": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/helics-conda": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/helics.nim": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/homebrew-helics": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/netif": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "GMLC-TDC/utilities": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "CDAT/ParaView": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/UVIS_DV3D": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/Usage-Dashboard": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/VTK": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/askbot-devel": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "openzfs/openzfs": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/vtkProjTest": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/uvcdat-docs": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/dask-cdms": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/spark-cdms": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/UV-CDAT_scientific_examples": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "CDAT/cdat_usage2.0": {
+        "external": 5,
+        "internal": 0,
+        "total": 5
+    },
+    "ECP-VeloC/rankstr": {
+        "external": 1,
+        "internal": 3,
+        "total": 4
+    },
+    "ECP-VeloC/redset": {
+        "external": 1,
+        "internal": 3,
+        "total": 4
+    },
+    "ECP-VeloC/spath": {
+        "external": 1,
+        "internal": 3,
+        "total": 4
+    },
+    "visit-dav/temporary-play-with-discussions": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "visit-dav/visit-deps": {
+        "external": 3,
+        "internal": 1,
+        "total": 4
+    },
+    "PRUNERS/NINJA": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/HELICS-BBX": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/MINGW-packages": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/cmake-helpers": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/concurrency": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/containers": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/create-pr-action": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/helics-buildenv": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/helics-packaging": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/ns-3-dev-git": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/toml11": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "shusenl/nlpvis": {
+        "external": 3,
+        "internal": 1,
+        "total": 4
+    },
+    "PRUNERS/flit_tutorial": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "dun/conman": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/.github": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/acme_diags": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/analytics_scripts": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/cdat_build_nightly": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/cdat_build_release": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/cdat_info-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/cdms_manual": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/cdtime-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/cdutil-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/distarray-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/genutil-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/jupyterlab-tutorial": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/jupyterlab-tutorial-extension": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/libcdms-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/libcf-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/libdrs-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/libdrs_f-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/libnetcdf-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/mesalib-circleci": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/mesalib-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/mpich-feedstock": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/netcdf": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/netcdf-c": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/ocgis": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/selenium-testlib": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "CDAT/vtk-circleci": {
+        "external": 4,
+        "internal": 0,
+        "total": 4
+    },
+    "FrankD412/pyaestro": {
+        "external": 1,
+        "internal": 2,
+        "total": 3
+    },
+    "hpcgroup/BGQNCL": {
+        "external": 1,
+        "internal": 2,
+        "total": 3
+    },
+    "hpcgroup/damselfly": {
+        "external": 1,
+        "internal": 2,
+        "total": 3
+    },
+    "mfem/mfem-uberenv": {
+        "external": 0,
+        "internal": 3,
+        "total": 3
+    },
+    "mfem/tpls": {
+        "external": 0,
+        "internal": 3,
+        "total": 3
+    },
+    "visit-dav/ci-test": {
+        "external": 2,
+        "internal": 1,
+        "total": 3
+    },
+    "visit-dav/migration": {
+        "external": 2,
+        "internal": 1,
+        "total": 3
+    },
+    "visit-dav/spack": {
+        "external": 2,
+        "internal": 1,
+        "total": 3
+    },
+    "visit-dav/visit-website": {
+        "external": 2,
+        "internal": 1,
+        "total": 3
+    },
+    "PRUNERS/PRUNERS-Toolset": {
+        "external": 1,
+        "internal": 2,
+        "total": 3
+    },
+    "PRUNERS/sword": {
+        "external": 3,
+        "internal": 0,
+        "total": 3
+    },
+    "hatchet/hatchet-notebooks-sc19": {
+        "external": 0,
+        "internal": 2,
+        "total": 2
+    },
+    "hpcgroup/AriesNCL": {
+        "external": 1,
+        "internal": 1,
+        "total": 2
+    },
+    "hpcgroup/chatterbug": {
+        "external": 1,
+        "internal": 1,
+        "total": 2
+    },
+    "PRUNERS/compiler-rt": {
+        "external": 2,
+        "internal": 0,
+        "total": 2
+    },
+    "PRUNERS/dataracebench": {
+        "external": 2,
+        "internal": 0,
+        "total": 2
+    },
+    "PRUNERS/llvm-project": {
+        "external": 2,
+        "internal": 0,
+        "total": 2
+    },
+    "PRUNERS/llvm_archer": {
+        "external": 2,
+        "internal": 0,
+        "total": 2
+    },
+    "PRUNERS/CLMPI": {
+        "external": 2,
+        "internal": 0,
+        "total": 2
+    },
+    "PRUNERS/StackP": {
+        "external": 2,
+        "internal": 0,
+        "total": 2
+    },
+    "PRUNERS/Research-Prototypes": {
+        "external": 2,
+        "internal": 0,
+        "total": 2
+    },
+    "sabersw/pysaber": {
+        "external": 0,
+        "internal": 1,
+        "total": 1
+    },
+    "hpcgroup/TraceR-examples": {
+        "external": 0,
+        "internal": 1,
+        "total": 1
+    },
+    "hpcgroup/graphator": {
+        "external": 0,
+        "internal": 1,
+        "total": 1
+    },
+    "FrankieLi/IceNine": {
+        "external": 1,
+        "internal": 0,
+        "total": 1
+    },
+    "PRUNERS/TestingTools": {
+        "external": 1,
+        "internal": 0,
+        "total": 1
+    },
+    "PRUNERS/openmp": {
+        "external": 1,
+        "internal": 0,
+        "total": 1
+    }
+}
