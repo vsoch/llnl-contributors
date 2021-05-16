@@ -17,6 +17,11 @@ def read_json(filename):
     return content
 
 
+def write_json(filename, obj):
+    with open(filename, "w") as fd:
+        fd.write(json.dumps(obj, indent=4))
+
+
 # internal and external users file
 internal_users = read_json(os.path.join(here, "data", "intUsers.json"))
 ext_users = read_json(os.path.join(here, "data", "extUsers.json"))
@@ -176,3 +181,15 @@ result = template.render(
 )
 with open("index.html", "w") as fd:
     fd.write(result)
+
+# print to the terminal overlap in top 10
+overlap = set(list(internal_sorted)[0:10]).intersection(
+    set(list(external_sorted)[0:10])
+)
+print("Overlap top 10 external and internal collaborator projects: %s" % len(overlap))
+
+# And let's save data for later too!
+write_json(os.path.join(here, "data", "repos-contributors-counts.json"), repos)
+write_json(os.path.join(here, "data", "filtered-sorted-totals.json"), filtered)
+write_json(os.path.join(here, "data", "filtered-sorted-internal.json"), internal_sorted)
+write_json(os.path.join(here, "data", "filtered-sorted-external.json"), external_sorted)
