@@ -5,9 +5,9 @@
         "total": 94
     },
     "mfem/web": {
-        "external": 44,
+        "external": 45,
         "internal": 35,
-        "total": 79
+        "total": 80
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -35,18 +35,18 @@
         "total": 58
     },
     "mfem/github-actions": {
-        "external": 32,
+        "external": 33,
         "internal": 24,
-        "total": 56
+        "total": 57
+    },
+    "GLVis/glvis": {
+        "external": 34,
+        "internal": 21,
+        "total": 55
     },
     "LLNL/RAJA": {
         "external": 15,
         "internal": 38,
-        "total": 53
-    },
-    "GLVis/glvis": {
-        "external": 32,
-        "internal": 21,
         "total": 53
     },
     "visit-dav/visit": {
