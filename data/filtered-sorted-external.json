@@ -444,6 +444,11 @@
         "internal": 15,
         "total": 25
     },
+    "LLNL/UnifyFS": {
+        "external": 10,
+        "internal": 13,
+        "total": 23
+    },
     "flux-framework/flux-k8s": {
         "external": 10,
         "internal": 8,
@@ -518,11 +523,6 @@
         "external": 10,
         "internal": 0,
         "total": 10
-    },
-    "LLNL/UnifyFS": {
-        "external": 9,
-        "internal": 13,
-        "total": 22
     },
     "mfem/doxygen": {
         "external": 9,
@@ -1919,6 +1919,11 @@
         "internal": 10,
         "total": 12
     },
+    "LLNL/GridKit": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
     "LLNL/Juqbox.jl": {
         "external": 2,
         "internal": 9,
@@ -2324,11 +2329,6 @@
         "internal": 9,
         "total": 10
     },
-    "LLNL/GridKit": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
     "LLNL/MAT": {
         "external": 1,
         "internal": 9,
@@ -2719,6 +2719,11 @@
         "internal": 15,
         "total": 15
     },
+    "LLNL/Adiak": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
     "LLNL/HPC-Tutorials": {
         "external": 0,
         "internal": 15,
@@ -2740,11 +2745,6 @@
         "total": 14
     },
     "LLNL/slapi": {
-        "external": 0,
-        "internal": 14,
-        "total": 14
-    },
-    "LLNL/Adiak": {
         "external": 0,
         "internal": 14,
         "total": 14
