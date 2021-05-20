@@ -65,9 +65,9 @@
         "total": 26
     },
     "GLVis/glvis": {
-        "external": 34,
+        "external": 35,
         "internal": 21,
-        "total": 55
+        "total": 56
     },
     "LLNL/lbann": {
         "external": 12,
@@ -195,6 +195,11 @@
         "total": 19
     },
     "LLNL/ADAPT": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/ATS": {
         "external": 0,
         "internal": 18,
         "total": 18
@@ -479,11 +484,6 @@
         "internal": 13,
         "total": 14
     },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 13,
-        "total": 13
-    },
     "LLNL/CARE": {
         "external": 0,
         "internal": 13,
@@ -503,6 +503,11 @@
         "external": 19,
         "internal": 12,
         "total": 31
+    },
+    "spack/abi-tests": {
+        "external": 12,
+        "internal": 12,
+        "total": 24
     },
     "spack/build-si-modeling": {
         "external": 12,
