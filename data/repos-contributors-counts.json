@@ -15,19 +15,19 @@
         "total": 444
     },
     "mfem/mfem": {
-        "external": 322,
+        "external": 324,
         "internal": 80,
-        "total": 402
+        "total": 404
     },
     "mfem/data": {
-        "external": 320,
+        "external": 322,
         "internal": 79,
-        "total": 399
+        "total": 401
     },
     "mfem/PyMFEM": {
-        "external": 197,
+        "external": 199,
         "internal": 31,
-        "total": 228
+        "total": 230
     },
     "spack/spack.io": {
         "external": 173,
@@ -75,9 +75,9 @@
         "total": 59
     },
     "openzfs/spl": {
-        "external": 54,
+        "external": 55,
         "internal": 4,
-        "total": 58
+        "total": 59
     },
     "mfem/github-actions": {
         "external": 33,
@@ -399,6 +399,11 @@
         "internal": 12,
         "total": 21
     },
+    "openzfs/zfs-buildbot": {
+        "external": 17,
+        "internal": 4,
+        "total": 21
+    },
     "CDAT/cdms": {
         "external": 19,
         "internal": 2,
@@ -492,11 +497,6 @@
     "chaos/slurm": {
         "external": 14,
         "internal": 5,
-        "total": 19
-    },
-    "openzfs/zfs-buildbot": {
-        "external": 15,
-        "internal": 4,
         "total": 19
     },
     "ESGF/esgf-web-fe": {
@@ -1829,6 +1829,16 @@
         "internal": 5,
         "total": 10
     },
+    "openzfs/zfs-images": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
+    "chu11/freeipmi-mirror": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
     "CDAT/cdp": {
         "external": 8,
         "internal": 2,
@@ -2594,11 +2604,6 @@
         "internal": 5,
         "total": 9
     },
-    "openzfs/zfs-images": {
-        "external": 8,
-        "internal": 1,
-        "total": 9
-    },
     "rose-compiler/build-blocker-plugin": {
         "external": 5,
         "internal": 4,
@@ -2607,11 +2612,6 @@
     "rose-compiler/matlab-frontend": {
         "external": 5,
         "internal": 4,
-        "total": 9
-    },
-    "chu11/freeipmi-mirror": {
-        "external": 8,
-        "internal": 1,
         "total": 9
     },
     "PRUNERS/archer": {
@@ -2989,6 +2989,16 @@
         "internal": 0,
         "total": 7
     },
+    "openzfs/openzfs-build": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
+    "openzfs/openzfs-ci": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
     "CDAT/staged-recipes": {
         "external": 7,
         "internal": 0,
@@ -3124,12 +3134,7 @@
         "internal": 0,
         "total": 6
     },
-    "openzfs/openzfs-build": {
-        "external": 6,
-        "internal": 0,
-        "total": 6
-    },
-    "openzfs/openzfs-ci": {
+    "openzfs/openzfs": {
         "external": 6,
         "internal": 0,
         "total": 6
@@ -3280,11 +3285,6 @@
         "total": 5
     },
     "CDAT/askbot-devel": {
-        "external": 5,
-        "internal": 0,
-        "total": 5
-    },
-    "openzfs/openzfs": {
         "external": 5,
         "internal": 0,
         "total": 5

@@ -10,9 +10,9 @@
         "total": 75
     },
     "openzfs/spl": {
-        "external": 54,
+        "external": 55,
         "internal": 4,
-        "total": 58
+        "total": 59
     },
     "CEED/libCEED": {
         "external": 52,
@@ -184,6 +184,11 @@
         "internal": 5,
         "total": 22
     },
+    "openzfs/zfs-buildbot": {
+        "external": 17,
+        "internal": 4,
+        "total": 21
+    },
     "CDAT/cdat.github.io": {
         "external": 17,
         "internal": 1,
@@ -228,11 +233,6 @@
         "external": 15,
         "internal": 38,
         "total": 53
-    },
-    "openzfs/zfs-buildbot": {
-        "external": 15,
-        "internal": 4,
-        "total": 19
     },
     "CDAT/vcdat": {
         "external": 15,
@@ -554,6 +554,16 @@
         "internal": 2,
         "total": 11
     },
+    "openzfs/zfs-images": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
+    "chu11/freeipmi-mirror": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
     "CDAT/usage": {
         "external": 9,
         "internal": 1,
@@ -660,16 +670,6 @@
         "total": 10
     },
     "PRUNERS/FLiT": {
-        "external": 8,
-        "internal": 1,
-        "total": 9
-    },
-    "openzfs/zfs-images": {
-        "external": 8,
-        "internal": 1,
-        "total": 9
-    },
-    "chu11/freeipmi-mirror": {
         "external": 8,
         "internal": 1,
         "total": 9
@@ -809,6 +809,16 @@
         "internal": 0,
         "total": 7
     },
+    "openzfs/openzfs-build": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
+    "openzfs/openzfs-ci": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
     "CDAT/staged-recipes": {
         "external": 7,
         "internal": 0,
@@ -934,12 +944,7 @@
         "internal": 0,
         "total": 6
     },
-    "openzfs/openzfs-build": {
-        "external": 6,
-        "internal": 0,
-        "total": 6
-    },
-    "openzfs/openzfs-ci": {
+    "openzfs/openzfs": {
         "external": 6,
         "internal": 0,
         "total": 6
@@ -1170,11 +1175,6 @@
         "total": 5
     },
     "CDAT/askbot-devel": {
-        "external": 5,
-        "internal": 0,
-        "total": 5
-    },
-    "openzfs/openzfs": {
         "external": 5,
         "internal": 0,
         "total": 5
