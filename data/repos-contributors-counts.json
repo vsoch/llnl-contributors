@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 761,
+        "external": 762,
         "internal": 60,
-        "total": 821
+        "total": 822
     },
     "spack/spack-tutorial": {
         "external": 440,
@@ -10,9 +10,9 @@
         "total": 489
     },
     "openzfs/zfs": {
-        "external": 440,
+        "external": 441,
         "internal": 4,
-        "total": 444
+        "total": 445
     },
     "mfem/mfem": {
         "external": 324,
@@ -2752,6 +2752,11 @@
     "LLNL/umpire-interactive-tutorial": {
         "external": 0,
         "internal": 8,
+        "total": 8
+    },
+    "spack/spack-stack-catalog": {
+        "external": 3,
+        "internal": 5,
         "total": 8
     },
     "chaos/apt": {

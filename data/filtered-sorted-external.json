@@ -1694,6 +1694,11 @@
         "internal": 6,
         "total": 9
     },
+    "spack/spack-stack-catalog": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
     "chaos/apt": {
         "external": 3,
         "internal": 5,
