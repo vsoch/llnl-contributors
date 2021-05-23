@@ -504,7 +504,7 @@
         "internal": 12,
         "total": 31
     },
-    "spack/abi-tests": {
+    "spack/build-abi-tests": {
         "external": 12,
         "internal": 12,
         "total": 24
@@ -824,6 +824,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/FAROS": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/burstfs": {
         "external": 1,
         "internal": 10,
@@ -1125,11 +1130,6 @@
         "total": 10
     },
     "LLNL/Collabmaps": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/FAROS": {
         "external": 1,
         "internal": 9,
         "total": 10
