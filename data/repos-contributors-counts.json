@@ -129,14 +129,14 @@
         "internal": 30,
         "total": 40
     },
+    "openzfs/openzfs-docs": {
+        "external": 35,
+        "internal": 2,
+        "total": 37
+    },
     "LLNL/conduit": {
         "external": 4,
         "internal": 32,
-        "total": 36
-    },
-    "openzfs/openzfs-docs": {
-        "external": 34,
-        "internal": 2,
         "total": 36
     },
     "spack/spack-configs": {
