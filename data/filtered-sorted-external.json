@@ -1984,6 +1984,11 @@
         "internal": 5,
         "total": 7
     },
+    "spack/slackin-extended": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
     "spack/spack-asp-prototypes": {
         "external": 2,
         "internal": 5,
@@ -2538,6 +2543,11 @@
         "external": 1,
         "internal": 8,
         "total": 9
+    },
+    "spack/build-abi-containers": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
     },
     "spack/spack-bibliography": {
         "external": 1,

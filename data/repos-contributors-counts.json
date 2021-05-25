@@ -2899,6 +2899,11 @@
         "internal": 5,
         "total": 7
     },
+    "spack/slackin-extended": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
     "spack/spack-asp-prototypes": {
         "external": 2,
         "internal": 5,
@@ -3017,6 +3022,11 @@
     "ECP-VeloC/filo": {
         "external": 2,
         "internal": 4,
+        "total": 6
+    },
+    "spack/build-abi-containers": {
+        "external": 1,
+        "internal": 5,
         "total": 6
     },
     "spack/spack-bibliography": {
