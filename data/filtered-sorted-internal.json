@@ -2390,9 +2390,9 @@
         "total": 6
     },
     "GMLC-TDC/HELICS": {
-        "external": 22,
+        "external": 23,
         "internal": 3,
-        "total": 25
+        "total": 26
     },
     "ESGF/esgf.github.io": {
         "external": 20,
@@ -2609,6 +2609,11 @@
         "internal": 2,
         "total": 5
     },
+    "GMLC-TDC/helics-packaging": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
     "GMLC-TDC/helics.nim": {
         "external": 3,
         "internal": 2,
@@ -2670,11 +2675,6 @@
         "total": 4
     },
     "GMLC-TDC/helics-buildenv": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
-    },
-    "GMLC-TDC/helics-packaging": {
         "external": 2,
         "internal": 2,
         "total": 4

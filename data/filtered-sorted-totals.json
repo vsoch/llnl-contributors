@@ -219,6 +219,11 @@
         "internal": 21,
         "total": 26
     },
+    "GMLC-TDC/HELICS": {
+        "external": 23,
+        "internal": 3,
+        "total": 26
+    },
     "LLNL/Caliper": {
         "external": 10,
         "internal": 15,
@@ -227,11 +232,6 @@
     "LLNL/PnMPI": {
         "external": 6,
         "internal": 19,
-        "total": 25
-    },
-    "GMLC-TDC/HELICS": {
-        "external": 22,
-        "internal": 3,
         "total": 25
     },
     "LLNL/wrap": {
@@ -3214,6 +3214,11 @@
         "internal": 2,
         "total": 5
     },
+    "GMLC-TDC/helics-packaging": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
     "GMLC-TDC/helics.nim": {
         "external": 3,
         "internal": 2,
@@ -3350,11 +3355,6 @@
         "total": 4
     },
     "GMLC-TDC/helics-buildenv": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
-    },
-    "GMLC-TDC/helics-packaging": {
         "external": 2,
         "internal": 2,
         "total": 4

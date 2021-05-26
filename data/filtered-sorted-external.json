@@ -94,6 +94,11 @@
         "internal": 4,
         "total": 28
     },
+    "GMLC-TDC/HELICS": {
+        "external": 23,
+        "internal": 3,
+        "total": 26
+    },
     "ESGF/esgf-installer": {
         "external": 23,
         "internal": 1,
@@ -113,11 +118,6 @@
         "external": 22,
         "internal": 5,
         "total": 27
-    },
-    "GMLC-TDC/HELICS": {
-        "external": 22,
-        "internal": 3,
-        "total": 25
     },
     "ESGF/esg-publisher": {
         "external": 22,
@@ -1799,6 +1799,11 @@
         "internal": 2,
         "total": 5
     },
+    "GMLC-TDC/helics-packaging": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
     "GMLC-TDC/helics.nim": {
         "external": 3,
         "internal": 2,
@@ -2070,11 +2075,6 @@
         "total": 4
     },
     "GMLC-TDC/helics-buildenv": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
-    },
-    "GMLC-TDC/helics-packaging": {
         "external": 2,
         "internal": 2,
         "total": 4
