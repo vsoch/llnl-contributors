@@ -4,15 +4,10 @@
         "internal": 60,
         "total": 823
     },
-    "spack/spack-tutorial": {
-        "external": 440,
-        "internal": 49,
-        "total": 489
-    },
     "openzfs/zfs": {
-        "external": 441,
+        "external": 442,
         "internal": 4,
-        "total": 445
+        "total": 446
     },
     "mfem/mfem": {
         "external": 324,
@@ -33,6 +28,11 @@
         "external": 173,
         "internal": 6,
         "total": 179
+    },
+    "spack/spack-tutorial": {
+        "external": 109,
+        "internal": 31,
+        "total": 140
     },
     "LLNL/spotfe": {
         "external": 105,
@@ -155,8 +155,8 @@
         "total": 33
     },
     "LLNL/lbann": {
-        "external": 12,
-        "internal": 21,
+        "external": 11,
+        "internal": 22,
         "total": 33
     },
     "GLVis/doxygen": {
@@ -370,8 +370,8 @@
         "total": 22
     },
     "LLNL/DiHydrogen": {
-        "external": 3,
-        "internal": 18,
+        "external": 2,
+        "internal": 19,
         "total": 21
     },
     "LLNL/DragonView": {
@@ -455,8 +455,8 @@
         "total": 19
     },
     "LLNL/Elemental": {
-        "external": 2,
-        "internal": 17,
+        "external": 1,
+        "internal": 18,
         "total": 19
     },
     "LLNL/Gremlins": {

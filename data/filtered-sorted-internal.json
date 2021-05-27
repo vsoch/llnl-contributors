@@ -59,6 +59,11 @@
         "internal": 23,
         "total": 31
     },
+    "LLNL/lbann": {
+        "external": 11,
+        "internal": 22,
+        "total": 33
+    },
     "LLNL/maestrowf": {
         "external": 4,
         "internal": 22,
@@ -68,11 +73,6 @@
         "external": 35,
         "internal": 21,
         "total": 56
-    },
-    "LLNL/lbann": {
-        "external": 12,
-        "internal": 21,
-        "total": 33
     },
     "LLNL/libmsr": {
         "external": 5,
@@ -98,6 +98,11 @@
         "external": 6,
         "internal": 19,
         "total": 25
+    },
+    "LLNL/DiHydrogen": {
+        "external": 2,
+        "internal": 19,
+        "total": 21
     },
     "LLNL/DragonView": {
         "external": 2,
@@ -169,11 +174,6 @@
         "internal": 18,
         "total": 23
     },
-    "LLNL/DiHydrogen": {
-        "external": 3,
-        "internal": 18,
-        "total": 21
-    },
     "LLNL/STAT": {
         "external": 3,
         "internal": 18,
@@ -183,6 +183,11 @@
         "external": 2,
         "internal": 18,
         "total": 20
+    },
+    "LLNL/Elemental": {
+        "external": 1,
+        "internal": 18,
+        "total": 19
     },
     "LLNL/llnl-hires-timers": {
         "external": 1,
@@ -273,11 +278,6 @@
         "external": 6,
         "internal": 17,
         "total": 23
-    },
-    "LLNL/Elemental": {
-        "external": 2,
-        "internal": 17,
-        "total": 19
     },
     "LLNL/libROM": {
         "external": 2,

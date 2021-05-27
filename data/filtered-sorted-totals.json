@@ -110,8 +110,8 @@
         "total": 33
     },
     "LLNL/lbann": {
-        "external": 12,
-        "internal": 21,
+        "external": 11,
+        "internal": 22,
         "total": 33
     },
     "GLVis/doxygen": {
@@ -325,8 +325,8 @@
         "total": 22
     },
     "LLNL/DiHydrogen": {
-        "external": 3,
-        "internal": 18,
+        "external": 2,
+        "internal": 19,
         "total": 21
     },
     "LLNL/DragonView": {
@@ -410,8 +410,8 @@
         "total": 19
     },
     "LLNL/Elemental": {
-        "external": 2,
-        "internal": 17,
+        "external": 1,
+        "internal": 18,
         "total": 19
     },
     "LLNL/Gremlins": {
