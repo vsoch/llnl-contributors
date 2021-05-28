@@ -311,8 +311,8 @@
     },
     "LLNL/zfp": {
         "external": 13,
-        "internal": 14,
-        "total": 27
+        "internal": 15,
+        "total": 28
     },
     "ESGF/compute": {
         "external": 13,

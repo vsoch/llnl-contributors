@@ -219,15 +219,15 @@
         "internal": 25,
         "total": 28
     },
+    "LLNL/zfp": {
+        "external": 13,
+        "internal": 15,
+        "total": 28
+    },
     "Alpine-DAV/ascent": {
         "external": 24,
         "internal": 4,
         "total": 28
-    },
-    "LLNL/zfp": {
-        "external": 13,
-        "internal": 14,
-        "total": 27
     },
     "hpc/dcp": {
         "external": 21,
