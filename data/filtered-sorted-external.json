@@ -20,9 +20,9 @@
         "total": 66
     },
     "mfem/web": {
-        "external": 45,
+        "external": 46,
         "internal": 35,
-        "total": 80
+        "total": 81
     },
     "jpype-project/jpype": {
         "external": 45,
@@ -54,25 +54,25 @@
         "internal": 6,
         "total": 44
     },
+    "openzfs/openzfs-docs": {
+        "external": 36,
+        "internal": 2,
+        "total": 38
+    },
     "GLVis/glvis": {
         "external": 35,
         "internal": 21,
         "total": 56
     },
-    "openzfs/openzfs-docs": {
-        "external": 35,
-        "internal": 2,
-        "total": 37
+    "mfem/github-actions": {
+        "external": 34,
+        "internal": 24,
+        "total": 58
     },
     "CDAT/VisTrails": {
         "external": 34,
         "internal": 1,
         "total": 35
-    },
-    "mfem/github-actions": {
-        "external": 33,
-        "internal": 24,
-        "total": 57
     },
     "hpc/mpifileutils": {
         "external": 32,
@@ -144,6 +144,11 @@
         "internal": 0,
         "total": 21
     },
+    "hypre-space/hypre": {
+        "external": 20,
+        "internal": 12,
+        "total": 32
+    },
     "ESGF/esgf.github.io": {
         "external": 20,
         "internal": 3,
@@ -158,11 +163,6 @@
         "external": 20,
         "internal": 0,
         "total": 20
-    },
-    "hypre-space/hypre": {
-        "external": 19,
-        "internal": 12,
-        "total": 31
     },
     "CDAT/cdms": {
         "external": 19,
@@ -1689,6 +1689,11 @@
         "internal": 6,
         "total": 9
     },
+    "spack/spack-bot": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
     "spack/spack-stack-catalog": {
         "external": 3,
         "internal": 5,
@@ -1990,11 +1995,6 @@
         "total": 7
     },
     "spack/spack-asp-prototypes": {
-        "external": 2,
-        "internal": 5,
-        "total": 7
-    },
-    "spack/spack-bot": {
         "external": 2,
         "internal": 5,
         "total": 7
@@ -2365,6 +2365,11 @@
         "total": 10
     },
     "LLNL/PYB11Generator": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/RASE": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -3190,11 +3195,6 @@
         "total": 9
     },
     "LLNL/RAJA-SDP": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/RASE": {
         "external": 0,
         "internal": 9,
         "total": 9

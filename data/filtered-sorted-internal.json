@@ -10,9 +10,9 @@
         "total": 53
     },
     "mfem/web": {
-        "external": 45,
+        "external": 46,
         "internal": 35,
-        "total": 80
+        "total": 81
     },
     "LLNL/gidiplus": {
         "external": 0,
@@ -50,9 +50,9 @@
         "total": 28
     },
     "mfem/github-actions": {
-        "external": 33,
+        "external": 34,
         "internal": 24,
-        "total": 57
+        "total": 58
     },
     "LLNL/Umpire": {
         "external": 8,
@@ -500,9 +500,9 @@
         "total": 13
     },
     "hypre-space/hypre": {
-        "external": 19,
+        "external": 20,
         "internal": 12,
-        "total": 31
+        "total": 32
     },
     "spack/build-abi-tests": {
         "external": 12,
@@ -1174,6 +1174,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/RASE": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/Sedov-ML": {
         "external": 1,
         "internal": 9,
@@ -1415,11 +1420,6 @@
         "total": 9
     },
     "LLNL/RAJA-SDP": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/RASE": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -2234,6 +2234,11 @@
         "internal": 5,
         "total": 9
     },
+    "spack/spack-bot": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
     "spack/spack-stack-catalog": {
         "external": 3,
         "internal": 5,
@@ -2300,11 +2305,6 @@
         "total": 7
     },
     "spack/spack-asp-prototypes": {
-        "external": 2,
-        "internal": 5,
-        "total": 7
-    },
-    "spack/spack-bot": {
         "external": 2,
         "internal": 5,
         "total": 7
@@ -2465,9 +2465,9 @@
         "total": 3
     },
     "openzfs/openzfs-docs": {
-        "external": 35,
+        "external": 36,
         "internal": 2,
-        "total": 37
+        "total": 38
     },
     "CDAT/vcs": {
         "external": 25,
