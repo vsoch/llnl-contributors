@@ -45,8 +45,8 @@
         "total": 56
     },
     "LLNL/RAJA": {
-        "external": 15,
-        "internal": 38,
+        "external": 14,
+        "internal": 39,
         "total": 53
     },
     "visit-dav/visit": {
@@ -129,6 +129,11 @@
         "internal": 18,
         "total": 32
     },
+    "LLNL/RAJAPerf": {
+        "external": 4,
+        "internal": 28,
+        "total": 32
+    },
     "hypre-space/hypre": {
         "external": 20,
         "internal": 12,
@@ -145,24 +150,19 @@
         "total": 31
     },
     "LLNL/CHAI": {
-        "external": 4,
-        "internal": 26,
-        "total": 30
-    },
-    "LLNL/RAJAPerf": {
         "external": 3,
         "internal": 27,
+        "total": 30
+    },
+    "LLNL/RAJAProxies": {
+        "external": 2,
+        "internal": 28,
         "total": 30
     },
     "spack/spack-cscs2019": {
         "external": 21,
         "internal": 9,
         "total": 30
-    },
-    "LLNL/RAJAProxies": {
-        "external": 2,
-        "internal": 27,
-        "total": 29
     },
     "hpc/Spindle": {
         "external": 16,
@@ -350,8 +350,8 @@
         "total": 21
     },
     "LLNL/spheral": {
-        "external": 9,
-        "internal": 12,
+        "external": 8,
+        "internal": 13,
         "total": 21
     },
     "openzfs/zfs-buildbot": {

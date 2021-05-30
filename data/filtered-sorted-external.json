@@ -229,11 +229,6 @@
         "internal": 0,
         "total": 16
     },
-    "LLNL/RAJA": {
-        "external": 15,
-        "internal": 38,
-        "total": 53
-    },
     "CDAT/vcdat": {
         "external": 15,
         "internal": 1,
@@ -243,6 +238,11 @@
         "external": 15,
         "internal": 0,
         "total": 15
+    },
+    "LLNL/RAJA": {
+        "external": 14,
+        "internal": 39,
+        "total": 53
     },
     "GLVis/doxygen": {
         "external": 14,
@@ -539,11 +539,6 @@
         "internal": 13,
         "total": 22
     },
-    "LLNL/spheral": {
-        "external": 9,
-        "internal": 12,
-        "total": 21
-    },
     "spack/legacy-spack.io": {
         "external": 9,
         "internal": 5,
@@ -638,6 +633,11 @@
         "external": 8,
         "internal": 15,
         "total": 23
+    },
+    "LLNL/spheral": {
+        "external": 8,
+        "internal": 13,
+        "total": 21
     },
     "LLNL/magpie": {
         "external": 8,
@@ -1214,10 +1214,10 @@
         "internal": 32,
         "total": 36
     },
-    "LLNL/CHAI": {
+    "LLNL/RAJAPerf": {
         "external": 4,
-        "internal": 26,
-        "total": 30
+        "internal": 28,
+        "total": 32
     },
     "LLNL/maestrowf": {
         "external": 4,
@@ -1539,7 +1539,7 @@
         "internal": 0,
         "total": 4
     },
-    "LLNL/RAJAPerf": {
+    "LLNL/CHAI": {
         "external": 3,
         "internal": 27,
         "total": 30
@@ -1841,8 +1841,8 @@
     },
     "LLNL/RAJAProxies": {
         "external": 2,
-        "internal": 27,
-        "total": 29
+        "internal": 28,
+        "total": 30
     },
     "LLNL/DiHydrogen": {
         "external": 2,
