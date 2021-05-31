@@ -1939,6 +1939,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/GpuMatMatPaper": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/H2OI95": {
         "external": 0,
         "internal": 9,
