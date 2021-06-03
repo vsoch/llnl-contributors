@@ -5,14 +5,14 @@
         "total": 45
     },
     "LLNL/RAJA": {
-        "external": 15,
-        "internal": 38,
+        "external": 14,
+        "internal": 39,
         "total": 53
     },
     "mfem/web": {
-        "external": 44,
+        "external": 46,
         "internal": 35,
-        "total": 79
+        "total": 81
     },
     "LLNL/gidiplus": {
         "external": 0,
@@ -20,9 +20,9 @@
         "total": 33
     },
     "LLNL/conduit": {
-        "external": 4,
+        "external": 5,
         "internal": 32,
-        "total": 36
+        "total": 37
     },
     "LLNL/blt": {
         "external": 10,
@@ -30,18 +30,18 @@
         "total": 40
     },
     "LLNL/RAJAPerf": {
-        "external": 3,
-        "internal": 27,
-        "total": 30
+        "external": 4,
+        "internal": 28,
+        "total": 32
     },
     "LLNL/RAJAProxies": {
         "external": 2,
-        "internal": 27,
-        "total": 29
+        "internal": 28,
+        "total": 30
     },
     "LLNL/CHAI": {
-        "external": 4,
-        "internal": 26,
+        "external": 3,
+        "internal": 27,
         "total": 30
     },
     "LLNL/llnl.github.io": {
@@ -50,14 +50,19 @@
         "total": 28
     },
     "mfem/github-actions": {
-        "external": 32,
+        "external": 34,
         "internal": 24,
-        "total": 56
+        "total": 58
     },
     "LLNL/Umpire": {
         "external": 8,
         "internal": 23,
         "total": 31
+    },
+    "LLNL/lbann": {
+        "external": 11,
+        "internal": 22,
+        "total": 33
     },
     "LLNL/maestrowf": {
         "external": 4,
@@ -65,14 +70,9 @@
         "total": 26
     },
     "GLVis/glvis": {
-        "external": 32,
+        "external": 35,
         "internal": 21,
-        "total": 53
-    },
-    "LLNL/lbann": {
-        "external": 12,
-        "internal": 21,
-        "total": 33
+        "total": 56
     },
     "LLNL/libmsr": {
         "external": 5,
@@ -98,6 +98,11 @@
         "external": 6,
         "internal": 19,
         "total": 25
+    },
+    "LLNL/DiHydrogen": {
+        "external": 2,
+        "internal": 19,
+        "total": 21
     },
     "LLNL/DragonView": {
         "external": 2,
@@ -169,11 +174,6 @@
         "internal": 18,
         "total": 23
     },
-    "LLNL/DiHydrogen": {
-        "external": 3,
-        "internal": 18,
-        "total": 21
-    },
     "LLNL/STAT": {
         "external": 3,
         "internal": 18,
@@ -183,6 +183,11 @@
         "external": 2,
         "internal": 18,
         "total": 20
+    },
+    "LLNL/Elemental": {
+        "external": 1,
+        "internal": 18,
+        "total": 19
     },
     "LLNL/llnl-hires-timers": {
         "external": 1,
@@ -195,6 +200,11 @@
         "total": 19
     },
     "LLNL/ADAPT": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
+    "LLNL/ATS": {
         "external": 0,
         "internal": 18,
         "total": 18
@@ -269,15 +279,15 @@
         "internal": 17,
         "total": 23
     },
-    "LLNL/Elemental": {
-        "external": 2,
-        "internal": 17,
-        "total": 19
-    },
     "LLNL/libROM": {
         "external": 2,
         "internal": 16,
         "total": 18
+    },
+    "LLNL/zfp": {
+        "external": 13,
+        "internal": 15,
+        "total": 28
     },
     "LLNL/Caliper": {
         "external": 10,
@@ -329,6 +339,11 @@
         "internal": 15,
         "total": 15
     },
+    "LLNL/Adiak": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
     "LLNL/HPC-Tutorials": {
         "external": 0,
         "internal": 15,
@@ -348,11 +363,6 @@
         "external": 52,
         "internal": 14,
         "total": 66
-    },
-    "LLNL/zfp": {
-        "external": 13,
-        "internal": 14,
-        "total": 27
     },
     "LLNL/lmt": {
         "external": 5,
@@ -389,11 +399,6 @@
         "internal": 14,
         "total": 14
     },
-    "LLNL/Adiak": {
-        "external": 0,
-        "internal": 14,
-        "total": 14
-    },
     "LLNL/uberenv": {
         "external": 0,
         "internal": 14,
@@ -405,9 +410,9 @@
         "total": 29
     },
     "LLNL/UnifyFS": {
-        "external": 9,
+        "external": 10,
         "internal": 13,
-        "total": 22
+        "total": 23
     },
     "mfem/doxygen": {
         "external": 9,
@@ -418,6 +423,11 @@
         "external": 9,
         "internal": 13,
         "total": 22
+    },
+    "LLNL/spheral": {
+        "external": 8,
+        "internal": 13,
+        "total": 21
     },
     "LLNL/dataracebench": {
         "external": 5,
@@ -479,11 +489,6 @@
         "internal": 13,
         "total": 14
     },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 13,
-        "total": 13
-    },
     "LLNL/CARE": {
         "external": 0,
         "internal": 13,
@@ -500,9 +505,14 @@
         "total": 13
     },
     "hypre-space/hypre": {
-        "external": 19,
+        "external": 20,
         "internal": 12,
-        "total": 31
+        "total": 32
+    },
+    "spack/build-abi-tests": {
+        "external": 12,
+        "internal": 12,
+        "total": 24
     },
     "spack/build-si-modeling": {
         "external": 12,
@@ -518,11 +528,6 @@
         "external": 11,
         "internal": 12,
         "total": 23
-    },
-    "LLNL/spheral": {
-        "external": 9,
-        "internal": 12,
-        "total": 21
     },
     "flux-framework/flux-sched": {
         "external": 7,
@@ -819,6 +824,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/FAROS": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/burstfs": {
         "external": 1,
         "internal": 10,
@@ -895,6 +905,11 @@
         "total": 10
     },
     "LLNL/RAJA-tutorials": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/RASE": {
         "external": 0,
         "internal": 10,
         "total": 10
@@ -1089,6 +1104,11 @@
         "internal": 9,
         "total": 12
     },
+    "LLNL/GridKit": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
     "LLNL/Juqbox.jl": {
         "external": 2,
         "internal": 9,
@@ -1119,11 +1139,6 @@
         "internal": 9,
         "total": 10
     },
-    "LLNL/FAROS": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
     "LLNL/FGPU": {
         "external": 1,
         "internal": 9,
@@ -1135,11 +1150,6 @@
         "total": 10
     },
     "LLNL/GRAPE": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/GridKit": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -1319,6 +1329,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/GpuMatMatPaper": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/H2OI95": {
         "external": 0,
         "internal": 9,
@@ -1410,11 +1425,6 @@
         "total": 9
     },
     "LLNL/RAJA-SDP": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/RASE": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -2229,6 +2239,16 @@
         "internal": 5,
         "total": 9
     },
+    "spack/spack-bot": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
+    "spack/spack-stack-catalog": {
+        "external": 3,
+        "internal": 5,
+        "total": 8
+    },
     "chaos/apt": {
         "external": 3,
         "internal": 5,
@@ -2284,12 +2304,12 @@
         "internal": 5,
         "total": 7
     },
-    "spack/spack-asp-prototypes": {
+    "spack/slackin-extended": {
         "external": 2,
         "internal": 5,
         "total": 7
     },
-    "spack/spack-bot": {
+    "spack/spack-asp-prototypes": {
         "external": 2,
         "internal": 5,
         "total": 7
@@ -2298,6 +2318,11 @@
         "external": 2,
         "internal": 5,
         "total": 7
+    },
+    "spack/build-abi-containers": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
     },
     "spack/spack-bibliography": {
         "external": 1,
@@ -2330,9 +2355,9 @@
         "total": 6
     },
     "openzfs/spl": {
-        "external": 54,
+        "external": 55,
         "internal": 4,
-        "total": 58
+        "total": 59
     },
     "Alpine-DAV/ascent": {
         "external": 24,
@@ -2340,9 +2365,9 @@
         "total": 28
     },
     "openzfs/zfs-buildbot": {
-        "external": 15,
+        "external": 17,
         "internal": 4,
-        "total": 19
+        "total": 21
     },
     "rose-compiler/build-blocker-plugin": {
         "external": 5,
@@ -2370,9 +2395,9 @@
         "total": 6
     },
     "GMLC-TDC/HELICS": {
-        "external": 22,
+        "external": 23,
         "internal": 3,
-        "total": 25
+        "total": 26
     },
     "ESGF/esgf.github.io": {
         "external": 20,
@@ -2445,9 +2470,9 @@
         "total": 3
     },
     "openzfs/openzfs-docs": {
-        "external": 34,
+        "external": 36,
         "internal": 2,
-        "total": 36
+        "total": 38
     },
     "CDAT/vcs": {
         "external": 25,
@@ -2589,6 +2614,11 @@
         "internal": 2,
         "total": 5
     },
+    "GMLC-TDC/helics-packaging": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
     "GMLC-TDC/helics.nim": {
         "external": 3,
         "internal": 2,
@@ -2650,11 +2680,6 @@
         "total": 4
     },
     "GMLC-TDC/helics-buildenv": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
-    },
-    "GMLC-TDC/helics-packaging": {
         "external": 2,
         "internal": 2,
         "total": 4
@@ -2804,6 +2829,16 @@
         "internal": 1,
         "total": 11
     },
+    "openzfs/zfs-images": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
+    "chu11/freeipmi-mirror": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
     "CDAT/usage": {
         "external": 9,
         "internal": 1,
@@ -2820,16 +2855,6 @@
         "total": 10
     },
     "PRUNERS/FLiT": {
-        "external": 8,
-        "internal": 1,
-        "total": 9
-    },
-    "openzfs/zfs-images": {
-        "external": 8,
-        "internal": 1,
-        "total": 9
-    },
-    "chu11/freeipmi-mirror": {
         "external": 8,
         "internal": 1,
         "total": 9
@@ -3349,6 +3374,16 @@
         "internal": 0,
         "total": 7
     },
+    "openzfs/openzfs-build": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
+    "openzfs/openzfs-ci": {
+        "external": 7,
+        "internal": 0,
+        "total": 7
+    },
     "CDAT/staged-recipes": {
         "external": 7,
         "internal": 0,
@@ -3364,12 +3399,7 @@
         "internal": 0,
         "total": 6
     },
-    "openzfs/openzfs-build": {
-        "external": 6,
-        "internal": 0,
-        "total": 6
-    },
-    "openzfs/openzfs-ci": {
+    "openzfs/openzfs": {
         "external": 6,
         "internal": 0,
         "total": 6
@@ -3395,11 +3425,6 @@
         "total": 5
     },
     "CDAT/askbot-devel": {
-        "external": 5,
-        "internal": 0,
-        "total": 5
-    },
-    "openzfs/openzfs": {
         "external": 5,
         "internal": 0,
         "total": 5

@@ -127,8 +127,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/15525049?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "AP97",
@@ -296,8 +295,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2292643?u=548e5e7ac2c6d4840045be23b50584dd96fb5847&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "AndrewGaspar",
@@ -440,8 +438,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/24456818?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "BenBrands",
@@ -640,9 +637,12 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/33939665?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GLVis/glvis",
                     "mfem/PyMFEM",
                     "mfem/data",
-                    "mfem/mfem"
+                    "mfem/github-actions",
+                    "mfem/mfem",
+                    "mfem/web"
                 ]
             },
             "login": "CODER591",
@@ -652,8 +652,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1672706?u=4de3183cd8da3263da2e126b92d62c83484dd75e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "CamelliaDPG",
@@ -722,6 +721,16 @@
             },
             "login": "CharlesFr",
             "name": "Charles Fried"
+        },
+        "CharlesGueunet": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5412579?u=7538be4e306e11fb660ad210322eaeea9f958807&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "LLNL/conduit"
+                ]
+            },
+            "login": "CharlesGueunet",
+            "name": "Charles Gueunet"
         },
         "ChristianTackeGSI": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/58549698?v=4",
@@ -852,8 +861,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/25273073?u=440ca774ce232732732bb7965c0b9eedfc95fdb7&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "DDevHan",
@@ -942,8 +950,7 @@
                     "hpc/Spindle",
                     "hpc/dcp",
                     "hpc/mpifileutils",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "DarylGrunau",
@@ -975,8 +982,7 @@
                     "LLNL/caliper-examples",
                     "mfem/data",
                     "mfem/mfem",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "DavidPoliakoff",
@@ -1177,8 +1183,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/33492707?u=dfb65a5775ae67bdee644e9ed69a0f9b77e4ff55&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "G-Ragghianti",
@@ -1333,8 +1338,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1305080?u=89566450597ec178f3a090c51c8640545a754274&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "HadrienG2",
@@ -1364,8 +1368,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/30446009?u=694bf046b651694f095ed640174dacc4d35d47d3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "HaochengLIU",
@@ -1407,6 +1410,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/40270928?u=610d35eea95a8c0acde0557ef4e917acbbed1105&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "GLVis/glvis",
                     "mfem/PyMFEM",
                     "mfem/data",
                     "mfem/github-actions",
@@ -1442,8 +1446,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/52182908?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "Hironori-Yamaji",
@@ -1617,8 +1620,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4836207?u=8dffe96db7a17bee3dbaebed8bfb375e6a2d14d3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "JRWynneIII",
@@ -1639,12 +1641,23 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/28802727?u=10336a9432315734a540d806bafe5cd66e162eae&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "JSquar",
             "name": "Jannek Squar"
+        },
+        "Jacobfaib": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/24443208?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mfem/PyMFEM",
+                    "mfem/data",
+                    "mfem/mfem"
+                ]
+            },
+            "login": "Jacobfaib",
+            "name": "Jacob Faibussowitsch"
         },
         "Jacobhansens": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/2597888?u=05b5f1687485a867632b1627db55596be696e6bc&v=4",
@@ -1710,8 +1723,7 @@
                     "spack/seps",
                     "spack/spack",
                     "spack/spack-configs",
-                    "spack/spack-cscs2019",
-                    "spack/spack-tutorial"
+                    "spack/spack-cscs2019"
                 ]
             },
             "login": "JavierCVilla",
@@ -1775,8 +1787,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/25473287?u=3e7906517bd9b7cc28189679b494623f4f4cd557&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "JiaweiZhuang",
@@ -1802,16 +1813,6 @@
             "login": "Johannestegner",
             "name": "Johannes"
         },
-        "JohnHynes": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/54130978?u=a9c05dead9ccb08930c0ec17a377aa6e1459c090&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "LLNL/RAJA"
-                ]
-            },
-            "login": "JohnHynes",
-            "name": "John"
-        },
         "JohnJacobsonIII": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/60104442?u=2469852674ba7dec658689a5febea6a231118a17&v=4",
             "contributedLabRepositories": {
@@ -1829,8 +1830,7 @@
                 "nodes": [
                     "chaos/genders",
                     "chaos/mrsh",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "JohnWestlund",
@@ -1892,8 +1892,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/12030272?u=f0d86a07222d892d61fc242f7e9ec07c92935522&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "JulienLoiseau",
@@ -2302,7 +2301,6 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/spack",
-                    "spack/spack-tutorial",
                     "spack/spack.io"
                 ]
             },
@@ -2573,8 +2571,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/10997578?u=1334e627be313afe939835da88bda04fe32e3d31&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "NasrHassanein",
@@ -2594,8 +2591,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/916385?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "NickRF",
@@ -2713,8 +2709,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11856692?u=4094dd795f49de99a353282b5e2685a60330c244&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "PDoakORNL",
@@ -2750,8 +2745,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4631910?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "PaulDapolito",
@@ -2930,8 +2924,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1054041?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "RasmusWL",
@@ -2961,8 +2954,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2264226?u=a0a592058b0897691fc0cfe17bbd1a362990a939&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ReinhardPrix",
@@ -3027,8 +3019,7 @@
                     "LLNL/mgmol",
                     "mfem/data",
                     "mfem/mfem",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "Rombur",
@@ -3368,8 +3359,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2924561?u=ade2fd57f7a4699b6932ae604504eace6f168680&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "Sinan81",
@@ -3423,8 +3413,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/42156355?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "StackKorora",
@@ -3574,8 +3563,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/13701545?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "TheQueasle",
@@ -3634,8 +3622,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11416964?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "TiffanyAnn",
@@ -3655,8 +3642,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2751628?u=e555e0dc1874e6c2f363b26ff98c99168e09541c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "TomTheBear",
@@ -3729,8 +3715,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/681390?u=6da89ff47bf355214a716fd29ccdf3fe74a43a53&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "Try2Code",
@@ -3809,6 +3794,18 @@
             },
             "login": "VincentTam",
             "name": "Vincent Tam"
+        },
+        "Watchmojo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16857800?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mfem/PyMFEM",
+                    "mfem/data",
+                    "mfem/mfem"
+                ]
+            },
+            "login": "Watchmojo",
+            "name": null
         },
         "WeatherGod": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/291576?v=4",
@@ -3962,8 +3959,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/61433?u=a0d3a7292366afaac75d4da636e9edc89534270d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "YtterbiJum",
@@ -4013,8 +4009,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/12029880?u=0e97e37b6e3210d7f5a5f5b5228e8cf873bbe204&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "Zehvogel",
@@ -4346,8 +4341,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5762792?u=4554d00b9b6d6633e58fc54e28f12abde35236f3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "adamqc",
@@ -4367,8 +4361,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6151230?u=74f552f4cc44cd1740e8207f68cdf9a7d8bc01cc&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "adcwilliams",
@@ -4411,8 +4404,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "chaos/9nbd",
-                    "chaos/v9fs",
-                    "spack/spack-tutorial"
+                    "chaos/v9fs"
                 ]
             },
             "login": "adk9",
@@ -4596,8 +4588,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/717570?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "aharrison24",
@@ -4617,8 +4608,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/17442804?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "aholler2",
@@ -4693,6 +4683,16 @@
             "login": "ajkotobi",
             "name": "Amjad Kotobi"
         },
+        "ajpowelsnl": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/49000089?u=76ebce7a42619e8ff654171813b50455032ca7e0&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "LLNL/RAJAPerf"
+                ]
+            },
+            "login": "ajpowelsnl",
+            "name": null
+        },
         "ajs124": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1229027?v=4",
             "contributedLabRepositories": {
@@ -4707,8 +4707,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1461301?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ajw1980",
@@ -4770,8 +4769,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5015908?u=3e18ba99534ee04e0345f9d84548663ef025dd62&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "akhilpatlolla",
@@ -4832,6 +4830,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4199709?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/seps",
                     "spack/spack",
@@ -4893,8 +4892,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/18755013?u=d461ac0b5cbf0c3fce5beb8afa96c2f7f5205c9d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "alanw0",
@@ -4924,8 +4922,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9337627?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "albestro",
@@ -4935,8 +4932,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6143604?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "alcharal",
@@ -5428,8 +5424,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/360991?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "andreanegri",
@@ -5552,8 +5547,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/10155829?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "angel-devicente",
@@ -5585,8 +5579,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7631624?u=d48164411d1689cae1bb932cec0477163dcde1b7&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "anne-glerum",
@@ -5820,6 +5813,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/20065?u=f00b916c471eb8033fe96e189832f57e7937f29f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack-monitor"
                 ]
@@ -6020,8 +6014,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/3062660?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ashkan2200",
@@ -6051,8 +6044,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/31959389?u=4c078c0905e5ec4cb38e1a105e8eb5be096548f8&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "asmaahassan90",
@@ -6099,7 +6091,7 @@
             "name": null
         },
         "ataber": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1509787?u=dd21bd9dc9c099721a40fc16f68689ccf92c7fba&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1509787?v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "mfem/data",
@@ -6234,6 +6226,16 @@
             "login": "awacha",
             "name": "Andras Wacha"
         },
+        "awehrfritz": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3344784?u=eb4e4d13a3b9726a9b936d9e0ba76e96b91a35a9&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "openzfs/zfs"
+                ]
+            },
+            "login": "awehrfritz",
+            "name": "Armin Wehrfritz"
+        },
         "aweits": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6664568?v=4",
             "contributedLabRepositories": {
@@ -6365,8 +6367,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6233512?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "baip",
@@ -6476,6 +6477,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6196951?u=1be5e81f613d75e121d1419e4f60b852fa59b180&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack-monitor"
                 ]
@@ -6492,6 +6494,16 @@
             },
             "login": "bblakeley",
             "name": "Brandon Blakeley"
+        },
+        "bcdarwin": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/164148?u=037c47d840eb9e263f54043cf99fb54a7764fbd7&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack"
+                ]
+            },
+            "login": "bcdarwin",
+            "name": "Ben Darwin"
         },
         "bcfriesen": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/979133?v=4",
@@ -6517,8 +6529,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7208288?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "bcouturi",
@@ -6528,8 +6539,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/825586?u=c3fdd65bbcf9544a5a77609a6c7e178b4d0079a3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "bd4",
@@ -6549,8 +6559,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1922124?u=10da83d75a265cd5d78f00d5eba2bbe9d0f660f1&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "bebosudo",
@@ -6645,7 +6654,6 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/spack",
-                    "spack/spack-tutorial",
                     "visit-dav/visit"
                 ]
             },
@@ -6666,8 +6674,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6911894?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "benjaminwalters",
@@ -6727,8 +6734,7 @@
                     "mfem/PyMFEM",
                     "mfem/data",
                     "mfem/mfem",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "benzwick",
@@ -6791,15 +6797,14 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5880829?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "berrill",
             "name": "Mark Berrill"
         },
         "bertjwregeer": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/649426?u=ef37e636a512e457faec5ff68def1dfde31deda6&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/649426?u=500bbdd0e6c123258ae102dc8409f6e3deb969a6&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "flux-framework/flux-core",
@@ -6814,8 +6819,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/GOTCHA",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "bertwesarg",
@@ -6825,8 +6829,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/632805?u=bb2fbd1414175fa1a08a07bf40f722d7286ba938&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "besnardjb",
@@ -6866,8 +6869,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/45510885?u=22c0d657c87dbd2fa3f375a61ed10117a27910d4&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "bfovet",
@@ -6887,8 +6889,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/827599?u=54de4519ffcc7391d468d349333e28428a8ad8d3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "bgoglin",
@@ -6931,6 +6932,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/24460509?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack-monitor"
                 ]
@@ -6952,8 +6954,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/149656?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "bilke",
@@ -7147,8 +7148,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9461605?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "bodduv",
@@ -7158,8 +7158,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/620876?u=72e47bbaf69ba231d5d8b15140e9df1c43ccf767&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "boegel",
@@ -7414,8 +7413,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1161238?u=81ccdeb9427e0d3a81440d797a4e49371543061f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "briedel",
@@ -7425,8 +7423,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7901415?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "brietzke",
@@ -7470,8 +7467,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1302572?u=6a9dbdb2847050e0f576990317731176f77d40af&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "brobey",
@@ -7481,8 +7477,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/3450221?u=f452890af622a3de37da486c8eccd4a4c8405577&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "brockpalen",
@@ -7740,8 +7735,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/Umpire",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "calccrypto",
@@ -7791,8 +7785,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5541937?u=8c3bcbc303f9a595ce0a3fd1b668ae2c038b67dd&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "carns",
@@ -7825,8 +7818,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/MPI-Stages",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "carsonwoods",
@@ -7854,6 +7846,16 @@
             },
             "login": "castelletto1",
             "name": "Nicola Castelletto"
+        },
+        "casual-lemon": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/62671519?u=5c35efac9a646627e0b7607d6ca6964c0320b757&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "chu11/freeipmi-mirror"
+                ]
+            },
+            "login": "casual-lemon",
+            "name": "Heather Lemon"
         },
         "casualfish": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1918039?v=4",
@@ -7902,8 +7904,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/3709715?u=0745d1d2473894c33f3b35f0b965d71cc9aec553&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "cclauss",
@@ -7919,16 +7920,6 @@
             "login": "cdluminate",
             "name": "M. Zhou"
         },
-        "cdodd": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/1753915?u=a12186c607247acc3e18582243886ce538424175&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "spack/spack.io"
-                ]
-            },
-            "login": "cdodd",
-            "name": "Craig Dodd"
-        },
         "cdwdirect": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/10491306?u=1c6b30f8bd53475fb67fa400ecaeb6db2c7d8507&v=4",
             "contributedLabRepositories": {
@@ -7936,8 +7927,7 @@
                     "LLNL/Caliper",
                     "LLNL/RAJA",
                     "LLNL/apollo",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "cdwdirect",
@@ -7957,8 +7947,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19407793?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "cedricchevalier19",
@@ -8103,8 +8092,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19519295?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ch741",
@@ -8185,6 +8173,18 @@
             },
             "login": "chenhaiq",
             "name": "OC"
+        },
+        "chikitkin": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7203771?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mfem/PyMFEM",
+                    "mfem/data",
+                    "mfem/mfem"
+                ]
+            },
+            "login": "chikitkin",
+            "name": null
         },
         "chipfreitag": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5223942?u=e140c65e1fe54818f6b017629781ac67db8e631b&v=4",
@@ -8289,8 +8289,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/23312419?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "christianbaensch",
@@ -8516,8 +8515,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/44933387?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "clellsolomon",
@@ -8527,8 +8525,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1507158?u=3f842916fcb792a04076a52f4fda3665d1a2dbf7&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "clementval",
@@ -8588,8 +8585,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8145213?u=e37a72ea94fc8c4c8c8a38d4e8e316f7402ae88c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "cmacmackin",
@@ -8794,8 +8790,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/748769?u=8e2031f40fc07e3f401dc4e69a52dc476edcc582&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "cpraveen",
@@ -9010,8 +9005,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1544874?u=95e8c3fdc08d2cf1b903c6b8215ae1dbc38a844a&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "cugni",
@@ -9088,6 +9082,7 @@
                     "CEED/Laghos",
                     "CEED/benchmarks",
                     "CEED/libCEED",
+                    "GLVis/glvis",
                     "mfem/PyMFEM",
                     "mfem/data",
                     "mfem/mfem",
@@ -9296,8 +9291,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/463062?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "danielsjensen1",
@@ -9350,7 +9344,6 @@
                     "CDAT/vcs",
                     "CDAT/vcs-js",
                     "spack/spack",
-                    "spack/spack-tutorial",
                     "visit-dav/visit"
                 ]
             },
@@ -9412,8 +9405,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2099564?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "darachg",
@@ -9484,8 +9476,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/909151?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "daveh86",
@@ -9665,8 +9656,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/38134773?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dbs8842",
@@ -9718,7 +9708,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/13819239?u=740137de19be292848b906432dbc4afa8597bac5&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "GLVis/glvis"
+                    "GLVis/glvis",
+                    "mfem/PyMFEM",
+                    "mfem/data",
+                    "mfem/mfem"
                 ]
             },
             "login": "ddkn",
@@ -9911,8 +9904,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11307?u=5f5fa40e7198091039af55dd8562565d84b8bab5&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dev-zero",
@@ -9957,8 +9949,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1178864?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dguibert",
@@ -9968,8 +9959,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/546203?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dhandeo",
@@ -9999,8 +9989,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5215561?u=68c115325bdbd358b9d2c989a1a8b2855abb5a42&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dhuth",
@@ -10020,8 +10009,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/10000430?u=cc9f422f41ccb18dc40ce2709e3dcd4141e39a1f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "diaena",
@@ -10139,8 +10127,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9811273?u=fdb5d391d49bdd5a744d6b3a5d8ece93ca2bbafc&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "disheng222",
@@ -10170,8 +10157,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/38731008?u=b7f891b4d74afc3a518007966e5f28aa2333d7ec&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "djfitzgerald",
@@ -10214,8 +10200,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2734517?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dlukes",
@@ -10271,14 +10256,14 @@
             "name": "Dmitry Eremin"
         },
         "dmkaplan2000": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/584741?v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/584741?u=90e20c2a60fa8bdd87f433ee47dd1036361150d6&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "CDAT/cdat"
                 ]
             },
             "login": "dmkaplan2000",
-            "name": null
+            "name": "David Kaplan"
         },
         "dmonakhov": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/466925?u=b32dfb47bcafa9a7d62a69636f12b17e0019e92e&v=4",
@@ -10391,8 +10376,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11654861?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dorier",
@@ -10577,8 +10561,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/449904?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dpgrote",
@@ -10609,8 +10592,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/963242?u=579b11c419f39a3895b4eb02a6fba2b00e632214&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dpshelio",
@@ -10633,8 +10615,7 @@
                     "spack/seps",
                     "spack/spack",
                     "spack/spack-configs",
-                    "spack/spack-cscs2019",
-                    "spack/spack-tutorial"
+                    "spack/spack-cscs2019"
                 ]
             },
             "login": "drbenmorgan",
@@ -10707,8 +10688,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/3917035?u=27bfd129bc3c5212f1cf51bf26cdca9e7a7a107e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "drwells",
@@ -10753,8 +10733,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1985961?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dshrader",
@@ -10930,8 +10909,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/23483490?u=879c31c7701346cb022b853b8b1a218e71731a1d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dustinlagoy",
@@ -10987,8 +10965,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/38671868?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "dwootton-ny",
@@ -11202,8 +11179,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5185953?u=a25f1282a059d3e92615267d7f26c4162d074cca&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "edoapra",
@@ -11285,8 +11261,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/24843172?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "eklee15",
@@ -11347,8 +11322,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/750275?u=2acc9963354e592ec1408b704011c6d21e01ad51&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ellio167",
@@ -11368,8 +11342,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/12486658?u=72e084017a60d1302e6f1bcd8ee7ad648ab56ad4&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "eloygil",
@@ -11566,8 +11539,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6336162?u=920b642137c00b71a2351997f7d219e679ec987f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "erimar77",
@@ -11745,8 +11717,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/24602920?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "f-sim",
@@ -11871,8 +11842,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1612113?u=c896cf2f9376591b5ed8a9f515c77874e403d1f6&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "fcannini",
@@ -12061,8 +12031,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/49785055?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "flxmr",
@@ -12112,8 +12081,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5684094?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "fpruvost",
@@ -12177,8 +12145,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4016268?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "freuk",
@@ -12210,8 +12177,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/13552216?u=dc35aed93041f0cc82d1c584fbe5c7ded0dd22d2&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "fsimonis",
@@ -12285,8 +12251,7 @@
                     "ESGF/esgf-web-fe",
                     "LLNL/dtcmp",
                     "hpc/mpifileutils",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "fwang2",
@@ -12306,8 +12271,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/40861554?u=35aa331f03f84befd434d9e29c2edbcaac05cd61&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "g-mathias",
@@ -12418,8 +12382,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/28980?u=03f67ec42b92e15a64c75b79b77b2e75a814fe6d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "gaber",
@@ -12449,8 +12412,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5393804?u=41b50487b156c5f3ff315bdc67c79733f98b54cc&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "gahansen",
@@ -12671,8 +12633,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/798191?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "gchavez2",
@@ -12754,16 +12715,6 @@
             "login": "genric",
             "name": null
         },
-        "geometricpanda": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/708229?u=88c58021f0f2bb66be5ec14b7d0d73ffbe4dd165&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "spack/spack.io"
-                ]
-            },
-            "login": "geometricpanda",
-            "name": "Jim Drury"
-        },
         "geosxCI": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/53955701?v=4",
             "contributedLabRepositories": {
@@ -12775,7 +12726,7 @@
             "name": null
         },
         "geppi": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/7973615?u=349e7b4241ed047de454e6053c9ecf36f6c577c9&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7973615?u=b5c710943840dc1f8ec777172bc1d4aba0c73ad5&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "openzfs/zfs"
@@ -12928,8 +12879,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11431629?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "gilmartinez",
@@ -12972,8 +12922,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/936096?u=fb15c8866fef5d210b21a6da1286f58452bd081e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "gklimowicz",
@@ -13069,8 +13018,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8965948?u=7b83960f7eff09e5a2992d6e9334915088343ed1&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "glentner",
@@ -13187,8 +13135,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/3811747?u=7524e1b404db2e1ec4807c7650398b4d68cea715&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "gmatteo",
@@ -13260,6 +13207,18 @@
             },
             "login": "goeranu",
             "name": "G\u00f6ran Uddeborg"
+        },
+        "goinea": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/78876542?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mfem/PyMFEM",
+                    "mfem/data",
+                    "mfem/mfem"
+                ]
+            },
+            "login": "goinea",
+            "name": "FE Coding"
         },
         "googlr": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/19713349?u=d02eb757409b7b27a7099fa8126b25b2b7ec3cc5&v=4",
@@ -13345,8 +13304,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/12417828?u=1e271e5e69573a4d489006a63dd6fd90200324c4&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "greglucas",
@@ -13360,6 +13318,16 @@
                 ]
             },
             "login": "gregory-lee-bartholomew",
+            "name": null
+        },
+        "grembo": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/5884220?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "openzfs/zfs"
+                ]
+            },
+            "login": "grembo",
             "name": null
         },
         "greschd": {
@@ -13386,8 +13354,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1527829?u=aab3e0a4d998f1fae3353e967ef39da4efc33890&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "grisu48",
@@ -13460,8 +13427,7 @@
                     "flux-framework/rfc",
                     "hpc/OpenLorenz",
                     "hpc/Spindle",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "grondo",
@@ -13509,8 +13475,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/units",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "gsjaardema",
@@ -13606,8 +13571,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2736934?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "gweodoo",
@@ -13717,6 +13681,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/Smeagle",
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack",
                     "spack/spack-monitor"
@@ -13852,6 +13817,16 @@
             "login": "hbarudin",
             "name": "Hannah Barudin"
         },
+        "hdfeos": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/7937490?u=16431f5569977d83e5021856553d0153139532f1&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack"
+                ]
+            },
+            "login": "hdfeos",
+            "name": "HDF-EOS Tools Information Center"
+        },
         "hdiggins": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/17029514?v=4",
             "contributedLabRepositories": {
@@ -13980,8 +13955,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6748085?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "hfp",
@@ -14182,8 +14156,7 @@
                 "nodes": [
                     "LLNL/RAJA",
                     "LLNL/camp",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "homerdin",
@@ -14242,8 +14215,7 @@
                     "hpc/Spindle",
                     "hpc/dcp",
                     "hpc/mpifileutils",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "hppritcha",
@@ -14328,6 +14300,16 @@
             },
             "login": "huard",
             "name": "David Huard"
+        },
+        "hughed2": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/6194999?u=82eca3f39e50476ac9960736724f495f21b5129d&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack"
+                ]
+            },
+            "login": "hughed2",
+            "name": "David Hughes"
         },
         "hugovk": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1324225?u=d7e2522cc357c1b8fed0f1c623c68c7331c70c56&v=4",
@@ -14472,8 +14454,7 @@
                     "mfem/PyMFEM",
                     "mfem/data",
                     "mfem/mfem",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ibaned",
@@ -14493,8 +14474,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/14250760?u=a381ea2820970824dfad6331ddc7a990b8d13dc9&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ifelsefi",
@@ -14623,7 +14603,7 @@
             "name": "Cyril Plisko"
         },
         "inashivb": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/57791542?v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/57791542?u=94e5f95e7a5cdb078433c91ec3a13a734fe2618f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/lustre"
@@ -14686,8 +14666,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/27466252?u=5eb919a88cc65fbfe28e4d4a91efa04037e22d3c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "irisTa56",
@@ -14742,8 +14721,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5234427?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "isuruf",
@@ -14753,8 +14731,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4313513?u=b7aa825e3d10e965c1c775d19159f46988e32e02&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "iulian787",
@@ -14795,8 +14772,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/spack",
-                    "spack/spack-github-action",
-                    "spack/spack-tutorial"
+                    "spack/spack-github-action"
                 ]
             },
             "login": "ivotron",
@@ -14818,8 +14794,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9555241?u=cbe4fc9895936e13dd193d3db609d4a558535000&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "j-ogas",
@@ -14829,8 +14804,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2934178?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "j-woz",
@@ -14840,8 +14814,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/392634?u=b50890726bfd695b41168cb31f66eec1b56abe7e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jabl",
@@ -14851,8 +14824,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/32687739?u=ec71dae0b68562e62d4a4d29b60bc7baa06fedaa&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jack-morrison",
@@ -14873,8 +14845,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/MACSio",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jadickson",
@@ -14884,8 +14855,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/26595296?u=9d646ae8e901f9d2347ea534d5ddafc6e3ede76e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jadoro",
@@ -14935,8 +14905,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/15854165?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jameshclrk",
@@ -15165,8 +15134,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2444114?u=bc058e8afd03dcb2259df2d0e52648f6ba5c9134&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jasonfenglu",
@@ -15226,8 +15194,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/584402?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jayavanth",
@@ -15436,8 +15403,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/17778287?u=e06042acb08d06f8d7a4e1ea7ca6dabbf7f4889c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jdeaton",
@@ -15950,6 +15916,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2521475?u=690681cc7b335de97cf06f0097e490d75482330c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack-monitor"
                 ]
@@ -16000,6 +15967,18 @@
             "login": "jhux2",
             "name": "Jonathan Hu"
         },
+        "jiangzhongshi": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/12759319?u=f69ff144c944f0fa320375b236f5d4284e5b21aa&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mfem/PyMFEM",
+                    "mfem/data",
+                    "mfem/mfem"
+                ]
+            },
+            "login": "jiangzhongshi",
+            "name": "Zhongshi"
+        },
         "jibel": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1928546?u=9d1436639379b0336f1d9e9e83fa7b6765026e6a&v=4",
             "contributedLabRepositories": {
@@ -16024,8 +16003,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/123603?u=e1db98a71bfc3a945d96c0a3902e5909aa056868&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jimmielin",
@@ -16035,8 +16013,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5799254?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jimmy04500",
@@ -16057,8 +16034,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/24727548?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jiseung",
@@ -16150,8 +16126,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19977047?u=d8c77b112484eb948957edcb34f2a95569f97fd2&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jkelling",
@@ -16256,8 +16231,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5601483?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jlingema",
@@ -16267,8 +16241,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2790769?u=027fbf331ec779e662e48a50911157de29239012&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jlippuner",
@@ -16420,6 +16393,16 @@
             "login": "joeymwatkins",
             "name": "Joey Watkins"
         },
+        "johanneskoester": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/1858646?u=b3d74bc56810d31fe58cc3f11c85bac657f6482d&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack-stack-catalog"
+                ]
+            },
+            "login": "johanneskoester",
+            "name": "Johannes K\u00f6ster"
+        },
         "johannlombardi": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1126906?u=633a326d0aa71bea662f3b6ed33c8e9c7f1ad814&v=4",
             "contributedLabRepositories": {
@@ -16454,8 +16437,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1865149?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "johnwfinigan",
@@ -16621,8 +16603,7 @@
                     "PRUNERS/llvm_archer",
                     "PRUNERS/pruners.github.io",
                     "PRUNERS/sword",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jprotze",
@@ -16686,8 +16667,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/spack",
-                    "spack/spack-configs",
-                    "spack/spack-tutorial"
+                    "spack/spack-configs"
                 ]
             },
             "login": "jrood-nrel",
@@ -16727,8 +16707,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2544051?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "js947",
@@ -16798,8 +16777,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4038467?u=0a763d62439bc88995498ac30a768d70d0e9e64e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jslee02",
@@ -16849,8 +16827,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/617316?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jsquyres",
@@ -16900,8 +16877,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/16190001?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jthies",
@@ -16957,8 +16933,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5452000?u=83dfd88ae0b7b40b7594e2ea50f72811dcc0d367&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jungwonkim",
@@ -16973,8 +16948,7 @@
                     "mfem/github-actions",
                     "mfem/mfem",
                     "mfem/web",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "junkudo",
@@ -17025,7 +16999,6 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/spack",
-                    "spack/spack-tutorial",
                     "spack/spack.io"
                 ]
             },
@@ -17046,8 +17019,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8486115?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "jwallior",
@@ -17269,8 +17241,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2315061?u=2bca5f9c4a80cb7ed587bb9a6e0ef22a31679938&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "katherlee",
@@ -17349,6 +17320,7 @@
                     "GMLC-TDC/HELICSBuilder",
                     "GMLC-TDC/helics-cli",
                     "GMLC-TDC/helics-conda",
+                    "GMLC-TDC/helics-packaging",
                     "GMLC-TDC/helics.nim",
                     "GMLC-TDC/helics.org",
                     "GMLC-TDC/homebrew-helics",
@@ -17515,8 +17487,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/Caliper",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "khuck",
@@ -17566,8 +17537,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/151475?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kiwifb",
@@ -17577,8 +17547,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1455923?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kjbrandstatter",
@@ -17649,8 +17618,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/67211?u=7567adfdd7ca36e5ec726f3ce9e27935eff0fecb&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kljohann",
@@ -17660,8 +17628,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2001688?u=b9449b96c7f13fb08f98484184f29b92e8ea289b&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kmanalo",
@@ -17673,8 +17640,7 @@
                 "nodes": [
                     "mfem/data",
                     "mfem/mfem",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kmorel",
@@ -17715,8 +17681,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/724988?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "koebbe",
@@ -17791,6 +17756,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/FAROS",
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack-monitor"
                 ]
@@ -17830,8 +17796,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8024222?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kothah",
@@ -17902,8 +17867,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2341478?u=e8ac7db590e06616c1cb64e18920290243be77f6&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kshitij-v-mehta",
@@ -17997,6 +17961,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/22034996?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack-monitor"
                 ]
@@ -18028,8 +17993,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/49769229?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kustowski1",
@@ -18077,8 +18041,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/20503152?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "kylefernandes",
@@ -18108,8 +18071,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/21047288?u=abd5d5c7f768dbd99a75eba376e076daada21598&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "labeln",
@@ -18313,8 +18275,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/307744?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ledif",
@@ -18436,8 +18397,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5604329?u=0645ff49e84d4eab0be3ea9df9e9539e449a0d4b&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "lgarren",
@@ -18500,8 +18460,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9337413?u=d1bf547727e37a3706039e28eb4ed29eed77fdbd&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "likask",
@@ -18563,8 +18522,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6809866?u=4269f3e22a75a1c183c8a2284d48d16519f16259&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "liuyangzhuan",
@@ -18634,6 +18592,16 @@
             "login": "lobpcg",
             "name": "Andrew Knyazev"
         },
+        "localstatic": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/573101?u=633dcb2f6d38613be98e162e365e2204074d5a04&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack.io"
+                ]
+            },
+            "login": "localstatic",
+            "name": "Morgan Terry"
+        },
         "log0ymxm": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/35297?v=4",
             "contributedLabRepositories": {
@@ -18658,8 +18626,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/14158679?u=5af884f828b24fcc6fdf1e08fae4a620ef7dfbb9&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "loikki",
@@ -18738,12 +18705,21 @@
             "login": "lorenz",
             "name": "Lorenz Brun"
         },
+        "lotheac": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/167940?u=3ccd016160f79d64315ac325e4ce3d14fdc43b27&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "openzfs/zfs"
+                ]
+            },
+            "login": "lotheac",
+            "name": "Lauri Tirkkonen"
+        },
         "louisvernon": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/552230?u=281abfd72aebdb1a364aaea71bba975e8e52a565&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "louisvernon",
@@ -18816,8 +18792,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4563513?u=0a7e637133ae8893b6553f3a3e0f6152ed104b9e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "lpoirel",
@@ -18884,23 +18859,12 @@
             "login": "lucascaton",
             "name": "Lucas Caton"
         },
-        "lucjaulmes": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/22683052?u=2ec2643f26d1439b65ff747a00344b99cc01e2e3&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "spack/spack-tutorial"
-                ]
-            },
-            "login": "lucjaulmes",
-            "name": "Luc Jaulmes"
-        },
         "luigi-calori": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5165864?v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/sbang",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "luigi-calori",
@@ -18910,8 +18874,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/626671?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "luigicalori",
@@ -19053,8 +19016,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9458395?u=9286cb844b4ab52021f08de77c5b442d82b80c58&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "lyon-fnal",
@@ -19175,8 +19137,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/830198?u=ca569b93edf30d8fefb659e68742d8b7d6a56e89&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mahermanns",
@@ -19206,8 +19167,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1112113?u=d388e01c697b001d47599c8c04fbc59a102f064f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "maiterth",
@@ -19241,8 +19201,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4251244?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "manavbhatia",
@@ -19277,6 +19236,16 @@
             },
             "login": "manoj1511",
             "name": "Manoj Kumar Cebol Sundarrajan"
+        },
+        "manuelakuhn": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/36827019?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack"
+                ]
+            },
+            "login": "manuelakuhn",
+            "name": "Manuela Kuhn"
         },
         "marc-85": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/59847837?u=5408e9ea1beb9845cc136b2fdce61d81777ed3dd&v=4",
@@ -19459,8 +19428,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/25516935?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "marvinbernhardt",
@@ -19480,8 +19448,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2982494?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mathomp4",
@@ -19491,8 +19458,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/17956971?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mathsen",
@@ -19625,8 +19591,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4153477?u=b562a2e65141c30fafa1f505a0cb51c3d3a960c0&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "matteoguglielmi",
@@ -19666,6 +19631,12 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1772435?u=850572e3b2731d3291da8c5749d44826b0759672&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "hypre-space/hypre",
+                    "mfem/PyMFEM",
+                    "mfem/data",
+                    "mfem/github-actions",
+                    "mfem/mfem",
+                    "mfem/web",
                     "spack/spack",
                     "spack/spack-tutorial"
                 ]
@@ -19717,8 +19688,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2151261?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "matz-e",
@@ -19728,8 +19698,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/115270?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "matze",
@@ -19909,8 +19878,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/14297653?u=5a966dcdcd359e7d043babf4b04af82593efad35&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mayrmt",
@@ -20027,8 +19995,7 @@
                 "nodes": [
                     "LLNL/Aluminum",
                     "LLNL/lbann",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mcneish1",
@@ -20038,8 +20005,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2745737?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mdavezac",
@@ -20065,12 +20031,23 @@
             "login": "mdehoon",
             "name": null
         },
+        "mdeuse": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/50270324?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "mfem/PyMFEM",
+                    "mfem/data",
+                    "mfem/mfem"
+                ]
+            },
+            "login": "mdeuse",
+            "name": null
+        },
         "mdevlin1": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/19513420?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mdevlin1",
@@ -20101,8 +20078,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/598250?u=64b3bfb7ac2388d1bf47cc440f952880ad7ea37b&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mdorier",
@@ -20122,8 +20098,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2453394?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mdwheele",
@@ -20277,8 +20252,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/13150119?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mgeplf",
@@ -20336,7 +20310,7 @@
             "name": null
         },
         "mia-0": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/652892?u=10d323e2f861be2ae14848cdf5ecab174b6ef523&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/652892?u=1573cd007c3e0e8cc32d08adaf5b0f8f420a38ee&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "chaos/diod"
@@ -20359,8 +20333,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/28547062?u=bb4a400f949e346c96881c478ec0f10debf6c226&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mic84",
@@ -20479,8 +20452,7 @@
                     "mfem/github-actions",
                     "mfem/mfem",
                     "mfem/web",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mikebentley15",
@@ -20490,8 +20462,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1698741?u=dee92b3495f5c34e777cb076062d0067c58952c5&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mikedep333",
@@ -20508,7 +20479,7 @@
             "name": null
         },
         "mikeroup": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/4081515?u=47c36acf4167b194515667c22a3c970ae7a09a06&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4081515?v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "rose-compiler/rose",
@@ -20516,7 +20487,7 @@
                 ]
             },
             "login": "mikeroup",
-            "name": "Mike Roup"
+            "name": "Mike"
         },
         "miketappro": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/1277748?v=4",
@@ -20654,8 +20625,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6740366?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mjacquel",
@@ -20854,8 +20824,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/30537612?u=c343e08d1156a6087f76c8394785d1f4d55ace3c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mkstoyanov",
@@ -20865,8 +20834,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1748330?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mkuron",
@@ -20986,8 +20954,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9598251?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mmwolf",
@@ -21106,8 +21073,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/32072858?u=533e3ba8f6410ce0aa58b9ee6ec52f21bf53a925&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "moxcodes",
@@ -21210,25 +21176,12 @@
             "login": "mrmundt",
             "name": "Miranda Mundt"
         },
-        "mrwyattii": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/18311180?u=cd44c3dd132e3fc94912ad2d2c13e968121818d2&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "LLNL/DiHydrogen",
-                    "LLNL/Elemental",
-                    "LLNL/lbann"
-                ]
-            },
-            "login": "mrwyattii",
-            "name": "Michael Wyatt"
-        },
         "mrzv": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/720816?u=a65e361dab0ac7baaab8c658daf946dfb76c0a7e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/wrap",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mrzv",
@@ -21373,8 +21326,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6154958?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "muakasan",
@@ -21385,8 +21337,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/sbang",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "muffgaga",
@@ -21535,8 +21486,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2526129?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mwilliammyers",
@@ -21557,8 +21507,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1416435?u=af93fb6c2af8e02233a57d883e465cdb7bf3f0a3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "mwm126",
@@ -21610,6 +21559,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19176539?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack-monitor"
                 ]
@@ -21652,6 +21602,17 @@
             },
             "login": "namhyung",
             "name": "Namhyung Kim"
+        },
+        "nan-duan": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/84344826?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "GMLC-TDC/HELICS",
+                    "LLNL/GridKit"
+                ]
+            },
+            "login": "nan-duan",
+            "name": null
         },
         "nanzifan": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/39807860?u=2788cc3e9c7a1dfffbdc890d1ae4911049be8af5&v=4",
@@ -21737,8 +21698,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/17153984?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "navdeeprana",
@@ -21758,8 +21718,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1379149?u=9415f290345f458eafa0754820e16e324aecd8c8&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "nazavode",
@@ -21860,8 +21819,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/24580585?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "neilflood",
@@ -21981,6 +21939,16 @@
             "login": "nickrobison-usds",
             "name": "Nick Robison"
         },
+        "nicmcd": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/4087781?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack"
+                ]
+            },
+            "login": "nicmcd",
+            "name": "Nic McDonald"
+        },
         "nicolaslg": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/14815625?v=4",
             "contributedLabRepositories": {
@@ -22017,6 +21985,16 @@
             "login": "nikhil-jain",
             "name": "Nikhil Jain"
         },
+        "nikostr": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/11029073?u=4f5f31a22c915853f530886d62ec71da88cb6e4c&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack-stack-catalog"
+                ]
+            },
+            "login": "nikostr",
+            "name": null
+        },
         "nikwoj": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/7764708?v=4",
             "contributedLabRepositories": {
@@ -22041,8 +22019,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/13531030?u=7ea948194d130e139ff5503d0cc75cd1158c3c08&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "nilsdeppe",
@@ -22082,8 +22059,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/533823?u=ba3e992d131f85ca968a0b731d624a6d866b6333&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "njbooher",
@@ -22155,8 +22131,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1276138?u=2304e357c586b1bef625af5eb254564148e23c24&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "nmsriram",
@@ -22209,8 +22184,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/201456?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "nolta",
@@ -22282,8 +22256,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5219415?u=84d95350239ca148109bf0f49cde6a4e8c4dd896&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "nshtg",
@@ -22333,8 +22306,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11661368?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "nvarini",
@@ -22364,8 +22336,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/123140?u=b01a7fb21b31d1edc5f4f66ba546a589c8ddc1db&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "obreitwi",
@@ -22405,8 +22376,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1421445?u=61cf2010283c3b12407306b484c9059176a77101&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "odoublewen",
@@ -22446,8 +22416,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/641212?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ohm314",
@@ -22467,8 +22436,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2335934?u=e835276bb6400910189fef25b8de457a5d026b67&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "olafmersmann",
@@ -22508,12 +22476,21 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/27788992?u=c2248f48caa2d436fb150d5195edd7e07a7780e2&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "oliver-pola",
             "name": "Oliver Pola"
+        },
+        "oliverpool": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/3864879?u=70c94404649e7e9b5da90e229019f5a4c8fd5f05&v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "openzfs/openzfs-docs"
+                ]
+            },
+            "login": "oliverpool",
+            "name": null
         },
         "omhafez": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/24400432?u=1fa142bd7067fc5189357433ab5b1e67e6dde17e&v=4",
@@ -22530,8 +22507,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4326436?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "omor1",
@@ -22595,16 +22571,6 @@
             "login": "opadron",
             "name": "Omar Padron"
         },
-        "openmp-arb": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/51717281?v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "spack/spack-tutorial"
-                ]
-            },
-            "login": "openmp-arb",
-            "name": null
-        },
         "openset": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/6274967?u=c904dba689d09fa45302154d570f5a752fb102b3&v=4",
             "contributedLabRepositories": {
@@ -22619,8 +22585,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/814662?u=ddfb4502ae38b94f310402215bb8991f176f0cde&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "opoplawski",
@@ -22722,8 +22687,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4256093?u=dbb34f8322c845808725da409dea057a3a333dcf&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "owainkenwayucl",
@@ -22887,8 +22851,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8430564?u=ca18dea8eda7c5f02b5a94f6242c91ead54d4e83&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "pat-s",
@@ -22939,8 +22902,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/40282207?u=44d2c368e8c5d68d5a7125709a3397cd86849006&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "paulanda",
@@ -22951,8 +22913,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/remote-mirror-security",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "paulbry",
@@ -23037,8 +22998,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19287807?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "payerle",
@@ -23071,8 +23031,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4725597?u=0d22af59735ba38bb8962008797e26cc1a51263a&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "pbalapra",
@@ -23258,8 +23217,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/32349688?u=fca2303fde90d7c0c5b05e691fdc7945f881494d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "peetsv",
@@ -23441,8 +23399,7 @@
                     "mfem/github-actions",
                     "mfem/mfem",
                     "mfem/web",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "pghysels",
@@ -23484,8 +23441,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6496931?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "philip-davis",
@@ -23714,8 +23670,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/10998320?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "pkondamudi",
@@ -23725,8 +23680,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/824785?u=c7d25020207063b851470b6883476eaa573f78f0&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "pkoro",
@@ -24059,8 +24013,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/328212?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "prs513rosewood",
@@ -24070,8 +24023,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/12102506?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "psakievich",
@@ -24081,8 +24033,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8050979?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "psaravan",
@@ -24122,8 +24073,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4037125?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "psychocoderHPC",
@@ -24143,23 +24093,11 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/32297355?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ptooley",
             "name": "Phil Tooley"
-        },
-        "ptsuji": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/5439469?u=244f9e2e6236f896db9c5c2fb475a56172cd62eb&v=4",
-            "contributedLabRepositories": {
-                "nodes": [
-                    "LLNL/CHAI",
-                    "LLNL/spheral"
-                ]
-            },
-            "login": "ptsuji",
-            "name": "Paul Tsuji"
         },
         "pv": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/35046?v=4",
@@ -24275,8 +24213,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5176695?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "qobilidop",
@@ -24296,8 +24233,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2219302?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "qwertos",
@@ -24370,8 +24306,7 @@
                 "nodes": [
                     "mfem/data",
                     "mfem/mfem",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "raffenet",
@@ -24392,8 +24327,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/cruise",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rajachan",
@@ -24403,8 +24337,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1466114?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rajeeja",
@@ -24529,8 +24462,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/330322?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "raznikk",
@@ -24621,8 +24553,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/44282?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rc",
@@ -24677,8 +24608,7 @@
                     "hpc/Spindle",
                     "hpc/dcp",
                     "hpc/mpifileutils",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "reidpr",
@@ -24833,8 +24763,8 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1301479?u=95c50984d459e4df54257b34c50f3d883c993255&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "LLNL/UnifyFS",
+                    "spack/spack"
                 ]
             },
             "login": "rgmiller",
@@ -24870,8 +24800,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2440928?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rhc54",
@@ -24906,8 +24835,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/2152937?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rhewett",
@@ -24927,8 +24855,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/42845593?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rice31",
@@ -24959,7 +24886,9 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/214141?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "openzfs/zfs"
+                    "openzfs/openzfs-docs",
+                    "openzfs/zfs",
+                    "openzfs/zfs-buildbot"
                 ]
             },
             "login": "rincebrain",
@@ -25011,8 +24940,14 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/113383?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "openzfs/openzfs",
+                    "openzfs/openzfs-build",
+                    "openzfs/openzfs-ci",
                     "openzfs/openzfs-docs",
-                    "openzfs/zfs"
+                    "openzfs/spl",
+                    "openzfs/zfs",
+                    "openzfs/zfs-buildbot",
+                    "openzfs/zfs-images"
                 ]
             },
             "login": "rlaager",
@@ -25042,8 +24977,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1918414?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rmsds",
@@ -25087,8 +25021,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/18403?u=b016aa1183363b67f6d703a3a564fa11cb592bcb&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "robertdfrench",
@@ -25111,7 +25044,6 @@
                 "nodes": [
                     "LLNL/zfp",
                     "spack/spack",
-                    "spack/spack-tutorial",
                     "visit-dav/visit"
                 ]
             },
@@ -25164,8 +25096,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/mpiP",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "roblatham00",
@@ -25394,8 +25325,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4571189?u=8ed40ba095f17fe6afc0ecef8c0198dc35d6fd00&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rspavel",
@@ -25455,8 +25385,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8077364?u=ed942958e749b30cd63e211c15559c67d6df7a0e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rubendibattista",
@@ -25496,8 +25425,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19638368?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "rvinaybharadwaj",
@@ -25549,8 +25477,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/30510036?u=69cf4e3e69b2d41625360ca9cb87e75b23b61bd3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "s-sajid-ali",
@@ -25708,22 +25635,21 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/11944875?u=f2a0e6d3ef4fb39ba725373448c5bb08eb54396c&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "samfux84",
             "name": "Samuel Fux"
         },
         "samiti3d": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/36131619?u=376c1db48fe20fb9734f8bb2f0c4c93caf91f7c8&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/36131619?u=48adde7a919a387efa6ff760cfc1850f1f723f5b&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/spack.io"
                 ]
             },
             "login": "samiti3d",
-            "name": "EL S4MITH"
+            "name": "Samiti"
         },
         "sammaphey": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/20199103?v=4",
@@ -25777,8 +25703,7 @@
                     "hpc/Spindle",
                     "hpc/dcp",
                     "hpc/mpifileutils",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "samuelkgutierrez",
@@ -25875,8 +25800,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4931514?u=e7ce1c51aa58d56f2cd226c7c2a66ab0350add0f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "sarich",
@@ -25973,10 +25897,10 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1174623?u=db8e59125df52ce9db74c1e7d282a4ff31d71fc0&v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack",
-                    "spack/spack-monitor",
-                    "spack/spack-tutorial"
+                    "spack/spack-monitor"
                 ]
             },
             "login": "sashanicolas",
@@ -26016,8 +25940,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4947944?u=a7c2abda8d4b63fea19cc01da1ec024e79280948&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "sbna",
@@ -26068,12 +25991,15 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "spack/Smeagle",
+                    "spack/build-abi-containers",
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/contrib",
                     "spack/legacy-spack.io",
                     "spack/localized-docs",
                     "spack/sbang",
                     "spack/seps",
+                    "spack/slackin-extended",
                     "spack/spack",
                     "spack/spack-asp-prototypes",
                     "spack/spack-bibliography",
@@ -26088,6 +26014,7 @@
                     "spack/spack-monitor",
                     "spack/spack-repo-template",
                     "spack/spack-search",
+                    "spack/spack-stack-catalog",
                     "spack/spack-tutorial",
                     "spack/spack-tutorial-ami",
                     "spack/spack-tutorial-container",
@@ -26229,12 +26156,15 @@
                     "CDAT/wk",
                     "spack/legacy-spack.io",
                     "spack/seps",
+                    "spack/slackin-extended",
                     "spack/spack",
+                    "spack/spack-bot",
                     "spack/spack-configs",
                     "spack/spack-cscs2019",
                     "spack/spack-infrastructure",
                     "spack/spack-tutorial",
-                    "spack/spack-tutorial-container"
+                    "spack/spack-tutorial-container",
+                    "spack/spack.io"
                 ]
             },
             "login": "scottwittenburg",
@@ -26469,8 +26399,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/20232116?u=24fc4cef91ff30fb9a9d59b535e1a79e8ef23d2a&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "serbanmaerean",
@@ -26524,8 +26453,7 @@
                     "spack/seps",
                     "spack/spack",
                     "spack/spack-configs",
-                    "spack/spack-cscs2019",
-                    "spack/spack-tutorial"
+                    "spack/spack-cscs2019"
                 ]
             },
             "login": "sethrj",
@@ -26555,8 +26483,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/10728360?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "severinstrobl",
@@ -26641,8 +26568,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/24571836?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "shanedsnyder",
@@ -26702,8 +26628,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/15073003?u=d1dcf49262bb42bc7d8118c40cd14a4ca1b64975&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "shintaro-iwasaki",
@@ -26765,8 +26690,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/16457059?u=82b48c0af58eea5a85af60b316e902fe0fd92cb1&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "shuds13",
@@ -26880,8 +26804,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7014138?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "simo-tuomisto",
@@ -26938,8 +26861,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8300801?u=f23838389b6f722c720595108271bc6535697fd3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "simonflood",
@@ -26990,8 +26912,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4917324?u=9322e93a447a721dbc7fc72ce6cbbd17c4d77b22&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "sixy6e",
@@ -27002,8 +26923,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "hpc/mpifileutils",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "sjtbham",
@@ -27067,8 +26987,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/18291531?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "sknigh",
@@ -27132,8 +27051,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/20404249?u=5d3fab59837b128d5f6381d68c87864fb1b90181&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "smcgrat",
@@ -27344,8 +27262,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5613371?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "soumagne",
@@ -27397,8 +27314,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "hpc/mpifileutils",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "spakin",
@@ -27508,8 +27424,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/585481?u=9d26c8f3717fa803639a826c6bb914905bd27414&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "srinathv",
@@ -27708,8 +27623,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7336402?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "stefanosoffia",
@@ -27898,8 +27812,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5405051?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "sthibaul",
@@ -28111,12 +28024,21 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4682047?u=faf8face02ad221beac55a17e4430b3df1c09b6e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "suzannepk",
             "name": "Suzanne Parete-Koon"
+        },
+        "svacko": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/77169041?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "spack/spack.io"
+                ]
+            },
+            "login": "svacko",
+            "name": null
         },
         "svenevs": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/5871461?u=85fbd9d2b1e0dafb0beaef84f272dd3ae2829f07&v=4",
@@ -28183,8 +28105,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/3876306?u=48aa19842d85bed2f5c4c86987754093595a2b7d&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "t-brown",
@@ -28440,8 +28361,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/35342290?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tcojean",
@@ -28503,8 +28423,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8088032?u=56e18f565e727e5134c0c4e7a953e96b97a9b46f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "teonnik",
@@ -28596,8 +28515,7 @@
                     "mfem/PyMFEM",
                     "mfem/data",
                     "mfem/mfem",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "thelfer",
@@ -28742,15 +28660,14 @@
                     "mfem/PyMFEM",
                     "mfem/data",
                     "mfem/mfem",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "timrlaw",
             "name": "Tim Law"
         },
         "timschumi": {
-            "avatarUrl": "https://avatars.githubusercontent.com/u/16820960?u=c00593eb4b62a3d4e0b073b44fe023bffb05a380&v=4",
+            "avatarUrl": "https://avatars.githubusercontent.com/u/16820960?u=57d4689856a986be76fcc3cd155f6cee6f4703e0&v=4",
             "contributedLabRepositories": {
                 "nodes": [
                     "openzfs/zfs"
@@ -28773,8 +28690,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4332057?u=2ef85c26e3305fbb4ba00113315606ab2fd7b7d9&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tinlun",
@@ -28835,8 +28751,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1564391?u=868cc28e87f0d2810dfd68486e2682502307cb02&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tjfulle",
@@ -28846,8 +28761,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1531285?u=c46170e7d7c82d85441043632f00c502fb540db3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tjhei",
@@ -28867,8 +28781,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/10565618?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tjstavenger-pnnl",
@@ -28892,8 +28805,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8807825?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tkordenbrock",
@@ -28997,8 +28909,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9334?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tobbez",
@@ -29258,8 +29169,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/12177223?u=e842898404a6c4c5332ec6f8639a99409889d0fd&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "trecakov",
@@ -29305,8 +29215,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/368123?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tristan0x",
@@ -29316,8 +29225,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/627692?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "trmwzm",
@@ -29480,8 +29388,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/16219606?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "twang15",
@@ -29521,8 +29428,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7903078?u=2762d9ff13b992dc635f8f190a17f9a90cddfae1&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tylerjereddy",
@@ -29542,8 +29448,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6088631?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tz-rrze",
@@ -29554,8 +29459,7 @@
             "contributedLabRepositories": {
                 "nodes": [
                     "LLNL/mpi-tools",
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "tzislam",
@@ -29620,8 +29524,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6178215?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ursache",
@@ -29853,12 +29756,21 @@
             "login": "venkatpatnala",
             "name": null
         },
+        "vermavipinkumar": {
+            "avatarUrl": "https://avatars.githubusercontent.com/u/75025470?v=4",
+            "contributedLabRepositories": {
+                "nodes": [
+                    "openzfs/zfs"
+                ]
+            },
+            "login": "vermavipinkumar",
+            "name": null
+        },
         "verolero86": {
             "avatarUrl": "https://avatars.githubusercontent.com/u/981887?u=7faa55da7b15576ed4b6694f59f4e83fb612ea0f&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "verolero86",
@@ -29935,8 +29847,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5126692?u=b539df4a045f4c74d464b71346eb8d6d5bf5b9b0&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "villegar",
@@ -29946,8 +29857,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7587101?u=af28259070c7422a3c1a0d6a0037dc871db5dceb&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "viniciusvgp",
@@ -30348,8 +30258,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/305301?u=96d654cf8d880c82d8c167190b67f191de6f8b96&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "whardier",
@@ -30359,8 +30268,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/5376378?u=eae417619390d7f0b76640c9e175e811b6367be8&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "whitfin",
@@ -30380,8 +30288,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1249695?u=12c2eabbb3887f0b2b930547335e0f89425321d3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "willfurnass",
@@ -30391,8 +30298,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/19283177?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "william-dawson",
@@ -30547,8 +30453,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8867238?u=e85d7f6c5fbd029645fc7e0814016516e4e44c91&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "wohlbier",
@@ -30558,8 +30463,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/9054143?u=5c993b50e3afd16b003a70713174eb5035809779&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "womeld",
@@ -30569,6 +30473,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/508057?v=4",
             "contributedLabRepositories": {
                 "nodes": [
+                    "spack/build-abi-tests",
                     "spack/build-si-modeling",
                     "spack/spack-monitor"
                 ]
@@ -30632,8 +30537,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1699385?u=7a1125c55a7e7239bea7dcd21902b1e1b6cc61f2&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "wrwilliams",
@@ -30643,8 +30547,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/967536?u=bc43a01454aa04f86ad2ae17861502ea4a63058e&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "wscullin",
@@ -30664,8 +30567,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/7329201?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "wspear",
@@ -30705,8 +30607,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4928853?u=644b39502f90c61a8bbe56f61be1561e844f03ca&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "xdelaruelle",
@@ -30736,8 +30637,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4673113?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "xfzhao",
@@ -30929,8 +30829,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/6578686?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ygrange",
@@ -30960,8 +30859,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/31993194?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "ynanyam",
@@ -31156,8 +31054,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1799907?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "zenln",
@@ -31167,8 +31064,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1377772?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "zepx",
@@ -31228,8 +31124,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/8258497?u=0f791204b03bb7fa5fc1929e4c470492b542eca3&v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "zschulte",
@@ -31308,8 +31203,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/1826859?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "zzotta",
@@ -31319,8 +31213,7 @@
             "avatarUrl": "https://avatars.githubusercontent.com/u/4043375?v=4",
             "contributedLabRepositories": {
                 "nodes": [
-                    "spack/spack",
-                    "spack/spack-tutorial"
+                    "spack/spack"
                 ]
             },
             "login": "zzzoom",

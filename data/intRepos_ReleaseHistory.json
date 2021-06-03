@@ -12,6 +12,11 @@
                         "name": "1.0.1 last features released for deepchem 2.1",
                         "publishedAt": "2021-04-22T22:44:41Z",
                         "tagName": "1.0.1"
+                    },
+                    {
+                        "name": "AMPL 1.1.0 release",
+                        "publishedAt": "2021-05-17T22:04:44Z",
+                        "tagName": "1.1.0"
                     }
                 ]
             }
@@ -53,6 +58,11 @@
                         "name": "0.7.0",
                         "publishedAt": "2021-03-19T23:16:05Z",
                         "tagName": "v0.7.0"
+                    },
+                    {
+                        "name": "0.7.1",
+                        "publishedAt": "2021-05-20T18:47:13Z",
+                        "tagName": "v0.7.1"
                     }
                 ]
             }
@@ -3222,6 +3232,11 @@
                         "name": "",
                         "publishedAt": "2021-05-13T17:38:27Z",
                         "tagName": "v0.5.0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-06-01T16:46:41Z",
+                        "tagName": "v0.5.1"
                     }
                 ]
             }
@@ -3238,6 +3253,16 @@
                         "name": "",
                         "publishedAt": "2021-05-05T15:55:01Z",
                         "tagName": "v2.6.1.post11"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-05-24T15:38:24Z",
+                        "tagName": "v2.7.0.post0"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-05-24T15:39:38Z",
+                        "tagName": "v2.7.0.post5"
                     }
                 ]
             }
@@ -3330,6 +3355,11 @@
                         "name": "HELICS v2.7.0 PyPI helics-apps release",
                         "publishedAt": "2021-04-30T17:34:07Z",
                         "tagName": "v2.7.0"
+                    },
+                    {
+                        "name": "HELICS v2.7.0.post1 PyPI helics-apps release",
+                        "publishedAt": "2021-05-28T19:40:21Z",
+                        "tagName": "v2.7.0.post1"
                     }
                 ]
             }
@@ -3478,6 +3508,36 @@
                         "name": "v2.7.0.post3",
                         "publishedAt": "2021-05-13T17:05:42Z",
                         "tagName": "v2.7.0.post3"
+                    },
+                    {
+                        "name": "v2.7.0.post4",
+                        "publishedAt": "2021-05-21T19:25:07Z",
+                        "tagName": "v2.7.0.post4"
+                    },
+                    {
+                        "name": "v2.7.0.post5",
+                        "publishedAt": "2021-05-24T15:28:44Z",
+                        "tagName": "v2.7.0.post5"
+                    },
+                    {
+                        "name": "",
+                        "publishedAt": "2021-05-25T19:10:00Z",
+                        "tagName": "v2.7.0.post6"
+                    },
+                    {
+                        "name": "v2.7.0.post7",
+                        "publishedAt": "2021-05-25T19:24:09Z",
+                        "tagName": "v2.7.0.post7"
+                    },
+                    {
+                        "name": "v2.7.0.post8",
+                        "publishedAt": "2021-05-28T19:59:12Z",
+                        "tagName": "v2.7.0.post8"
+                    },
+                    {
+                        "name": "v2.7.0.post9",
+                        "publishedAt": "2021-06-01T17:05:54Z",
+                        "tagName": "v2.7.0.post9"
                     }
                 ]
             }
@@ -4066,6 +4126,11 @@
                 "nodes": []
             }
         },
+        "LLNL/GpuMatMatPaper": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "LLNL/Gremlins": {
             "releases": {
                 "nodes": []
@@ -4171,6 +4236,11 @@
                         "name": "Version 2.0.0 Release Candidate 1",
                         "publishedAt": "2021-05-12T21:36:05Z",
                         "tagName": "v2.0.0rc1"
+                    },
+                    {
+                        "name": "Version 2.0.0",
+                        "publishedAt": "2021-05-28T22:28:51Z",
+                        "tagName": "v2.0.0"
                     }
                 ]
             }
@@ -4803,6 +4873,11 @@
                         "name": "PolyClipper v1.2.1 (clang compatibility)",
                         "publishedAt": "2021-03-19T23:04:02Z",
                         "tagName": "PolyClipper-v.1.2.1"
+                    },
+                    {
+                        "name": "PolyClipper v1.2.2",
+                        "publishedAt": "2021-05-17T23:21:33Z",
+                        "tagName": "v1.2.2"
                     }
                 ]
             }
@@ -5928,6 +6003,11 @@
                         "name": "0.7.1",
                         "publishedAt": "2021-02-11T23:59:48Z",
                         "tagName": "v0.7.1"
+                    },
+                    {
+                        "name": "0.7.2",
+                        "publishedAt": "2021-05-19T20:06:25Z",
+                        "tagName": "v0.7.2"
                     }
                 ]
             }
@@ -6222,6 +6302,11 @@
                         "name": "Release v0.3.0",
                         "publishedAt": "2021-04-30T23:19:34Z",
                         "tagName": "v0.3.0"
+                    },
+                    {
+                        "name": "Release v0.3.1",
+                        "publishedAt": "2021-05-18T19:24:27Z",
+                        "tagName": "v0.3.1"
                     }
                 ]
             }
@@ -6339,7 +6424,13 @@
         },
         "LLNL/irep": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "v1.0.0",
+                        "publishedAt": "2021-05-25T22:53:47Z",
+                        "tagName": "v1.0.0"
+                    }
+                ]
             }
         },
         "LLNL/iris": {
@@ -6456,6 +6547,11 @@
                         "name": "v0.101",
                         "publishedAt": "2020-09-29T23:13:19Z",
                         "tagName": "v0.101"
+                    },
+                    {
+                        "name": "v0.102",
+                        "publishedAt": "2021-05-28T00:16:53Z",
+                        "tagName": "v0.102"
                     }
                 ]
             }
@@ -9306,7 +9402,13 @@
         },
         "chaos/slurm-spank-plugins": {
             "releases": {
-                "nodes": []
+                "nodes": [
+                    {
+                        "name": "slurm-spank-plugins v0.40",
+                        "publishedAt": "2021-06-01T17:58:25Z",
+                        "tagName": "0.40"
+                    }
+                ]
             }
         },
         "chaos/v9fs": {
@@ -9806,6 +9908,11 @@
                         "name": "flux-core v0.26.0",
                         "publishedAt": "2021-04-22T21:17:59Z",
                         "tagName": "v0.26.0"
+                    },
+                    {
+                        "name": "flux-core v0.27.0",
+                        "publishedAt": "2021-05-29T05:55:13Z",
+                        "tagName": "v0.27.0"
                     }
                 ]
             }
@@ -10443,6 +10550,11 @@
                         "name": "4.2.0.15",
                         "publishedAt": "2021-05-08T19:49:36Z",
                         "tagName": "v4.2.0.15"
+                    },
+                    {
+                        "name": "4.2.0.16",
+                        "publishedAt": "2021-05-24T13:49:52Z",
+                        "tagName": "v4.2.0.16"
                     }
                 ]
             }
@@ -10890,6 +11002,11 @@
                         "name": "OpenZFS 2.1.0-rc5",
                         "publishedAt": "2021-05-11T00:27:17Z",
                         "tagName": "zfs-2.1.0-rc5"
+                    },
+                    {
+                        "name": "OpenZFS 2.1.0-rc6",
+                        "publishedAt": "2021-05-28T17:58:40Z",
+                        "tagName": "zfs-2.1.0-rc6"
                     }
                 ]
             }
@@ -10955,6 +11072,16 @@
                 "nodes": []
             }
         },
+        "spack/build-abi-containers": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "spack/build-abi-tests": {
+            "releases": {
+                "nodes": []
+            }
+        },
         "spack/build-si-modeling": {
             "releases": {
                 "nodes": []
@@ -10987,6 +11114,11 @@
             }
         },
         "spack/seps": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "spack/slackin-extended": {
             "releases": {
                 "nodes": []
             }
@@ -11113,6 +11245,11 @@
                         "name": "v0.16.1",
                         "publishedAt": "2021-02-23T00:07:01Z",
                         "tagName": "v0.16.1"
+                    },
+                    {
+                        "name": "v0.16.2",
+                        "publishedAt": "2021-05-22T22:08:23Z",
+                        "tagName": "v0.16.2"
                     }
                 ]
             }
@@ -11178,6 +11315,11 @@
             }
         },
         "spack/spack-search": {
+            "releases": {
+                "nodes": []
+            }
+        },
+        "spack/spack-stack-catalog": {
             "releases": {
                 "nodes": []
             }

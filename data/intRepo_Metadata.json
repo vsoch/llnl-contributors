@@ -1838,6 +1838,12 @@
         ],
         "website": null
     },
+    "LLNL/GpuMatMatPaper": {
+        "description": null,
+        "name": "LLNL/GpuMatMatPaper",
+        "topics": null,
+        "website": null
+    },
     "LLNL/Gremlins": {
         "description": "Flexible and extensible framework to emulate expected exascale architecture characteristics",
         "name": "LLNL/Gremlins",
@@ -3269,14 +3275,18 @@
         "website": null
     },
     "LLNL/inq": {
-        "description": null,
+        "description": "This is a mirror. Please check our main website on gitlab.",
         "name": "LLNL/inq",
         "topics": [
-            "proxy-application",
             "hpc",
-            "math-physics"
+            "math-physics",
+            "dft",
+            "gpu-parallelization",
+            "llnl",
+            "inq",
+            "exchange-correlation-functionals"
         ],
-        "website": null
+        "website": "https://gitlab.com/npneq/inq/"
     },
     "LLNL/ior": {
         "description": "Parallel filesystem I/O benchmark",
@@ -5365,6 +5375,18 @@
         "topics": null,
         "website": null
     },
+    "spack/build-abi-containers": {
+        "description": "A container testing framework for ABI (under development)",
+        "name": "spack/build-abi-containers",
+        "topics": null,
+        "website": null
+    },
+    "spack/build-abi-tests": {
+        "description": null,
+        "name": "spack/build-abi-tests",
+        "topics": null,
+        "website": null
+    },
     "spack/build-si-modeling": {
         "description": null,
         "name": "spack/build-si-modeling",
@@ -5412,6 +5434,12 @@
         "name": "spack/seps",
         "topics": null,
         "website": null
+    },
+    "spack/slackin-extended": {
+        "description": "Public Slack organizations made easy (extended fork of rauchg/slackin)",
+        "name": "spack/slackin-extended",
+        "topics": null,
+        "website": "https://slackin-extended.emedvedev.now.sh"
     },
     "spack/spack": {
         "description": "A flexible package manager that supports multiple versions, configurations, platforms, and compilers.",
@@ -5512,6 +5540,16 @@
             "dlopen"
         ],
         "website": "https://spack.github.io/spack-search/"
+    },
+    "spack/spack-stack-catalog": {
+        "description": "A community catalog of spack stacks  \u2b50",
+        "name": "spack/spack-stack-catalog",
+        "topics": [
+            "spack",
+            "spack-stack",
+            "catalog"
+        ],
+        "website": "https://spack.github.io/spack-stack-catalog/"
     },
     "spack/spack-tutorial": {
         "description": "Standalone Spack Tutorial Repository",

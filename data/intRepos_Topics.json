@@ -3069,6 +3069,12 @@
                 "totalCount": 1
             }
         },
+        "LLNL/GpuMatMatPaper": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "LLNL/Gremlins": {
             "repositoryTopics": {
                 "nodes": [
@@ -6459,13 +6465,6 @@
             "repositoryTopics": {
                 "nodes": [
                     {
-                        "resourcePath": "/topics/proxy-application",
-                        "topic": {
-                            "name": "proxy-application"
-                        },
-                        "url": "https://github.com/topics/proxy-application"
-                    },
-                    {
                         "resourcePath": "/topics/hpc",
                         "topic": {
                             "name": "hpc"
@@ -6478,9 +6477,44 @@
                             "name": "math-physics"
                         },
                         "url": "https://github.com/topics/math-physics"
+                    },
+                    {
+                        "resourcePath": "/topics/dft",
+                        "topic": {
+                            "name": "dft"
+                        },
+                        "url": "https://github.com/topics/dft"
+                    },
+                    {
+                        "resourcePath": "/topics/gpu-parallelization",
+                        "topic": {
+                            "name": "gpu-parallelization"
+                        },
+                        "url": "https://github.com/topics/gpu-parallelization"
+                    },
+                    {
+                        "resourcePath": "/topics/llnl",
+                        "topic": {
+                            "name": "llnl"
+                        },
+                        "url": "https://github.com/topics/llnl"
+                    },
+                    {
+                        "resourcePath": "/topics/inq",
+                        "topic": {
+                            "name": "inq"
+                        },
+                        "url": "https://github.com/topics/inq"
+                    },
+                    {
+                        "resourcePath": "/topics/exchange-correlation-functionals",
+                        "topic": {
+                            "name": "exchange-correlation-functionals"
+                        },
+                        "url": "https://github.com/topics/exchange-correlation-functionals"
                     }
                 ],
-                "totalCount": 3
+                "totalCount": 7
             }
         },
         "LLNL/ior": {
@@ -10850,6 +10884,18 @@
                 "totalCount": 0
             }
         },
+        "spack/build-abi-containers": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "spack/build-abi-tests": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
         "spack/build-si-modeling": {
             "repositoryTopics": {
                 "nodes": [],
@@ -10953,6 +10999,12 @@
             }
         },
         "spack/seps": {
+            "repositoryTopics": {
+                "nodes": [],
+                "totalCount": 0
+            }
+        },
+        "spack/slackin-extended": {
             "repositoryTopics": {
                 "nodes": [],
                 "totalCount": 0
@@ -11134,6 +11186,34 @@
                     }
                 ],
                 "totalCount": 1
+            }
+        },
+        "spack/spack-stack-catalog": {
+            "repositoryTopics": {
+                "nodes": [
+                    {
+                        "resourcePath": "/topics/spack",
+                        "topic": {
+                            "name": "spack"
+                        },
+                        "url": "https://github.com/topics/spack"
+                    },
+                    {
+                        "resourcePath": "/topics/spack-stack",
+                        "topic": {
+                            "name": "spack-stack"
+                        },
+                        "url": "https://github.com/topics/spack-stack"
+                    },
+                    {
+                        "resourcePath": "/topics/catalog",
+                        "topic": {
+                            "name": "catalog"
+                        },
+                        "url": "https://github.com/topics/catalog"
+                    }
+                ],
+                "totalCount": 3
             }
         },
         "spack/spack-tutorial": {
