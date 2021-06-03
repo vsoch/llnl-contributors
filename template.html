@@ -127,6 +127,7 @@ var myBarChart = new Chart(ctx, {
     data: data,
     options: {
         responsive: true,
+        animation: false,
         scales: { xAxes: [{ stacked: true}], yAxes: [{stacked: true}]},
         maintainAspectRatio: false,
         legend: {
@@ -163,6 +164,7 @@ var myBarChart2 = new Chart(ctx2, {
     data: data2,
     options: {
         responsive: true,
+        animation: false,
         maintainAspectRatio: false,
         legend: {
             position: 'left',
@@ -202,6 +204,7 @@ var myBarChart{{ key }} = new Chart(ctx{{ key }}, {
     data: data{{ key }},
     options: {
         responsive: true,
+        animation: false,
         maintainAspectRatio: false,
         legend: {
             position: 'left',

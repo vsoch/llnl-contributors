@@ -3,7 +3,7 @@
 This is a small project to use a subset of data from [the LLNL open source site](https://llnl.github.io/)
 to quickly answer:
 
- - What is the breakdown of interal vs. external contributors for LLNL open source repositories.
+ - What is the breakdown of interal vs. external contributors for LLNL open source repositories?
  - Within a repository, where do our contributors come from?
  - Which repositories have opportunity to improve documentation and engagement?
  
@@ -22,6 +22,20 @@ basis with a [github workflow](.github/workflows/main.yml).
 
 ## Contributor Friendliness Analysis
 
-I plan to look closely at individual projects and make an assessment about
-how well they are doing in terms of documentation, branding, getting started / install
-/ tutorials, etc.
+From the above exploration we learn that:
+
+ - We have a few projects that are excelling in attracting external contributors
+ - The most "popular" projects are possibly not contributor friendly. 
+ - What about the long tail?
+
+The next step must be to look closely at individual projects and make an assessment about
+how well they are doing in terms of contributor friendliness. Once we understand
+this landscape, we can plan targeted action to engage with external contributors.
+ 
+ - [contributor-friendliness](contributor-friendliness)
+ 
+## TODO
+
+- need a "fresh from the start" way to download users (and label internal/external)
+- make this into a GitHub action
+- create structure for contributor friendliness survey

@@ -148,6 +148,7 @@ var myBarChart = new Chart(ctx, {
     type: 'bar',
     data: data,
     options: {
+        animation: false,
         responsive: true,
         scales: { xAxes: [{ stacked: true}], yAxes: [{stacked: true}]},
         maintainAspectRatio: false,
@@ -185,6 +186,7 @@ var myBarChart2 = new Chart(ctx2, {
     data: data2,
     options: {
         responsive: true,
+        animation: false,
         maintainAspectRatio: false,
         legend: {
             position: 'left',
@@ -233,6 +235,7 @@ var myBarCharttotal = new Chart(ctxtotal, {
     data: datatotal,
     options: {
         responsive: true,
+        animation: false,
         maintainAspectRatio: false,
         legend: {
             position: 'left',
@@ -256,6 +259,7 @@ var myBarChartinternal = new Chart(ctxinternal, {
     data: datainternal,
     options: {
         responsive: true,
+        animation: false,
         maintainAspectRatio: false,
         legend: {
             position: 'left',
