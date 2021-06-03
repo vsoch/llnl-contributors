@@ -90,9 +90,9 @@
         "total": 38
     },
     "LLNL/conduit": {
-        "external": 4,
+        "external": 5,
         "internal": 32,
-        "total": 36
+        "total": 37
     },
     "spack/spack-configs": {
         "external": 26,
@@ -1515,8 +1515,8 @@
         "total": 10
     },
     "LLNL/RASE": {
-        "external": 1,
-        "internal": 9,
+        "external": 0,
+        "internal": 10,
         "total": 10
     },
     "LLNL/Sedov-ML": {

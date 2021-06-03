@@ -954,6 +954,11 @@
         "internal": 40,
         "total": 45
     },
+    "LLNL/conduit": {
+        "external": 5,
+        "internal": 32,
+        "total": 37
+    },
     "LLNL/libmsr": {
         "external": 5,
         "internal": 21,
@@ -1208,11 +1213,6 @@
         "external": 5,
         "internal": 0,
         "total": 5
-    },
-    "LLNL/conduit": {
-        "external": 4,
-        "internal": 32,
-        "total": 36
     },
     "LLNL/RAJAPerf": {
         "external": 4,
@@ -2369,11 +2369,6 @@
         "internal": 9,
         "total": 10
     },
-    "LLNL/RASE": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
     "LLNL/Sedov-ML": {
         "external": 1,
         "internal": 9,
@@ -2905,6 +2900,11 @@
         "total": 10
     },
     "LLNL/RAJA-tutorials": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/RASE": {
         "external": 0,
         "internal": 10,
         "total": 10
