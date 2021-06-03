@@ -31,11 +31,3 @@ From the above exploration we learn that:
 The next step must be to look closely at individual projects and make an assessment about
 how well they are doing in terms of contributor friendliness. Once we understand
 this landscape, we can plan targeted action to engage with external contributors.
- 
- - [contributor-friendliness](contributor-friendliness)
- 
-## TODO
-
-- need a "fresh from the start" way to download users (and label internal/external)
-- make this into a GitHub action
-- create structure for contributor friendliness survey

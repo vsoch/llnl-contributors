@@ -75,6 +75,18 @@ larger!" you are spot on. Note that spack/spack.io and LLNL/spotfe are also fake
 
 <p class="info">This is slightly better, but now we can see that the bulk majority have less than 10 unique contributors. Now let's more cleanly separate internal, external, and total from this filtered set.</p>
 
+<h2>External vs Total</h2>
+
+<div style="width: 100%; overflow-x: auto; overflow-y: hidden">
+  <div style="width: 1000px; height: 600px">
+    <canvas id="scatterplot" width="1000" height="600"></canvas>
+  </div>
+</div>
+
+<p class="info"></p>
+
+
+
 {% for key in keys %}
 <h2>Filtered Contributors: {{ key.capitalize() }}</h2>
 <div style="width: 100%; overflow-x: auto; overflow-y: hidden">
@@ -239,6 +251,53 @@ var myChart{{ key }} = new Chart(ctx{{ key }}, {
 });
 
 {% endfor %}
+
+
+// scatterplot comparing external percentage versus total
+const scatter_data = {
+  datasets: [{
+    label: "Percentage external contributors",
+    labels: [{% for repo, meta in scatterplot.items() %}"{{ repo }}"{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    data: [{% for repo, meta in scatterplot.items() %}{x: {{ meta.percentage_external }}, y: {{ meta.total }}}{% if loop.last %}{% else %},{% endif %}{% endfor %}],
+    fill: false,
+    showLine: false,
+    backgroundColor: 'rgb(255, 99, 132)'
+  }]
+};
+
+var ctx_scatter = document.getElementById("scatterplot").getContext("2d");
+var scatter_config =  new Chart(ctx_scatter, {
+  type: 'scatter',
+  data: scatter_data,
+
+  options: {
+      tooltips: {
+         callbacks: {
+            label: function(tooltipItem, data) {
+                return data.datasets[0].labels[tooltipItem.index];
+            }
+         }
+    },
+    scales: {
+    yAxes: [{
+      scaleLabel: {
+        display: true,
+        labelString: 'Total'
+      }
+    }],
+   xAxes: [{
+      scaleLabel: {
+        display: true,
+        labelString: 'Percentage external'
+      }
+    }]
+
+
+    }
+  }
+});
+
+
 </script>
   </body>
 </html>

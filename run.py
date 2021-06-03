@@ -165,6 +165,18 @@ summary = {
     "fewer_10_percent": round(count_fewer_10 / len(repos), 2) * 100,
 }
 
+# Scatterplot
+# on X axis the percentage of external users
+# on Y axis the total number of contributors
+# the name of the project when hovering the data point
+
+scatterplot = {}
+for name, counts in repos.items():
+    scatterplot[name] = {
+        "percentage_external": round(counts["external"] / counts["total"], 2),
+        "total": counts["total"],
+    }
+
 # Write to template
 with open("template.html", "r") as fd:
     template = Template(fd.read())
@@ -178,6 +190,7 @@ result = template.render(
     internal=internal_sorted,
     external=external_sorted,
     summary=summary,
+    scatterplot=scatterplot,
 )
 with open("index.html", "w") as fd:
     fd.write(result)
