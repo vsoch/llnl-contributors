@@ -234,19 +234,14 @@
         "internal": 19,
         "total": 25
     },
+    "LLNL/scr": {
+        "external": 7,
+        "internal": 17,
+        "total": 24
+    },
     "LLNL/wrap": {
         "external": 6,
         "internal": 18,
-        "total": 24
-    },
-    "spack/build-abi-tests": {
-        "external": 12,
-        "internal": 12,
-        "total": 24
-    },
-    "spack/build-si-modeling": {
-        "external": 12,
-        "internal": 12,
         "total": 24
     },
     "spack/spack-monitor": {
@@ -262,11 +257,6 @@
     "LLNL/UnifyFS": {
         "external": 10,
         "internal": 13,
-        "total": 23
-    },
-    "LLNL/scr": {
-        "external": 6,
-        "internal": 17,
         "total": 23
     },
     "ESGF/esgf.github.io": {
@@ -2854,11 +2844,6 @@
         "internal": 0,
         "total": 8
     },
-    "spack/Smeagle": {
-        "external": 2,
-        "internal": 5,
-        "total": 7
-    },
     "spack/contrib": {
         "external": 2,
         "internal": 5,
@@ -2982,11 +2967,6 @@
     "ECP-VeloC/filo": {
         "external": 2,
         "internal": 4,
-        "total": 6
-    },
-    "spack/build-abi-containers": {
-        "external": 1,
-        "internal": 5,
         "total": 6
     },
     "spack/spack-bibliography": {

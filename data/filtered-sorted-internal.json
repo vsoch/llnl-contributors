@@ -275,9 +275,9 @@
         "total": 18
     },
     "LLNL/scr": {
-        "external": 6,
+        "external": 7,
         "internal": 17,
-        "total": 23
+        "total": 24
     },
     "LLNL/libROM": {
         "external": 2,
@@ -508,16 +508,6 @@
         "external": 20,
         "internal": 12,
         "total": 32
-    },
-    "spack/build-abi-tests": {
-        "external": 12,
-        "internal": 12,
-        "total": 24
-    },
-    "spack/build-si-modeling": {
-        "external": 12,
-        "internal": 12,
-        "total": 24
     },
     "spack/spack-monitor": {
         "external": 12,
@@ -2294,11 +2284,6 @@
         "internal": 5,
         "total": 8
     },
-    "spack/Smeagle": {
-        "external": 2,
-        "internal": 5,
-        "total": 7
-    },
     "spack/contrib": {
         "external": 2,
         "internal": 5,
@@ -2318,11 +2303,6 @@
         "external": 2,
         "internal": 5,
         "total": 7
-    },
-    "spack/build-abi-containers": {
-        "external": 1,
-        "internal": 5,
-        "total": 6
     },
     "spack/spack-bibliography": {
         "external": 1,

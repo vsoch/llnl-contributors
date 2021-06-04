@@ -344,16 +344,6 @@
         "internal": 0,
         "total": 13
     },
-    "spack/build-abi-tests": {
-        "external": 12,
-        "internal": 12,
-        "total": 24
-    },
-    "spack/build-si-modeling": {
-        "external": 12,
-        "internal": 12,
-        "total": 24
-    },
     "spack/spack-monitor": {
         "external": 12,
         "internal": 12,
@@ -754,6 +744,11 @@
         "internal": 19,
         "total": 26
     },
+    "LLNL/scr": {
+        "external": 7,
+        "internal": 17,
+        "total": 24
+    },
     "flux-framework/flux-sched": {
         "external": 7,
         "internal": 12,
@@ -838,11 +833,6 @@
         "external": 6,
         "internal": 18,
         "total": 24
-    },
-    "LLNL/scr": {
-        "external": 6,
-        "internal": 17,
-        "total": 23
     },
     "LLNL/SAMRAI": {
         "external": 6,
@@ -1979,11 +1969,6 @@
         "internal": 7,
         "total": 9
     },
-    "spack/Smeagle": {
-        "external": 2,
-        "internal": 5,
-        "total": 7
-    },
     "spack/contrib": {
         "external": 2,
         "internal": 5,
@@ -2543,11 +2528,6 @@
         "external": 1,
         "internal": 8,
         "total": 9
-    },
-    "spack/build-abi-containers": {
-        "external": 1,
-        "internal": 5,
-        "total": 6
     },
     "spack/spack-bibliography": {
         "external": 1,
