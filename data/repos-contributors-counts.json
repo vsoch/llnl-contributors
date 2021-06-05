@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 765,
+        "external": 767,
         "internal": 60,
-        "total": 825
+        "total": 827
     },
     "openzfs/zfs": {
         "external": 444,
@@ -93,6 +93,11 @@
         "external": 14,
         "internal": 39,
         "total": 53
+    },
+    "CEED/Remhos": {
+        "external": 35,
+        "internal": 12,
+        "total": 47
     },
     "visit-dav/visit": {
         "external": 41,
@@ -1472,6 +1477,11 @@
     "LLNL/Collabmaps": {
         "external": 1,
         "internal": 9,
+        "total": 10
+    },
+    "LLNL/ExaCA": {
+        "external": 0,
+        "internal": 10,
         "total": 10
     },
     "LLNL/FAST": {

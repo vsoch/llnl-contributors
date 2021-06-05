@@ -64,6 +64,11 @@
         "internal": 21,
         "total": 56
     },
+    "CEED/Remhos": {
+        "external": 35,
+        "internal": 12,
+        "total": 47
+    },
     "mfem/github-actions": {
         "external": 34,
         "internal": 24,
@@ -2845,6 +2850,11 @@
         "total": 10
     },
     "LLNL/AMG": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/ExaCA": {
         "external": 0,
         "internal": 10,
         "total": 10
