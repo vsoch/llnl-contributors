@@ -1,13 +1,13 @@
 {
     "spack/spack": {
-        "external": 767,
+        "external": 768,
         "internal": 60,
-        "total": 827
+        "total": 828
     },
     "openzfs/zfs": {
-        "external": 444,
+        "external": 445,
         "internal": 4,
-        "total": 448
+        "total": 449
     },
     "mfem/mfem": {
         "external": 327,
@@ -1274,6 +1274,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/ExaCA": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/ExaCMech": {
         "external": 0,
         "internal": 11,
@@ -1477,11 +1482,6 @@
     "LLNL/Collabmaps": {
         "external": 1,
         "internal": 9,
-        "total": 10
-    },
-    "LLNL/ExaCA": {
-        "external": 0,
-        "internal": 10,
         "total": 10
     },
     "LLNL/FAST": {
@@ -2550,6 +2550,11 @@
         "total": 9
     },
     "flux-framework/flux-spack": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/fripp": {
         "external": 3,
         "internal": 6,
         "total": 9

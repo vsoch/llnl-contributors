@@ -1664,6 +1664,11 @@
         "internal": 6,
         "total": 9
     },
+    "flux-framework/fripp": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
     "flux-framework/planning": {
         "external": 3,
         "internal": 6,
@@ -2269,6 +2274,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/ExaCA": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/FAROS": {
         "external": 1,
         "internal": 10,
@@ -2850,11 +2860,6 @@
         "total": 10
     },
     "LLNL/AMG": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/ExaCA": {
         "external": 0,
         "internal": 10,
         "total": 10
