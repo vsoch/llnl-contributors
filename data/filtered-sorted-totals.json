@@ -174,6 +174,11 @@
         "internal": 13,
         "total": 29
     },
+    "Alpine-DAV/ascent": {
+        "external": 25,
+        "internal": 4,
+        "total": 29
+    },
     "LLNL/llnl.github.io": {
         "external": 3,
         "internal": 25,
@@ -182,11 +187,6 @@
     "LLNL/zfp": {
         "external": 13,
         "internal": 15,
-        "total": 28
-    },
-    "Alpine-DAV/ascent": {
-        "external": 24,
-        "internal": 4,
         "total": 28
     },
     "hpc/dcp": {
@@ -609,6 +609,11 @@
         "internal": 14,
         "total": 17
     },
+    "LLNL/merlin": {
+        "external": 3,
+        "internal": 14,
+        "total": 17
+    },
     "flux-framework/flux-core-v0.11": {
         "external": 7,
         "internal": 10,
@@ -679,11 +684,6 @@
         "internal": 13,
         "total": 16
     },
-    "LLNL/merlin": {
-        "external": 2,
-        "internal": 14,
-        "total": 16
-    },
     "LLNL/scraper": {
         "external": 5,
         "internal": 11,
@@ -732,6 +732,11 @@
     "LLNL/RAJA-project-template": {
         "external": 0,
         "internal": 15,
+        "total": 15
+    },
+    "LLNL/merlin-spellbook": {
+        "external": 2,
+        "internal": 13,
         "total": 15
     },
     "LLNL/mpiP": {
@@ -805,11 +810,6 @@
         "total": 14
     },
     "LLNL/mdtest": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/merlin-spellbook": {
         "external": 1,
         "internal": 13,
         "total": 14
@@ -1584,6 +1584,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/clippy-tutorial": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/cowc": {
         "external": 1,
         "internal": 9,
@@ -1635,6 +1640,11 @@
         "total": 10
     },
     "LLNL/melodee": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/metall-tutorial": {
         "external": 0,
         "internal": 10,
         "total": 10
@@ -1762,6 +1772,11 @@
     "LLNL/yorick-doc": {
         "external": 1,
         "internal": 9,
+        "total": 10
+    },
+    "flux-framework/fripp": {
+        "external": 3,
+        "internal": 7,
         "total": 10
     },
     "spack/localized-docs": {
@@ -2505,11 +2520,6 @@
         "total": 9
     },
     "flux-framework/flux-spack": {
-        "external": 3,
-        "internal": 6,
-        "total": 9
-    },
-    "flux-framework/fripp": {
         "external": 3,
         "internal": 6,
         "total": 9

@@ -89,15 +89,15 @@
         "internal": 9,
         "total": 35
     },
+    "Alpine-DAV/ascent": {
+        "external": 25,
+        "internal": 4,
+        "total": 29
+    },
     "CDAT/vcs": {
         "external": 25,
         "internal": 2,
         "total": 27
-    },
-    "Alpine-DAV/ascent": {
-        "external": 24,
-        "internal": 4,
-        "total": 28
     },
     "GMLC-TDC/HELICS": {
         "external": 23,
@@ -1554,6 +1554,11 @@
         "internal": 14,
         "total": 17
     },
+    "LLNL/merlin": {
+        "external": 3,
+        "internal": 14,
+        "total": 17
+    },
     "LLNL/lustre-tools-llnl": {
         "external": 3,
         "internal": 13,
@@ -1614,6 +1619,11 @@
         "internal": 7,
         "total": 10
     },
+    "flux-framework/fripp": {
+        "external": 3,
+        "internal": 7,
+        "total": 10
+    },
     "chaos/gendersllnl": {
         "external": 3,
         "internal": 6,
@@ -1660,11 +1670,6 @@
         "total": 9
     },
     "flux-framework/flux-spack": {
-        "external": 3,
-        "internal": 6,
-        "total": 9
-    },
-    "flux-framework/fripp": {
         "external": 3,
         "internal": 6,
         "total": 9
@@ -1884,10 +1889,10 @@
         "internal": 14,
         "total": 16
     },
-    "LLNL/merlin": {
+    "LLNL/merlin-spellbook": {
         "external": 2,
-        "internal": 14,
-        "total": 16
+        "internal": 13,
+        "total": 15
     },
     "LLNL/Aluminum": {
         "external": 2,
@@ -2180,11 +2185,6 @@
         "total": 14
     },
     "LLNL/mdtest": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/merlin-spellbook": {
         "external": 1,
         "internal": 13,
         "total": 14
@@ -2939,6 +2939,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/clippy-tutorial": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/ddcMD": {
         "external": 0,
         "internal": 10,
@@ -2965,6 +2970,11 @@
         "total": 10
     },
     "LLNL/melodee": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/metall-tutorial": {
         "external": 0,
         "internal": 10,
         "total": 10

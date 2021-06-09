@@ -379,12 +379,12 @@
         "internal": 14,
         "total": 17
     },
-    "LLNL/havoqgt": {
-        "external": 2,
-        "internal": 14,
-        "total": 16
-    },
     "LLNL/merlin": {
+        "external": 3,
+        "internal": 14,
+        "total": 17
+    },
+    "LLNL/havoqgt": {
         "external": 2,
         "internal": 14,
         "total": 16
@@ -454,17 +454,17 @@
         "internal": 13,
         "total": 16
     },
+    "LLNL/merlin-spellbook": {
+        "external": 2,
+        "internal": 13,
+        "total": 15
+    },
     "LLNL/fdtree": {
         "external": 1,
         "internal": 13,
         "total": 14
     },
     "LLNL/mdtest": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/merlin-spellbook": {
         "external": 1,
         "internal": 13,
         "total": 14
@@ -949,6 +949,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/clippy-tutorial": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/ddcMD": {
         "external": 0,
         "internal": 10,
@@ -975,6 +980,11 @@
         "total": 10
     },
     "LLNL/melodee": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/metall-tutorial": {
         "external": 0,
         "internal": 10,
         "total": 10
@@ -2024,6 +2034,11 @@
         "internal": 7,
         "total": 10
     },
+    "flux-framework/fripp": {
+        "external": 3,
+        "internal": 7,
+        "total": 10
+    },
     "ECP-VeloC/KVTree": {
         "external": 2,
         "internal": 7,
@@ -2115,11 +2130,6 @@
         "total": 9
     },
     "flux-framework/flux-spack": {
-        "external": 3,
-        "internal": 6,
-        "total": 9
-    },
-    "flux-framework/fripp": {
         "external": 3,
         "internal": 6,
         "total": 9
@@ -2355,9 +2365,9 @@
         "total": 59
     },
     "Alpine-DAV/ascent": {
-        "external": 24,
+        "external": 25,
         "internal": 4,
-        "total": 28
+        "total": 29
     },
     "openzfs/zfs-buildbot": {
         "external": 17,
