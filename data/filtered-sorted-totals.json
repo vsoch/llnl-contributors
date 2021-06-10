@@ -5,9 +5,9 @@
         "total": 94
     },
     "mfem/web": {
-        "external": 46,
+        "external": 47,
         "internal": 35,
-        "total": 81
+        "total": 82
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -29,15 +29,15 @@
         "internal": 18,
         "total": 59
     },
+    "mfem/github-actions": {
+        "external": 35,
+        "internal": 24,
+        "total": 59
+    },
     "openzfs/spl": {
         "external": 55,
         "internal": 4,
         "total": 59
-    },
-    "mfem/github-actions": {
-        "external": 34,
-        "internal": 24,
-        "total": 58
     },
     "GLVis/glvis": {
         "external": 35,
@@ -89,15 +89,15 @@
         "internal": 30,
         "total": 40
     },
+    "LLNL/conduit": {
+        "external": 6,
+        "internal": 32,
+        "total": 38
+    },
     "openzfs/openzfs-docs": {
         "external": 36,
         "internal": 2,
         "total": 38
-    },
-    "LLNL/conduit": {
-        "external": 5,
-        "internal": 32,
-        "total": 37
     },
     "spack/spack-configs": {
         "external": 26,
@@ -1224,7 +1224,7 @@
         "internal": 11,
         "total": 11
     },
-    "LLNL/Admiral": {
+    "LLNL/Abmarl": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -1277,6 +1277,11 @@
     "LLNL/certipy": {
         "external": 3,
         "internal": 8,
+        "total": 11
+    },
+    "LLNL/clippy-tutorial": {
+        "external": 1,
+        "internal": 10,
         "total": 11
     },
     "LLNL/devil_ray": {
@@ -1580,11 +1585,6 @@
         "total": 10
     },
     "LLNL/clippy-cpp": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/clippy-tutorial": {
         "external": 0,
         "internal": 10,
         "total": 10

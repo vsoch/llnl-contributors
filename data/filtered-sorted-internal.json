@@ -10,9 +10,9 @@
         "total": 53
     },
     "mfem/web": {
-        "external": 46,
+        "external": 47,
         "internal": 35,
-        "total": 81
+        "total": 82
     },
     "LLNL/gidiplus": {
         "external": 0,
@@ -20,9 +20,9 @@
         "total": 33
     },
     "LLNL/conduit": {
-        "external": 5,
+        "external": 6,
         "internal": 32,
-        "total": 37
+        "total": 38
     },
     "LLNL/blt": {
         "external": 10,
@@ -50,9 +50,9 @@
         "total": 28
     },
     "mfem/github-actions": {
-        "external": 34,
+        "external": 35,
         "internal": 24,
-        "total": 58
+        "total": 59
     },
     "LLNL/Umpire": {
         "external": 8,
@@ -814,7 +814,7 @@
         "internal": 10,
         "total": 11
     },
-    "LLNL/Admiral": {
+    "LLNL/Abmarl": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -835,6 +835,11 @@
         "total": 11
     },
     "LLNL/caliper-examples": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/clippy-tutorial": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -945,11 +950,6 @@
         "total": 10
     },
     "LLNL/clippy-cpp": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/clippy-tutorial": {
         "external": 0,
         "internal": 10,
         "total": 10
