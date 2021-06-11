@@ -275,9 +275,9 @@
         "total": 18
     },
     "LLNL/scr": {
-        "external": 7,
+        "external": 8,
         "internal": 17,
-        "total": 24
+        "total": 25
     },
     "LLNL/libROM": {
         "external": 2,

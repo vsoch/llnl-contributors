@@ -229,6 +229,11 @@
         "internal": 3,
         "total": 26
     },
+    "LLNL/scr": {
+        "external": 8,
+        "internal": 17,
+        "total": 25
+    },
     "LLNL/Caliper": {
         "external": 10,
         "internal": 15,
@@ -238,11 +243,6 @@
         "external": 6,
         "internal": 19,
         "total": 25
-    },
-    "LLNL/scr": {
-        "external": 7,
-        "internal": 17,
-        "total": 24
     },
     "LLNL/wrap": {
         "external": 6,

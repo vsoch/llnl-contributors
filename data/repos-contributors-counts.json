@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 769,
+        "external": 771,
         "internal": 60,
-        "total": 829
+        "total": 831
     },
     "openzfs/zfs": {
         "external": 445,
@@ -10,14 +10,14 @@
         "total": 449
     },
     "mfem/mfem": {
-        "external": 327,
+        "external": 328,
         "internal": 81,
-        "total": 408
+        "total": 409
     },
     "mfem/data": {
-        "external": 325,
+        "external": 326,
         "internal": 80,
-        "total": 405
+        "total": 406
     },
     "mfem/PyMFEM": {
         "external": 202,
@@ -34,15 +34,15 @@
         "internal": 31,
         "total": 141
     },
+    "LLNL/lustre": {
+        "external": 105,
+        "internal": 13,
+        "total": 118
+    },
     "LLNL/spotfe": {
         "external": 105,
         "internal": 12,
         "total": 117
-    },
-    "LLNL/lustre": {
-        "external": 103,
-        "internal": 13,
-        "total": 116
     },
     "CDAT/cdat": {
         "external": 93,
@@ -274,6 +274,11 @@
         "internal": 3,
         "total": 26
     },
+    "LLNL/scr": {
+        "external": 8,
+        "internal": 17,
+        "total": 25
+    },
     "LLNL/Caliper": {
         "external": 10,
         "internal": 15,
@@ -283,11 +288,6 @@
         "external": 6,
         "internal": 19,
         "total": 25
-    },
-    "LLNL/scr": {
-        "external": 7,
-        "internal": 17,
-        "total": 24
     },
     "LLNL/wrap": {
         "external": 6,
