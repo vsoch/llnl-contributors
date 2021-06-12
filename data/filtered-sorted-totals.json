@@ -59,15 +59,15 @@
         "internal": 6,
         "total": 47
     },
+    "LLNL/axom": {
+        "external": 5,
+        "internal": 41,
+        "total": 46
+    },
     "jpype-project/jpype": {
         "external": 45,
         "internal": 1,
         "total": 46
-    },
-    "LLNL/axom": {
-        "external": 5,
-        "internal": 40,
-        "total": 45
     },
     "rose-compiler/rose": {
         "external": 39,
