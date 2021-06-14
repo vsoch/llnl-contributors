@@ -709,6 +709,11 @@
         "internal": 11,
         "total": 11
     },
+    "LLNL/clippy": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
     "LLNL/py-hostlist": {
         "external": 0,
         "internal": 11,
@@ -940,11 +945,6 @@
         "total": 10
     },
     "LLNL/barni": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/clippy": {
         "external": 0,
         "internal": 10,
         "total": 10
@@ -2400,9 +2400,9 @@
         "total": 6
     },
     "GMLC-TDC/HELICS": {
-        "external": 23,
+        "external": 24,
         "internal": 3,
-        "total": 26
+        "total": 27
     },
     "ESGF/esgf.github.io": {
         "external": 20,

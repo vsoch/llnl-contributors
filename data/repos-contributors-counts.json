@@ -11,18 +11,18 @@
     },
     "mfem/mfem": {
         "external": 329,
-        "internal": 81,
-        "total": 410
+        "internal": 83,
+        "total": 412
     },
     "mfem/data": {
         "external": 327,
-        "internal": 80,
-        "total": 407
+        "internal": 82,
+        "total": 409
     },
     "mfem/PyMFEM": {
         "external": 202,
-        "internal": 32,
-        "total": 234
+        "internal": 33,
+        "total": 235
     },
     "spack/spack.io": {
         "external": 174,
@@ -249,6 +249,11 @@
         "internal": 2,
         "total": 27
     },
+    "GMLC-TDC/HELICS": {
+        "external": 24,
+        "internal": 3,
+        "total": 27
+    },
     "LLNL/maestrowf": {
         "external": 4,
         "internal": 22,
@@ -267,11 +272,6 @@
     "LLNL/msr-safe": {
         "external": 5,
         "internal": 21,
-        "total": 26
-    },
-    "GMLC-TDC/HELICS": {
-        "external": 23,
-        "internal": 3,
         "total": 26
     },
     "LLNL/scr": {
@@ -1324,6 +1324,11 @@
         "internal": 8,
         "total": 11
     },
+    "LLNL/clippy": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
     "LLNL/clippy-tutorial": {
         "external": 1,
         "internal": 10,
@@ -1622,11 +1627,6 @@
     "LLNL/bridge-kernel": {
         "external": 1,
         "internal": 9,
-        "total": 10
-    },
-    "LLNL/clippy": {
-        "external": 0,
-        "internal": 10,
         "total": 10
     },
     "LLNL/clippy-cpp": {
