@@ -285,9 +285,9 @@
         "total": 18
     },
     "LLNL/zfp": {
-        "external": 13,
+        "external": 14,
         "internal": 15,
-        "total": 28
+        "total": 29
     },
     "LLNL/Caliper": {
         "external": 10,

@@ -264,6 +264,11 @@
         "internal": 18,
         "total": 32
     },
+    "LLNL/zfp": {
+        "external": 14,
+        "internal": 15,
+        "total": 29
+    },
     "chaos/slurm": {
         "external": 14,
         "internal": 5,
@@ -313,11 +318,6 @@
         "external": 14,
         "internal": 0,
         "total": 14
-    },
-    "LLNL/zfp": {
-        "external": 13,
-        "internal": 15,
-        "total": 28
     },
     "ESGF/compute": {
         "external": 13,
