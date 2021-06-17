@@ -304,6 +304,11 @@
         "internal": 0,
         "total": 23
     },
+    "LLNL/spheral": {
+        "external": 9,
+        "internal": 13,
+        "total": 22
+    },
     "mfem/doxygen": {
         "external": 9,
         "internal": 13,
@@ -342,11 +347,6 @@
     "LLNL/serac": {
         "external": 2,
         "internal": 19,
-        "total": 21
-    },
-    "LLNL/spheral": {
-        "external": 8,
-        "internal": 13,
         "total": 21
     },
     "openzfs/zfs-buildbot": {
@@ -3094,6 +3094,11 @@
         "internal": 2,
         "total": 6
     },
+    "GMLC-TDC/helics-cli": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
     "GMLC-TDC/helics.org": {
         "external": 4,
         "internal": 2,
@@ -3210,11 +3215,6 @@
         "total": 5
     },
     "GMLC-TDC/cymepy": {
-        "external": 3,
-        "internal": 2,
-        "total": 5
-    },
-    "GMLC-TDC/helics-cli": {
         "external": 3,
         "internal": 2,
         "total": 5
