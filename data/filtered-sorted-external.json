@@ -184,15 +184,15 @@
         "internal": 0,
         "total": 19
     },
+    "openzfs/zfs-buildbot": {
+        "external": 18,
+        "internal": 4,
+        "total": 22
+    },
     "chaos/diod": {
         "external": 17,
         "internal": 5,
         "total": 22
-    },
-    "openzfs/zfs-buildbot": {
-        "external": 17,
-        "internal": 4,
-        "total": 21
     },
     "CDAT/cdat.github.io": {
         "external": 17,

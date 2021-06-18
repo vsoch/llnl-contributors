@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 777,
+        "external": 778,
         "internal": 60,
-        "total": 837
+        "total": 838
     },
     "openzfs/zfs": {
         "external": 445,
@@ -369,6 +369,11 @@
         "internal": 5,
         "total": 22
     },
+    "openzfs/zfs-buildbot": {
+        "external": 18,
+        "internal": 4,
+        "total": 22
+    },
     "LLNL/DiHydrogen": {
         "external": 2,
         "internal": 19,
@@ -392,11 +397,6 @@
     "LLNL/serac": {
         "external": 2,
         "internal": 19,
-        "total": 21
-    },
-    "openzfs/zfs-buildbot": {
-        "external": 17,
-        "internal": 4,
         "total": 21
     },
     "CDAT/cdms": {

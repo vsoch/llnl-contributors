@@ -2370,9 +2370,9 @@
         "total": 29
     },
     "openzfs/zfs-buildbot": {
-        "external": 17,
+        "external": 18,
         "internal": 4,
-        "total": 21
+        "total": 22
     },
     "rose-compiler/build-blocker-plugin": {
         "external": 5,
