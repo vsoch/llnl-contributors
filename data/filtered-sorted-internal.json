@@ -2189,11 +2189,6 @@
         "internal": 5,
         "total": 13
     },
-    "spack/sbang": {
-        "external": 6,
-        "internal": 5,
-        "total": 11
-    },
     "spack/spack-tutorial-container": {
         "external": 6,
         "internal": 5,
@@ -2365,9 +2360,9 @@
         "total": 59
     },
     "Alpine-DAV/ascent": {
-        "external": 25,
+        "external": 26,
         "internal": 4,
-        "total": 29
+        "total": 30
     },
     "openzfs/zfs-buildbot": {
         "external": 18,
@@ -2475,9 +2470,9 @@
         "total": 3
     },
     "openzfs/openzfs-docs": {
-        "external": 36,
+        "external": 37,
         "internal": 2,
-        "total": 38
+        "total": 39
     },
     "CDAT/vcs": {
         "external": 25,

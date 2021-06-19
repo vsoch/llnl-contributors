@@ -55,9 +55,9 @@
         "total": 44
     },
     "openzfs/openzfs-docs": {
-        "external": 36,
+        "external": 37,
         "internal": 2,
-        "total": 38
+        "total": 39
     },
     "mfem/github-actions": {
         "external": 35,
@@ -90,9 +90,9 @@
         "total": 35
     },
     "Alpine-DAV/ascent": {
-        "external": 25,
+        "external": 26,
         "internal": 4,
-        "total": 29
+        "total": 30
     },
     "CDAT/vcs": {
         "external": 25,
@@ -888,11 +888,6 @@
         "external": 6,
         "internal": 6,
         "total": 12
-    },
-    "spack/sbang": {
-        "external": 6,
-        "internal": 5,
-        "total": 11
     },
     "spack/spack-tutorial-container": {
         "external": 6,
