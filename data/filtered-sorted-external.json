@@ -20,9 +20,9 @@
         "total": 66
     },
     "mfem/web": {
-        "external": 47,
+        "external": 48,
         "internal": 35,
-        "total": 82
+        "total": 83
     },
     "jpype-project/jpype": {
         "external": 45,
@@ -60,9 +60,9 @@
         "total": 39
     },
     "mfem/github-actions": {
-        "external": 35,
+        "external": 36,
         "internal": 24,
-        "total": 59
+        "total": 60
     },
     "GLVis/glvis": {
         "external": 35,

@@ -5,9 +5,9 @@
         "total": 94
     },
     "mfem/web": {
-        "external": 47,
+        "external": 48,
         "internal": 35,
-        "total": 82
+        "total": 83
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -24,14 +24,14 @@
         "internal": 20,
         "total": 63
     },
+    "mfem/github-actions": {
+        "external": 36,
+        "internal": 24,
+        "total": 60
+    },
     "CEED/benchmarks": {
         "external": 41,
         "internal": 18,
-        "total": 59
-    },
-    "mfem/github-actions": {
-        "external": 35,
-        "internal": 24,
         "total": 59
     },
     "openzfs/spl": {
