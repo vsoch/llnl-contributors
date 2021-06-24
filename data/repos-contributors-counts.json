@@ -224,6 +224,11 @@
         "internal": 4,
         "total": 30
     },
+    "LLNL/llnl.github.io": {
+        "external": 4,
+        "internal": 25,
+        "total": 29
+    },
     "LLNL/zfp": {
         "external": 14,
         "internal": 15,
@@ -233,11 +238,6 @@
         "external": 16,
         "internal": 13,
         "total": 29
-    },
-    "LLNL/llnl.github.io": {
-        "external": 3,
-        "internal": 25,
-        "total": 28
     },
     "hpc/dcp": {
         "external": 21,
