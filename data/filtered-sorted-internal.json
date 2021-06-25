@@ -280,9 +280,9 @@
         "total": 25
     },
     "LLNL/libROM": {
-        "external": 2,
+        "external": 3,
         "internal": 16,
-        "total": 18
+        "total": 19
     },
     "LLNL/zfp": {
         "external": 14,
@@ -2395,9 +2395,9 @@
         "total": 6
     },
     "GMLC-TDC/HELICS": {
-        "external": 24,
+        "external": 25,
         "internal": 3,
-        "total": 27
+        "total": 28
     },
     "ESGF/esgf.github.io": {
         "external": 20,

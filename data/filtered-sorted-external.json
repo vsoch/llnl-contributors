@@ -94,14 +94,14 @@
         "internal": 4,
         "total": 30
     },
+    "GMLC-TDC/HELICS": {
+        "external": 25,
+        "internal": 3,
+        "total": 28
+    },
     "CDAT/vcs": {
         "external": 25,
         "internal": 2,
-        "total": 27
-    },
-    "GMLC-TDC/HELICS": {
-        "external": 24,
-        "internal": 3,
         "total": 27
     },
     "ESGF/esgf-installer": {
@@ -1549,6 +1549,11 @@
         "internal": 18,
         "total": 21
     },
+    "LLNL/libROM": {
+        "external": 3,
+        "internal": 16,
+        "total": 19
+    },
     "LLNL/ior": {
         "external": 3,
         "internal": 14,
@@ -1858,11 +1863,6 @@
         "external": 2,
         "internal": 18,
         "total": 20
-    },
-    "LLNL/libROM": {
-        "external": 2,
-        "internal": 16,
-        "total": 18
     },
     "LLNL/umap": {
         "external": 2,

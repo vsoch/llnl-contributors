@@ -189,6 +189,11 @@
         "internal": 13,
         "total": 29
     },
+    "GMLC-TDC/HELICS": {
+        "external": 25,
+        "internal": 3,
+        "total": 28
+    },
     "hpc/dcp": {
         "external": 21,
         "internal": 6,
@@ -202,11 +207,6 @@
     "CDAT/vcs": {
         "external": 25,
         "internal": 2,
-        "total": 27
-    },
-    "GMLC-TDC/HELICS": {
-        "external": 24,
-        "internal": 3,
         "total": 27
     },
     "LLNL/maestrowf": {
@@ -419,6 +419,11 @@
         "internal": 19,
         "total": 19
     },
+    "LLNL/libROM": {
+        "external": 3,
+        "internal": 16,
+        "total": 19
+    },
     "LLNL/llnl-hires-timers": {
         "external": 1,
         "internal": 18,
@@ -522,11 +527,6 @@
     "LLNL/graphlib": {
         "external": 0,
         "internal": 18,
-        "total": 18
-    },
-    "LLNL/libROM": {
-        "external": 2,
-        "internal": 16,
         "total": 18
     },
     "LLNL/magpie": {
