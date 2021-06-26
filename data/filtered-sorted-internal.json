@@ -99,17 +99,17 @@
         "internal": 19,
         "total": 25
     },
+    "LLNL/serac": {
+        "external": 3,
+        "internal": 19,
+        "total": 22
+    },
     "LLNL/DiHydrogen": {
         "external": 2,
         "internal": 19,
         "total": 21
     },
     "LLNL/DragonView": {
-        "external": 2,
-        "internal": 19,
-        "total": 21
-    },
-    "LLNL/serac": {
         "external": 2,
         "internal": 19,
         "total": 21
@@ -280,9 +280,9 @@
         "total": 25
     },
     "LLNL/libROM": {
-        "external": 3,
+        "external": 4,
         "internal": 16,
-        "total": 19
+        "total": 20
     },
     "LLNL/zfp": {
         "external": 14,
@@ -550,9 +550,9 @@
         "total": 16
     },
     "LLNL/Aluminum": {
-        "external": 2,
+        "external": 3,
         "internal": 12,
-        "total": 14
+        "total": 15
     },
     "LLNL/GridDyn": {
         "external": 2,

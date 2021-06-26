@@ -1219,6 +1219,11 @@
         "internal": 22,
         "total": 26
     },
+    "LLNL/libROM": {
+        "external": 4,
+        "internal": 16,
+        "total": 20
+    },
     "LLNL/cardioid": {
         "external": 4,
         "internal": 14,
@@ -1544,15 +1549,15 @@
         "internal": 27,
         "total": 30
     },
+    "LLNL/serac": {
+        "external": 3,
+        "internal": 19,
+        "total": 22
+    },
     "LLNL/STAT": {
         "external": 3,
         "internal": 18,
         "total": 21
-    },
-    "LLNL/libROM": {
-        "external": 3,
-        "internal": 16,
-        "total": 19
     },
     "LLNL/ior": {
         "external": 3,
@@ -1568,6 +1573,11 @@
         "external": 3,
         "internal": 13,
         "total": 16
+    },
+    "LLNL/Aluminum": {
+        "external": 3,
+        "internal": 12,
+        "total": 15
     },
     "LLNL/MACSio": {
         "external": 3,
@@ -1854,11 +1864,6 @@
         "internal": 19,
         "total": 21
     },
-    "LLNL/serac": {
-        "external": 2,
-        "internal": 19,
-        "total": 21
-    },
     "LLNL/adept-utils": {
         "external": 2,
         "internal": 18,
@@ -1883,11 +1888,6 @@
         "external": 2,
         "internal": 13,
         "total": 15
-    },
-    "LLNL/Aluminum": {
-        "external": 2,
-        "internal": 12,
-        "total": 14
     },
     "LLNL/GridDyn": {
         "external": 2,
