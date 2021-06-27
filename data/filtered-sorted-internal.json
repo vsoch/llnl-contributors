@@ -20,9 +20,9 @@
         "total": 33
     },
     "LLNL/conduit": {
-        "external": 6,
+        "external": 7,
         "internal": 32,
-        "total": 38
+        "total": 39
     },
     "LLNL/blt": {
         "external": 10,

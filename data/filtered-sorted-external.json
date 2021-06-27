@@ -749,6 +749,11 @@
         "internal": 0,
         "total": 8
     },
+    "LLNL/conduit": {
+        "external": 7,
+        "internal": 32,
+        "total": 39
+    },
     "LLNL/HPCCEA": {
         "external": 7,
         "internal": 19,
@@ -828,11 +833,6 @@
         "external": 7,
         "internal": 0,
         "total": 7
-    },
-    "LLNL/conduit": {
-        "external": 6,
-        "internal": 32,
-        "total": 38
     },
     "LLNL/PnMPI": {
         "external": 6,
