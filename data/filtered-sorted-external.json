@@ -2549,6 +2549,11 @@
         "internal": 8,
         "total": 9
     },
+    "spack/packages": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
     "spack/spack-bibliography": {
         "external": 1,
         "internal": 5,
