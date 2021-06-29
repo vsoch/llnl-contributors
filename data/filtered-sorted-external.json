@@ -1054,6 +1054,11 @@
         "internal": 5,
         "total": 10
     },
+    "spack/spack-bot": {
+        "external": 5,
+        "internal": 5,
+        "total": 10
+    },
     "chaos/9nbd": {
         "external": 5,
         "internal": 5,
@@ -1703,11 +1708,6 @@
         "external": 3,
         "internal": 6,
         "total": 9
-    },
-    "spack/spack-bot": {
-        "external": 3,
-        "internal": 5,
-        "total": 8
     },
     "spack/spack-stack-catalog": {
         "external": 3,
