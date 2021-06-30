@@ -20,9 +20,9 @@
         "total": 33
     },
     "LLNL/conduit": {
-        "external": 7,
+        "external": 8,
         "internal": 32,
-        "total": 39
+        "total": 40
     },
     "LLNL/blt": {
         "external": 10,
@@ -284,6 +284,11 @@
         "internal": 16,
         "total": 20
     },
+    "LLNL/libyogrt": {
+        "external": 1,
+        "internal": 16,
+        "total": 17
+    },
     "LLNL/zfp": {
         "external": 14,
         "internal": 15,
@@ -309,6 +314,16 @@
         "internal": 15,
         "total": 21
     },
+    "LLNL/lmt": {
+        "external": 5,
+        "internal": 15,
+        "total": 20
+    },
+    "LLNL/ior": {
+        "external": 3,
+        "internal": 15,
+        "total": 18
+    },
     "LLNL/umap": {
         "external": 2,
         "internal": 15,
@@ -325,11 +340,6 @@
         "total": 16
     },
     "LLNL/SNLS": {
-        "external": 1,
-        "internal": 15,
-        "total": 16
-    },
-    "LLNL/libyogrt": {
         "external": 1,
         "internal": 15,
         "total": 16
@@ -364,20 +374,10 @@
         "internal": 14,
         "total": 66
     },
-    "LLNL/lmt": {
-        "external": 5,
-        "internal": 14,
-        "total": 19
-    },
     "LLNL/cardioid": {
         "external": 4,
         "internal": 14,
         "total": 18
-    },
-    "LLNL/ior": {
-        "external": 3,
-        "internal": 14,
-        "total": 17
     },
     "LLNL/merlin": {
         "external": 3,
@@ -388,6 +388,41 @@
         "external": 2,
         "internal": 14,
         "total": 16
+    },
+    "LLNL/lustre-tools-llnl": {
+        "external": 2,
+        "internal": 14,
+        "total": 16
+    },
+    "LLNL/fdtree": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/mdtest": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/mib": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/simul": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/spl": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/zfs": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
     },
     "LLNL/scr-fe": {
         "external": 0,
@@ -449,45 +484,10 @@
         "internal": 13,
         "total": 17
     },
-    "LLNL/lustre-tools-llnl": {
-        "external": 3,
-        "internal": 13,
-        "total": 16
-    },
     "LLNL/merlin-spellbook": {
         "external": 2,
         "internal": 13,
         "total": 15
-    },
-    "LLNL/fdtree": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/mdtest": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/mib": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/simul": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/spl": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/zfs": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
     },
     "LLNL/CARE": {
         "external": 0,
@@ -619,6 +619,11 @@
         "internal": 11,
         "total": 23
     },
+    "LLNL/Rescal-snow": {
+        "external": 6,
+        "internal": 11,
+        "total": 17
+    },
     "LLNL/hiop": {
         "external": 6,
         "internal": 11,
@@ -738,11 +743,6 @@
         "external": 8,
         "internal": 10,
         "total": 18
-    },
-    "LLNL/Rescal-snow": {
-        "external": 7,
-        "internal": 10,
-        "total": 17
     },
     "flux-framework/flux-core-v0.11": {
         "external": 7,

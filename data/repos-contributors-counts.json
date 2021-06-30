@@ -10,19 +10,19 @@
         "total": 451
     },
     "mfem/mfem": {
-        "external": 330,
+        "external": 331,
         "internal": 83,
-        "total": 413
+        "total": 414
     },
     "mfem/data": {
-        "external": 328,
+        "external": 329,
         "internal": 82,
-        "total": 410
+        "total": 411
     },
     "mfem/PyMFEM": {
-        "external": 203,
+        "external": 204,
         "internal": 33,
-        "total": 236
+        "total": 237
     },
     "spack/spack.io": {
         "external": 174,
@@ -35,8 +35,8 @@
         "total": 141
     },
     "LLNL/lustre": {
-        "external": 105,
-        "internal": 13,
+        "external": 104,
+        "internal": 14,
         "total": 118
     },
     "spack/sbang": {
@@ -134,15 +134,15 @@
         "internal": 9,
         "total": 41
     },
+    "LLNL/conduit": {
+        "external": 8,
+        "internal": 32,
+        "total": 40
+    },
     "LLNL/blt": {
         "external": 10,
         "internal": 30,
         "total": 40
-    },
-    "LLNL/conduit": {
-        "external": 7,
-        "internal": 32,
-        "total": 39
     },
     "openzfs/openzfs-docs": {
         "external": 37,
@@ -439,6 +439,11 @@
         "internal": 16,
         "total": 20
     },
+    "LLNL/lmt": {
+        "external": 5,
+        "internal": 15,
+        "total": 20
+    },
     "LLNL/mpi-tools": {
         "external": 1,
         "internal": 19,
@@ -477,11 +482,6 @@
     "LLNL/llnl-hires-timers": {
         "external": 1,
         "internal": 18,
-        "total": 19
-    },
-    "LLNL/lmt": {
-        "external": 5,
-        "internal": 14,
         "total": 19
     },
     "LLNL/perf-dump": {
@@ -579,6 +579,11 @@
         "internal": 18,
         "total": 18
     },
+    "LLNL/ior": {
+        "external": 3,
+        "internal": 15,
+        "total": 18
+    },
     "LLNL/magpie": {
         "external": 8,
         "internal": 10,
@@ -640,8 +645,8 @@
         "total": 17
     },
     "LLNL/Rescal-snow": {
-        "external": 7,
-        "internal": 10,
+        "external": 6,
+        "internal": 11,
         "total": 17
     },
     "LLNL/camp": {
@@ -654,9 +659,9 @@
         "internal": 11,
         "total": 17
     },
-    "LLNL/ior": {
-        "external": 3,
-        "internal": 14,
+    "LLNL/libyogrt": {
+        "external": 1,
+        "internal": 16,
         "total": 17
     },
     "LLNL/merlin": {
@@ -724,14 +729,9 @@
         "internal": 14,
         "total": 16
     },
-    "LLNL/libyogrt": {
-        "external": 1,
-        "internal": 15,
-        "total": 16
-    },
     "LLNL/lustre-tools-llnl": {
-        "external": 3,
-        "internal": 13,
+        "external": 2,
+        "internal": 14,
         "total": 16
     },
     "LLNL/scraper": {
@@ -789,9 +789,24 @@
         "internal": 15,
         "total": 15
     },
+    "LLNL/fdtree": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/mdtest": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
     "LLNL/merlin-spellbook": {
         "external": 2,
         "internal": 13,
+        "total": 15
+    },
+    "LLNL/mib": {
+        "external": 1,
+        "internal": 14,
         "total": 15
     },
     "LLNL/mpiP": {
@@ -809,9 +824,24 @@
         "internal": 15,
         "total": 15
     },
+    "LLNL/simul": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/spl": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
     "LLNL/units": {
         "external": 5,
         "internal": 10,
+        "total": 15
+    },
+    "LLNL/zfs": {
+        "external": 1,
+        "internal": 14,
         "total": 15
     },
     "chaos/scrub": {
@@ -854,44 +884,14 @@
         "internal": 11,
         "total": 14
     },
-    "LLNL/fdtree": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/mdtest": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/mib": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
-    "LLNL/simul": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
     "LLNL/smoothG": {
         "external": 3,
         "internal": 11,
         "total": 14
     },
-    "LLNL/spl": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
-    },
     "LLNL/uberenv": {
         "external": 0,
         "internal": 14,
-        "total": 14
-    },
-    "LLNL/zfs": {
-        "external": 1,
-        "internal": 13,
         "total": 14
     },
     "flux-framework/flux-security": {
