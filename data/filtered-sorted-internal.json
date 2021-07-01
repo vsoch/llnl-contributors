@@ -6,8 +6,8 @@
     },
     "LLNL/RAJA": {
         "external": 14,
-        "internal": 39,
-        "total": 53
+        "internal": 40,
+        "total": 54
     },
     "mfem/web": {
         "external": 48,
@@ -31,13 +31,13 @@
     },
     "LLNL/RAJAPerf": {
         "external": 4,
-        "internal": 28,
-        "total": 32
+        "internal": 29,
+        "total": 33
     },
     "LLNL/RAJAProxies": {
         "external": 2,
-        "internal": 28,
-        "total": 30
+        "internal": 29,
+        "total": 31
     },
     "LLNL/CHAI": {
         "external": 3,
@@ -510,9 +510,9 @@
         "total": 47
     },
     "hypre-space/hypre": {
-        "external": 20,
+        "external": 21,
         "internal": 12,
-        "total": 32
+        "total": 33
     },
     "spack/spack-monitor": {
         "external": 12,
@@ -2398,6 +2398,11 @@
         "external": 2,
         "internal": 4,
         "total": 6
+    },
+    "GLVis/data": {
+        "external": 0,
+        "internal": 4,
+        "total": 4
     },
     "GMLC-TDC/HELICS": {
         "external": 25,

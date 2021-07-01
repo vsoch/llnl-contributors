@@ -129,6 +129,11 @@
         "internal": 1,
         "total": 23
     },
+    "hypre-space/hypre": {
+        "external": 21,
+        "internal": 12,
+        "total": 33
+    },
     "spack/spack-cscs2019": {
         "external": 21,
         "internal": 9,
@@ -148,11 +153,6 @@
         "external": 21,
         "internal": 0,
         "total": 21
-    },
-    "hypre-space/hypre": {
-        "external": 20,
-        "internal": 12,
-        "total": 32
     },
     "ESGF/esgf.github.io": {
         "external": 20,
@@ -246,8 +246,8 @@
     },
     "LLNL/RAJA": {
         "external": 14,
-        "internal": 39,
-        "total": 53
+        "internal": 40,
+        "total": 54
     },
     "GLVis/doxygen": {
         "external": 14,
@@ -1211,8 +1211,8 @@
     },
     "LLNL/RAJAPerf": {
         "external": 4,
-        "internal": 28,
-        "total": 32
+        "internal": 29,
+        "total": 33
     },
     "LLNL/llnl.github.io": {
         "external": 4,
@@ -1846,8 +1846,8 @@
     },
     "LLNL/RAJAProxies": {
         "external": 2,
-        "internal": 28,
-        "total": 30
+        "internal": 29,
+        "total": 31
     },
     "LLNL/DiHydrogen": {
         "external": 2,
@@ -3628,6 +3628,11 @@
         "external": 0,
         "internal": 8,
         "total": 8
+    },
+    "GLVis/data": {
+        "external": 0,
+        "internal": 4,
+        "total": 4
     },
     "mfem/mfem-uberenv": {
         "external": 0,

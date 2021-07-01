@@ -46,8 +46,8 @@
     },
     "LLNL/RAJA": {
         "external": 14,
-        "internal": 39,
-        "total": 53
+        "internal": 40,
+        "total": 54
     },
     "CEED/Remhos": {
         "external": 35,
@@ -114,9 +114,19 @@
         "internal": 33,
         "total": 33
     },
+    "LLNL/RAJAPerf": {
+        "external": 4,
+        "internal": 29,
+        "total": 33
+    },
     "LLNL/lbann": {
         "external": 11,
         "internal": 22,
+        "total": 33
+    },
+    "hypre-space/hypre": {
+        "external": 21,
+        "internal": 12,
         "total": 33
     },
     "GLVis/doxygen": {
@@ -134,19 +144,14 @@
         "internal": 18,
         "total": 32
     },
-    "LLNL/RAJAPerf": {
-        "external": 4,
-        "internal": 28,
-        "total": 32
-    },
-    "hypre-space/hypre": {
-        "external": 20,
-        "internal": 12,
-        "total": 32
-    },
     "LLNL/Umpire": {
         "external": 8,
         "internal": 23,
+        "total": 31
+    },
+    "LLNL/RAJAProxies": {
+        "external": 2,
+        "internal": 29,
         "total": 31
     },
     "spack/seps": {
@@ -157,11 +162,6 @@
     "LLNL/CHAI": {
         "external": 3,
         "internal": 27,
-        "total": 30
-    },
-    "LLNL/RAJAProxies": {
-        "external": 2,
-        "internal": 28,
         "total": 30
     },
     "spack/spack-cscs2019": {
@@ -3332,6 +3332,11 @@
     "PRUNERS/NINJA": {
         "external": 2,
         "internal": 2,
+        "total": 4
+    },
+    "GLVis/data": {
+        "external": 0,
+        "internal": 4,
         "total": 4
     },
     "GMLC-TDC/HELICS-BBX": {
