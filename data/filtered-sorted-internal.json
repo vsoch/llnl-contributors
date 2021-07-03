@@ -729,6 +729,11 @@
         "internal": 11,
         "total": 11
     },
+    "LLNL/radiuss-ci": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
     "LLNL/radiuss-spack-configs": {
         "external": 0,
         "internal": 11,
@@ -1005,11 +1010,6 @@
         "total": 10
     },
     "LLNL/radiuss-automation": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/radiuss-ci": {
         "external": 0,
         "internal": 10,
         "total": 10
