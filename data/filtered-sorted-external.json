@@ -1,8 +1,8 @@
 {
     "CDAT/cdat": {
-        "external": 93,
+        "external": 92,
         "internal": 1,
-        "total": 94
+        "total": 93
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -214,11 +214,6 @@
         "internal": 13,
         "total": 29
     },
-    "CDAT/uvcmetrics": {
-        "external": 16,
-        "internal": 1,
-        "total": 17
-    },
     "ESGF/esgf-prepare": {
         "external": 16,
         "internal": 1,
@@ -232,6 +227,11 @@
     "ESGF/esgf-idp": {
         "external": 16,
         "internal": 0,
+        "total": 16
+    },
+    "CDAT/uvcmetrics": {
+        "external": 15,
+        "internal": 1,
         "total": 16
     },
     "CDAT/vcdat": {
@@ -359,11 +359,6 @@
         "internal": 11,
         "total": 23
     },
-    "CDAT/cdatweb": {
-        "external": 12,
-        "internal": 1,
-        "total": 13
-    },
     "ESGF/esgf-ansible": {
         "external": 12,
         "internal": 0,
@@ -398,6 +393,11 @@
         "external": 11,
         "internal": 12,
         "total": 23
+    },
+    "CDAT/cdatweb": {
+        "external": 11,
+        "internal": 1,
+        "total": 12
     },
     "CDAT/cdutil": {
         "external": 11,
@@ -470,11 +470,6 @@
         "total": 11
     },
     "CDAT/genutil": {
-        "external": 10,
-        "internal": 1,
-        "total": 11
-    },
-    "CDAT/vcs-js": {
         "external": 10,
         "internal": 1,
         "total": 11
@@ -565,6 +560,11 @@
         "total": 10
     },
     "CDAT/uvbot": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
+    "CDAT/vcs-js": {
         "external": 9,
         "internal": 1,
         "total": 10
@@ -3365,6 +3365,11 @@
         "total": 9
     },
     "LLNL/googletest-mpi-listener": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/hypre_matmat_paper": {
         "external": 0,
         "internal": 9,
         "total": 9

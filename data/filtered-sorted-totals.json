@@ -1,8 +1,8 @@
 {
     "CDAT/cdat": {
-        "external": 93,
+        "external": 92,
         "internal": 1,
-        "total": 94
+        "total": 93
     },
     "mfem/web": {
         "external": 48,
@@ -644,11 +644,6 @@
         "internal": 12,
         "total": 17
     },
-    "CDAT/uvcmetrics": {
-        "external": 16,
-        "internal": 1,
-        "total": 17
-    },
     "ESGF/esgf-prepare": {
         "external": 16,
         "internal": 1,
@@ -687,6 +682,11 @@
     "LLNL/scraper": {
         "external": 5,
         "internal": 11,
+        "total": 16
+    },
+    "CDAT/uvcmetrics": {
+        "external": 15,
+        "internal": 1,
         "total": 16
     },
     "CDAT/vcdat": {
@@ -1039,11 +1039,6 @@
         "internal": 5,
         "total": 13
     },
-    "CDAT/cdatweb": {
-        "external": 12,
-        "internal": 1,
-        "total": 13
-    },
     "ESGF/icnwg": {
         "external": 13,
         "internal": 0,
@@ -1162,6 +1157,11 @@
     "ATOMconsortium/AMPL": {
         "external": 10,
         "internal": 2,
+        "total": 12
+    },
+    "CDAT/cdatweb": {
+        "external": 11,
+        "internal": 1,
         "total": 12
     },
     "CDAT/cdutil": {
@@ -1375,11 +1375,6 @@
         "total": 11
     },
     "CDAT/genutil": {
-        "external": 10,
-        "internal": 1,
-        "total": 11
-    },
-    "CDAT/vcs-js": {
         "external": 10,
         "internal": 1,
         "total": 11
@@ -1834,6 +1829,11 @@
         "internal": 1,
         "total": 10
     },
+    "CDAT/vcs-js": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
     "CDAT/vcsaddons": {
         "external": 9,
         "internal": 1,
@@ -2257,6 +2257,11 @@
     "LLNL/graph-embed": {
         "external": 1,
         "internal": 8,
+        "total": 9
+    },
+    "LLNL/hypre_matmat_paper": {
+        "external": 0,
+        "internal": 9,
         "total": 9
     },
     "LLNL/ibtopo": {

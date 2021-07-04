@@ -1599,6 +1599,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/hypre_matmat_paper": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/ibtopo": {
         "external": 0,
         "internal": 9,
@@ -2730,9 +2735,9 @@
         "total": 2
     },
     "CDAT/cdat": {
-        "external": 93,
+        "external": 92,
         "internal": 1,
-        "total": 94
+        "total": 93
     },
     "jpype-project/jpype": {
         "external": 45,
@@ -2769,15 +2774,15 @@
         "internal": 1,
         "total": 18
     },
-    "CDAT/uvcmetrics": {
-        "external": 16,
-        "internal": 1,
-        "total": 17
-    },
     "ESGF/esgf-prepare": {
         "external": 16,
         "internal": 1,
         "total": 17
+    },
+    "CDAT/uvcmetrics": {
+        "external": 15,
+        "internal": 1,
+        "total": 16
     },
     "CDAT/vcdat": {
         "external": 15,
@@ -2805,9 +2810,9 @@
         "total": 14
     },
     "CDAT/cdatweb": {
-        "external": 12,
+        "external": 11,
         "internal": 1,
-        "total": 13
+        "total": 12
     },
     "CDAT/cdutil": {
         "external": 11,
@@ -2825,11 +2830,6 @@
         "total": 11
     },
     "CDAT/genutil": {
-        "external": 10,
-        "internal": 1,
-        "total": 11
-    },
-    "CDAT/vcs-js": {
         "external": 10,
         "internal": 1,
         "total": 11
@@ -2855,6 +2855,11 @@
         "total": 10
     },
     "CDAT/uvbot": {
+        "external": 9,
+        "internal": 1,
+        "total": 10
+    },
+    "CDAT/vcs-js": {
         "external": 9,
         "internal": 1,
         "total": 10
