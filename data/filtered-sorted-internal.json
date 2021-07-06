@@ -2055,14 +2055,14 @@
         "total": 47
     },
     "rose-compiler/rose": {
-        "external": 39,
-        "internal": 6,
-        "total": 45
-    },
-    "rose-compiler/rose-develop": {
         "external": 38,
         "internal": 6,
         "total": 44
+    },
+    "rose-compiler/rose-develop": {
+        "external": 37,
+        "internal": 6,
+        "total": 43
     },
     "hpc/dcp": {
         "external": 21,
