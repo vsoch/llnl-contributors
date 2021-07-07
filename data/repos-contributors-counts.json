@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 790,
+        "external": 791,
         "internal": 60,
-        "total": 850
+        "total": 851
     },
     "openzfs/zfs": {
         "external": 450,
@@ -65,9 +65,9 @@
         "total": 75
     },
     "CEED/libCEED": {
-        "external": 52,
+        "external": 53,
         "internal": 14,
-        "total": 66
+        "total": 67
     },
     "CEED/Laghos": {
         "external": 43,
@@ -1669,6 +1669,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/hypre_matmat_paper": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/iris": {
         "external": 1,
         "internal": 9,
@@ -2307,11 +2312,6 @@
     "LLNL/graph-embed": {
         "external": 1,
         "internal": 8,
-        "total": 9
-    },
-    "LLNL/hypre_matmat_paper": {
-        "external": 0,
-        "internal": 9,
         "total": 9
     },
     "LLNL/ibtopo": {

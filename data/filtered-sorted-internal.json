@@ -370,9 +370,9 @@
         "total": 15
     },
     "CEED/libCEED": {
-        "external": 52,
+        "external": 53,
         "internal": 14,
-        "total": 66
+        "total": 67
     },
     "LLNL/cardioid": {
         "external": 4,
@@ -1234,6 +1234,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/hypre_matmat_paper": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/iris": {
         "external": 1,
         "internal": 9,
@@ -1595,11 +1600,6 @@
         "total": 9
     },
     "LLNL/googletest-mpi-listener": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/hypre_matmat_paper": {
         "external": 0,
         "internal": 9,
         "total": 9
