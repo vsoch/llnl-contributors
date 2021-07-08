@@ -10,9 +10,9 @@
         "total": 54
     },
     "mfem/web": {
-        "external": 48,
+        "external": 49,
         "internal": 35,
-        "total": 83
+        "total": 84
     },
     "LLNL/gidiplus": {
         "external": 0,
@@ -50,9 +50,9 @@
         "total": 29
     },
     "mfem/github-actions": {
-        "external": 36,
+        "external": 37,
         "internal": 24,
-        "total": 60
+        "total": 61
     },
     "LLNL/Umpire": {
         "external": 8,
@@ -60,9 +60,9 @@
         "total": 31
     },
     "LLNL/lbann": {
-        "external": 11,
+        "external": 13,
         "internal": 22,
-        "total": 33
+        "total": 35
     },
     "LLNL/maestrowf": {
         "external": 4,
@@ -85,9 +85,9 @@
         "total": 26
     },
     "CEED/Laghos": {
-        "external": 43,
+        "external": 44,
         "internal": 20,
-        "total": 63
+        "total": 64
     },
     "LLNL/HPCCEA": {
         "external": 7,
@@ -145,9 +145,9 @@
         "total": 19
     },
     "CEED/benchmarks": {
-        "external": 41,
+        "external": 42,
         "internal": 18,
-        "total": 59
+        "total": 60
     },
     "GLVis/doxygen": {
         "external": 14,
@@ -505,9 +505,9 @@
         "total": 13
     },
     "CEED/Remhos": {
-        "external": 35,
+        "external": 36,
         "internal": 12,
-        "total": 47
+        "total": 48
     },
     "hypre-space/hypre": {
         "external": 21,
@@ -2370,9 +2370,9 @@
         "total": 59
     },
     "Alpine-DAV/ascent": {
-        "external": 26,
+        "external": 27,
         "internal": 4,
-        "total": 30
+        "total": 31
     },
     "openzfs/zfs-buildbot": {
         "external": 18,

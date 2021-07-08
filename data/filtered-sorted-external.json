@@ -20,9 +20,9 @@
         "total": 67
     },
     "mfem/web": {
-        "external": 48,
+        "external": 49,
         "internal": 35,
-        "total": 83
+        "total": 84
     },
     "jpype-project/jpype": {
         "external": 45,
@@ -30,14 +30,14 @@
         "total": 46
     },
     "CEED/Laghos": {
-        "external": 43,
+        "external": 44,
         "internal": 20,
-        "total": 63
+        "total": 64
     },
     "CEED/benchmarks": {
-        "external": 41,
+        "external": 42,
         "internal": 18,
-        "total": 59
+        "total": 60
     },
     "visit-dav/visit": {
         "external": 41,
@@ -49,6 +49,11 @@
         "internal": 6,
         "total": 44
     },
+    "mfem/github-actions": {
+        "external": 37,
+        "internal": 24,
+        "total": 61
+    },
     "rose-compiler/rose-develop": {
         "external": 37,
         "internal": 6,
@@ -59,20 +64,15 @@
         "internal": 2,
         "total": 39
     },
-    "mfem/github-actions": {
+    "CEED/Remhos": {
         "external": 36,
-        "internal": 24,
-        "total": 60
+        "internal": 12,
+        "total": 48
     },
     "GLVis/glvis": {
         "external": 35,
         "internal": 21,
         "total": 56
-    },
-    "CEED/Remhos": {
-        "external": 35,
-        "internal": 12,
-        "total": 47
     },
     "CDAT/VisTrails": {
         "external": 34,
@@ -84,15 +84,15 @@
         "internal": 9,
         "total": 41
     },
+    "Alpine-DAV/ascent": {
+        "external": 27,
+        "internal": 4,
+        "total": 31
+    },
     "spack/spack-configs": {
         "external": 26,
         "internal": 9,
         "total": 35
-    },
-    "Alpine-DAV/ascent": {
-        "external": 26,
-        "internal": 4,
-        "total": 30
     },
     "GMLC-TDC/HELICS": {
         "external": 25,
@@ -319,6 +319,11 @@
         "internal": 0,
         "total": 14
     },
+    "LLNL/lbann": {
+        "external": 13,
+        "internal": 22,
+        "total": 35
+    },
     "ESGF/compute": {
         "external": 13,
         "internal": 1,
@@ -383,11 +388,6 @@
         "external": 12,
         "internal": 0,
         "total": 12
-    },
-    "LLNL/lbann": {
-        "external": 11,
-        "internal": 22,
-        "total": 33
     },
     "flux-framework/flux-core": {
         "external": 11,

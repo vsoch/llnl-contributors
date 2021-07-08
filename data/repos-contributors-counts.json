@@ -10,19 +10,19 @@
         "total": 454
     },
     "mfem/mfem": {
-        "external": 334,
+        "external": 335,
         "internal": 83,
-        "total": 417
+        "total": 418
     },
     "mfem/data": {
-        "external": 332,
+        "external": 333,
         "internal": 82,
-        "total": 414
+        "total": 415
     },
     "mfem/PyMFEM": {
-        "external": 207,
+        "external": 208,
         "internal": 33,
-        "total": 240
+        "total": 241
     },
     "spack/spack.io": {
         "external": 174,
@@ -55,9 +55,9 @@
         "total": 93
     },
     "mfem/web": {
-        "external": 48,
+        "external": 49,
         "internal": 35,
-        "total": 83
+        "total": 84
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -70,19 +70,19 @@
         "total": 67
     },
     "CEED/Laghos": {
-        "external": 43,
+        "external": 44,
         "internal": 20,
-        "total": 63
+        "total": 64
     },
     "mfem/github-actions": {
-        "external": 36,
+        "external": 37,
         "internal": 24,
-        "total": 60
+        "total": 61
     },
     "CEED/benchmarks": {
-        "external": 41,
+        "external": 42,
         "internal": 18,
-        "total": 59
+        "total": 60
     },
     "openzfs/spl": {
         "external": 55,
@@ -100,9 +100,9 @@
         "total": 54
     },
     "CEED/Remhos": {
-        "external": 35,
+        "external": 36,
         "internal": 12,
-        "total": 47
+        "total": 48
     },
     "visit-dav/visit": {
         "external": 41,
@@ -149,6 +149,11 @@
         "internal": 2,
         "total": 39
     },
+    "LLNL/lbann": {
+        "external": 13,
+        "internal": 22,
+        "total": 35
+    },
     "spack/spack-configs": {
         "external": 26,
         "internal": 9,
@@ -167,11 +172,6 @@
     "LLNL/RAJAPerf": {
         "external": 4,
         "internal": 29,
-        "total": 33
-    },
-    "LLNL/lbann": {
-        "external": 11,
-        "internal": 22,
         "total": 33
     },
     "hypre-space/hypre": {
@@ -209,6 +209,11 @@
         "internal": 9,
         "total": 31
     },
+    "Alpine-DAV/ascent": {
+        "external": 27,
+        "internal": 4,
+        "total": 31
+    },
     "LLNL/CHAI": {
         "external": 3,
         "internal": 27,
@@ -217,11 +222,6 @@
     "spack/spack-cscs2019": {
         "external": 21,
         "internal": 9,
-        "total": 30
-    },
-    "Alpine-DAV/ascent": {
-        "external": 26,
-        "internal": 4,
         "total": 30
     },
     "LLNL/llnl.github.io": {
