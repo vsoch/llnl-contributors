@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 791,
+        "external": 792,
         "internal": 60,
-        "total": 851
+        "total": 852
     },
     "openzfs/zfs": {
         "external": 450,
@@ -10,19 +10,19 @@
         "total": 454
     },
     "mfem/mfem": {
-        "external": 335,
+        "external": 336,
         "internal": 83,
-        "total": 418
+        "total": 419
     },
     "mfem/data": {
-        "external": 333,
+        "external": 334,
         "internal": 82,
-        "total": 415
+        "total": 416
     },
     "mfem/PyMFEM": {
-        "external": 208,
+        "external": 209,
         "internal": 33,
-        "total": 241
+        "total": 242
     },
     "spack/spack.io": {
         "external": 174,
@@ -384,6 +384,11 @@
         "internal": 4,
         "total": 22
     },
+    "CDAT/cdms": {
+        "external": 20,
+        "internal": 2,
+        "total": 22
+    },
     "LLNL/DiHydrogen": {
         "external": 2,
         "internal": 19,
@@ -402,11 +407,6 @@
     "LLNL/STAT": {
         "external": 3,
         "internal": 18,
-        "total": 21
-    },
-    "CDAT/cdms": {
-        "external": 19,
-        "internal": 2,
         "total": 21
     },
     "ESGF/config": {
@@ -554,6 +554,11 @@
         "internal": 18,
         "total": 18
     },
+    "LLNL/camp": {
+        "external": 2,
+        "internal": 16,
+        "total": 18
+    },
     "LLNL/cardioid": {
         "external": 4,
         "internal": 14,
@@ -647,11 +652,6 @@
     "LLNL/Rescal-snow": {
         "external": 6,
         "internal": 11,
-        "total": 17
-    },
-    "LLNL/camp": {
-        "external": 2,
-        "internal": 15,
         "total": 17
     },
     "LLNL/hiop": {
@@ -879,6 +879,11 @@
         "internal": 12,
         "total": 14
     },
+    "LLNL/H5Z-ZFP": {
+        "external": 3,
+        "internal": 11,
+        "total": 14
+    },
     "LLNL/MACSio": {
         "external": 3,
         "internal": 11,
@@ -972,11 +977,6 @@
     "LLNL/Curvallis": {
         "external": 4,
         "internal": 9,
-        "total": 13
-    },
-    "LLNL/H5Z-ZFP": {
-        "external": 2,
-        "internal": 11,
         "total": 13
     },
     "LLNL/Jekyll-LLNL-Theme": {
@@ -1112,6 +1112,11 @@
     "LLNL/AMPE": {
         "external": 3,
         "internal": 9,
+        "total": 12
+    },
+    "LLNL/Abmarl": {
+        "external": 2,
+        "internal": 10,
         "total": 12
     },
     "LLNL/COGENT": {
@@ -1272,11 +1277,6 @@
     "LLNL/.github": {
         "external": 0,
         "internal": 11,
-        "total": 11
-    },
-    "LLNL/Abmarl": {
-        "external": 1,
-        "internal": 10,
         "total": 11
     },
     "LLNL/ExaCA": {

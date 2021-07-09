@@ -284,6 +284,11 @@
         "internal": 16,
         "total": 20
     },
+    "LLNL/camp": {
+        "external": 2,
+        "internal": 16,
+        "total": 18
+    },
     "LLNL/libyogrt": {
         "external": 1,
         "internal": 16,
@@ -325,11 +330,6 @@
         "total": 18
     },
     "LLNL/umap": {
-        "external": 2,
-        "internal": 15,
-        "total": 17
-    },
-    "LLNL/camp": {
         "external": 2,
         "internal": 15,
         "total": 17
@@ -644,6 +644,11 @@
         "internal": 11,
         "total": 15
     },
+    "LLNL/H5Z-ZFP": {
+        "external": 3,
+        "internal": 11,
+        "total": 14
+    },
     "LLNL/MACSio": {
         "external": 3,
         "internal": 11,
@@ -653,11 +658,6 @@
         "external": 3,
         "internal": 11,
         "total": 14
-    },
-    "LLNL/H5Z-ZFP": {
-        "external": 2,
-        "internal": 11,
-        "total": 13
     },
     "LLNL/ac-mpibind": {
         "external": 2,
@@ -789,6 +789,11 @@
         "internal": 10,
         "total": 13
     },
+    "LLNL/Abmarl": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
     "LLNL/MaPPeRTrac": {
         "external": 2,
         "internal": 10,
@@ -820,11 +825,6 @@
         "total": 12
     },
     "LLNL/zfpy-wheels": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/Abmarl": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -2495,9 +2495,9 @@
         "total": 27
     },
     "CDAT/cdms": {
-        "external": 19,
+        "external": 20,
         "internal": 2,
-        "total": 21
+        "total": 22
     },
     "ATOMconsortium/AMPL": {
         "external": 10,
