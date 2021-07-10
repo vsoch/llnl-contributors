@@ -10,8 +10,8 @@
         "total": 54
     },
     "mfem/web": {
-        "external": 49,
-        "internal": 35,
+        "external": 48,
+        "internal": 36,
         "total": 84
     },
     "LLNL/gidiplus": {
@@ -59,6 +59,11 @@
         "internal": 23,
         "total": 31
     },
+    "GLVis/glvis": {
+        "external": 34,
+        "internal": 22,
+        "total": 56
+    },
     "LLNL/lbann": {
         "external": 13,
         "internal": 22,
@@ -69,10 +74,10 @@
         "internal": 22,
         "total": 26
     },
-    "GLVis/glvis": {
-        "external": 35,
+    "CEED/Laghos": {
+        "external": 43,
         "internal": 21,
-        "total": 56
+        "total": 64
     },
     "LLNL/libmsr": {
         "external": 5,
@@ -84,10 +89,25 @@
         "internal": 21,
         "total": 26
     },
-    "CEED/Laghos": {
-        "external": 44,
-        "internal": 20,
-        "total": 64
+    "CEED/benchmarks": {
+        "external": 41,
+        "internal": 19,
+        "total": 60
+    },
+    "GLVis/doxygen": {
+        "external": 13,
+        "internal": 19,
+        "total": 32
+    },
+    "GLVis/releases": {
+        "external": 13,
+        "internal": 19,
+        "total": 32
+    },
+    "GLVis/web": {
+        "external": 13,
+        "internal": 19,
+        "total": 32
     },
     "LLNL/HPCCEA": {
         "external": 7,
@@ -143,26 +163,6 @@
         "external": 0,
         "internal": 19,
         "total": 19
-    },
-    "CEED/benchmarks": {
-        "external": 42,
-        "internal": 18,
-        "total": 60
-    },
-    "GLVis/doxygen": {
-        "external": 14,
-        "internal": 18,
-        "total": 32
-    },
-    "GLVis/releases": {
-        "external": 14,
-        "internal": 18,
-        "total": 32
-    },
-    "GLVis/web": {
-        "external": 14,
-        "internal": 18,
-        "total": 32
     },
     "LLNL/wrap": {
         "external": 6,
@@ -279,6 +279,16 @@
         "internal": 17,
         "total": 25
     },
+    "GLVis/glvis-js": {
+        "external": 7,
+        "internal": 16,
+        "total": 23
+    },
+    "GLVis/pyglvis": {
+        "external": 7,
+        "internal": 16,
+        "total": 23
+    },
     "LLNL/libROM": {
         "external": 4,
         "internal": 16,
@@ -294,6 +304,11 @@
         "internal": 16,
         "total": 17
     },
+    "CEED/libCEED": {
+        "external": 52,
+        "internal": 15,
+        "total": 67
+    },
     "LLNL/zfp": {
         "external": 14,
         "internal": 15,
@@ -303,16 +318,6 @@
         "external": 10,
         "internal": 15,
         "total": 25
-    },
-    "GLVis/glvis-js": {
-        "external": 8,
-        "internal": 15,
-        "total": 23
-    },
-    "GLVis/pyglvis": {
-        "external": 8,
-        "internal": 15,
-        "total": 23
     },
     "LLNL/SAMRAI": {
         "external": 6,
@@ -369,10 +374,15 @@
         "internal": 15,
         "total": 15
     },
-    "CEED/libCEED": {
-        "external": 53,
+    "mfem/doxygen": {
+        "external": 8,
         "internal": 14,
-        "total": 67
+        "total": 22
+    },
+    "mfem/releases": {
+        "external": 8,
+        "internal": 14,
+        "total": 22
     },
     "LLNL/cardioid": {
         "external": 4,
@@ -439,6 +449,11 @@
         "internal": 14,
         "total": 14
     },
+    "CEED/Remhos": {
+        "external": 35,
+        "internal": 13,
+        "total": 48
+    },
     "hpc/Spindle": {
         "external": 16,
         "internal": 13,
@@ -450,16 +465,6 @@
         "total": 23
     },
     "LLNL/spheral": {
-        "external": 9,
-        "internal": 13,
-        "total": 22
-    },
-    "mfem/doxygen": {
-        "external": 9,
-        "internal": 13,
-        "total": 22
-    },
-    "mfem/releases": {
         "external": 9,
         "internal": 13,
         "total": 22
@@ -503,11 +508,6 @@
         "external": 0,
         "internal": 13,
         "total": 13
-    },
-    "CEED/Remhos": {
-        "external": 36,
-        "internal": 12,
-        "total": 48
     },
     "hypre-space/hypre": {
         "external": 21,
