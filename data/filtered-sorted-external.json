@@ -249,6 +249,11 @@
         "internal": 40,
         "total": 54
     },
+    "LLNL/lbann": {
+        "external": 14,
+        "internal": 22,
+        "total": 36
+    },
     "LLNL/zfp": {
         "external": 14,
         "internal": 15,
@@ -303,11 +308,6 @@
         "external": 14,
         "internal": 0,
         "total": 14
-    },
-    "LLNL/lbann": {
-        "external": 13,
-        "internal": 22,
-        "total": 35
     },
     "GLVis/doxygen": {
         "external": 13,
@@ -3510,6 +3510,11 @@
         "total": 9
     },
     "LLNL/spawnnet": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/spheral-docker": {
         "external": 0,
         "internal": 9,
         "total": 9

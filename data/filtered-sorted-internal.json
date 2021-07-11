@@ -65,9 +65,9 @@
         "total": 56
     },
     "LLNL/lbann": {
-        "external": 13,
+        "external": 14,
         "internal": 22,
-        "total": 35
+        "total": 36
     },
     "LLNL/maestrowf": {
         "external": 4,
@@ -1740,6 +1740,11 @@
         "total": 9
     },
     "LLNL/spawnnet": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/spheral-docker": {
         "external": 0,
         "internal": 9,
         "total": 9

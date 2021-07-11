@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 792,
+        "external": 795,
         "internal": 60,
-        "total": 852
+        "total": 855
     },
     "openzfs/zfs": {
         "external": 450,
@@ -30,18 +30,18 @@
         "total": 180
     },
     "spack/spack-tutorial": {
-        "external": 110,
+        "external": 112,
         "internal": 31,
-        "total": 141
+        "total": 143
+    },
+    "spack/sbang": {
+        "external": 94,
+        "internal": 26,
+        "total": 120
     },
     "LLNL/lustre": {
         "external": 104,
         "internal": 14,
-        "total": 118
-    },
-    "spack/sbang": {
-        "external": 92,
-        "internal": 26,
         "total": 118
     },
     "LLNL/spotfe": {
@@ -150,9 +150,9 @@
         "total": 39
     },
     "LLNL/lbann": {
-        "external": 13,
+        "external": 14,
         "internal": 22,
-        "total": 35
+        "total": 36
     },
     "spack/spack-configs": {
         "external": 26,
@@ -2475,6 +2475,11 @@
         "total": 9
     },
     "LLNL/spawnnet": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/spheral-docker": {
         "external": 0,
         "internal": 9,
         "total": 9
