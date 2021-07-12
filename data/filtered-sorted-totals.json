@@ -3354,6 +3354,11 @@
         "internal": 2,
         "total": 4
     },
+    "GMLC-TDC/HELICS-PMU": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
     "GMLC-TDC/MINGW-packages": {
         "external": 2,
         "internal": 2,
