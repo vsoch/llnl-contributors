@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 795,
+        "external": 797,
         "internal": 60,
-        "total": 855
+        "total": 857
     },
     "openzfs/zfs": {
         "external": 450,
@@ -30,14 +30,14 @@
         "total": 180
     },
     "spack/spack-tutorial": {
-        "external": 112,
+        "external": 113,
         "internal": 31,
-        "total": 143
+        "total": 144
     },
     "spack/sbang": {
-        "external": 94,
+        "external": 95,
         "internal": 26,
-        "total": 120
+        "total": 121
     },
     "LLNL/lustre": {
         "external": 104,
