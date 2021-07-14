@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 797,
+        "external": 798,
         "internal": 60,
-        "total": 857
+        "total": 858
     },
     "openzfs/zfs": {
         "external": 450,
@@ -164,6 +164,11 @@
         "internal": 1,
         "total": 35
     },
+    "hypre-space/hypre": {
+        "external": 22,
+        "internal": 12,
+        "total": 34
+    },
     "LLNL/gidiplus": {
         "external": 0,
         "internal": 33,
@@ -172,11 +177,6 @@
     "LLNL/RAJAPerf": {
         "external": 4,
         "internal": 29,
-        "total": 33
-    },
-    "hypre-space/hypre": {
-        "external": 21,
-        "internal": 12,
         "total": 33
     },
     "GLVis/doxygen": {
@@ -3080,6 +3080,11 @@
         "total": 6
     },
     "spack/spack-user-survey": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/stars-over-time": {
         "external": 1,
         "internal": 5,
         "total": 6
