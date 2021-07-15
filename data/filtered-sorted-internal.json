@@ -25,9 +25,9 @@
         "total": 40
     },
     "LLNL/blt": {
-        "external": 10,
+        "external": 11,
         "internal": 30,
-        "total": 40
+        "total": 41
     },
     "LLNL/RAJAPerf": {
         "external": 4,
@@ -560,9 +560,9 @@
         "total": 14
     },
     "LLNL/apollo": {
-        "external": 1,
+        "external": 2,
         "internal": 12,
-        "total": 13
+        "total": 14
     },
     "LLNL/lwgrp": {
         "external": 1,
@@ -2495,9 +2495,9 @@
         "total": 3
     },
     "openzfs/openzfs-docs": {
-        "external": 37,
+        "external": 38,
         "internal": 2,
-        "total": 39
+        "total": 40
     },
     "CDAT/vcs": {
         "external": 25,
@@ -2564,11 +2564,6 @@
         "internal": 2,
         "total": 6
     },
-    "PRUNERS/pruners.github.io": {
-        "external": 4,
-        "internal": 2,
-        "total": 6
-    },
     "GMLC-TDC/HELICS.jl": {
         "external": 4,
         "internal": 2,
@@ -2600,6 +2595,11 @@
         "total": 5
     },
     "visit-dav/live-customer-response": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "PRUNERS/pruners.github.io": {
         "external": 3,
         "internal": 2,
         "total": 5
