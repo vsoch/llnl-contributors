@@ -84,15 +84,15 @@
         "internal": 9,
         "total": 41
     },
+    "spack/spack-configs": {
+        "external": 27,
+        "internal": 9,
+        "total": 36
+    },
     "Alpine-DAV/ascent": {
         "external": 27,
         "internal": 4,
         "total": 31
-    },
-    "spack/spack-configs": {
-        "external": 26,
-        "internal": 9,
-        "total": 35
     },
     "GMLC-TDC/HELICS": {
         "external": 25,
@@ -1211,8 +1211,13 @@
     },
     "LLNL/RAJAPerf": {
         "external": 4,
-        "internal": 29,
-        "total": 33
+        "internal": 30,
+        "total": 34
+    },
+    "LLNL/CHAI": {
+        "external": 4,
+        "internal": 27,
+        "total": 31
     },
     "LLNL/llnl.github.io": {
         "external": 4,
@@ -1543,11 +1548,6 @@
         "external": 4,
         "internal": 0,
         "total": 4
-    },
-    "LLNL/CHAI": {
-        "external": 3,
-        "internal": 27,
-        "total": 30
     },
     "LLNL/serac": {
         "external": 3,
