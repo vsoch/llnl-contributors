@@ -2439,6 +2439,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/mappgene": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/mpiBench": {
         "external": 1,
         "internal": 9,
@@ -2779,17 +2784,17 @@
         "internal": 15,
         "total": 15
     },
+    "LLNL/uberenv": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
     "LLNL/scr-fe": {
         "external": 0,
         "internal": 14,
         "total": 14
     },
     "LLNL/slapi": {
-        "external": 0,
-        "internal": 14,
-        "total": 14
-    },
-    "LLNL/uberenv": {
         "external": 0,
         "internal": 14,
         "total": 14
@@ -3415,11 +3420,6 @@
         "total": 9
     },
     "LLNL/lestofire": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/mappgene": {
         "external": 0,
         "internal": 9,
         "total": 9

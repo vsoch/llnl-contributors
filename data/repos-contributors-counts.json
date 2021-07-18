@@ -1,13 +1,13 @@
 {
     "spack/spack": {
-        "external": 805,
-        "internal": 60,
-        "total": 865
+        "external": 806,
+        "internal": 61,
+        "total": 867
     },
     "openzfs/zfs": {
-        "external": 450,
+        "external": 451,
         "internal": 4,
-        "total": 454
+        "total": 455
     },
     "mfem/mfem": {
         "external": 336,
@@ -834,6 +834,11 @@
         "internal": 14,
         "total": 15
     },
+    "LLNL/uberenv": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
     "LLNL/units": {
         "external": 5,
         "internal": 10,
@@ -897,11 +902,6 @@
     "LLNL/smoothG": {
         "external": 3,
         "internal": 11,
-        "total": 14
-    },
-    "LLNL/uberenv": {
-        "external": 0,
-        "internal": 14,
         "total": 14
     },
     "flux-framework/flux-security": {
@@ -1689,6 +1689,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/mappgene": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/melodee": {
         "external": 0,
         "internal": 10,
@@ -2367,11 +2372,6 @@
     "LLNL/lime-apps": {
         "external": 1,
         "internal": 8,
-        "total": 9
-    },
-    "LLNL/mappgene": {
-        "external": 0,
-        "internal": 9,
         "total": 9
     },
     "LLNL/mhysa": {
