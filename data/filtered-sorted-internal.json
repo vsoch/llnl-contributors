@@ -1090,9 +1090,9 @@
         "total": 15
     },
     "LLNL/Curvallis": {
-        "external": 4,
+        "external": 5,
         "internal": 9,
-        "total": 13
+        "total": 14
     },
     "LLNL/UEDGE": {
         "external": 4,
@@ -1175,6 +1175,11 @@
         "total": 10
     },
     "LLNL/MacPatch-Docs-gh": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/MemSurfer": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -1385,11 +1390,6 @@
         "total": 9
     },
     "LLNL/MahonFitting": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/MemSurfer": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -2668,11 +2668,6 @@
         "external": 3,
         "internal": 2,
         "total": 5
-    },
-    "visit-dav/temporary-play-with-discussions": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
     },
     "PRUNERS/NINJA": {
         "external": 2,

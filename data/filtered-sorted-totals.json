@@ -829,6 +829,11 @@
         "internal": 14,
         "total": 14
     },
+    "LLNL/Curvallis": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
     "LLNL/GridDyn": {
         "external": 2,
         "internal": 12,
@@ -927,11 +932,6 @@
     "LLNL/CARE": {
         "external": 0,
         "internal": 13,
-        "total": 13
-    },
-    "LLNL/Curvallis": {
-        "external": 4,
-        "internal": 9,
         "total": 13
     },
     "LLNL/Jekyll-LLNL-Theme": {
@@ -1499,6 +1499,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/MemSurfer": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/NDDAV": {
         "external": 0,
         "internal": 10,
@@ -2015,11 +2020,6 @@
         "total": 9
     },
     "LLNL/MahonFitting": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/MemSurfer": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -3337,11 +3337,6 @@
     "ECP-VeloC/spath": {
         "external": 1,
         "internal": 3,
-        "total": 4
-    },
-    "visit-dav/temporary-play-with-discussions": {
-        "external": 2,
-        "internal": 2,
         "total": 4
     },
     "visit-dav/visit-deps": {
