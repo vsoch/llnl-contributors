@@ -2899,6 +2899,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/Comb": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/FAST": {
         "external": 0,
         "internal": 10,
@@ -3100,11 +3105,6 @@
         "total": 9
     },
     "LLNL/CRADL": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Comb": {
         "external": 0,
         "internal": 9,
         "total": 9
