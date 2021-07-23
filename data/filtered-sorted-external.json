@@ -399,6 +399,11 @@
         "internal": 12,
         "total": 23
     },
+    "chaos/scrub": {
+        "external": 11,
+        "internal": 5,
+        "total": 16
+    },
     "CDAT/cdatweb": {
         "external": 11,
         "internal": 1,
@@ -453,11 +458,6 @@
         "external": 10,
         "internal": 8,
         "total": 18
-    },
-    "chaos/scrub": {
-        "external": 10,
-        "internal": 5,
-        "total": 15
     },
     "ATOMconsortium/AMPL": {
         "external": 10,
@@ -2034,6 +2034,11 @@
         "internal": 3,
         "total": 5
     },
+    "visit-dav/visit-users-org": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
     "PRUNERS/NINJA": {
         "external": 2,
         "internal": 2,
@@ -2259,6 +2264,11 @@
         "internal": 11,
         "total": 12
     },
+    "LLNL/devil_ray": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
     "LLNL/parelag": {
         "external": 1,
         "internal": 11,
@@ -2295,11 +2305,6 @@
         "total": 11
     },
     "LLNL/clippy-tutorial": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/devil_ray": {
         "external": 1,
         "internal": 10,
         "total": 11

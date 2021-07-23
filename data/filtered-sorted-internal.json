@@ -684,6 +684,11 @@
         "internal": 11,
         "total": 12
     },
+    "LLNL/devil_ray": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
     "LLNL/parelag": {
         "external": 1,
         "internal": 11,
@@ -850,11 +855,6 @@
         "total": 11
     },
     "LLNL/clippy-tutorial": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/devil_ray": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -2185,9 +2185,9 @@
         "total": 19
     },
     "chaos/scrub": {
-        "external": 10,
+        "external": 11,
         "internal": 5,
-        "total": 15
+        "total": 16
     },
     "spack/legacy-spack.io": {
         "external": 9,
@@ -2668,6 +2668,11 @@
         "external": 3,
         "internal": 2,
         "total": 5
+    },
+    "visit-dav/visit-users-org": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
     },
     "PRUNERS/NINJA": {
         "external": 2,

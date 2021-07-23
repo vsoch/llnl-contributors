@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 813,
+        "external": 815,
         "internal": 61,
-        "total": 874
+        "total": 876
     },
     "openzfs/zfs": {
         "external": 451,
@@ -734,6 +734,11 @@
         "internal": 11,
         "total": 16
     },
+    "chaos/scrub": {
+        "external": 11,
+        "internal": 5,
+        "total": 16
+    },
     "CDAT/uvcmetrics": {
         "external": 15,
         "internal": 1,
@@ -847,11 +852,6 @@
     "LLNL/zfs": {
         "external": 1,
         "internal": 14,
-        "total": 15
-    },
-    "chaos/scrub": {
-        "external": 10,
-        "internal": 5,
         "total": 15
     },
     "CDAT/uvcdat-testdata": {
@@ -1164,6 +1164,11 @@
         "internal": 11,
         "total": 12
     },
+    "LLNL/devil_ray": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
     "LLNL/inq": {
         "external": 2,
         "internal": 10,
@@ -1335,11 +1340,6 @@
         "total": 11
     },
     "LLNL/clippy-tutorial": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/devil_ray": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -3392,6 +3392,11 @@
     "visit-dav/visit-deps": {
         "external": 3,
         "internal": 1,
+        "total": 4
+    },
+    "visit-dav/visit-users-org": {
+        "external": 2,
+        "internal": 2,
         "total": 4
     },
     "PRUNERS/NINJA": {
