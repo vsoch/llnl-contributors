@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 815,
+        "external": 818,
         "internal": 61,
-        "total": 876
+        "total": 879
     },
     "openzfs/zfs": {
         "external": 451,
@@ -304,11 +304,6 @@
         "internal": 12,
         "total": 24
     },
-    "ESGF/esgf-installer": {
-        "external": 23,
-        "internal": 1,
-        "total": 24
-    },
     "LLNL/UnifyFS": {
         "external": 10,
         "internal": 13,
@@ -344,14 +339,9 @@
         "internal": 16,
         "total": 23
     },
-    "ESGF/esg-publisher": {
+    "ESGF/esgf-installer": {
         "external": 22,
         "internal": 1,
-        "total": 23
-    },
-    "ESGF/esg-search": {
-        "external": 23,
-        "internal": 0,
         "total": 23
     },
     "LLNL/serac": {
@@ -387,6 +377,16 @@
     "CDAT/cdms": {
         "external": 20,
         "internal": 2,
+        "total": 22
+    },
+    "ESGF/esg-publisher": {
+        "external": 21,
+        "internal": 1,
+        "total": 22
+    },
+    "ESGF/esg-search": {
+        "external": 22,
+        "internal": 0,
         "total": 22
     },
     "LLNL/DiHydrogen": {
@@ -449,21 +449,6 @@
         "internal": 19,
         "total": 20
     },
-    "ESGF/esgf-node-manager": {
-        "external": 19,
-        "internal": 1,
-        "total": 20
-    },
-    "ESGF/esgf-security": {
-        "external": 20,
-        "internal": 0,
-        "total": 20
-    },
-    "ESGF/esgf-dashboard": {
-        "external": 20,
-        "internal": 0,
-        "total": 20
-    },
     "LLNL/AutomaDeD": {
         "external": 0,
         "internal": 19,
@@ -504,7 +489,22 @@
         "internal": 5,
         "total": 19
     },
+    "ESGF/esgf-node-manager": {
+        "external": 18,
+        "internal": 1,
+        "total": 19
+    },
+    "ESGF/esgf-security": {
+        "external": 19,
+        "internal": 0,
+        "total": 19
+    },
     "ESGF/esgf-web-fe": {
+        "external": 19,
+        "internal": 0,
+        "total": 19
+    },
+    "ESGF/esgf-dashboard": {
         "external": 19,
         "internal": 0,
         "total": 19
@@ -699,11 +699,6 @@
         "internal": 1,
         "total": 17
     },
-    "ESGF/esg-orp": {
-        "external": 17,
-        "internal": 0,
-        "total": 17
-    },
     "LLNL/umap-apps": {
         "external": 1,
         "internal": 15,
@@ -749,12 +744,12 @@
         "internal": 1,
         "total": 16
     },
-    "ESGF/esgf-docker": {
+    "ESGF/esg-orp": {
         "external": 16,
         "internal": 0,
         "total": 16
     },
-    "ESGF/esgf-idp": {
+    "ESGF/esgf-docker": {
         "external": 16,
         "internal": 0,
         "total": 16
@@ -859,6 +854,11 @@
         "internal": 1,
         "total": 15
     },
+    "ESGF/esgf-idp": {
+        "external": 15,
+        "internal": 0,
+        "total": 15
+    },
     "ESGF/esgf-swt": {
         "external": 15,
         "internal": 0,
@@ -929,11 +929,6 @@
         "internal": 1,
         "total": 14
     },
-    "ESGF/esgf-compute-api": {
-        "external": 13,
-        "internal": 1,
-        "total": 14
-    },
     "ESGF/output_viewer": {
         "external": 13,
         "internal": 1,
@@ -949,11 +944,6 @@
         "internal": 0,
         "total": 14
     },
-    "ESGF/esgf-publisher-resources": {
-        "external": 14,
-        "internal": 0,
-        "total": 14
-    },
     "ESGF/esgf-utils": {
         "external": 14,
         "internal": 0,
@@ -965,11 +955,6 @@
         "total": 14
     },
     "ESGF/DiagnosticsViewer": {
-        "external": 14,
-        "internal": 0,
-        "total": 14
-    },
-    "ESGF/esgf-getcert": {
         "external": 14,
         "internal": 0,
         "total": 14
@@ -1089,6 +1074,11 @@
         "internal": 5,
         "total": 13
     },
+    "ESGF/esgf-compute-api": {
+        "external": 12,
+        "internal": 1,
+        "total": 13
+    },
     "ESGF/icnwg": {
         "external": 13,
         "internal": 0,
@@ -1099,7 +1089,12 @@
         "internal": 0,
         "total": 13
     },
-    "ESGF/esgf-test-suite": {
+    "ESGF/esgf-publisher-resources": {
+        "external": 13,
+        "internal": 0,
+        "total": 13
+    },
+    "ESGF/esgf-getcert": {
         "external": 13,
         "internal": 0,
         "total": 13
@@ -1127,6 +1122,11 @@
     "LLNL/CallFlow": {
         "external": 1,
         "internal": 11,
+        "total": 12
+    },
+    "LLNL/ExaCA": {
+        "external": 2,
+        "internal": 10,
         "total": 12
     },
     "LLNL/ExaConstit": {
@@ -1234,17 +1234,12 @@
         "internal": 1,
         "total": 12
     },
+    "ESGF/esgf-test-suite": {
+        "external": 12,
+        "internal": 0,
+        "total": 12
+    },
     "ESGF/esgf-ansible": {
-        "external": 12,
-        "internal": 0,
-        "total": 12
-    },
-    "ESGF/esgf-build": {
-        "external": 12,
-        "internal": 0,
-        "total": 12
-    },
-    "ESGF/esgf-stats-api": {
         "external": 12,
         "internal": 0,
         "total": 12
@@ -1282,11 +1277,6 @@
     "LLNL/.github": {
         "external": 0,
         "internal": 11,
-        "total": 11
-    },
-    "LLNL/ExaCA": {
-        "external": 1,
-        "internal": 10,
         "total": 11
     },
     "LLNL/ExaCMech": {
@@ -1449,7 +1439,17 @@
         "internal": 0,
         "total": 11
     },
+    "ESGF/esgf-build": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
     "ESGF/esgf-dashboard-ui": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
+    "ESGF/esgf-stats-api": {
         "external": 11,
         "internal": 0,
         "total": 11
@@ -1985,6 +1985,11 @@
         "total": 9
     },
     "LLNL/ANS": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/BAnD": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -3392,11 +3397,6 @@
     "visit-dav/visit-deps": {
         "external": 3,
         "internal": 1,
-        "total": 4
-    },
-    "visit-dav/visit-users-org": {
-        "external": 2,
-        "internal": 2,
         "total": 4
     },
     "PRUNERS/NINJA": {

@@ -799,6 +799,11 @@
         "internal": 10,
         "total": 12
     },
+    "LLNL/ExaCA": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
     "LLNL/MaPPeRTrac": {
         "external": 2,
         "internal": 10,
@@ -830,11 +835,6 @@
         "total": 12
     },
     "LLNL/zfpy-wheels": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/ExaCA": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -1320,6 +1320,11 @@
         "total": 9
     },
     "LLNL/ANS": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/BAnD": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -2669,11 +2674,6 @@
         "internal": 2,
         "total": 5
     },
-    "visit-dav/visit-users-org": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
-    },
     "PRUNERS/NINJA": {
         "external": 2,
         "internal": 2,
@@ -2770,19 +2770,19 @@
         "total": 35
     },
     "ESGF/esgf-installer": {
-        "external": 23,
-        "internal": 1,
-        "total": 24
-    },
-    "ESGF/esg-publisher": {
         "external": 22,
         "internal": 1,
         "total": 23
     },
-    "ESGF/esgf-node-manager": {
-        "external": 19,
+    "ESGF/esg-publisher": {
+        "external": 21,
         "internal": 1,
-        "total": 20
+        "total": 22
+    },
+    "ESGF/esgf-node-manager": {
+        "external": 18,
+        "internal": 1,
+        "total": 19
     },
     "CDAT/cdat.github.io": {
         "external": 17,
@@ -2819,15 +2819,15 @@
         "internal": 1,
         "total": 14
     },
-    "ESGF/esgf-compute-api": {
-        "external": 13,
-        "internal": 1,
-        "total": 14
-    },
     "ESGF/output_viewer": {
         "external": 13,
         "internal": 1,
         "total": 14
+    },
+    "ESGF/esgf-compute-api": {
+        "external": 12,
+        "internal": 1,
+        "total": 13
     },
     "CDAT/cdatweb": {
         "external": 11,
@@ -3090,9 +3090,9 @@
         "total": 1
     },
     "ESGF/esg-search": {
-        "external": 23,
+        "external": 22,
         "internal": 0,
-        "total": 23
+        "total": 22
     },
     "ESGF/config": {
         "external": 21,
@@ -3105,24 +3105,24 @@
         "total": 21
     },
     "ESGF/esgf-security": {
-        "external": 20,
+        "external": 19,
         "internal": 0,
-        "total": 20
-    },
-    "ESGF/esgf-dashboard": {
-        "external": 20,
-        "internal": 0,
-        "total": 20
+        "total": 19
     },
     "ESGF/esgf-web-fe": {
         "external": 19,
         "internal": 0,
         "total": 19
     },
-    "ESGF/esg-orp": {
-        "external": 17,
+    "ESGF/esgf-dashboard": {
+        "external": 19,
         "internal": 0,
-        "total": 17
+        "total": 19
+    },
+    "ESGF/esg-orp": {
+        "external": 16,
+        "internal": 0,
+        "total": 16
     },
     "ESGF/esgf-docker": {
         "external": 16,
@@ -3130,9 +3130,9 @@
         "total": 16
     },
     "ESGF/esgf-idp": {
-        "external": 16,
+        "external": 15,
         "internal": 0,
-        "total": 16
+        "total": 15
     },
     "ESGF/esgf-swt": {
         "external": 15,
@@ -3145,11 +3145,6 @@
         "total": 14
     },
     "ESGF/esgf-artifacts": {
-        "external": 14,
-        "internal": 0,
-        "total": 14
-    },
-    "ESGF/esgf-publisher-resources": {
         "external": 14,
         "internal": 0,
         "total": 14
@@ -3169,11 +3164,6 @@
         "internal": 0,
         "total": 14
     },
-    "ESGF/esgf-getcert": {
-        "external": 14,
-        "internal": 0,
-        "total": 14
-    },
     "ESGF/esgf-jenkins": {
         "external": 14,
         "internal": 0,
@@ -3189,22 +3179,22 @@
         "internal": 0,
         "total": 13
     },
-    "ESGF/esgf-test-suite": {
+    "ESGF/esgf-publisher-resources": {
         "external": 13,
         "internal": 0,
         "total": 13
     },
+    "ESGF/esgf-getcert": {
+        "external": 13,
+        "internal": 0,
+        "total": 13
+    },
+    "ESGF/esgf-test-suite": {
+        "external": 12,
+        "internal": 0,
+        "total": 12
+    },
     "ESGF/esgf-ansible": {
-        "external": 12,
-        "internal": 0,
-        "total": 12
-    },
-    "ESGF/esgf-build": {
-        "external": 12,
-        "internal": 0,
-        "total": 12
-    },
-    "ESGF/esgf-stats-api": {
         "external": 12,
         "internal": 0,
         "total": 12
@@ -3229,7 +3219,17 @@
         "internal": 0,
         "total": 11
     },
+    "ESGF/esgf-build": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
     "ESGF/esgf-dashboard-ui": {
+        "external": 11,
+        "internal": 0,
+        "total": 11
+    },
+    "ESGF/esgf-stats-api": {
         "external": 11,
         "internal": 0,
         "total": 11
