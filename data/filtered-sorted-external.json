@@ -1221,8 +1221,8 @@
     },
     "LLNL/CHAI": {
         "external": 4,
-        "internal": 27,
-        "total": 31
+        "internal": 26,
+        "total": 30
     },
     "LLNL/llnl.github.io": {
         "external": 4,
@@ -2010,6 +2010,11 @@
         "total": 7
     },
     "spack/spack-ci-containers": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "spack/spack-prereq": {
         "external": 2,
         "internal": 5,
         "total": 7

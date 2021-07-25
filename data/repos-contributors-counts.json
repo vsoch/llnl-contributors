@@ -194,11 +194,6 @@
         "internal": 19,
         "total": 32
     },
-    "LLNL/CHAI": {
-        "external": 4,
-        "internal": 27,
-        "total": 31
-    },
     "LLNL/Umpire": {
         "external": 8,
         "internal": 23,
@@ -218,6 +213,11 @@
         "external": 27,
         "internal": 4,
         "total": 31
+    },
+    "LLNL/CHAI": {
+        "external": 4,
+        "internal": 26,
+        "total": 30
     },
     "spack/spack-cscs2019": {
         "external": 21,
@@ -2950,6 +2950,11 @@
         "total": 7
     },
     "spack/spack-ci-containers": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "spack/spack-prereq": {
         "external": 2,
         "internal": 5,
         "total": 7
