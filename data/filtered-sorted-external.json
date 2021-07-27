@@ -889,6 +889,11 @@
         "internal": 6,
         "total": 12
     },
+    "spack/spack-bot": {
+        "external": 6,
+        "internal": 5,
+        "total": 11
+    },
     "spack/spack-tutorial-container": {
         "external": 6,
         "internal": 5,
@@ -1055,11 +1060,6 @@
         "total": 11
     },
     "spack/localized-docs": {
-        "external": 5,
-        "internal": 5,
-        "total": 10
-    },
-    "spack/spack-bot": {
         "external": 5,
         "internal": 5,
         "total": 10
