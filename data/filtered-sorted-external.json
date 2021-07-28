@@ -84,15 +84,15 @@
         "internal": 9,
         "total": 41
     },
+    "Alpine-DAV/ascent": {
+        "external": 28,
+        "internal": 4,
+        "total": 32
+    },
     "spack/spack-configs": {
         "external": 27,
         "internal": 9,
         "total": 36
-    },
-    "Alpine-DAV/ascent": {
-        "external": 27,
-        "internal": 4,
-        "total": 31
     },
     "GMLC-TDC/HELICS": {
         "external": 25,
@@ -891,8 +891,8 @@
     },
     "spack/spack-bot": {
         "external": 6,
-        "internal": 5,
-        "total": 11
+        "internal": 6,
+        "total": 12
     },
     "spack/spack-tutorial-container": {
         "external": 6,

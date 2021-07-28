@@ -2089,6 +2089,11 @@
         "internal": 6,
         "total": 12
     },
+    "spack/spack-bot": {
+        "external": 6,
+        "internal": 6,
+        "total": 12
+    },
     "XBraid/xbraid": {
         "external": 5,
         "internal": 6,
@@ -2208,11 +2213,6 @@
         "external": 8,
         "internal": 5,
         "total": 13
-    },
-    "spack/spack-bot": {
-        "external": 6,
-        "internal": 5,
-        "total": 11
     },
     "spack/spack-tutorial-container": {
         "external": 6,
@@ -2395,9 +2395,9 @@
         "total": 59
     },
     "Alpine-DAV/ascent": {
-        "external": 27,
+        "external": 28,
         "internal": 4,
-        "total": 31
+        "total": 32
     },
     "openzfs/zfs-buildbot": {
         "external": 18,
