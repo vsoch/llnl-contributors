@@ -449,6 +449,11 @@
         "internal": 19,
         "total": 20
     },
+    "flux-framework/flux-sched": {
+        "external": 8,
+        "internal": 12,
+        "total": 20
+    },
     "LLNL/AutomaDeD": {
         "external": 0,
         "internal": 19,
@@ -479,9 +484,9 @@
         "internal": 19,
         "total": 19
     },
-    "flux-framework/flux-sched": {
-        "external": 7,
-        "internal": 12,
+    "flux-framework/flux-k8s": {
+        "external": 11,
+        "internal": 8,
         "total": 19
     },
     "chaos/slurm": {
@@ -624,9 +629,29 @@
         "internal": 13,
         "total": 18
     },
-    "flux-framework/flux-k8s": {
-        "external": 10,
-        "internal": 8,
+    "flux-framework/flux-core-v0.11": {
+        "external": 8,
+        "internal": 10,
+        "total": 18
+    },
+    "flux-framework/flux-docs": {
+        "external": 6,
+        "internal": 12,
+        "total": 18
+    },
+    "flux-framework/flux-framework.github.io": {
+        "external": 7,
+        "internal": 11,
+        "total": 18
+    },
+    "flux-framework/flux-sched-v0.7": {
+        "external": 8,
+        "internal": 10,
+        "total": 18
+    },
+    "flux-framework/rfc": {
+        "external": 6,
+        "internal": 12,
         "total": 18
     },
     "CDAT/cdat.github.io": {
@@ -667,31 +692,6 @@
     "LLNL/merlin": {
         "external": 3,
         "internal": 14,
-        "total": 17
-    },
-    "flux-framework/flux-core-v0.11": {
-        "external": 7,
-        "internal": 10,
-        "total": 17
-    },
-    "flux-framework/flux-docs": {
-        "external": 5,
-        "internal": 12,
-        "total": 17
-    },
-    "flux-framework/flux-framework.github.io": {
-        "external": 6,
-        "internal": 11,
-        "total": 17
-    },
-    "flux-framework/flux-sched-v0.7": {
-        "external": 7,
-        "internal": 10,
-        "total": 17
-    },
-    "flux-framework/rfc": {
-        "external": 5,
-        "internal": 12,
         "total": 17
     },
     "ESGF/esgf-prepare": {
@@ -849,6 +849,11 @@
         "internal": 14,
         "total": 15
     },
+    "flux-framework/flux-security": {
+        "external": 7,
+        "internal": 8,
+        "total": 15
+    },
     "CDAT/uvcdat-testdata": {
         "external": 14,
         "internal": 1,
@@ -909,7 +914,32 @@
         "internal": 11,
         "total": 14
     },
-    "flux-framework/flux-security": {
+    "flux-framework/capacitor": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "flux-framework/distribution": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "flux-framework/flux-dyad": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "flux-framework/flux-hierarchy": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "flux-framework/flux-rs": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "flux-framework/flux-sys-rs": {
         "external": 6,
         "internal": 8,
         "total": 14
@@ -1032,36 +1062,6 @@
     "LLNL/variorum": {
         "external": 1,
         "internal": 12,
-        "total": 13
-    },
-    "flux-framework/capacitor": {
-        "external": 5,
-        "internal": 8,
-        "total": 13
-    },
-    "flux-framework/distribution": {
-        "external": 5,
-        "internal": 8,
-        "total": 13
-    },
-    "flux-framework/flux-dyad": {
-        "external": 5,
-        "internal": 8,
-        "total": 13
-    },
-    "flux-framework/flux-hierarchy": {
-        "external": 5,
-        "internal": 8,
-        "total": 13
-    },
-    "flux-framework/flux-rs": {
-        "external": 5,
-        "internal": 8,
-        "total": 13
-    },
-    "flux-framework/flux-sys-rs": {
-        "external": 5,
-        "internal": 8,
         "total": 13
     },
     "chaos/pdsh": {
