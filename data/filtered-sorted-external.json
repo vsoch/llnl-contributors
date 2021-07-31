@@ -256,8 +256,8 @@
     },
     "LLNL/zfp": {
         "external": 14,
-        "internal": 15,
-        "total": 29
+        "internal": 16,
+        "total": 30
     },
     "chaos/slurm": {
         "external": 14,
@@ -3185,6 +3185,11 @@
         "total": 9
     },
     "LLNL/MultiscaleTopOpt": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MuyGPyS": {
         "external": 0,
         "internal": 9,
         "total": 9

@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 820,
+        "external": 821,
         "internal": 61,
-        "total": 881
+        "total": 882
     },
     "openzfs/zfs": {
         "external": 452,
@@ -219,6 +219,11 @@
         "internal": 26,
         "total": 30
     },
+    "LLNL/zfp": {
+        "external": 14,
+        "internal": 16,
+        "total": 30
+    },
     "spack/spack-cscs2019": {
         "external": 21,
         "internal": 9,
@@ -227,11 +232,6 @@
     "LLNL/llnl.github.io": {
         "external": 4,
         "internal": 25,
-        "total": 29
-    },
-    "LLNL/zfp": {
-        "external": 14,
-        "internal": 15,
         "total": 29
     },
     "hpc/Spindle": {
@@ -2085,6 +2085,11 @@
         "total": 9
     },
     "LLNL/MultiscaleTopOpt": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MuyGPyS": {
         "external": 0,
         "internal": 9,
         "total": 9

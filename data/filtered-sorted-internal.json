@@ -279,6 +279,11 @@
         "internal": 17,
         "total": 25
     },
+    "LLNL/zfp": {
+        "external": 14,
+        "internal": 16,
+        "total": 30
+    },
     "GLVis/glvis-js": {
         "external": 7,
         "internal": 16,
@@ -308,11 +313,6 @@
         "external": 52,
         "internal": 15,
         "total": 67
-    },
-    "LLNL/zfp": {
-        "external": 14,
-        "internal": 15,
-        "total": 29
     },
     "LLNL/Caliper": {
         "external": 10,
@@ -1405,6 +1405,11 @@
         "total": 9
     },
     "LLNL/MultiscaleTopOpt": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/MuyGPyS": {
         "external": 0,
         "internal": 9,
         "total": 9
