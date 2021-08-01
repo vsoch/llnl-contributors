@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 821,
+        "external": 824,
         "internal": 61,
-        "total": 882
+        "total": 885
     },
     "openzfs/zfs": {
         "external": 452,
