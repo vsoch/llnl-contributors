@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 824,
+        "external": 825,
         "internal": 61,
-        "total": 885
+        "total": 886
     },
     "openzfs/zfs": {
         "external": 452,
@@ -10,19 +10,19 @@
         "total": 456
     },
     "mfem/mfem": {
-        "external": 338,
+        "external": 341,
         "internal": 84,
-        "total": 422
+        "total": 425
     },
     "mfem/data": {
-        "external": 335,
+        "external": 338,
         "internal": 83,
-        "total": 418
+        "total": 421
     },
     "mfem/PyMFEM": {
-        "external": 211,
+        "external": 214,
         "internal": 33,
-        "total": 244
+        "total": 247
     },
     "spack/spack.io": {
         "external": 174,
@@ -55,9 +55,9 @@
         "total": 93
     },
     "mfem/web": {
-        "external": 48,
+        "external": 49,
         "internal": 36,
-        "total": 84
+        "total": 85
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -75,9 +75,9 @@
         "total": 64
     },
     "mfem/github-actions": {
-        "external": 37,
+        "external": 38,
         "internal": 24,
-        "total": 61
+        "total": 62
     },
     "CEED/benchmarks": {
         "external": 41,
@@ -3220,11 +3220,6 @@
         "total": 5
     },
     "visit-dav/largedata": {
-        "external": 3,
-        "internal": 2,
-        "total": 5
-    },
-    "visit-dav/live-customer-response": {
         "external": 3,
         "internal": 2,
         "total": 5

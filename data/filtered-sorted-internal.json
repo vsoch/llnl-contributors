@@ -10,9 +10,9 @@
         "total": 54
     },
     "mfem/web": {
-        "external": 48,
+        "external": 49,
         "internal": 36,
-        "total": 84
+        "total": 85
     },
     "LLNL/gidiplus": {
         "external": 0,
@@ -50,9 +50,9 @@
         "total": 29
     },
     "mfem/github-actions": {
-        "external": 37,
+        "external": 38,
         "internal": 24,
-        "total": 61
+        "total": 62
     },
     "LLNL/Umpire": {
         "external": 8,
@@ -2610,11 +2610,6 @@
         "total": 6
     },
     "visit-dav/largedata": {
-        "external": 3,
-        "internal": 2,
-        "total": 5
-    },
-    "visit-dav/live-customer-response": {
         "external": 3,
         "internal": 2,
         "total": 5

@@ -5,9 +5,9 @@
         "total": 93
     },
     "mfem/web": {
-        "external": 48,
+        "external": 49,
         "internal": 36,
-        "total": 84
+        "total": 85
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -25,9 +25,9 @@
         "total": 64
     },
     "mfem/github-actions": {
-        "external": 37,
+        "external": 38,
         "internal": 24,
-        "total": 61
+        "total": 62
     },
     "CEED/benchmarks": {
         "external": 41,
@@ -3170,11 +3170,6 @@
         "total": 5
     },
     "visit-dav/largedata": {
-        "external": 3,
-        "internal": 2,
-        "total": 5
-    },
-    "visit-dav/live-customer-response": {
         "external": 3,
         "internal": 2,
         "total": 5
