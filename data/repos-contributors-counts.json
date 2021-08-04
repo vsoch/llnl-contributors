@@ -1,8 +1,8 @@
 {
     "spack/spack": {
-        "external": 825,
+        "external": 826,
         "internal": 61,
-        "total": 886
+        "total": 887
     },
     "openzfs/zfs": {
         "external": 452,
@@ -179,6 +179,11 @@
         "internal": 33,
         "total": 33
     },
+    "LLNL/Umpire": {
+        "external": 8,
+        "internal": 24,
+        "total": 32
+    },
     "GLVis/doxygen": {
         "external": 13,
         "internal": 19,
@@ -198,11 +203,6 @@
         "external": 28,
         "internal": 4,
         "total": 32
-    },
-    "LLNL/Umpire": {
-        "external": 8,
-        "internal": 23,
-        "total": 31
     },
     "LLNL/RAJAProxies": {
         "external": 2,
