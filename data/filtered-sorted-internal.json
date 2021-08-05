@@ -1024,6 +1024,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/radiuss-spack-testing": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/radiuss-stack": {
         "external": 0,
         "internal": 10,
@@ -2094,7 +2099,7 @@
         "internal": 6,
         "total": 12
     },
-    "spack/spack-bot": {
+    "spack/spackbot": {
         "external": 6,
         "internal": 6,
         "total": 12
@@ -2439,6 +2444,11 @@
         "internal": 4,
         "total": 4
     },
+    "GLVis/xeus-glvis": {
+        "external": 0,
+        "internal": 4,
+        "total": 4
+    },
     "GMLC-TDC/HELICS": {
         "external": 25,
         "internal": 3,
@@ -2610,6 +2620,11 @@
         "total": 6
     },
     "visit-dav/largedata": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
+    "visit-dav/live-customer-response": {
         "external": 3,
         "internal": 2,
         "total": 5
