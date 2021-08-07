@@ -5,8 +5,8 @@
         "total": 93
     },
     "GEOSX/LvArray": {
-        "external": 64,
-        "internal": 11,
+        "external": 63,
+        "internal": 12,
         "total": 75
     },
     "openzfs/spl": {
@@ -384,16 +384,6 @@
         "internal": 30,
         "total": 41
     },
-    "flux-framework/flux-core": {
-        "external": 11,
-        "internal": 12,
-        "total": 23
-    },
-    "flux-framework/flux-k8s": {
-        "external": 11,
-        "internal": 8,
-        "total": 19
-    },
     "chaos/scrub": {
         "external": 11,
         "internal": 5,
@@ -458,6 +448,16 @@
         "external": 10,
         "internal": 13,
         "total": 23
+    },
+    "flux-framework/flux-core": {
+        "external": 10,
+        "internal": 13,
+        "total": 23
+    },
+    "flux-framework/flux-k8s": {
+        "external": 10,
+        "internal": 9,
+        "total": 19
     },
     "ATOMconsortium/AMPL": {
         "external": 10,
@@ -525,6 +525,11 @@
         "total": 22
     },
     "spack/legacy-spack.io": {
+        "external": 9,
+        "internal": 5,
+        "total": 14
+    },
+    "hatchet/hatchet": {
         "external": 9,
         "internal": 5,
         "total": 14
@@ -611,8 +616,8 @@
     },
     "LLNL/conduit": {
         "external": 8,
-        "internal": 32,
-        "total": 40
+        "internal": 33,
+        "total": 41
     },
     "LLNL/Umpire": {
         "external": 8,
@@ -634,32 +639,12 @@
         "internal": 14,
         "total": 22
     },
-    "flux-framework/flux-sched": {
-        "external": 8,
-        "internal": 12,
-        "total": 20
-    },
     "LLNL/magpie": {
         "external": 8,
         "internal": 10,
         "total": 18
     },
-    "flux-framework/flux-core-v0.11": {
-        "external": 8,
-        "internal": 10,
-        "total": 18
-    },
-    "flux-framework/flux-sched-v0.7": {
-        "external": 8,
-        "internal": 10,
-        "total": 18
-    },
     "chaos/pdsh": {
-        "external": 8,
-        "internal": 5,
-        "total": 13
-    },
-    "hatchet/hatchet": {
         "external": 8,
         "internal": 5,
         "total": 13
@@ -774,17 +759,22 @@
         "internal": 16,
         "total": 23
     },
-    "flux-framework/flux-framework.github.io": {
+    "flux-framework/flux-sched": {
+        "external": 7,
+        "internal": 13,
+        "total": 20
+    },
+    "flux-framework/flux-core-v0.11": {
+        "external": 7,
+        "internal": 11,
+        "total": 18
+    },
+    "flux-framework/flux-sched-v0.7": {
         "external": 7,
         "internal": 11,
         "total": 18
     },
     "LLNL/mpiP": {
-        "external": 7,
-        "internal": 8,
-        "total": 15
-    },
-    "flux-framework/flux-security": {
         "external": 7,
         "internal": 8,
         "total": 15
@@ -859,12 +849,7 @@
         "internal": 12,
         "total": 18
     },
-    "flux-framework/flux-docs": {
-        "external": 6,
-        "internal": 12,
-        "total": 18
-    },
-    "flux-framework/rfc": {
+    "flux-framework/flux-framework.github.io": {
         "external": 6,
         "internal": 12,
         "total": 18
@@ -884,42 +869,12 @@
         "internal": 9,
         "total": 15
     },
+    "flux-framework/flux-security": {
+        "external": 6,
+        "internal": 9,
+        "total": 15
+    },
     "chaos/genders": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/capacitor": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/distribution": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-dyad": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-hierarchy": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-rs": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-sys-rs": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-workflow-examples": {
         "external": 6,
         "internal": 8,
         "total": 14
@@ -1029,6 +984,16 @@
         "internal": 13,
         "total": 18
     },
+    "flux-framework/flux-docs": {
+        "external": 5,
+        "internal": 13,
+        "total": 18
+    },
+    "flux-framework/rfc": {
+        "external": 5,
+        "internal": 13,
+        "total": 18
+    },
     "LLNL/scraper": {
         "external": 5,
         "internal": 11,
@@ -1045,6 +1010,41 @@
         "total": 15
     },
     "LLNL/Curvallis": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/capacitor": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/distribution": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-dyad": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-hierarchy": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-rs": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-sys-rs": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-workflow-examples": {
         "external": 5,
         "internal": 9,
         "total": 14
@@ -2449,11 +2449,6 @@
         "internal": 9,
         "total": 10
     },
-    "LLNL/mappgene": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
     "LLNL/mpiBench": {
         "external": 1,
         "internal": 9,
@@ -3010,6 +3005,11 @@
         "total": 10
     },
     "LLNL/json-cwx": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/mappgene": {
         "external": 0,
         "internal": 10,
         "total": 10

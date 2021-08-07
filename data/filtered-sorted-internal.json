@@ -14,15 +14,15 @@
         "internal": 36,
         "total": 86
     },
+    "LLNL/conduit": {
+        "external": 8,
+        "internal": 33,
+        "total": 41
+    },
     "LLNL/gidiplus": {
         "external": 0,
         "internal": 33,
         "total": 33
-    },
-    "LLNL/conduit": {
-        "external": 8,
-        "internal": 32,
-        "total": 40
     },
     "LLNL/blt": {
         "external": 11,
@@ -464,10 +464,20 @@
         "internal": 13,
         "total": 23
     },
+    "flux-framework/flux-core": {
+        "external": 10,
+        "internal": 13,
+        "total": 23
+    },
     "LLNL/spheral": {
         "external": 9,
         "internal": 13,
         "total": 22
+    },
+    "flux-framework/flux-sched": {
+        "external": 7,
+        "internal": 13,
+        "total": 20
     },
     "LLNL/dataracebench": {
         "external": 5,
@@ -480,6 +490,16 @@
         "total": 18
     },
     "LLNL/simutil": {
+        "external": 5,
+        "internal": 13,
+        "total": 18
+    },
+    "flux-framework/flux-docs": {
+        "external": 5,
+        "internal": 13,
+        "total": 18
+    },
+    "flux-framework/rfc": {
         "external": 5,
         "internal": 13,
         "total": 18
@@ -509,6 +529,11 @@
         "internal": 13,
         "total": 13
     },
+    "GEOSX/LvArray": {
+        "external": 63,
+        "internal": 12,
+        "total": 75
+    },
     "hypre-space/hypre": {
         "external": 22,
         "internal": 12,
@@ -519,27 +544,12 @@
         "internal": 12,
         "total": 24
     },
-    "flux-framework/flux-core": {
-        "external": 11,
-        "internal": 12,
-        "total": 23
-    },
-    "flux-framework/flux-sched": {
-        "external": 8,
-        "internal": 12,
-        "total": 20
-    },
     "LLNL/GOTCHA": {
         "external": 6,
         "internal": 12,
         "total": 18
     },
-    "flux-framework/flux-docs": {
-        "external": 6,
-        "internal": 12,
-        "total": 18
-    },
-    "flux-framework/rfc": {
+    "flux-framework/flux-framework.github.io": {
         "external": 6,
         "internal": 12,
         "total": 18
@@ -614,17 +624,17 @@
         "internal": 12,
         "total": 12
     },
-    "GEOSX/LvArray": {
-        "external": 64,
-        "internal": 11,
-        "total": 75
-    },
     "hpc/OpenLorenz": {
         "external": 12,
         "internal": 11,
         "total": 23
     },
-    "flux-framework/flux-framework.github.io": {
+    "flux-framework/flux-core-v0.11": {
+        "external": 7,
+        "internal": 11,
+        "total": 18
+    },
+    "flux-framework/flux-sched-v0.7": {
         "external": 7,
         "internal": 11,
         "total": 18
@@ -760,16 +770,6 @@
         "total": 11
     },
     "LLNL/magpie": {
-        "external": 8,
-        "internal": 10,
-        "total": 18
-    },
-    "flux-framework/flux-core-v0.11": {
-        "external": 8,
-        "internal": 10,
-        "total": 18
-    },
-    "flux-framework/flux-sched-v0.7": {
         "external": 8,
         "internal": 10,
         "total": 18
@@ -999,6 +999,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/mappgene": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/melodee": {
         "external": 0,
         "internal": 10,
@@ -1099,12 +1104,57 @@
         "internal": 9,
         "total": 30
     },
+    "flux-framework/flux-k8s": {
+        "external": 10,
+        "internal": 9,
+        "total": 19
+    },
     "LLNL/INGRID": {
         "external": 6,
         "internal": 9,
         "total": 15
     },
+    "flux-framework/flux-security": {
+        "external": 6,
+        "internal": 9,
+        "total": 15
+    },
     "LLNL/Curvallis": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/capacitor": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/distribution": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-dyad": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-hierarchy": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-rs": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-sys-rs": {
+        "external": 5,
+        "internal": 9,
+        "total": 14
+    },
+    "flux-framework/flux-workflow-examples": {
         "external": 5,
         "internal": 9,
         "total": 14
@@ -1265,11 +1315,6 @@
         "total": 10
     },
     "LLNL/loupe": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/mappgene": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -1819,57 +1864,12 @@
         "internal": 9,
         "total": 9
     },
-    "flux-framework/flux-k8s": {
-        "external": 11,
-        "internal": 8,
-        "total": 19
-    },
     "LLNL/mpiP": {
         "external": 7,
         "internal": 8,
         "total": 15
     },
-    "flux-framework/flux-security": {
-        "external": 7,
-        "internal": 8,
-        "total": 15
-    },
     "chaos/genders": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/capacitor": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/distribution": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-dyad": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-hierarchy": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-rs": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-sys-rs": {
-        "external": 6,
-        "internal": 8,
-        "total": 14
-    },
-    "flux-framework/flux-workflow-examples": {
         "external": 6,
         "internal": 8,
         "total": 14
@@ -2219,12 +2219,12 @@
         "internal": 5,
         "total": 14
     },
-    "chaos/pdsh": {
-        "external": 8,
-        "internal": 5,
-        "total": 13
-    },
     "hatchet/hatchet": {
+        "external": 9,
+        "internal": 5,
+        "total": 14
+    },
+    "chaos/pdsh": {
         "external": 8,
         "internal": 5,
         "total": 13

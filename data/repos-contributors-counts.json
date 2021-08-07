@@ -60,8 +60,8 @@
         "total": 86
     },
     "GEOSX/LvArray": {
-        "external": 64,
-        "internal": 11,
+        "external": 63,
+        "internal": 12,
         "total": 75
     },
     "CEED/libCEED": {
@@ -129,6 +129,11 @@
         "internal": 6,
         "total": 43
     },
+    "LLNL/conduit": {
+        "external": 8,
+        "internal": 33,
+        "total": 41
+    },
     "LLNL/blt": {
         "external": 11,
         "internal": 30,
@@ -138,11 +143,6 @@
         "external": 32,
         "internal": 9,
         "total": 41
-    },
-    "LLNL/conduit": {
-        "external": 8,
-        "internal": 32,
-        "total": 40
     },
     "openzfs/openzfs-docs": {
         "external": 38,
@@ -325,8 +325,8 @@
         "total": 23
     },
     "flux-framework/flux-core": {
-        "external": 11,
-        "internal": 12,
+        "external": 10,
+        "internal": 13,
         "total": 23
     },
     "GLVis/glvis-js": {
@@ -450,8 +450,8 @@
         "total": 20
     },
     "flux-framework/flux-sched": {
-        "external": 8,
-        "internal": 12,
+        "external": 7,
+        "internal": 13,
         "total": 20
     },
     "LLNL/AutomaDeD": {
@@ -485,8 +485,8 @@
         "total": 19
     },
     "flux-framework/flux-k8s": {
-        "external": 11,
-        "internal": 8,
+        "external": 10,
+        "internal": 9,
         "total": 19
     },
     "chaos/slurm": {
@@ -630,28 +630,28 @@
         "total": 18
     },
     "flux-framework/flux-core-v0.11": {
-        "external": 8,
-        "internal": 10,
-        "total": 18
-    },
-    "flux-framework/flux-docs": {
-        "external": 6,
-        "internal": 12,
-        "total": 18
-    },
-    "flux-framework/flux-framework.github.io": {
         "external": 7,
         "internal": 11,
         "total": 18
     },
+    "flux-framework/flux-docs": {
+        "external": 5,
+        "internal": 13,
+        "total": 18
+    },
+    "flux-framework/flux-framework.github.io": {
+        "external": 6,
+        "internal": 12,
+        "total": 18
+    },
     "flux-framework/flux-sched-v0.7": {
-        "external": 8,
-        "internal": 10,
+        "external": 7,
+        "internal": 11,
         "total": 18
     },
     "flux-framework/rfc": {
-        "external": 6,
-        "internal": 12,
+        "external": 5,
+        "internal": 13,
         "total": 18
     },
     "CDAT/cdat.github.io": {
@@ -850,8 +850,8 @@
         "total": 15
     },
     "flux-framework/flux-security": {
-        "external": 7,
-        "internal": 8,
+        "external": 6,
+        "internal": 9,
         "total": 15
     },
     "CDAT/uvcdat-testdata": {
@@ -915,41 +915,46 @@
         "total": 14
     },
     "flux-framework/capacitor": {
-        "external": 6,
-        "internal": 8,
+        "external": 5,
+        "internal": 9,
         "total": 14
     },
     "flux-framework/distribution": {
-        "external": 6,
-        "internal": 8,
+        "external": 5,
+        "internal": 9,
         "total": 14
     },
     "flux-framework/flux-dyad": {
-        "external": 6,
-        "internal": 8,
+        "external": 5,
+        "internal": 9,
         "total": 14
     },
     "flux-framework/flux-hierarchy": {
-        "external": 6,
-        "internal": 8,
+        "external": 5,
+        "internal": 9,
         "total": 14
     },
     "flux-framework/flux-rs": {
-        "external": 6,
-        "internal": 8,
+        "external": 5,
+        "internal": 9,
         "total": 14
     },
     "flux-framework/flux-sys-rs": {
-        "external": 6,
-        "internal": 8,
+        "external": 5,
+        "internal": 9,
         "total": 14
     },
     "flux-framework/flux-workflow-examples": {
-        "external": 6,
-        "internal": 8,
+        "external": 5,
+        "internal": 9,
         "total": 14
     },
     "spack/legacy-spack.io": {
+        "external": 9,
+        "internal": 5,
+        "total": 14
+    },
+    "hatchet/hatchet": {
         "external": 9,
         "internal": 5,
         "total": 14
@@ -1065,11 +1070,6 @@
         "total": 13
     },
     "chaos/pdsh": {
-        "external": 8,
-        "internal": 5,
-        "total": 13
-    },
-    "hatchet/hatchet": {
         "external": 8,
         "internal": 5,
         "total": 13
@@ -1715,8 +1715,8 @@
         "total": 10
     },
     "LLNL/mappgene": {
-        "external": 1,
-        "internal": 9,
+        "external": 0,
+        "internal": 10,
         "total": 10
     },
     "LLNL/melodee": {
