@@ -110,9 +110,9 @@
         "total": 32
     },
     "LLNL/HPCCEA": {
-        "external": 7,
+        "external": 11,
         "internal": 19,
-        "total": 26
+        "total": 30
     },
     "LLNL/PnMPI": {
         "external": 6,
@@ -395,9 +395,9 @@
         "total": 18
     },
     "LLNL/merlin": {
-        "external": 3,
+        "external": 4,
         "internal": 14,
-        "total": 17
+        "total": 18
     },
     "LLNL/havoqgt": {
         "external": 2,
@@ -458,6 +458,11 @@
         "external": 16,
         "internal": 13,
         "total": 29
+    },
+    "spack/spack-monitor": {
+        "external": 11,
+        "internal": 13,
+        "total": 24
     },
     "LLNL/UnifyFS": {
         "external": 10,
@@ -538,11 +543,6 @@
         "external": 22,
         "internal": 12,
         "total": 34
-    },
-    "spack/spack-monitor": {
-        "external": 12,
-        "internal": 12,
-        "total": 24
     },
     "LLNL/GOTCHA": {
         "external": 6,
@@ -739,6 +739,11 @@
         "internal": 11,
         "total": 11
     },
+    "LLNL/FAROS": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
     "LLNL/UMT": {
         "external": 0,
         "internal": 11,
@@ -845,11 +850,6 @@
         "total": 12
     },
     "LLNL/zfpy-wheels": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/FAROS": {
         "external": 1,
         "internal": 10,
         "total": 11
