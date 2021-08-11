@@ -110,9 +110,9 @@
         "total": 32
     },
     "LLNL/HPCCEA": {
-        "external": 11,
+        "external": 12,
         "internal": 19,
-        "total": 30
+        "total": 31
     },
     "LLNL/PnMPI": {
         "external": 6,

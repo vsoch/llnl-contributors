@@ -154,6 +154,11 @@
         "internal": 4,
         "total": 32
     },
+    "LLNL/HPCCEA": {
+        "external": 12,
+        "internal": 19,
+        "total": 31
+    },
     "LLNL/RAJAProxies": {
         "external": 2,
         "internal": 29,
@@ -172,11 +177,6 @@
     "LLNL/zfp": {
         "external": 14,
         "internal": 16,
-        "total": 30
-    },
-    "LLNL/HPCCEA": {
-        "external": 11,
-        "internal": 19,
         "total": 30
     },
     "spack/spack-cscs2019": {
