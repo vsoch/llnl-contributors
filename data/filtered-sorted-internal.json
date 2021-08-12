@@ -119,15 +119,15 @@
         "internal": 19,
         "total": 25
     },
-    "LLNL/serac": {
+    "LLNL/DiHydrogen": {
         "external": 3,
         "internal": 19,
         "total": 22
     },
-    "LLNL/DiHydrogen": {
-        "external": 2,
+    "LLNL/serac": {
+        "external": 3,
         "internal": 19,
-        "total": 21
+        "total": 22
     },
     "LLNL/DragonView": {
         "external": 2,
@@ -454,6 +454,11 @@
         "internal": 13,
         "total": 48
     },
+    "hypre-space/hypre": {
+        "external": 21,
+        "internal": 13,
+        "total": 34
+    },
     "hpc/Spindle": {
         "external": 16,
         "internal": 13,
@@ -538,11 +543,6 @@
         "external": 63,
         "internal": 12,
         "total": 75
-    },
-    "hypre-space/hypre": {
-        "external": 22,
-        "internal": 12,
-        "total": 34
     },
     "LLNL/GOTCHA": {
         "external": 6,
@@ -679,6 +679,11 @@
         "internal": 11,
         "total": 13
     },
+    "LLNL/devil_ray": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
     "LLNL/COGENT": {
         "external": 1,
         "internal": 11,
@@ -700,11 +705,6 @@
         "total": 12
     },
     "LLNL/cruise": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
-    },
-    "LLNL/devil_ray": {
         "external": 1,
         "internal": 11,
         "total": 12
@@ -2099,12 +2099,12 @@
         "internal": 6,
         "total": 27
     },
-    "flux-framework/FluxRM.jl": {
-        "external": 6,
-        "internal": 6,
-        "total": 12
-    },
     "spack/spackbot": {
+        "external": 7,
+        "internal": 6,
+        "total": 13
+    },
+    "flux-framework/FluxRM.jl": {
         "external": 6,
         "internal": 6,
         "total": 12

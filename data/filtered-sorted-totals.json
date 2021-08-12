@@ -120,8 +120,8 @@
         "total": 34
     },
     "hypre-space/hypre": {
-        "external": 22,
-        "internal": 12,
+        "external": 21,
+        "internal": 13,
         "total": 34
     },
     "LLNL/gidiplus": {
@@ -294,6 +294,11 @@
         "internal": 1,
         "total": 23
     },
+    "LLNL/DiHydrogen": {
+        "external": 3,
+        "internal": 19,
+        "total": 22
+    },
     "LLNL/serac": {
         "external": 3,
         "internal": 19,
@@ -338,11 +343,6 @@
         "external": 22,
         "internal": 0,
         "total": 22
-    },
-    "LLNL/DiHydrogen": {
-        "external": 2,
-        "internal": 19,
-        "total": 21
     },
     "LLNL/DragonView": {
         "external": 2,
@@ -989,6 +989,11 @@
         "internal": 10,
         "total": 13
     },
+    "LLNL/devil_ray": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
     "LLNL/irep": {
         "external": 0,
         "internal": 13,
@@ -1017,6 +1022,11 @@
     "LLNL/variorum": {
         "external": 1,
         "internal": 12,
+        "total": 13
+    },
+    "spack/spackbot": {
+        "external": 7,
+        "internal": 6,
         "total": 13
     },
     "chaos/pdsh": {
@@ -1124,11 +1134,6 @@
         "internal": 11,
         "total": 12
     },
-    "LLNL/devil_ray": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
-    },
     "LLNL/inq": {
         "external": 2,
         "internal": 10,
@@ -1177,11 +1182,6 @@
     "ATOMconsortium/AMPL": {
         "external": 10,
         "internal": 2,
-        "total": 12
-    },
-    "spack/spackbot": {
-        "external": 6,
-        "internal": 6,
         "total": 12
     },
     "CDAT/cdatweb": {

@@ -104,11 +104,6 @@
         "internal": 2,
         "total": 27
     },
-    "hypre-space/hypre": {
-        "external": 22,
-        "internal": 12,
-        "total": 34
-    },
     "spack/seps": {
         "external": 22,
         "internal": 9,
@@ -128,6 +123,11 @@
         "external": 22,
         "internal": 0,
         "total": 22
+    },
+    "hypre-space/hypre": {
+        "external": 21,
+        "internal": 13,
+        "total": 34
     },
     "spack/spack-cscs2019": {
         "external": 21,
@@ -779,6 +779,11 @@
         "internal": 8,
         "total": 15
     },
+    "spack/spackbot": {
+        "external": 7,
+        "internal": 6,
+        "total": 13
+    },
     "PRUNERS/archer": {
         "external": 7,
         "internal": 2,
@@ -880,11 +885,6 @@
         "total": 14
     },
     "flux-framework/FluxRM.jl": {
-        "external": 6,
-        "internal": 6,
-        "total": 12
-    },
-    "spack/spackbot": {
         "external": 6,
         "internal": 6,
         "total": 12
@@ -1554,6 +1554,11 @@
         "internal": 0,
         "total": 4
     },
+    "LLNL/DiHydrogen": {
+        "external": 3,
+        "internal": 19,
+        "total": 22
+    },
     "LLNL/serac": {
         "external": 3,
         "internal": 19,
@@ -1854,11 +1859,6 @@
         "internal": 29,
         "total": 31
     },
-    "LLNL/DiHydrogen": {
-        "external": 2,
-        "internal": 19,
-        "total": 21
-    },
     "LLNL/DragonView": {
         "external": 2,
         "internal": 19,
@@ -1905,6 +1905,11 @@
         "total": 14
     },
     "LLNL/ac-mpibind": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
+    "LLNL/devil_ray": {
         "external": 2,
         "internal": 11,
         "total": 13
@@ -2270,11 +2275,6 @@
         "total": 12
     },
     "LLNL/cruise": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
-    },
-    "LLNL/devil_ray": {
         "external": 1,
         "internal": 11,
         "total": 12
