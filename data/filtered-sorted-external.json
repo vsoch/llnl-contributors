@@ -464,6 +464,11 @@
         "internal": 9,
         "total": 19
     },
+    "hatchet/hatchet": {
+        "external": 10,
+        "internal": 5,
+        "total": 15
+    },
     "ATOMconsortium/AMPL": {
         "external": 10,
         "internal": 2,
@@ -530,11 +535,6 @@
         "total": 22
     },
     "spack/legacy-spack.io": {
-        "external": 9,
-        "internal": 5,
-        "total": 14
-    },
-    "hatchet/hatchet": {
         "external": 9,
         "internal": 5,
         "total": 14
@@ -1234,6 +1234,11 @@
         "internal": 22,
         "total": 26
     },
+    "LLNL/STAT": {
+        "external": 4,
+        "internal": 18,
+        "total": 22
+    },
     "LLNL/libROM": {
         "external": 4,
         "internal": 16,
@@ -1563,11 +1568,6 @@
         "external": 3,
         "internal": 19,
         "total": 22
-    },
-    "LLNL/STAT": {
-        "external": 3,
-        "internal": 18,
-        "total": 21
     },
     "LLNL/ior": {
         "external": 3,

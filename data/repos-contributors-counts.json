@@ -354,6 +354,11 @@
         "internal": 19,
         "total": 22
     },
+    "LLNL/STAT": {
+        "external": 4,
+        "internal": 18,
+        "total": 22
+    },
     "LLNL/serac": {
         "external": 3,
         "internal": 19,
@@ -407,11 +412,6 @@
     "LLNL/SAMRAI": {
         "external": 6,
         "internal": 15,
-        "total": 21
-    },
-    "LLNL/STAT": {
-        "external": 3,
-        "internal": 18,
         "total": 21
     },
     "ESGF/config": {
@@ -859,6 +859,11 @@
         "internal": 9,
         "total": 15
     },
+    "hatchet/hatchet": {
+        "external": 10,
+        "internal": 5,
+        "total": 15
+    },
     "CDAT/uvcdat-testdata": {
         "external": 14,
         "internal": 1,
@@ -955,11 +960,6 @@
         "total": 14
     },
     "spack/legacy-spack.io": {
-        "external": 9,
-        "internal": 5,
-        "total": 14
-    },
-    "hatchet/hatchet": {
         "external": 9,
         "internal": 5,
         "total": 14
