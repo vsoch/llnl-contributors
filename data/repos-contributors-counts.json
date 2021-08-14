@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 832,
+        "external": 833,
         "internal": 62,
-        "total": 894
+        "total": 895
     },
     "openzfs/zfs": {
         "external": 453,
@@ -734,6 +734,11 @@
         "internal": 11,
         "total": 16
     },
+    "LLNL/units": {
+        "external": 6,
+        "internal": 10,
+        "total": 16
+    },
     "chaos/scrub": {
         "external": 11,
         "internal": 5,
@@ -842,11 +847,6 @@
     "LLNL/uberenv": {
         "external": 0,
         "internal": 15,
-        "total": 15
-    },
-    "LLNL/units": {
-        "external": 5,
-        "internal": 10,
         "total": 15
     },
     "LLNL/zfs": {
@@ -1239,6 +1239,11 @@
         "internal": 2,
         "total": 12
     },
+    "chaos/nodediag": {
+        "external": 5,
+        "internal": 7,
+        "total": 12
+    },
     "CDAT/cdatweb": {
         "external": 11,
         "internal": 1,
@@ -1422,11 +1427,6 @@
     "spack/spack-tutorial-container": {
         "external": 6,
         "internal": 5,
-        "total": 11
-    },
-    "chaos/nodediag": {
-        "external": 5,
-        "internal": 6,
         "total": 11
     },
     "CDAT/dv3d": {

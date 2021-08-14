@@ -779,12 +779,12 @@
         "internal": 10,
         "total": 18
     },
-    "LLNL/MPI-Stages": {
-        "external": 5,
-        "internal": 10,
-        "total": 15
-    },
     "LLNL/units": {
+        "external": 6,
+        "internal": 10,
+        "total": 16
+    },
+    "LLNL/MPI-Stages": {
         "external": 5,
         "internal": 10,
         "total": 15
@@ -2049,6 +2049,11 @@
         "internal": 8,
         "total": 8
     },
+    "chaos/nodediag": {
+        "external": 5,
+        "internal": 7,
+        "total": 12
+    },
     "chaos/cerebro": {
         "external": 4,
         "internal": 7,
@@ -2110,11 +2115,6 @@
         "total": 12
     },
     "XBraid/xbraid": {
-        "external": 5,
-        "internal": 6,
-        "total": 11
-    },
-    "chaos/nodediag": {
         "external": 5,
         "internal": 6,
         "total": 11

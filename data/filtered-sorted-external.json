@@ -869,6 +869,11 @@
         "internal": 11,
         "total": 17
     },
+    "LLNL/units": {
+        "external": 6,
+        "internal": 10,
+        "total": 16
+    },
     "LLNL/INGRID": {
         "external": 6,
         "internal": 9,
@@ -1004,11 +1009,6 @@
         "internal": 10,
         "total": 15
     },
-    "LLNL/units": {
-        "external": 5,
-        "internal": 10,
-        "total": 15
-    },
     "LLNL/Curvallis": {
         "external": 5,
         "internal": 9,
@@ -1049,12 +1049,12 @@
         "internal": 9,
         "total": 14
     },
-    "XBraid/xbraid": {
-        "external": 5,
-        "internal": 6,
-        "total": 11
-    },
     "chaos/nodediag": {
+        "external": 5,
+        "internal": 7,
+        "total": 12
+    },
+    "XBraid/xbraid": {
         "external": 5,
         "internal": 6,
         "total": 11
