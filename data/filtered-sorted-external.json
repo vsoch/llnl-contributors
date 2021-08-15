@@ -529,12 +529,27 @@
         "internal": 0,
         "total": 10
     },
+    "LLNL/conduit": {
+        "external": 9,
+        "internal": 32,
+        "total": 41
+    },
+    "LLNL/Umpire": {
+        "external": 9,
+        "internal": 23,
+        "total": 32
+    },
     "LLNL/spheral": {
         "external": 9,
         "internal": 13,
         "total": 22
     },
     "spack/legacy-spack.io": {
+        "external": 9,
+        "internal": 5,
+        "total": 14
+    },
+    "chaos/pdsh": {
         "external": 9,
         "internal": 5,
         "total": 14
@@ -619,16 +634,6 @@
         "internal": 0,
         "total": 9
     },
-    "LLNL/conduit": {
-        "external": 8,
-        "internal": 33,
-        "total": 41
-    },
-    "LLNL/Umpire": {
-        "external": 8,
-        "internal": 24,
-        "total": 32
-    },
     "LLNL/scr": {
         "external": 8,
         "internal": 17,
@@ -648,11 +653,6 @@
         "external": 8,
         "internal": 10,
         "total": 18
-    },
-    "chaos/pdsh": {
-        "external": 8,
-        "internal": 5,
-        "total": 13
     },
     "CDAT/cdp": {
         "external": 8,
@@ -834,6 +834,11 @@
         "internal": 0,
         "total": 7
     },
+    "LLNL/axom": {
+        "external": 6,
+        "internal": 40,
+        "total": 46
+    },
     "LLNL/PnMPI": {
         "external": 6,
         "internal": 19,
@@ -948,11 +953,6 @@
         "external": 6,
         "internal": 0,
         "total": 6
-    },
-    "LLNL/axom": {
-        "external": 5,
-        "internal": 41,
-        "total": 46
     },
     "LLNL/libmsr": {
         "external": 5,
@@ -1266,8 +1266,8 @@
     },
     "LLNL/pyranda": {
         "external": 4,
-        "internal": 11,
-        "total": 15
+        "internal": 10,
+        "total": 14
     },
     "LLNL/UEDGE": {
         "external": 4,
@@ -1984,6 +1984,11 @@
         "internal": 8,
         "total": 10
     },
+    "LLNL/FGPU": {
+        "external": 2,
+        "internal": 8,
+        "total": 10
+    },
     "LLNL/prorad": {
         "external": 2,
         "internal": 8,
@@ -2085,6 +2090,11 @@
         "total": 4
     },
     "GMLC-TDC/create-pr-action": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/helics-action": {
         "external": 2,
         "internal": 2,
         "total": 4
@@ -2219,6 +2229,11 @@
         "internal": 14,
         "total": 15
     },
+    "LLNL/shroud": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
     "LLNL/simul": {
         "external": 1,
         "internal": 14,
@@ -2294,6 +2309,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/UMT": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/burstfs": {
         "external": 1,
         "internal": 10,
@@ -2335,11 +2355,6 @@
         "total": 10
     },
     "LLNL/Collabmaps": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/FGPU": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -2495,6 +2510,11 @@
         "total": 9
     },
     "LLNL/LibPowerMon": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/NPB": {
         "external": 1,
         "internal": 8,
         "total": 9
@@ -2689,11 +2709,6 @@
         "internal": 18,
         "total": 18
     },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
     "LLNL/Adagio": {
         "external": 0,
         "internal": 18,
@@ -2759,6 +2774,11 @@
         "internal": 18,
         "total": 18
     },
+    "LLNL/ATS": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
     "LLNL/maestro_sheetmusic": {
         "external": 0,
         "internal": 15,
@@ -2775,11 +2795,6 @@
         "total": 15
     },
     "LLNL/RAJA-project-template": {
-        "external": 0,
-        "internal": 15,
-        "total": 15
-    },
-    "LLNL/shroud": {
         "external": 0,
         "internal": 15,
         "total": 15
@@ -2865,11 +2880,6 @@
         "total": 11
     },
     "LLNL/FAROS": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/UMT": {
         "external": 0,
         "internal": 11,
         "total": 11
@@ -3200,11 +3210,6 @@
         "total": 9
     },
     "LLNL/MuyGPyS": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/NPB": {
         "external": 0,
         "internal": 9,
         "total": 9
