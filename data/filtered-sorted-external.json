@@ -384,6 +384,11 @@
         "internal": 30,
         "total": 41
     },
+    "LLNL/UnifyFS": {
+        "external": 11,
+        "internal": 13,
+        "total": 24
+    },
     "spack/spack-monitor": {
         "external": 11,
         "internal": 13,
@@ -449,11 +454,6 @@
         "internal": 15,
         "total": 25
     },
-    "LLNL/UnifyFS": {
-        "external": 10,
-        "internal": 13,
-        "total": 23
-    },
     "flux-framework/flux-core": {
         "external": 10,
         "internal": 13,
@@ -473,6 +473,11 @@
         "external": 10,
         "internal": 2,
         "total": 12
+    },
+    "chu11/freeipmi-mirror": {
+        "external": 10,
+        "internal": 1,
+        "total": 11
     },
     "CDAT/dv3d": {
         "external": 10,
@@ -560,11 +565,6 @@
         "total": 11
     },
     "openzfs/zfs-images": {
-        "external": 9,
-        "internal": 1,
-        "total": 10
-    },
-    "chu11/freeipmi-mirror": {
         "external": 9,
         "internal": 1,
         "total": 10
