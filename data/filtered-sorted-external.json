@@ -2709,6 +2709,11 @@
         "internal": 18,
         "total": 18
     },
+    "LLNL/ATS": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
     "LLNL/Adagio": {
         "external": 0,
         "internal": 18,
@@ -2773,11 +2778,6 @@
         "external": 0,
         "internal": 18,
         "total": 18
-    },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 17,
-        "total": 17
     },
     "LLNL/maestro_sheetmusic": {
         "external": 0,
@@ -3701,8 +3701,8 @@
     },
     "hatchet/hatchet-notebooks-sc19": {
         "external": 0,
-        "internal": 2,
-        "total": 2
+        "internal": 3,
+        "total": 3
     },
     "sabersw/pysaber": {
         "external": 0,

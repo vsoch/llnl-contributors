@@ -469,6 +469,11 @@
         "internal": 18,
         "total": 18
     },
+    "LLNL/ATS": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
     "LLNL/Adagio": {
         "external": 0,
         "internal": 18,
@@ -622,11 +627,6 @@
     "LLNL/umap": {
         "external": 2,
         "internal": 15,
-        "total": 17
-    },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 17,
         "total": 17
     },
     "LLNL/Rescal-snow": {
@@ -3609,6 +3609,11 @@
         "internal": 3,
         "total": 3
     },
+    "hatchet/hatchet-notebooks-sc19": {
+        "external": 0,
+        "internal": 3,
+        "total": 3
+    },
     "visit-dav/ci-test": {
         "external": 2,
         "internal": 1,
@@ -3638,11 +3643,6 @@
         "external": 3,
         "internal": 0,
         "total": 3
-    },
-    "hatchet/hatchet-notebooks-sc19": {
-        "external": 0,
-        "internal": 2,
-        "total": 2
     },
     "hpcgroup/AriesNCL": {
         "external": 1,

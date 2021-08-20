@@ -204,6 +204,11 @@
         "internal": 18,
         "total": 18
     },
+    "LLNL/ATS": {
+        "external": 0,
+        "internal": 18,
+        "total": 18
+    },
     "LLNL/Adagio": {
         "external": 0,
         "internal": 18,
@@ -273,11 +278,6 @@
         "external": 8,
         "internal": 17,
         "total": 25
-    },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 17,
-        "total": 17
     },
     "LLNL/zfp": {
         "external": 14,
@@ -2529,6 +2529,11 @@
         "internal": 3,
         "total": 3
     },
+    "hatchet/hatchet-notebooks-sc19": {
+        "external": 0,
+        "internal": 3,
+        "total": 3
+    },
     "openzfs/openzfs-docs": {
         "external": 38,
         "internal": 2,
@@ -2778,11 +2783,6 @@
         "external": 1,
         "internal": 2,
         "total": 3
-    },
-    "hatchet/hatchet-notebooks-sc19": {
-        "external": 0,
-        "internal": 2,
-        "total": 2
     },
     "CDAT/cdat": {
         "external": 92,
