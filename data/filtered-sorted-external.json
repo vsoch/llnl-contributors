@@ -1221,8 +1221,8 @@
     },
     "LLNL/CHAI": {
         "external": 4,
-        "internal": 26,
-        "total": 30
+        "internal": 27,
+        "total": 31
     },
     "LLNL/llnl.github.io": {
         "external": 4,

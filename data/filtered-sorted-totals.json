@@ -154,6 +154,11 @@
         "internal": 4,
         "total": 32
     },
+    "LLNL/CHAI": {
+        "external": 4,
+        "internal": 27,
+        "total": 31
+    },
     "LLNL/HPCCEA": {
         "external": 12,
         "internal": 19,
@@ -168,11 +173,6 @@
         "external": 22,
         "internal": 9,
         "total": 31
-    },
-    "LLNL/CHAI": {
-        "external": 4,
-        "internal": 26,
-        "total": 30
     },
     "LLNL/zfp": {
         "external": 14,
