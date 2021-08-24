@@ -1114,6 +1114,11 @@
         "internal": 9,
         "total": 15
     },
+    "LLNL/mpiP": {
+        "external": 6,
+        "internal": 9,
+        "total": 15
+    },
     "flux-framework/flux-security": {
         "external": 6,
         "internal": 9,
@@ -1749,6 +1754,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/phloem": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/pmgr_collective": {
         "external": 0,
         "internal": 9,
@@ -1854,11 +1864,6 @@
         "internal": 9,
         "total": 9
     },
-    "LLNL/mpiP": {
-        "external": 7,
-        "internal": 8,
-        "total": 15
-    },
     "chaos/genders": {
         "external": 6,
         "internal": 8,
@@ -1955,11 +1960,6 @@
         "total": 9
     },
     "LLNL/lime-apps": {
-        "external": 1,
-        "internal": 8,
-        "total": 9
-    },
-    "LLNL/phloem": {
         "external": 1,
         "internal": 8,
         "total": 9
@@ -2399,6 +2399,11 @@
         "internal": 5,
         "total": 6
     },
+    "spack/spackpedia": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
     "spack/stars-over-time": {
         "external": 1,
         "internal": 5,
@@ -2599,6 +2604,11 @@
         "internal": 2,
         "total": 7
     },
+    "GMLC-TDC/pyhelics": {
+        "external": 5,
+        "internal": 2,
+        "total": 7
+    },
     "PRUNERS/ReMPI": {
         "external": 4,
         "internal": 2,
@@ -2620,11 +2630,6 @@
         "total": 6
     },
     "GMLC-TDC/helics_benchmark_results": {
-        "external": 4,
-        "internal": 2,
-        "total": 6
-    },
-    "GMLC-TDC/pyhelics": {
         "external": 4,
         "internal": 2,
         "total": 6

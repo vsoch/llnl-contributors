@@ -765,8 +765,8 @@
         "total": 15
     },
     "LLNL/mpiP": {
-        "external": 7,
-        "internal": 8,
+        "external": 6,
+        "internal": 9,
         "total": 15
     },
     "LLNL/shroud": {
@@ -2395,8 +2395,8 @@
         "total": 9
     },
     "LLNL/phloem": {
-        "external": 1,
-        "internal": 8,
+        "external": 0,
+        "internal": 9,
         "total": 9
     },
     "LLNL/pmgr_collective": {
@@ -2989,6 +2989,11 @@
         "internal": 2,
         "total": 7
     },
+    "GMLC-TDC/pyhelics": {
+        "external": 5,
+        "internal": 2,
+        "total": 7
+    },
     "CDAT/cdp-site": {
         "external": 7,
         "internal": 0,
@@ -3060,6 +3065,11 @@
         "total": 6
     },
     "spack/spack-user-survey": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spackpedia": {
         "external": 1,
         "internal": 5,
         "total": 6
@@ -3145,11 +3155,6 @@
         "total": 6
     },
     "GMLC-TDC/helics_benchmark_results": {
-        "external": 4,
-        "internal": 2,
-        "total": 6
-    },
-    "GMLC-TDC/pyhelics": {
         "external": 4,
         "internal": 2,
         "total": 6

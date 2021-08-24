@@ -774,11 +774,6 @@
         "internal": 11,
         "total": 18
     },
-    "LLNL/mpiP": {
-        "external": 7,
-        "internal": 8,
-        "total": 15
-    },
     "spack/spackbot": {
         "external": 7,
         "internal": 6,
@@ -880,6 +875,11 @@
         "total": 16
     },
     "LLNL/INGRID": {
+        "external": 6,
+        "internal": 9,
+        "total": 15
+    },
+    "LLNL/mpiP": {
         "external": 6,
         "internal": 9,
         "total": 15
@@ -1105,6 +1105,11 @@
         "total": 7
     },
     "GMLC-TDC/pesgm-2019-helics-tutorial": {
+        "external": 5,
+        "internal": 2,
+        "total": 7
+    },
+    "GMLC-TDC/pyhelics": {
         "external": 5,
         "internal": 2,
         "total": 7
@@ -1375,11 +1380,6 @@
         "total": 6
     },
     "GMLC-TDC/helics_benchmark_results": {
-        "external": 4,
-        "internal": 2,
-        "total": 6
-    },
-    "GMLC-TDC/pyhelics": {
         "external": 4,
         "internal": 2,
         "total": 6
@@ -2569,11 +2569,6 @@
         "internal": 8,
         "total": 9
     },
-    "LLNL/phloem": {
-        "external": 1,
-        "internal": 8,
-        "total": 9
-    },
     "LLNL/unum": {
         "external": 1,
         "internal": 8,
@@ -2615,6 +2610,11 @@
         "total": 6
     },
     "spack/spack-user-survey": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spackpedia": {
         "external": 1,
         "internal": 5,
         "total": 6
@@ -3495,6 +3495,11 @@
         "total": 9
     },
     "LLNL/parelagmc": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/phloem": {
         "external": 0,
         "internal": 9,
         "total": 9
