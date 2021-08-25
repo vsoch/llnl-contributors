@@ -99,14 +99,14 @@
         "internal": 2,
         "total": 40
     },
+    "spack/spack-configs": {
+        "external": 28,
+        "internal": 9,
+        "total": 37
+    },
     "LLNL/lbann": {
         "external": 14,
         "internal": 22,
-        "total": 36
-    },
-    "spack/spack-configs": {
-        "external": 27,
-        "internal": 9,
         "total": 36
     },
     "CDAT/VisTrails": {
@@ -269,6 +269,11 @@
         "internal": 18,
         "total": 23
     },
+    "LLNL/serac": {
+        "external": 4,
+        "internal": 19,
+        "total": 23
+    },
     "hpc/OpenLorenz": {
         "external": 12,
         "internal": 11,
@@ -302,11 +307,6 @@
     "LLNL/STAT": {
         "external": 4,
         "internal": 18,
-        "total": 22
-    },
-    "LLNL/serac": {
-        "external": 3,
-        "internal": 19,
         "total": 22
     },
     "LLNL/spheral": {
@@ -954,9 +954,19 @@
         "internal": 0,
         "total": 14
     },
+    "LLNL/Abmarl": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
     "LLNL/CARE": {
         "external": 0,
         "internal": 13,
+        "total": 13
+    },
+    "LLNL/GridKit": {
+        "external": 4,
+        "internal": 9,
         "total": 13
     },
     "LLNL/Jekyll-LLNL-Theme": {
@@ -1072,11 +1082,6 @@
     "LLNL/AMPE": {
         "external": 3,
         "internal": 9,
-        "total": 12
-    },
-    "LLNL/Abmarl": {
-        "external": 2,
-        "internal": 10,
         "total": 12
     },
     "LLNL/COGENT": {
@@ -1262,11 +1267,6 @@
     "LLNL/FAROS": {
         "external": 0,
         "internal": 11,
-        "total": 11
-    },
-    "LLNL/GridKit": {
-        "external": 2,
-        "internal": 9,
         "total": 11
     },
     "LLNL/Juqbox.jl": {

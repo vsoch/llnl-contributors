@@ -119,12 +119,12 @@
         "internal": 19,
         "total": 25
     },
-    "LLNL/DiHydrogen": {
-        "external": 3,
-        "internal": 19,
-        "total": 22
-    },
     "LLNL/serac": {
+        "external": 4,
+        "internal": 19,
+        "total": 23
+    },
+    "LLNL/DiHydrogen": {
         "external": 3,
         "internal": 19,
         "total": 22
@@ -784,6 +784,11 @@
         "internal": 10,
         "total": 14
     },
+    "LLNL/Abmarl": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
     "LLNL/LULESH": {
         "external": 3,
         "internal": 10,
@@ -803,11 +808,6 @@
         "external": 3,
         "internal": 10,
         "total": 13
-    },
-    "LLNL/Abmarl": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
     },
     "LLNL/ExaCA": {
         "external": 2,
@@ -1090,9 +1090,9 @@
         "total": 41
     },
     "spack/spack-configs": {
-        "external": 27,
+        "external": 28,
         "internal": 9,
-        "total": 36
+        "total": 37
     },
     "spack/seps": {
         "external": 22,
@@ -1164,6 +1164,11 @@
         "internal": 9,
         "total": 14
     },
+    "LLNL/GridKit": {
+        "external": 4,
+        "internal": 9,
+        "total": 13
+    },
     "LLNL/UEDGE": {
         "external": 4,
         "internal": 9,
@@ -1183,11 +1188,6 @@
         "external": 3,
         "internal": 9,
         "total": 12
-    },
-    "LLNL/GridKit": {
-        "external": 2,
-        "internal": 9,
-        "total": 11
     },
     "LLNL/Juqbox.jl": {
         "external": 2,
