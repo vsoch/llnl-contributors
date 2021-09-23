@@ -10,9 +10,9 @@
         "total": 87
     },
     "GEOSX/LvArray": {
-        "external": 62,
+        "external": 63,
         "internal": 12,
-        "total": 74
+        "total": 75
     },
     "CEED/libCEED": {
         "external": 52,
@@ -1985,6 +1985,11 @@
         "total": 9
     },
     "LLNL/CRADL": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/CUDAMicroBench": {
         "external": 0,
         "internal": 9,
         "total": 9

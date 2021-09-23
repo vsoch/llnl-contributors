@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 857,
+        "external": 858,
         "internal": 65,
-        "total": 922
+        "total": 923
     },
     "openzfs/zfs": {
         "external": 458,
@@ -65,9 +65,9 @@
         "total": 87
     },
     "GEOSX/LvArray": {
-        "external": 62,
+        "external": 63,
         "internal": 12,
-        "total": 74
+        "total": 75
     },
     "CEED/libCEED": {
         "external": 52,
@@ -2040,6 +2040,11 @@
         "total": 9
     },
     "LLNL/CRADL": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/CUDAMicroBench": {
         "external": 0,
         "internal": 9,
         "total": 9
