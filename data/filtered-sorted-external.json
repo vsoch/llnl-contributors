@@ -25,24 +25,24 @@
         "total": 87
     },
     "jpype-project/jpype": {
-        "external": 45,
+        "external": 46,
         "internal": 1,
-        "total": 46
+        "total": 47
     },
     "CEED/Laghos": {
         "external": 43,
         "internal": 21,
         "total": 64
     },
+    "visit-dav/visit": {
+        "external": 42,
+        "internal": 6,
+        "total": 48
+    },
     "CEED/benchmarks": {
         "external": 41,
         "internal": 19,
         "total": 60
-    },
-    "visit-dav/visit": {
-        "external": 41,
-        "internal": 6,
-        "total": 47
     },
     "mfem/github-actions": {
         "external": 40,
@@ -2064,6 +2064,11 @@
         "internal": 3,
         "total": 5
     },
+    "ECP-VeloC/redset": {
+        "external": 2,
+        "internal": 3,
+        "total": 5
+    },
     "ECP-VeloC/shuffile": {
         "external": 2,
         "internal": 3,
@@ -2665,11 +2670,6 @@
         "total": 6
     },
     "ECP-VeloC/rankstr": {
-        "external": 1,
-        "internal": 3,
-        "total": 4
-    },
-    "ECP-VeloC/redset": {
         "external": 1,
         "internal": 3,
         "total": 4

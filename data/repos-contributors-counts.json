@@ -110,18 +110,18 @@
         "total": 48
     },
     "visit-dav/visit": {
-        "external": 41,
+        "external": 42,
         "internal": 6,
+        "total": 48
+    },
+    "jpype-project/jpype": {
+        "external": 46,
+        "internal": 1,
         "total": 47
     },
     "LLNL/axom": {
         "external": 6,
         "internal": 40,
-        "total": 46
-    },
-    "jpype-project/jpype": {
-        "external": 45,
-        "internal": 1,
         "total": 46
     },
     "rose-compiler/rose": {
@@ -3264,6 +3264,11 @@
         "internal": 3,
         "total": 5
     },
+    "ECP-VeloC/redset": {
+        "external": 2,
+        "internal": 3,
+        "total": 5
+    },
     "ECP-VeloC/shuffile": {
         "external": 2,
         "internal": 3,
@@ -3445,11 +3450,6 @@
         "total": 5
     },
     "ECP-VeloC/rankstr": {
-        "external": 1,
-        "internal": 3,
-        "total": 4
-    },
-    "ECP-VeloC/redset": {
         "external": 1,
         "internal": 3,
         "total": 4

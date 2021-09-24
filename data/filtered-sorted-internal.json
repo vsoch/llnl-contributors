@@ -2115,9 +2115,9 @@
         "total": 9
     },
     "visit-dav/visit": {
-        "external": 41,
+        "external": 42,
         "internal": 6,
-        "total": 47
+        "total": 48
     },
     "rose-compiler/rose": {
         "external": 38,
@@ -2549,6 +2549,11 @@
         "internal": 3,
         "total": 5
     },
+    "ECP-VeloC/redset": {
+        "external": 2,
+        "internal": 3,
+        "total": 5
+    },
     "ECP-VeloC/shuffile": {
         "external": 2,
         "internal": 3,
@@ -2565,11 +2570,6 @@
         "total": 5
     },
     "ECP-VeloC/rankstr": {
-        "external": 1,
-        "internal": 3,
-        "total": 4
-    },
-    "ECP-VeloC/redset": {
         "external": 1,
         "internal": 3,
         "total": 4
@@ -3040,9 +3040,9 @@
         "total": 3
     },
     "jpype-project/jpype": {
-        "external": 45,
+        "external": 46,
         "internal": 1,
-        "total": 46
+        "total": 47
     },
     "ESGF/esgf-installer": {
         "external": 22,
