@@ -45,8 +45,8 @@
         "total": 56
     },
     "LLNL/RAJA": {
-        "external": 14,
-        "internal": 40,
+        "external": 13,
+        "internal": 41,
         "total": 54
     },
     "CEED/Remhos": {
@@ -115,8 +115,8 @@
         "total": 35
     },
     "LLNL/RAJAPerf": {
-        "external": 4,
-        "internal": 30,
+        "external": 3,
+        "internal": 31,
         "total": 34
     },
     "LLNL/Umpire": {
@@ -305,8 +305,8 @@
         "total": 23
     },
     "LLNL/SAMRAI": {
-        "external": 6,
-        "internal": 16,
+        "external": 5,
+        "internal": 17,
         "total": 22
     },
     "LLNL/DiHydrogen": {
