@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 858,
+        "external": 859,
         "internal": 65,
-        "total": 923
+        "total": 924
     },
     "openzfs/zfs": {
         "external": 458,
@@ -1029,6 +1029,11 @@
         "internal": 13,
         "total": 13
     },
+    "LLNL/COGENT": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
     "LLNL/GridKit": {
         "external": 4,
         "internal": 9,
@@ -1162,11 +1167,6 @@
     "LLNL/AMPE": {
         "external": 3,
         "internal": 9,
-        "total": 12
-    },
-    "LLNL/COGENT": {
-        "external": 1,
-        "internal": 11,
         "total": 12
     },
     "LLNL/CallFlow": {

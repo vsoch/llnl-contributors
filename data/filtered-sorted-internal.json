@@ -669,6 +669,11 @@
         "internal": 11,
         "total": 14
     },
+    "LLNL/COGENT": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
     "LLNL/ac-mpibind": {
         "external": 2,
         "internal": 11,
@@ -678,11 +683,6 @@
         "external": 2,
         "internal": 11,
         "total": 13
-    },
-    "LLNL/COGENT": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
     },
     "LLNL/CallFlow": {
         "external": 1,
