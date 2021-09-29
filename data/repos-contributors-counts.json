@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 860,
+        "external": 861,
         "internal": 65,
-        "total": 925
+        "total": 926
     },
     "openzfs/zfs": {
         "external": 458,
@@ -15,19 +15,19 @@
         "total": 462
     },
     "mfem/mfem": {
-        "external": 353,
-        "internal": 84,
+        "external": 352,
+        "internal": 85,
         "total": 437
     },
     "mfem/data": {
-        "external": 349,
-        "internal": 84,
+        "external": 348,
+        "internal": 85,
         "total": 433
     },
     "mfem/PyMFEM": {
-        "external": 224,
+        "external": 225,
         "internal": 33,
-        "total": 257
+        "total": 258
     },
     "spack/spack.io": {
         "external": 174,
@@ -60,9 +60,9 @@
         "total": 93
     },
     "mfem/web": {
-        "external": 51,
+        "external": 52,
         "internal": 36,
-        "total": 87
+        "total": 88
     },
     "GEOSX/LvArray": {
         "external": 63,
@@ -74,14 +74,14 @@
         "internal": 15,
         "total": 67
     },
+    "mfem/github-actions": {
+        "external": 41,
+        "internal": 24,
+        "total": 65
+    },
     "CEED/Laghos": {
         "external": 43,
         "internal": 21,
-        "total": 64
-    },
-    "mfem/github-actions": {
-        "external": 40,
-        "internal": 24,
         "total": 64
     },
     "CEED/benchmarks": {
@@ -304,6 +304,11 @@
         "internal": 13,
         "total": 24
     },
+    "LLNL/serac": {
+        "external": 4,
+        "internal": 20,
+        "total": 24
+    },
     "LLNL/wrap": {
         "external": 6,
         "internal": 18,
@@ -322,11 +327,6 @@
     "LLNL/LaunchMON": {
         "external": 5,
         "internal": 18,
-        "total": 23
-    },
-    "LLNL/serac": {
-        "external": 4,
-        "internal": 19,
         "total": 23
     },
     "hpc/OpenLorenz": {
