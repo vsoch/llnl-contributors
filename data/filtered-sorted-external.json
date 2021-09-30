@@ -381,8 +381,8 @@
     },
     "LLNL/blt": {
         "external": 11,
-        "internal": 30,
-        "total": 41
+        "internal": 31,
+        "total": 42
     },
     "LLNL/Umpire": {
         "external": 11,
@@ -754,6 +754,11 @@
         "internal": 11,
         "total": 18
     },
+    "LLNL/units": {
+        "external": 7,
+        "internal": 10,
+        "total": 17
+    },
     "spack/spackbot": {
         "external": 7,
         "internal": 6,
@@ -835,11 +840,6 @@
         "total": 17
     },
     "LLNL/Exaworks-SDK": {
-        "external": 6,
-        "internal": 10,
-        "total": 16
-    },
-    "LLNL/units": {
         "external": 6,
         "internal": 10,
         "total": 16
@@ -1166,8 +1166,8 @@
     },
     "LLNL/Kripke": {
         "external": 4,
-        "internal": 14,
-        "total": 18
+        "internal": 15,
+        "total": 19
     },
     "LLNL/cardioid": {
         "external": 4,
@@ -2489,6 +2489,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/flux-wrappers": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/gtest-mpi-listener": {
         "external": 1,
         "internal": 9,
@@ -2900,6 +2905,11 @@
         "total": 12
     },
     "LLNL/meco": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/mummi-core": {
         "external": 0,
         "internal": 11,
         "total": 11

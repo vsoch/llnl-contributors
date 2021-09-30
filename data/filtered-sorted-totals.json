@@ -79,14 +79,14 @@
         "internal": 6,
         "total": 43
     },
+    "LLNL/blt": {
+        "external": 11,
+        "internal": 31,
+        "total": 42
+    },
     "LLNL/conduit": {
         "external": 9,
         "internal": 32,
-        "total": 41
-    },
-    "LLNL/blt": {
-        "external": 11,
-        "internal": 30,
         "total": 41
     },
     "hpc/mpifileutils": {
@@ -404,6 +404,11 @@
         "internal": 19,
         "total": 20
     },
+    "LLNL/Kripke": {
+        "external": 4,
+        "internal": 15,
+        "total": 19
+    },
     "LLNL/ADAPT": {
         "external": 1,
         "internal": 18,
@@ -468,11 +473,6 @@
         "external": 19,
         "internal": 0,
         "total": 19
-    },
-    "LLNL/Kripke": {
-        "external": 4,
-        "internal": 14,
-        "total": 18
     },
     "LLNL/ATS": {
         "external": 0,
@@ -644,6 +644,11 @@
         "internal": 16,
         "total": 17
     },
+    "LLNL/units": {
+        "external": 7,
+        "internal": 10,
+        "total": 17
+    },
     "flux-framework/kubeflux": {
         "external": 8,
         "internal": 9,
@@ -687,11 +692,6 @@
     "LLNL/scraper": {
         "external": 5,
         "internal": 11,
-        "total": 16
-    },
-    "LLNL/units": {
-        "external": 6,
-        "internal": 10,
         "total": 16
     },
     "chaos/scrub": {
@@ -1264,6 +1264,11 @@
         "internal": 11,
         "total": 11
     },
+    "LLNL/mummi-core": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
     "LLNL/zfpy-wheels": {
         "external": 1,
         "internal": 10,
@@ -1665,6 +1670,11 @@
         "total": 10
     },
     "LLNL/fastcam": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/flux-wrappers": {
         "external": 1,
         "internal": 9,
         "total": 10

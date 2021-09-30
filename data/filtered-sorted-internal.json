@@ -24,15 +24,15 @@
         "internal": 32,
         "total": 41
     },
+    "LLNL/blt": {
+        "external": 11,
+        "internal": 31,
+        "total": 42
+    },
     "LLNL/RAJAPerf": {
         "external": 3,
         "internal": 31,
         "total": 34
-    },
-    "LLNL/blt": {
-        "external": 11,
-        "internal": 30,
-        "total": 41
     },
     "LLNL/RAJAProxies": {
         "external": 2,
@@ -329,6 +329,11 @@
         "internal": 15,
         "total": 20
     },
+    "LLNL/Kripke": {
+        "external": 4,
+        "internal": 15,
+        "total": 19
+    },
     "LLNL/ior": {
         "external": 3,
         "internal": 15,
@@ -388,11 +393,6 @@
         "external": 7,
         "internal": 14,
         "total": 21
-    },
-    "LLNL/Kripke": {
-        "external": 4,
-        "internal": 14,
-        "total": 18
     },
     "LLNL/cardioid": {
         "external": 4,
@@ -719,6 +719,11 @@
         "internal": 11,
         "total": 11
     },
+    "LLNL/mummi-core": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
     "LLNL/.github": {
         "external": 0,
         "internal": 11,
@@ -774,12 +779,12 @@
         "internal": 10,
         "total": 18
     },
-    "LLNL/Exaworks-SDK": {
-        "external": 6,
-        "internal": 10,
-        "total": 16
-    },
     "LLNL/units": {
+        "external": 7,
+        "internal": 10,
+        "total": 17
+    },
+    "LLNL/Exaworks-SDK": {
         "external": 6,
         "internal": 10,
         "total": 16
@@ -1320,6 +1325,11 @@
         "total": 10
     },
     "LLNL/fastcam": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/flux-wrappers": {
         "external": 1,
         "internal": 9,
         "total": 10
