@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 862,
+        "external": 864,
         "internal": 65,
-        "total": 927
+        "total": 929
     },
     "openzfs/zfs": {
         "external": 458,
@@ -38,6 +38,11 @@
         "external": 114,
         "internal": 31,
         "total": 145
+    },
+    "spack/gnuconfig": {
+        "external": 106,
+        "internal": 18,
+        "total": 124
     },
     "spack/sbang": {
         "external": 96,
