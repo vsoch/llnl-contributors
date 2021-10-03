@@ -1264,11 +1264,6 @@
         "internal": 11,
         "total": 11
     },
-    "LLNL/mummi-core": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
     "LLNL/zfpy-wheels": {
         "external": 1,
         "internal": 10,
@@ -1277,6 +1272,11 @@
     "LLNL/.github": {
         "external": 0,
         "internal": 11,
+        "total": 11
+    },
+    "LLNL/CcNav": {
+        "external": 1,
+        "internal": 10,
         "total": 11
     },
     "LLNL/ExaCMech": {

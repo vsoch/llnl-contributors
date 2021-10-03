@@ -2354,6 +2354,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/CcNav": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/UMT": {
         "external": 1,
         "internal": 10,
@@ -2905,11 +2910,6 @@
         "total": 12
     },
     "LLNL/meco": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/mummi-core": {
         "external": 0,
         "internal": 11,
         "total": 11

@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 865,
-        "internal": 65,
-        "total": 930
+        "external": 872,
+        "internal": 66,
+        "total": 938
     },
     "openzfs/zfs": {
         "external": 458,
@@ -1324,11 +1324,6 @@
         "internal": 11,
         "total": 11
     },
-    "LLNL/mummi-core": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
     "LLNL/zfpy-wheels": {
         "external": 1,
         "internal": 10,
@@ -1337,6 +1332,11 @@
     "LLNL/.github": {
         "external": 0,
         "internal": 11,
+        "total": 11
+    },
+    "LLNL/CcNav": {
+        "external": 1,
+        "internal": 10,
         "total": 11
     },
     "LLNL/ExaCMech": {
