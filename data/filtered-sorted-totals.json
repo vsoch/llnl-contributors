@@ -84,6 +84,11 @@
         "internal": 31,
         "total": 42
     },
+    "openzfs/openzfs-docs": {
+        "external": 40,
+        "internal": 2,
+        "total": 42
+    },
     "LLNL/conduit": {
         "external": 9,
         "internal": 32,
@@ -92,11 +97,6 @@
     "hpc/mpifileutils": {
         "external": 32,
         "internal": 9,
-        "total": 41
-    },
-    "openzfs/openzfs-docs": {
-        "external": 39,
-        "internal": 2,
         "total": 41
     },
     "spack/spack-configs": {
