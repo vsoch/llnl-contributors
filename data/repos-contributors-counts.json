@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 874,
+        "external": 877,
         "internal": 66,
-        "total": 940
+        "total": 943
     },
     "openzfs/zfs": {
         "external": 458,
@@ -134,6 +134,11 @@
         "internal": 6,
         "total": 44
     },
+    "openzfs/openzfs-docs": {
+        "external": 41,
+        "internal": 2,
+        "total": 43
+    },
     "rose-compiler/rose-develop": {
         "external": 37,
         "internal": 6,
@@ -142,11 +147,6 @@
     "LLNL/blt": {
         "external": 11,
         "internal": 31,
-        "total": 42
-    },
-    "openzfs/openzfs-docs": {
-        "external": 40,
-        "internal": 2,
         "total": 42
     },
     "LLNL/conduit": {
