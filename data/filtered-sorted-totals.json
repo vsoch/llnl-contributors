@@ -320,8 +320,8 @@
         "total": 22
     },
     "LLNL/spheral": {
-        "external": 9,
-        "internal": 13,
+        "external": 7,
+        "internal": 15,
         "total": 22
     },
     "mfem/doxygen": {
@@ -979,6 +979,11 @@
         "internal": 11,
         "total": 13
     },
+    "LLNL/CcNav": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
     "LLNL/GridKit": {
         "external": 4,
         "internal": 9,
@@ -1274,11 +1279,6 @@
         "internal": 11,
         "total": 11
     },
-    "LLNL/CcNav": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
     "LLNL/ExaCMech": {
         "external": 0,
         "internal": 11,
@@ -1570,8 +1570,8 @@
         "total": 10
     },
     "LLNL/PYB11Generator": {
-        "external": 1,
-        "internal": 9,
+        "external": 0,
+        "internal": 10,
         "total": 10
     },
     "LLNL/QRUS": {
@@ -1985,6 +1985,11 @@
         "total": 9
     },
     "LLNL/BAnD": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/BCML-COVID19": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -2884,6 +2889,11 @@
         "internal": 3,
         "total": 8
     },
+    "GMLC-TDC/pyhelics": {
+        "external": 6,
+        "internal": 2,
+        "total": 8
+    },
     "ESGF/cic": {
         "external": 8,
         "internal": 0,
@@ -3055,11 +3065,6 @@
         "total": 7
     },
     "GMLC-TDC/pesgm-2019-helics-tutorial": {
-        "external": 5,
-        "internal": 2,
-        "total": 7
-    },
-    "GMLC-TDC/pyhelics": {
         "external": 5,
         "internal": 2,
         "total": 7

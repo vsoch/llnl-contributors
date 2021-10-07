@@ -534,11 +534,6 @@
         "internal": 32,
         "total": 41
     },
-    "LLNL/spheral": {
-        "external": 9,
-        "internal": 13,
-        "total": 22
-    },
     "spack/legacy-spack.io": {
         "external": 9,
         "internal": 5,
@@ -734,6 +729,11 @@
         "internal": 16,
         "total": 23
     },
+    "LLNL/spheral": {
+        "external": 7,
+        "internal": 15,
+        "total": 22
+    },
     "flux-framework/flux-sched": {
         "external": 7,
         "internal": 14,
@@ -880,6 +880,11 @@
         "total": 8
     },
     "CDAT/wk": {
+        "external": 6,
+        "internal": 2,
+        "total": 8
+    },
+    "GMLC-TDC/pyhelics": {
         "external": 6,
         "internal": 2,
         "total": 8
@@ -1115,11 +1120,6 @@
         "total": 7
     },
     "GMLC-TDC/pesgm-2019-helics-tutorial": {
-        "external": 5,
-        "internal": 2,
-        "total": 7
-    },
-    "GMLC-TDC/pyhelics": {
         "external": 5,
         "internal": 2,
         "total": 7
@@ -1450,6 +1450,11 @@
         "total": 14
     },
     "LLNL/Abmarl": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/CcNav": {
         "external": 3,
         "internal": 10,
         "total": 13
@@ -2354,11 +2359,6 @@
         "internal": 10,
         "total": 11
     },
-    "LLNL/CcNav": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
     "LLNL/UMT": {
         "external": 1,
         "internal": 10,
@@ -2440,11 +2440,6 @@
         "total": 10
     },
     "LLNL/OpenRES": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/PYB11Generator": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -3009,6 +3004,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/PYB11Generator": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/RAJA-tutorials": {
         "external": 0,
         "internal": 10,
@@ -3175,6 +3175,11 @@
         "total": 9
     },
     "LLNL/BAnD": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/BCML-COVID19": {
         "external": 0,
         "internal": 9,
         "total": 9
