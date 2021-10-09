@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 886,
+        "external": 887,
         "internal": 66,
-        "total": 952
+        "total": 953
     },
     "openzfs/zfs": {
         "external": 458,
@@ -1355,6 +1355,11 @@
         "total": 11
     },
     "LLNL/PIPS-SBB": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "LLNL/Silo": {
         "external": 2,
         "internal": 9,
         "total": 11

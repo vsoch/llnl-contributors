@@ -1299,6 +1299,11 @@
         "internal": 9,
         "total": 11
     },
+    "LLNL/Silo": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
     "LLNL/UMT": {
         "external": 1,
         "internal": 10,
