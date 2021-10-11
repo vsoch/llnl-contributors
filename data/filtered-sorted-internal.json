@@ -2484,6 +2484,11 @@
         "internal": 4,
         "total": 9
     },
+    "rose-compiler/rose-apt-get": {
+        "external": 4,
+        "internal": 4,
+        "total": 8
+    },
     "rose-compiler/rose-plugin": {
         "external": 4,
         "internal": 4,
