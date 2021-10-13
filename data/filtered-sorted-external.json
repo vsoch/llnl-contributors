@@ -39,6 +39,11 @@
         "internal": 6,
         "total": 48
     },
+    "openzfs/openzfs-docs": {
+        "external": 42,
+        "internal": 2,
+        "total": 44
+    },
     "mfem/github-actions": {
         "external": 41,
         "internal": 24,
@@ -48,11 +53,6 @@
         "external": 41,
         "internal": 19,
         "total": 60
-    },
-    "openzfs/openzfs-docs": {
-        "external": 41,
-        "internal": 2,
-        "total": 43
     },
     "rose-compiler/rose": {
         "external": 38,
@@ -3339,6 +3339,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/SCR-model": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/STKAddressConverter": {
         "external": 0,
         "internal": 9,
@@ -3435,6 +3440,11 @@
         "total": 9
     },
     "LLNL/cxxopts": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/cyme-launcher": {
         "external": 0,
         "internal": 9,
         "total": 9

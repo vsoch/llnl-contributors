@@ -1569,6 +1569,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/SCR-model": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/STKAddressConverter": {
         "external": 0,
         "internal": 9,
@@ -1665,6 +1670,11 @@
         "total": 9
     },
     "LLNL/cxxopts": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/cyme-launcher": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -2620,9 +2630,9 @@
         "total": 93
     },
     "openzfs/openzfs-docs": {
-        "external": 41,
+        "external": 42,
         "internal": 2,
-        "total": 43
+        "total": 44
     },
     "CDAT/VisTrails": {
         "external": 33,

@@ -5,14 +5,14 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 887,
+        "external": 890,
         "internal": 66,
-        "total": 953
+        "total": 956
     },
     "openzfs/zfs": {
-        "external": 460,
+        "external": 461,
         "internal": 4,
-        "total": 464
+        "total": 465
     },
     "mfem/mfem": {
         "external": 351,
@@ -129,15 +129,15 @@
         "internal": 40,
         "total": 46
     },
+    "openzfs/openzfs-docs": {
+        "external": 42,
+        "internal": 2,
+        "total": 44
+    },
     "rose-compiler/rose": {
         "external": 38,
         "internal": 6,
         "total": 44
-    },
-    "openzfs/openzfs-docs": {
-        "external": 41,
-        "internal": 2,
-        "total": 43
     },
     "rose-compiler/rose-develop": {
         "external": 37,
@@ -2224,6 +2224,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/SCR-model": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/SSHSpawner": {
         "external": 1,
         "internal": 8,
@@ -2340,6 +2345,11 @@
         "total": 9
     },
     "LLNL/cxxopts": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/cyme-launcher": {
         "external": 0,
         "internal": 9,
         "total": 9

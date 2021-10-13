@@ -69,15 +69,15 @@
         "internal": 40,
         "total": 46
     },
+    "openzfs/openzfs-docs": {
+        "external": 42,
+        "internal": 2,
+        "total": 44
+    },
     "rose-compiler/rose": {
         "external": 38,
         "internal": 6,
         "total": 44
-    },
-    "openzfs/openzfs-docs": {
-        "external": 41,
-        "internal": 2,
-        "total": 43
     },
     "rose-compiler/rose-develop": {
         "external": 37,
@@ -2164,6 +2164,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/SCR-model": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/SSHSpawner": {
         "external": 1,
         "internal": 8,
@@ -2280,6 +2285,11 @@
         "total": 9
     },
     "LLNL/cxxopts": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/cyme-launcher": {
         "external": 0,
         "internal": 9,
         "total": 9
