@@ -2319,6 +2319,11 @@
         "internal": 12,
         "total": 13
     },
+    "LLNL/metall": {
+        "external": 1,
+        "internal": 12,
+        "total": 13
+    },
     "LLNL/spot2_container": {
         "external": 1,
         "internal": 12,
@@ -2895,11 +2900,6 @@
         "total": 12
     },
     "LLNL/MPIDiff": {
-        "external": 0,
-        "internal": 12,
-        "total": 12
-    },
-    "LLNL/metall": {
         "external": 0,
         "internal": 12,
         "total": 12

@@ -1104,6 +1104,11 @@
         "internal": 12,
         "total": 13
     },
+    "LLNL/metall": {
+        "external": 1,
+        "internal": 12,
+        "total": 13
+    },
     "LLNL/mgmol": {
         "external": 4,
         "internal": 9,
@@ -1232,11 +1237,6 @@
     "LLNL/inq": {
         "external": 2,
         "internal": 10,
-        "total": 12
-    },
-    "LLNL/metall": {
-        "external": 0,
-        "internal": 12,
         "total": 12
     },
     "LLNL/pLiner": {
