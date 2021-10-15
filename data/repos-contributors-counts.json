@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 890,
+        "external": 891,
         "internal": 66,
-        "total": 956
+        "total": 957
     },
     "openzfs/zfs": {
         "external": 461,
@@ -130,9 +130,9 @@
         "total": 46
     },
     "openzfs/openzfs-docs": {
-        "external": 42,
+        "external": 43,
         "internal": 2,
-        "total": 44
+        "total": 45
     },
     "rose-compiler/rose": {
         "external": 38,
@@ -729,6 +729,11 @@
         "internal": 10,
         "total": 16
     },
+    "LLNL/HPC-Tutorials": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
     "LLNL/SNLS": {
         "external": 1,
         "internal": 15,
@@ -792,11 +797,6 @@
     "LLNL/Aluminum": {
         "external": 3,
         "internal": 12,
-        "total": 15
-    },
-    "LLNL/HPC-Tutorials": {
-        "external": 0,
-        "internal": 15,
         "total": 15
     },
     "LLNL/INGRID": {

@@ -34,15 +34,15 @@
         "internal": 21,
         "total": 64
     },
+    "openzfs/openzfs-docs": {
+        "external": 43,
+        "internal": 2,
+        "total": 45
+    },
     "visit-dav/visit": {
         "external": 42,
         "internal": 6,
         "total": 48
-    },
-    "openzfs/openzfs-docs": {
-        "external": 42,
-        "internal": 2,
-        "total": 44
     },
     "mfem/github-actions": {
         "external": 41,
@@ -2274,6 +2274,11 @@
         "internal": 15,
         "total": 16
     },
+    "LLNL/HPC-Tutorials": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
     "LLNL/SNLS": {
         "external": 1,
         "internal": 15,
@@ -2840,11 +2845,6 @@
         "total": 15
     },
     "LLNL/Adiak": {
-        "external": 0,
-        "internal": 15,
-        "total": 15
-    },
-    "LLNL/HPC-Tutorials": {
         "external": 0,
         "internal": 15,
         "total": 15
