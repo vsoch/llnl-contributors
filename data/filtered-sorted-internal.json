@@ -320,9 +320,9 @@
         "total": 67
     },
     "LLNL/Caliper": {
-        "external": 10,
+        "external": 11,
         "internal": 15,
-        "total": 25
+        "total": 26
     },
     "LLNL/spheral": {
         "external": 7,
@@ -2145,9 +2145,9 @@
         "total": 9
     },
     "visit-dav/visit": {
-        "external": 42,
+        "external": 43,
         "internal": 6,
-        "total": 48
+        "total": 49
     },
     "rose-compiler/rose": {
         "external": 38,

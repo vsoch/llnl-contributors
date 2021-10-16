@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 891,
-        "internal": 66,
-        "total": 957
+        "external": 892,
+        "internal": 67,
+        "total": 959
     },
     "openzfs/zfs": {
         "external": 461,
@@ -15,19 +15,19 @@
         "total": 465
     },
     "mfem/mfem": {
-        "external": 351,
+        "external": 352,
         "internal": 86,
-        "total": 437
+        "total": 438
     },
     "mfem/data": {
-        "external": 347,
+        "external": 348,
         "internal": 86,
-        "total": 433
+        "total": 434
     },
     "mfem/PyMFEM": {
-        "external": 225,
+        "external": 226,
         "internal": 33,
-        "total": 258
+        "total": 259
     },
     "spack/spack.io": {
         "external": 174,
@@ -109,14 +109,14 @@
         "internal": 41,
         "total": 54
     },
+    "visit-dav/visit": {
+        "external": 43,
+        "internal": 6,
+        "total": 49
+    },
     "CEED/Remhos": {
         "external": 35,
         "internal": 13,
-        "total": 48
-    },
-    "visit-dav/visit": {
-        "external": 42,
-        "internal": 6,
         "total": 48
     },
     "jpype-project/jpype": {
@@ -279,6 +279,11 @@
         "internal": 22,
         "total": 26
     },
+    "LLNL/Caliper": {
+        "external": 11,
+        "internal": 15,
+        "total": 26
+    },
     "LLNL/libmsr": {
         "external": 5,
         "internal": 21,
@@ -292,11 +297,6 @@
     "LLNL/scr": {
         "external": 8,
         "internal": 17,
-        "total": 25
-    },
-    "LLNL/Caliper": {
-        "external": 10,
-        "internal": 15,
         "total": 25
     },
     "LLNL/PnMPI": {

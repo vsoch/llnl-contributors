@@ -34,15 +34,15 @@
         "internal": 21,
         "total": 64
     },
+    "visit-dav/visit": {
+        "external": 43,
+        "internal": 6,
+        "total": 49
+    },
     "openzfs/openzfs-docs": {
         "external": 43,
         "internal": 2,
         "total": 45
-    },
-    "visit-dav/visit": {
-        "external": 42,
-        "internal": 6,
-        "total": 48
     },
     "mfem/github-actions": {
         "external": 41,
@@ -389,6 +389,11 @@
         "internal": 23,
         "total": 34
     },
+    "LLNL/Caliper": {
+        "external": 11,
+        "internal": 15,
+        "total": 26
+    },
     "LLNL/UnifyFS": {
         "external": 11,
         "internal": 13,
@@ -433,11 +438,6 @@
         "external": 11,
         "internal": 0,
         "total": 11
-    },
-    "LLNL/Caliper": {
-        "external": 10,
-        "internal": 15,
-        "total": 25
     },
     "flux-framework/flux-core": {
         "external": 10,

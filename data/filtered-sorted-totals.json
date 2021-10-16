@@ -49,14 +49,14 @@
         "internal": 41,
         "total": 54
     },
+    "visit-dav/visit": {
+        "external": 43,
+        "internal": 6,
+        "total": 49
+    },
     "CEED/Remhos": {
         "external": 35,
         "internal": 13,
-        "total": 48
-    },
-    "visit-dav/visit": {
-        "external": 42,
-        "internal": 6,
         "total": 48
     },
     "jpype-project/jpype": {
@@ -219,6 +219,11 @@
         "internal": 22,
         "total": 26
     },
+    "LLNL/Caliper": {
+        "external": 11,
+        "internal": 15,
+        "total": 26
+    },
     "LLNL/libmsr": {
         "external": 5,
         "internal": 21,
@@ -232,11 +237,6 @@
     "LLNL/scr": {
         "external": 8,
         "internal": 17,
-        "total": 25
-    },
-    "LLNL/Caliper": {
-        "external": 10,
-        "internal": 15,
         "total": 25
     },
     "LLNL/PnMPI": {
