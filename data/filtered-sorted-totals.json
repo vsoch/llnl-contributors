@@ -264,6 +264,11 @@
         "internal": 13,
         "total": 24
     },
+    "chaos/diod": {
+        "external": 19,
+        "internal": 5,
+        "total": 24
+    },
     "ESGF/esgf.github.io": {
         "external": 20,
         "internal": 3,
@@ -292,11 +297,6 @@
     "GLVis/pyglvis": {
         "external": 7,
         "internal": 16,
-        "total": 23
-    },
-    "chaos/diod": {
-        "external": 18,
-        "internal": 5,
         "total": 23
     },
     "ESGF/esgf-installer": {
@@ -1684,6 +1684,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/gitlab-runner-auth": {
+        "external": 2,
+        "internal": 8,
+        "total": 10
+    },
     "LLNL/goulash": {
         "external": 0,
         "internal": 10,
@@ -2327,11 +2332,6 @@
     "LLNL/gecko": {
         "external": 0,
         "internal": 9,
-        "total": 9
-    },
-    "LLNL/gitlab-runner-auth": {
-        "external": 1,
-        "internal": 8,
         "total": 9
     },
     "LLNL/goTLS": {

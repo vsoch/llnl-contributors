@@ -1939,6 +1939,11 @@
         "internal": 8,
         "total": 10
     },
+    "LLNL/gitlab-runner-auth": {
+        "external": 2,
+        "internal": 8,
+        "total": 10
+    },
     "LLNL/prorad": {
         "external": 2,
         "internal": 8,
@@ -1985,11 +1990,6 @@
         "total": 9
     },
     "LLNL/csld": {
-        "external": 1,
-        "internal": 8,
-        "total": 9
-    },
-    "LLNL/gitlab-runner-auth": {
         "external": 1,
         "internal": 8,
         "total": 9
@@ -2270,9 +2270,9 @@
         "total": 27
     },
     "chaos/diod": {
-        "external": 18,
+        "external": 19,
         "internal": 5,
-        "total": 23
+        "total": 24
     },
     "chaos/slurm": {
         "external": 14,
