@@ -1634,6 +1634,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/avalaunch": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/barni": {
         "external": 0,
         "internal": 10,
@@ -1825,6 +1830,11 @@
         "total": 10
     },
     "LLNL/sonar-driver": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/spawnnet": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -2254,11 +2264,6 @@
         "internal": 9,
         "total": 9
     },
-    "LLNL/avalaunch": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
     "LLNL/backstroke": {
         "external": 0,
         "internal": 9,
@@ -2505,11 +2510,6 @@
         "total": 9
     },
     "LLNL/sepsense": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/spawnnet": {
         "external": 0,
         "internal": 9,
         "total": 9
