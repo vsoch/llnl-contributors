@@ -60,9 +60,9 @@
         "total": 34
     },
     "GLVis/glvis": {
-        "external": 34,
+        "external": 35,
         "internal": 22,
-        "total": 56
+        "total": 57
     },
     "LLNL/lbann": {
         "external": 14,

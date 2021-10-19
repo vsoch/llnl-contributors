@@ -64,15 +64,15 @@
         "internal": 6,
         "total": 43
     },
+    "GLVis/glvis": {
+        "external": 35,
+        "internal": 22,
+        "total": 57
+    },
     "CEED/Remhos": {
         "external": 35,
         "internal": 13,
         "total": 48
-    },
-    "GLVis/glvis": {
-        "external": 34,
-        "internal": 22,
-        "total": 56
     },
     "CDAT/VisTrails": {
         "external": 33,
