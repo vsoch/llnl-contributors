@@ -1854,6 +1854,11 @@
         "internal": 9,
         "total": 10
     },
+    "flux-framework/flux-accounting": {
+        "external": 3,
+        "internal": 7,
+        "total": 10
+    },
     "flux-framework/flux-power-mgr": {
         "external": 3,
         "internal": 7,
@@ -2249,6 +2254,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/Yet-Another-Hauser-Feshbach-Code": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/al_nlp": {
         "external": 0,
         "internal": 9,
@@ -2589,11 +2599,6 @@
         "internal": 6,
         "total": 9
     },
-    "flux-framework/flux-accounting": {
-        "external": 3,
-        "internal": 6,
-        "total": 9
-    },
     "flux-framework/flux-depend": {
         "external": 3,
         "internal": 6,
@@ -2632,6 +2637,11 @@
     "flux-framework/pr-validator": {
         "external": 3,
         "internal": 6,
+        "total": 9
+    },
+    "spack/gitlab-runners": {
+        "external": 4,
+        "internal": 5,
         "total": 9
     },
     "spack/spack-bootstrap-installer": {
