@@ -84,15 +84,15 @@
         "internal": 6,
         "total": 43
     },
+    "LLNL/conduit": {
+        "external": 9,
+        "internal": 33,
+        "total": 42
+    },
     "LLNL/blt": {
         "external": 11,
         "internal": 31,
         "total": 42
-    },
-    "LLNL/conduit": {
-        "external": 9,
-        "internal": 32,
-        "total": 41
     },
     "hpc/mpifileutils": {
         "external": 32,
@@ -124,6 +124,11 @@
         "internal": 23,
         "total": 34
     },
+    "LLNL/gidiplus": {
+        "external": 0,
+        "internal": 34,
+        "total": 34
+    },
     "hypre-space/hypre": {
         "external": 21,
         "internal": 13,
@@ -133,11 +138,6 @@
         "external": 29,
         "internal": 5,
         "total": 34
-    },
-    "LLNL/gidiplus": {
-        "external": 0,
-        "internal": 33,
-        "total": 33
     },
     "GLVis/doxygen": {
         "external": 13,
@@ -1297,6 +1297,11 @@
     "LLNL/PIPS-SBB": {
         "external": 2,
         "internal": 9,
+        "total": 11
+    },
+    "LLNL/Privateer": {
+        "external": 1,
+        "internal": 10,
         "total": 11
     },
     "LLNL/Silo": {
