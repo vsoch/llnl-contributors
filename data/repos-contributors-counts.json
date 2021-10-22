@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 895,
+        "external": 898,
         "internal": 67,
-        "total": 962
+        "total": 965
     },
     "openzfs/zfs": {
         "external": 462,
@@ -2880,6 +2880,11 @@
         "total": 8
     },
     "LLNL/python-lora": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/radiuss": {
         "external": 0,
         "internal": 8,
         "total": 8
