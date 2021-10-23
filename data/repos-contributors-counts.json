@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 898,
+        "external": 899,
         "internal": 67,
-        "total": 965
+        "total": 966
     },
     "openzfs/zfs": {
         "external": 462,
@@ -66,8 +66,8 @@
     },
     "mfem/web": {
         "external": 52,
-        "internal": 36,
-        "total": 88
+        "internal": 37,
+        "total": 89
     },
     "GEOSX/LvArray": {
         "external": 63,
@@ -264,6 +264,16 @@
         "internal": 6,
         "total": 27
     },
+    "mfem/doxygen": {
+        "external": 9,
+        "internal": 18,
+        "total": 27
+    },
+    "mfem/releases": {
+        "external": 9,
+        "internal": 18,
+        "total": 27
+    },
     "chaos/ldiskfsprogs": {
         "external": 22,
         "internal": 5,
@@ -294,6 +304,11 @@
         "internal": 22,
         "total": 26
     },
+    "LLNL/serac": {
+        "external": 4,
+        "internal": 22,
+        "total": 26
+    },
     "LLNL/scr": {
         "external": 8,
         "internal": 17,
@@ -307,11 +322,6 @@
     "LLNL/UnifyFS": {
         "external": 11,
         "internal": 13,
-        "total": 24
-    },
-    "LLNL/serac": {
-        "external": 4,
-        "internal": 20,
         "total": 24
     },
     "LLNL/wrap": {
@@ -382,16 +392,6 @@
     "LLNL/spheral": {
         "external": 7,
         "internal": 15,
-        "total": 22
-    },
-    "mfem/doxygen": {
-        "external": 8,
-        "internal": 14,
-        "total": 22
-    },
-    "mfem/releases": {
-        "external": 8,
-        "internal": 14,
         "total": 22
     },
     "openzfs/zfs-buildbot": {
@@ -909,6 +909,11 @@
         "internal": 14,
         "total": 14
     },
+    "LLNL/COGENT": {
+        "external": 3,
+        "internal": 11,
+        "total": 14
+    },
     "LLNL/Curvallis": {
         "external": 5,
         "internal": 9,
@@ -984,6 +989,11 @@
         "internal": 5,
         "total": 14
     },
+    "spack/spackbot": {
+        "external": 8,
+        "internal": 6,
+        "total": 14
+    },
     "ESGF/compute": {
         "external": 13,
         "internal": 1,
@@ -1032,11 +1042,6 @@
     "LLNL/CARE": {
         "external": 0,
         "internal": 13,
-        "total": 13
-    },
-    "LLNL/COGENT": {
-        "external": 2,
-        "internal": 11,
         "total": 13
     },
     "LLNL/CcNav": {
@@ -1132,11 +1137,6 @@
     "LLNL/variorum": {
         "external": 1,
         "internal": 12,
-        "total": 13
-    },
-    "spack/spackbot": {
-        "external": 7,
-        "internal": 6,
         "total": 13
     },
     "ESGF/esgf-compute-api": {
@@ -2774,6 +2774,11 @@
         "internal": 2,
         "total": 9
     },
+    "GMLC-TDC/helics-ns3": {
+        "external": 6,
+        "internal": 3,
+        "total": 9
+    },
     "ESGF/esgf-devOps": {
         "external": 9,
         "internal": 0,
@@ -2982,11 +2987,6 @@
     "CDAT/cdat-old-site": {
         "external": 7,
         "internal": 1,
-        "total": 8
-    },
-    "GMLC-TDC/helics-ns3": {
-        "external": 5,
-        "internal": 3,
         "total": 8
     },
     "GMLC-TDC/pyhelics": {
@@ -3479,6 +3479,11 @@
         "internal": 2,
         "total": 5
     },
+    "GMLC-TDC/helics-buildenv": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
     "GMLC-TDC/helics-conda": {
         "external": 3,
         "internal": 2,
@@ -3715,11 +3720,6 @@
         "total": 4
     },
     "GMLC-TDC/helics-action": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
-    },
-    "GMLC-TDC/helics-buildenv": {
         "external": 2,
         "internal": 2,
         "total": 4

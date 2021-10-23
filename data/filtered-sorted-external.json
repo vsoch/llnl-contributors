@@ -16,8 +16,8 @@
     },
     "mfem/web": {
         "external": 52,
-        "internal": 36,
-        "total": 88
+        "internal": 37,
+        "total": 89
     },
     "CEED/libCEED": {
         "external": 52,
@@ -534,6 +534,16 @@
         "internal": 33,
         "total": 42
     },
+    "mfem/doxygen": {
+        "external": 9,
+        "internal": 18,
+        "total": 27
+    },
+    "mfem/releases": {
+        "external": 9,
+        "internal": 18,
+        "total": 27
+    },
     "spack/legacy-spack.io": {
         "external": 9,
         "internal": 5,
@@ -614,16 +624,6 @@
         "internal": 17,
         "total": 25
     },
-    "mfem/doxygen": {
-        "external": 8,
-        "internal": 14,
-        "total": 22
-    },
-    "mfem/releases": {
-        "external": 8,
-        "internal": 14,
-        "total": 22
-    },
     "LLNL/magpie": {
         "external": 8,
         "internal": 10,
@@ -633,6 +633,11 @@
         "external": 8,
         "internal": 9,
         "total": 17
+    },
+    "spack/spackbot": {
+        "external": 8,
+        "internal": 6,
+        "total": 14
     },
     "CDAT/usage": {
         "external": 8,
@@ -759,11 +764,6 @@
         "internal": 10,
         "total": 17
     },
-    "spack/spackbot": {
-        "external": 7,
-        "internal": 6,
-        "total": 13
-    },
     "CDAT/cdp": {
         "external": 7,
         "internal": 3,
@@ -873,6 +873,11 @@
         "external": 6,
         "internal": 5,
         "total": 11
+    },
+    "GMLC-TDC/helics-ns3": {
+        "external": 6,
+        "internal": 3,
+        "total": 9
     },
     "CDAT/thermo": {
         "external": 6,
@@ -1064,11 +1069,6 @@
         "internal": 4,
         "total": 9
     },
-    "GMLC-TDC/helics-ns3": {
-        "external": 5,
-        "internal": 3,
-        "total": 8
-    },
     "CDAT/cdtime": {
         "external": 5,
         "internal": 2,
@@ -1151,8 +1151,8 @@
     },
     "LLNL/serac": {
         "external": 4,
-        "internal": 20,
-        "total": 24
+        "internal": 22,
+        "total": 26
     },
     "LLNL/STAT": {
         "external": 4,
@@ -1449,6 +1449,11 @@
         "internal": 12,
         "total": 15
     },
+    "LLNL/COGENT": {
+        "external": 3,
+        "internal": 11,
+        "total": 14
+    },
     "LLNL/MACSio": {
         "external": 3,
         "internal": 11,
@@ -1734,6 +1739,11 @@
         "internal": 2,
         "total": 5
     },
+    "GMLC-TDC/helics-buildenv": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
     "GMLC-TDC/helics-conda": {
         "external": 3,
         "internal": 2,
@@ -1959,11 +1969,6 @@
         "internal": 12,
         "total": 14
     },
-    "LLNL/COGENT": {
-        "external": 2,
-        "internal": 11,
-        "total": 13
-    },
     "LLNL/ac-mpibind": {
         "external": 2,
         "internal": 11,
@@ -2160,11 +2165,6 @@
         "total": 4
     },
     "GMLC-TDC/helics-action": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
-    },
-    "GMLC-TDC/helics-buildenv": {
         "external": 2,
         "internal": 2,
         "total": 4
