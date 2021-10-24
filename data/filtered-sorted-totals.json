@@ -10,9 +10,9 @@
         "total": 89
     },
     "GEOSX/LvArray": {
-        "external": 63,
+        "external": 64,
         "internal": 12,
-        "total": 75
+        "total": 76
     },
     "CEED/libCEED": {
         "external": 52,
