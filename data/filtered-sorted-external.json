@@ -86,8 +86,8 @@
     },
     "spack/spack-configs": {
         "external": 29,
-        "internal": 9,
-        "total": 38
+        "internal": 10,
+        "total": 39
     },
     "Alpine-DAV/ascent": {
         "external": 29,
@@ -106,13 +106,13 @@
     },
     "spack/seps": {
         "external": 23,
-        "internal": 9,
-        "total": 32
+        "internal": 10,
+        "total": 33
     },
     "spack/spack-cscs2019": {
         "external": 22,
-        "internal": 9,
-        "total": 31
+        "internal": 10,
+        "total": 32
     },
     "chaos/ldiskfsprogs": {
         "external": 22,
@@ -459,7 +459,7 @@
         "internal": 5,
         "total": 15
     },
-    "ATOMconsortium/AMPL": {
+    "ATOMScience-org/AMPL": {
         "external": 10,
         "internal": 2,
         "total": 12

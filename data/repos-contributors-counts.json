@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 900,
+        "external": 901,
         "internal": 67,
-        "total": 967
+        "total": 968
     },
     "openzfs/zfs": {
         "external": 462,
@@ -161,8 +161,8 @@
     },
     "spack/spack-configs": {
         "external": 29,
-        "internal": 9,
-        "total": 38
+        "internal": 10,
+        "total": 39
     },
     "LLNL/lbann": {
         "external": 14,
@@ -199,6 +199,11 @@
         "internal": 5,
         "total": 34
     },
+    "spack/seps": {
+        "external": 23,
+        "internal": 10,
+        "total": 33
+    },
     "GLVis/doxygen": {
         "external": 13,
         "internal": 19,
@@ -214,9 +219,9 @@
         "internal": 19,
         "total": 32
     },
-    "spack/seps": {
-        "external": 23,
-        "internal": 9,
+    "spack/spack-cscs2019": {
+        "external": 22,
+        "internal": 10,
         "total": 32
     },
     "LLNL/CHAI": {
@@ -232,11 +237,6 @@
     "LLNL/RAJAProxies": {
         "external": 2,
         "internal": 29,
-        "total": 31
-    },
-    "spack/spack-cscs2019": {
-        "external": 22,
-        "internal": 9,
         "total": 31
     },
     "LLNL/zfp": {
@@ -1269,7 +1269,7 @@
         "internal": 6,
         "total": 12
     },
-    "ATOMconsortium/AMPL": {
+    "ATOMScience-org/AMPL": {
         "external": 10,
         "internal": 2,
         "total": 12

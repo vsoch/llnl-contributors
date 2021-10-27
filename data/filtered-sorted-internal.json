@@ -769,6 +769,21 @@
         "internal": 11,
         "total": 11
     },
+    "spack/spack-configs": {
+        "external": 29,
+        "internal": 10,
+        "total": 39
+    },
+    "spack/seps": {
+        "external": 23,
+        "internal": 10,
+        "total": 33
+    },
+    "spack/spack-cscs2019": {
+        "external": 22,
+        "internal": 10,
+        "total": 32
+    },
     "LLNL/magpie": {
         "external": 8,
         "internal": 10,
@@ -1113,21 +1128,6 @@
         "external": 32,
         "internal": 9,
         "total": 41
-    },
-    "spack/spack-configs": {
-        "external": 29,
-        "internal": 9,
-        "total": 38
-    },
-    "spack/seps": {
-        "external": 23,
-        "internal": 9,
-        "total": 32
-    },
-    "spack/spack-cscs2019": {
-        "external": 22,
-        "internal": 9,
-        "total": 31
     },
     "flux-framework/flux-k8s": {
         "external": 10,
@@ -2679,7 +2679,7 @@
         "internal": 2,
         "total": 15
     },
-    "ATOMconsortium/AMPL": {
+    "ATOMScience-org/AMPL": {
         "external": 10,
         "internal": 2,
         "total": 12
