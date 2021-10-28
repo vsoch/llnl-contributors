@@ -5,9 +5,9 @@
         "total": 93
     },
     "mfem/web": {
-        "external": 52,
+        "external": 53,
         "internal": 37,
-        "total": 89
+        "total": 90
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -205,13 +205,13 @@
         "total": 27
     },
     "mfem/doxygen": {
-        "external": 9,
-        "internal": 18,
+        "external": 10,
+        "internal": 17,
         "total": 27
     },
     "mfem/releases": {
-        "external": 9,
-        "internal": 18,
+        "external": 10,
+        "internal": 17,
         "total": 27
     },
     "chaos/ldiskfsprogs": {
@@ -724,6 +724,11 @@
         "internal": 0,
         "total": 16
     },
+    "LLNL/slapi": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
     "LLNL/maestro_sheetmusic": {
         "external": 0,
         "internal": 15,
@@ -840,11 +845,6 @@
         "total": 14
     },
     "LLNL/scr-fe": {
-        "external": 0,
-        "internal": 14,
-        "total": 14
-    },
-    "LLNL/slapi": {
         "external": 0,
         "internal": 14,
         "total": 14
@@ -1390,6 +1390,11 @@
         "total": 11
     },
     "LLNL/ygm": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/ygm-tutorial": {
         "external": 0,
         "internal": 11,
         "total": 11
