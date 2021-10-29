@@ -20,9 +20,9 @@
         "total": 90
     },
     "CEED/libCEED": {
-        "external": 52,
+        "external": 53,
         "internal": 15,
-        "total": 67
+        "total": 68
     },
     "jpype-project/jpype": {
         "external": 46,
@@ -1044,6 +1044,11 @@
         "internal": 5,
         "total": 10
     },
+    "spack/spack-infrastructure": {
+        "external": 5,
+        "internal": 5,
+        "total": 10
+    },
     "chaos/9nbd": {
         "external": 5,
         "internal": 5,
@@ -1235,11 +1240,6 @@
         "total": 9
     },
     "spack/spack-github-action": {
-        "external": 4,
-        "internal": 5,
-        "total": 9
-    },
-    "spack/spack-infrastructure": {
         "external": 4,
         "internal": 5,
         "total": 9
@@ -2934,6 +2934,11 @@
         "internal": 12,
         "total": 12
     },
+    "LLNL/ygm": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
     "LLNL/meco": {
         "external": 0,
         "internal": 11,
@@ -2980,11 +2985,6 @@
         "total": 11
     },
     "LLNL/strawman": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/ygm": {
         "external": 0,
         "internal": 11,
         "total": 11
