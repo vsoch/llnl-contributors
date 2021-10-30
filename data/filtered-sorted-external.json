@@ -74,15 +74,15 @@
         "internal": 13,
         "total": 48
     },
+    "hpc/mpifileutils": {
+        "external": 33,
+        "internal": 9,
+        "total": 42
+    },
     "CDAT/VisTrails": {
         "external": 33,
         "internal": 2,
         "total": 35
-    },
-    "hpc/mpifileutils": {
-        "external": 32,
-        "internal": 9,
-        "total": 41
     },
     "spack/spack-configs": {
         "external": 29,
@@ -224,6 +224,11 @@
         "internal": 0,
         "total": 16
     },
+    "LLNL/zfp": {
+        "external": 15,
+        "internal": 16,
+        "total": 31
+    },
     "ESGF/esgf-idp": {
         "external": 15,
         "internal": 0,
@@ -238,11 +243,6 @@
         "external": 14,
         "internal": 22,
         "total": 36
-    },
-    "LLNL/zfp": {
-        "external": 14,
-        "internal": 16,
-        "total": 30
     },
     "chaos/slurm": {
         "external": 14,
@@ -459,6 +459,11 @@
         "internal": 9,
         "total": 19
     },
+    "spack/legacy-spack.io": {
+        "external": 10,
+        "internal": 5,
+        "total": 15
+    },
     "chaos/pdsh": {
         "external": 10,
         "internal": 5,
@@ -543,11 +548,6 @@
         "external": 9,
         "internal": 33,
         "total": 42
-    },
-    "spack/legacy-spack.io": {
-        "external": 9,
-        "internal": 5,
-        "total": 14
     },
     "CDAT/dv3d": {
         "external": 9,

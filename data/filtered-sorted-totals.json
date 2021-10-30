@@ -95,9 +95,9 @@
         "total": 42
     },
     "hpc/mpifileutils": {
-        "external": 32,
+        "external": 33,
         "internal": 9,
-        "total": 41
+        "total": 42
     },
     "spack/spack-configs": {
         "external": 29,
@@ -169,6 +169,11 @@
         "internal": 27,
         "total": 31
     },
+    "LLNL/zfp": {
+        "external": 15,
+        "internal": 16,
+        "total": 31
+    },
     "LLNL/HPCCEA": {
         "external": 12,
         "internal": 19,
@@ -178,11 +183,6 @@
         "external": 2,
         "internal": 29,
         "total": 31
-    },
-    "LLNL/zfp": {
-        "external": 14,
-        "internal": 16,
-        "total": 30
     },
     "LLNL/llnl.github.io": {
         "external": 4,
@@ -814,6 +814,11 @@
         "internal": 9,
         "total": 15
     },
+    "spack/legacy-spack.io": {
+        "external": 10,
+        "internal": 5,
+        "total": 15
+    },
     "chaos/pdsh": {
         "external": 10,
         "internal": 5,
@@ -922,11 +927,6 @@
     "flux-framework/flux-workflow-examples": {
         "external": 5,
         "internal": 9,
-        "total": 14
-    },
-    "spack/legacy-spack.io": {
-        "external": 9,
-        "internal": 5,
         "total": 14
     },
     "spack/spackbot": {
