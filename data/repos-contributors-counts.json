@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 906,
+        "external": 907,
         "internal": 67,
-        "total": 973
+        "total": 974
     },
     "openzfs/zfs": {
         "external": 465,
@@ -2479,7 +2479,7 @@
         "internal": 9,
         "total": 9
     },
-    "LLNL/lestofire": {
+    "LLNL/letop": {
         "external": 0,
         "internal": 9,
         "total": 9
