@@ -381,8 +381,8 @@
     },
     "LLNL/blt": {
         "external": 11,
-        "internal": 31,
-        "total": 42
+        "internal": 32,
+        "total": 43
     },
     "LLNL/Umpire": {
         "external": 11,
@@ -408,6 +408,11 @@
         "external": 11,
         "internal": 5,
         "total": 16
+    },
+    "chu11/freeipmi-mirror": {
+        "external": 11,
+        "internal": 1,
+        "total": 12
     },
     "ESGF/CDNOT": {
         "external": 11,
@@ -493,11 +498,6 @@
         "external": 10,
         "internal": 2,
         "total": 12
-    },
-    "chu11/freeipmi-mirror": {
-        "external": 10,
-        "internal": 1,
-        "total": 11
     },
     "ESGF/esgf-globus-download": {
         "external": 10,

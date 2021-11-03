@@ -26,8 +26,8 @@
     },
     "LLNL/blt": {
         "external": 11,
-        "internal": 31,
-        "total": 42
+        "internal": 32,
+        "total": 43
     },
     "LLNL/RAJAPerf": {
         "external": 3,
@@ -3145,9 +3145,9 @@
         "total": 13
     },
     "chu11/freeipmi-mirror": {
-        "external": 10,
+        "external": 11,
         "internal": 1,
-        "total": 11
+        "total": 12
     },
     "ESGF/esgf-globus-download": {
         "external": 10,
