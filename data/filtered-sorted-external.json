@@ -349,6 +349,11 @@
         "internal": 19,
         "total": 31
     },
+    "LLNL/Caliper": {
+        "external": 12,
+        "internal": 16,
+        "total": 28
+    },
     "hpc/OpenLorenz": {
         "external": 12,
         "internal": 11,
@@ -389,11 +394,6 @@
         "internal": 23,
         "total": 34
     },
-    "LLNL/Caliper": {
-        "external": 11,
-        "internal": 15,
-        "total": 26
-    },
     "LLNL/UnifyFS": {
         "external": 11,
         "internal": 13,
@@ -408,6 +408,11 @@
         "external": 11,
         "internal": 5,
         "total": 16
+    },
+    "ATOMScience-org/AMPL": {
+        "external": 11,
+        "internal": 2,
+        "total": 13
     },
     "chu11/freeipmi-mirror": {
         "external": 11,
@@ -478,11 +483,6 @@
         "external": 10,
         "internal": 5,
         "total": 15
-    },
-    "ATOMScience-org/AMPL": {
-        "external": 10,
-        "internal": 2,
-        "total": 12
     },
     "CDAT/cdatweb": {
         "external": 10,
@@ -1436,8 +1436,8 @@
     },
     "LLNL/DiHydrogen": {
         "external": 3,
-        "internal": 19,
-        "total": 22
+        "internal": 16,
+        "total": 19
     },
     "LLNL/ior": {
         "external": 3,
@@ -2259,11 +2259,6 @@
         "internal": 18,
         "total": 19
     },
-    "LLNL/Elemental": {
-        "external": 1,
-        "internal": 18,
-        "total": 19
-    },
     "LLNL/llnl-hires-timers": {
         "external": 1,
         "internal": 18,
@@ -2280,6 +2275,11 @@
         "total": 17
     },
     "LLNL/umap-apps": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
+    "LLNL/Elemental": {
         "external": 1,
         "internal": 15,
         "total": 16

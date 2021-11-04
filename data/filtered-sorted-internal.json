@@ -124,11 +124,6 @@
         "internal": 19,
         "total": 25
     },
-    "LLNL/DiHydrogen": {
-        "external": 3,
-        "internal": 19,
-        "total": 22
-    },
     "LLNL/DragonView": {
         "external": 2,
         "internal": 19,
@@ -185,11 +180,6 @@
         "total": 20
     },
     "LLNL/ADAPT": {
-        "external": 1,
-        "internal": 18,
-        "total": 19
-    },
-    "LLNL/Elemental": {
         "external": 1,
         "internal": 18,
         "total": 19
@@ -299,6 +289,11 @@
         "internal": 16,
         "total": 31
     },
+    "LLNL/Caliper": {
+        "external": 12,
+        "internal": 16,
+        "total": 28
+    },
     "GLVis/glvis-js": {
         "external": 7,
         "internal": 16,
@@ -314,6 +309,11 @@
         "internal": 16,
         "total": 20
     },
+    "LLNL/DiHydrogen": {
+        "external": 3,
+        "internal": 16,
+        "total": 19
+    },
     "LLNL/camp": {
         "external": 2,
         "internal": 16,
@@ -328,11 +328,6 @@
         "external": 53,
         "internal": 15,
         "total": 68
-    },
-    "LLNL/Caliper": {
-        "external": 11,
-        "internal": 15,
-        "total": 26
     },
     "LLNL/spheral": {
         "external": 7,
@@ -360,6 +355,11 @@
         "total": 17
     },
     "LLNL/umap-apps": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
+    "LLNL/Elemental": {
         "external": 1,
         "internal": 15,
         "total": 16
@@ -2685,9 +2685,9 @@
         "total": 15
     },
     "ATOMScience-org/AMPL": {
-        "external": 10,
+        "external": 11,
         "internal": 2,
-        "total": 12
+        "total": 13
     },
     "CDAT/cdatweb": {
         "external": 10,

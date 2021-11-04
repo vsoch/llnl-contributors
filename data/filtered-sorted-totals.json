@@ -194,6 +194,11 @@
         "internal": 13,
         "total": 29
     },
+    "LLNL/Caliper": {
+        "external": 12,
+        "internal": 16,
+        "total": 28
+    },
     "GMLC-TDC/HELICS": {
         "external": 25,
         "internal": 3,
@@ -227,11 +232,6 @@
     "LLNL/maestrowf": {
         "external": 4,
         "internal": 22,
-        "total": 26
-    },
-    "LLNL/Caliper": {
-        "external": 11,
-        "internal": 15,
         "total": 26
     },
     "LLNL/libmsr": {
@@ -317,11 +317,6 @@
     "LLNL/SAMRAI": {
         "external": 5,
         "internal": 17,
-        "total": 22
-    },
-    "LLNL/DiHydrogen": {
-        "external": 3,
-        "internal": 19,
         "total": 22
     },
     "LLNL/STAT": {
@@ -419,9 +414,9 @@
         "internal": 19,
         "total": 19
     },
-    "LLNL/Elemental": {
-        "external": 1,
-        "internal": 18,
+    "LLNL/DiHydrogen": {
+        "external": 3,
+        "internal": 16,
         "total": 19
     },
     "LLNL/Gremlins": {
@@ -660,6 +655,11 @@
         "total": 17
     },
     "LLNL/umap-apps": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
+    "LLNL/Elemental": {
         "external": 1,
         "internal": 15,
         "total": 16
@@ -1079,6 +1079,11 @@
         "internal": 12,
         "total": 13
     },
+    "ATOMScience-org/AMPL": {
+        "external": 11,
+        "internal": 2,
+        "total": 13
+    },
     "ESGF/esgf-compute-api": {
         "external": 12,
         "internal": 1,
@@ -1212,11 +1217,6 @@
     "flux-framework/FluxRM.jl": {
         "external": 6,
         "internal": 6,
-        "total": 12
-    },
-    "ATOMScience-org/AMPL": {
-        "external": 10,
-        "internal": 2,
         "total": 12
     },
     "chaos/nodediag": {
