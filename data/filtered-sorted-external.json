@@ -16,8 +16,8 @@
     },
     "mfem/web": {
         "external": 53,
-        "internal": 37,
-        "total": 90
+        "internal": 38,
+        "total": 91
     },
     "CEED/libCEED": {
         "external": 53,
@@ -43,11 +43,6 @@
         "external": 43,
         "internal": 2,
         "total": 45
-    },
-    "mfem/github-actions": {
-        "external": 41,
-        "internal": 24,
-        "total": 65
     },
     "CEED/benchmarks": {
         "external": 41,
@@ -386,8 +381,8 @@
     },
     "LLNL/blt": {
         "external": 11,
-        "internal": 32,
-        "total": 43
+        "internal": 33,
+        "total": 44
     },
     "LLNL/Umpire": {
         "external": 11,
@@ -448,6 +443,11 @@
         "external": 11,
         "internal": 0,
         "total": 11
+    },
+    "mfem/github-actions": {
+        "external": 10,
+        "internal": 18,
+        "total": 28
     },
     "mfem/doxygen": {
         "external": 10,
@@ -619,11 +619,6 @@
         "internal": 0,
         "total": 9
     },
-    "LLNL/scr": {
-        "external": 8,
-        "internal": 17,
-        "total": 25
-    },
     "LLNL/magpie": {
         "external": 8,
         "internal": 10,
@@ -724,6 +719,11 @@
         "internal": 0,
         "total": 8
     },
+    "LLNL/scr": {
+        "external": 7,
+        "internal": 18,
+        "total": 25
+    },
     "GLVis/glvis-js": {
         "external": 7,
         "internal": 16,
@@ -808,11 +808,6 @@
         "external": 7,
         "internal": 0,
         "total": 7
-    },
-    "LLNL/axom": {
-        "external": 6,
-        "internal": 40,
-        "total": 46
     },
     "LLNL/PnMPI": {
         "external": 6,
@@ -928,6 +923,11 @@
         "external": 6,
         "internal": 0,
         "total": 6
+    },
+    "LLNL/axom": {
+        "external": 5,
+        "internal": 41,
+        "total": 46
     },
     "LLNL/libmsr": {
         "external": 5,
@@ -1136,8 +1136,8 @@
     },
     "LLNL/CHAI": {
         "external": 4,
-        "internal": 27,
-        "total": 31
+        "internal": 28,
+        "total": 32
     },
     "LLNL/llnl.github.io": {
         "external": 4,
@@ -2924,6 +2924,11 @@
         "internal": 12,
         "total": 12
     },
+    "LLNL/radiuss-spack-configs": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
     "LLNL/simpool": {
         "external": 0,
         "internal": 12,
@@ -2975,11 +2980,6 @@
         "total": 11
     },
     "LLNL/quandary": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/radiuss-spack-configs": {
         "external": 0,
         "internal": 11,
         "total": 11

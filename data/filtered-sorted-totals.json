@@ -6,8 +6,8 @@
     },
     "mfem/web": {
         "external": 53,
-        "internal": 37,
-        "total": 90
+        "internal": 38,
+        "total": 91
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -18,11 +18,6 @@
         "external": 53,
         "internal": 15,
         "total": 68
-    },
-    "mfem/github-actions": {
-        "external": 41,
-        "internal": 24,
-        "total": 65
     },
     "CEED/Laghos": {
         "external": 43,
@@ -65,8 +60,8 @@
         "total": 47
     },
     "LLNL/axom": {
-        "external": 6,
-        "internal": 40,
+        "external": 5,
+        "internal": 41,
         "total": 46
     },
     "openzfs/openzfs-docs": {
@@ -74,15 +69,15 @@
         "internal": 2,
         "total": 45
     },
+    "LLNL/blt": {
+        "external": 11,
+        "internal": 33,
+        "total": 44
+    },
     "rose-compiler/rose": {
         "external": 38,
         "internal": 6,
         "total": 44
-    },
-    "LLNL/blt": {
-        "external": 11,
-        "internal": 32,
-        "total": 43
     },
     "rose-compiler/rose-develop": {
         "external": 37,
@@ -144,6 +139,11 @@
         "internal": 10,
         "total": 33
     },
+    "LLNL/CHAI": {
+        "external": 4,
+        "internal": 28,
+        "total": 32
+    },
     "GLVis/doxygen": {
         "external": 13,
         "internal": 19,
@@ -163,11 +163,6 @@
         "external": 22,
         "internal": 10,
         "total": 32
-    },
-    "LLNL/CHAI": {
-        "external": 4,
-        "internal": 27,
-        "total": 31
     },
     "LLNL/zfp": {
         "external": 15,
@@ -197,6 +192,11 @@
     "LLNL/Caliper": {
         "external": 12,
         "internal": 16,
+        "total": 28
+    },
+    "mfem/github-actions": {
+        "external": 10,
+        "internal": 18,
         "total": 28
     },
     "GMLC-TDC/HELICS": {
@@ -250,8 +250,8 @@
         "total": 26
     },
     "LLNL/scr": {
-        "external": 8,
-        "internal": 17,
+        "external": 7,
+        "internal": 18,
         "total": 25
     },
     "LLNL/PnMPI": {
@@ -1194,6 +1194,11 @@
         "internal": 11,
         "total": 12
     },
+    "LLNL/radiuss-spack-configs": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
     "LLNL/simpool": {
         "external": 0,
         "internal": 12,
@@ -1370,11 +1375,6 @@
         "total": 11
     },
     "LLNL/quandary": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/radiuss-spack-configs": {
         "external": 0,
         "internal": 11,
         "total": 11
