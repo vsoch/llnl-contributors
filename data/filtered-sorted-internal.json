@@ -325,9 +325,9 @@
         "total": 17
     },
     "CEED/libCEED": {
-        "external": 53,
+        "external": 54,
         "internal": 15,
-        "total": 68
+        "total": 69
     },
     "LLNL/spheral": {
         "external": 7,
@@ -885,6 +885,11 @@
         "total": 12
     },
     "LLNL/zfpy-wheels": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/Yet-Another-Hauser-Feshbach-Code": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -1654,11 +1659,6 @@
         "internal": 9,
         "total": 9
     },
-    "LLNL/Yet-Another-Hauser-Feshbach-Code": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
     "LLNL/al_nlp": {
         "external": 0,
         "internal": 9,
@@ -2204,6 +2204,11 @@
         "internal": 6,
         "total": 11
     },
+    "spack/gitlab-runners": {
+        "external": 4,
+        "internal": 6,
+        "total": 10
+    },
     "chaos/powerman": {
         "external": 4,
         "internal": 6,
@@ -2348,11 +2353,6 @@
         "external": 5,
         "internal": 5,
         "total": 10
-    },
-    "spack/gitlab-runners": {
-        "external": 4,
-        "internal": 5,
-        "total": 9
     },
     "spack/spack-bootstrap-installer": {
         "external": 4,

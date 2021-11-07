@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 912,
+        "external": 914,
         "internal": 68,
-        "total": 980
+        "total": 982
     },
     "openzfs/zfs": {
         "external": 467,
@@ -75,9 +75,9 @@
         "total": 76
     },
     "CEED/libCEED": {
-        "external": 53,
+        "external": 54,
         "internal": 15,
-        "total": 68
+        "total": 69
     },
     "CEED/Laghos": {
         "external": 43,
@@ -1349,6 +1349,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/Yet-Another-Hauser-Feshbach-Code": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/.github": {
         "external": 0,
         "internal": 11,
@@ -1939,6 +1944,11 @@
         "internal": 7,
         "total": 10
     },
+    "spack/gitlab-runners": {
+        "external": 4,
+        "internal": 6,
+        "total": 10
+    },
     "spack/localized-docs": {
         "external": 5,
         "internal": 5,
@@ -2329,11 +2339,6 @@
         "internal": 9,
         "total": 9
     },
-    "LLNL/Yet-Another-Hauser-Feshbach-Code": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
     "LLNL/al_nlp": {
         "external": 0,
         "internal": 9,
@@ -2712,11 +2717,6 @@
     "flux-framework/pr-validator": {
         "external": 3,
         "internal": 6,
-        "total": 9
-    },
-    "spack/gitlab-runners": {
-        "external": 4,
-        "internal": 5,
         "total": 9
     },
     "spack/spack-bootstrap-installer": {
