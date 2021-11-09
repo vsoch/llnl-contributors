@@ -60,9 +60,9 @@
         "total": 43
     },
     "GLVis/glvis": {
-        "external": 35,
+        "external": 36,
         "internal": 22,
-        "total": 57
+        "total": 58
     },
     "CEED/Remhos": {
         "external": 35,
@@ -2678,6 +2678,11 @@
         "external": 1,
         "internal": 8,
         "total": 9
+    },
+    "spack/label-schema": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
     },
     "spack/packages": {
         "external": 1,

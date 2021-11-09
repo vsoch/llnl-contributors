@@ -55,9 +55,9 @@
         "total": 34
     },
     "GLVis/glvis": {
-        "external": 35,
+        "external": 36,
         "internal": 22,
-        "total": 57
+        "total": 58
     },
     "LLNL/lbann": {
         "external": 14,
@@ -2453,6 +2453,11 @@
         "external": 2,
         "internal": 5,
         "total": 7
+    },
+    "spack/label-schema": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
     },
     "spack/packages": {
         "external": 1,

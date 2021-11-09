@@ -35,9 +35,9 @@
         "total": 59
     },
     "GLVis/glvis": {
-        "external": 35,
+        "external": 36,
         "internal": 22,
-        "total": 57
+        "total": 58
     },
     "LLNL/RAJA": {
         "external": 13,
@@ -3127,6 +3127,11 @@
     "ECP-VeloC/filo": {
         "external": 2,
         "internal": 4,
+        "total": 6
+    },
+    "spack/label-schema": {
+        "external": 1,
+        "internal": 5,
         "total": 6
     },
     "spack/packages": {

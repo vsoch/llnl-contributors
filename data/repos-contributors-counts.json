@@ -15,19 +15,19 @@
         "total": 471
     },
     "mfem/mfem": {
-        "external": 357,
+        "external": 358,
         "internal": 86,
-        "total": 443
+        "total": 444
     },
     "mfem/data": {
-        "external": 353,
+        "external": 354,
         "internal": 86,
-        "total": 439
+        "total": 440
     },
     "mfem/PyMFEM": {
-        "external": 230,
+        "external": 231,
         "internal": 33,
-        "total": 263
+        "total": 264
     },
     "spack/spack.io": {
         "external": 174,
@@ -95,9 +95,9 @@
         "total": 59
     },
     "GLVis/glvis": {
-        "external": 35,
+        "external": 36,
         "internal": 22,
-        "total": 57
+        "total": 58
     },
     "LLNL/RAJA": {
         "external": 13,
@@ -3187,6 +3187,11 @@
     "ECP-VeloC/filo": {
         "external": 2,
         "internal": 4,
+        "total": 6
+    },
+    "spack/label-schema": {
+        "external": 1,
+        "internal": 5,
         "total": 6
     },
     "spack/packages": {
