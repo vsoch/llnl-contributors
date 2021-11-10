@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 914,
+        "external": 915,
         "internal": 68,
-        "total": 982
+        "total": 983
     },
     "openzfs/zfs": {
         "external": 467,
@@ -339,6 +339,11 @@
         "internal": 5,
         "total": 24
     },
+    "LLNL/SAMRAI": {
+        "external": 6,
+        "internal": 17,
+        "total": 23
+    },
     "ESGF/esgf.github.io": {
         "external": 20,
         "internal": 3,
@@ -373,11 +378,6 @@
         "external": 22,
         "internal": 1,
         "total": 23
-    },
-    "LLNL/SAMRAI": {
-        "external": 5,
-        "internal": 17,
-        "total": 22
     },
     "LLNL/STAT": {
         "external": 4,

@@ -819,6 +819,11 @@
         "internal": 18,
         "total": 24
     },
+    "LLNL/SAMRAI": {
+        "external": 6,
+        "internal": 17,
+        "total": 23
+    },
     "LLNL/GOTCHA": {
         "external": 6,
         "internal": 12,
@@ -938,11 +943,6 @@
         "external": 5,
         "internal": 18,
         "total": 23
-    },
-    "LLNL/SAMRAI": {
-        "external": 5,
-        "internal": 17,
-        "total": 22
     },
     "LLNL/lmt": {
         "external": 5,
