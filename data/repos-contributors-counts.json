@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 915,
+        "external": 916,
         "internal": 68,
-        "total": 983
+        "total": 984
     },
     "openzfs/zfs": {
         "external": 467,
@@ -1344,6 +1344,11 @@
         "internal": 11,
         "total": 11
     },
+    "flux-framework/PerfFlowAspect": {
+        "external": 3,
+        "internal": 8,
+        "total": 11
+    },
     "LLNL/zfpy-wheels": {
         "external": 1,
         "internal": 10,
@@ -1552,11 +1557,6 @@
     "LLNL/ddcMDconverter": {
         "external": 0,
         "internal": 10,
-        "total": 10
-    },
-    "flux-framework/PerfFlowAspect": {
-        "external": 3,
-        "internal": 7,
         "total": 10
     },
     "LLNL/AMG": {
@@ -2959,6 +2959,11 @@
         "internal": 5,
         "total": 8
     },
+    "openzfs/libabigail-docker": {
+        "external": 7,
+        "internal": 1,
+        "total": 8
+    },
     "rose-compiler/rose-apt-get": {
         "external": 4,
         "internal": 4,
@@ -3077,11 +3082,6 @@
     "spack/spack-prereq": {
         "external": 2,
         "internal": 5,
-        "total": 7
-    },
-    "openzfs/libabigail-docker": {
-        "external": 6,
-        "internal": 1,
         "total": 7
     },
     "hpcgroup/TraceR": {

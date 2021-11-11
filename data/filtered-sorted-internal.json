@@ -1939,6 +1939,11 @@
         "internal": 8,
         "total": 14
     },
+    "flux-framework/PerfFlowAspect": {
+        "external": 3,
+        "internal": 8,
+        "total": 11
+    },
     "LLNL/certipy": {
         "external": 3,
         "internal": 8,
@@ -2143,11 +2148,6 @@
         "external": 4,
         "internal": 7,
         "total": 11
-    },
-    "flux-framework/PerfFlowAspect": {
-        "external": 3,
-        "internal": 7,
-        "total": 10
     },
     "flux-framework/flux-accounting": {
         "external": 3,
@@ -3179,6 +3179,11 @@
         "internal": 1,
         "total": 9
     },
+    "openzfs/libabigail-docker": {
+        "external": 7,
+        "internal": 1,
+        "total": 8
+    },
     "CDAT/VCS-widgets": {
         "external": 7,
         "internal": 1,
@@ -3188,11 +3193,6 @@
         "external": 7,
         "internal": 1,
         "total": 8
-    },
-    "openzfs/libabigail-docker": {
-        "external": 6,
-        "internal": 1,
-        "total": 7
     },
     "CDAT/cdatgui": {
         "external": 6,
