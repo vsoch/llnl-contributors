@@ -2274,6 +2274,11 @@
         "internal": 16,
         "total": 17
     },
+    "LLNL/Adiak": {
+        "external": 1,
+        "internal": 15,
+        "total": 16
+    },
     "LLNL/umap-apps": {
         "external": 1,
         "internal": 15,
@@ -2880,11 +2885,6 @@
         "total": 15
     },
     "LLNL/maestro_sheetmusic": {
-        "external": 0,
-        "internal": 15,
-        "total": 15
-    },
-    "LLNL/Adiak": {
         "external": 0,
         "internal": 15,
         "total": 15
@@ -3795,6 +3795,11 @@
         "total": 8
     },
     "hatchet/hatchet-notebooks-sc19": {
+        "external": 0,
+        "internal": 4,
+        "total": 4
+    },
+    "hatchet/hatchet-tutorial": {
         "external": 0,
         "internal": 4,
         "total": 4
