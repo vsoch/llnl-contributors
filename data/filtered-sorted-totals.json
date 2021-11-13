@@ -1,13 +1,13 @@
 {
+    "mfem/web": {
+        "external": 55,
+        "internal": 38,
+        "total": 93
+    },
     "CDAT/cdat": {
         "external": 91,
         "internal": 2,
         "total": 93
-    },
-    "mfem/web": {
-        "external": 54,
-        "internal": 38,
-        "total": 92
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -889,6 +889,11 @@
         "internal": 11,
         "total": 14
     },
+    "LLNL/spot2_container": {
+        "external": 2,
+        "internal": 12,
+        "total": 14
+    },
     "flux-framework/capacitor": {
         "external": 5,
         "internal": 9,
@@ -1064,9 +1069,9 @@
         "internal": 10,
         "total": 13
     },
-    "LLNL/spot2_container": {
-        "external": 1,
-        "internal": 12,
+    "LLNL/radiuss-spack-configs": {
+        "external": 0,
+        "internal": 13,
         "total": 13
     },
     "LLNL/spotbe": {
@@ -1192,11 +1197,6 @@
     "LLNL/parelag": {
         "external": 1,
         "internal": 11,
-        "total": 12
-    },
-    "LLNL/radiuss-spack-configs": {
-        "external": 0,
-        "internal": 12,
         "total": 12
     },
     "LLNL/simpool": {
@@ -1779,6 +1779,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/pytaridx": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/qnd": {
         "external": 1,
         "internal": 9,
@@ -1957,11 +1962,6 @@
     "ESGF/esgf-notify": {
         "external": 9,
         "internal": 1,
-        "total": 10
-    },
-    "GMLC-TDC/HELICS-Use-Cases": {
-        "external": 8,
-        "internal": 2,
         "total": 10
     },
     "ESGF/esgf-auth": {
@@ -2722,6 +2722,11 @@
     "GMLC-TDC/helics-ns3": {
         "external": 6,
         "internal": 3,
+        "total": 9
+    },
+    "GMLC-TDC/HELICS-Use-Cases": {
+        "external": 7,
+        "internal": 2,
         "total": 9
     },
     "ESGF/esgf-devOps": {

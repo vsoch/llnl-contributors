@@ -6,8 +6,8 @@
     },
     "spack/spack": {
         "external": 916,
-        "internal": 68,
-        "total": 984
+        "internal": 69,
+        "total": 985
     },
     "openzfs/zfs": {
         "external": 467,
@@ -15,19 +15,19 @@
         "total": 471
     },
     "mfem/mfem": {
-        "external": 358,
+        "external": 359,
         "internal": 86,
-        "total": 444
+        "total": 445
     },
     "mfem/data": {
-        "external": 354,
+        "external": 355,
         "internal": 86,
-        "total": 440
+        "total": 441
     },
     "mfem/PyMFEM": {
-        "external": 231,
+        "external": 232,
         "internal": 33,
-        "total": 264
+        "total": 265
     },
     "spack/spack.io": {
         "external": 174,
@@ -35,19 +35,19 @@
         "total": 180
     },
     "spack/spack-tutorial": {
-        "external": 114,
+        "external": 115,
         "internal": 31,
-        "total": 145
+        "total": 146
     },
     "spack/gnuconfig": {
-        "external": 106,
+        "external": 107,
         "internal": 18,
-        "total": 124
+        "total": 125
     },
     "spack/sbang": {
-        "external": 96,
+        "external": 97,
         "internal": 26,
-        "total": 122
+        "total": 123
     },
     "LLNL/lustre": {
         "external": 106,
@@ -59,15 +59,15 @@
         "internal": 12,
         "total": 117
     },
+    "mfem/web": {
+        "external": 55,
+        "internal": 38,
+        "total": 93
+    },
     "CDAT/cdat": {
         "external": 91,
         "internal": 2,
         "total": 93
-    },
-    "mfem/web": {
-        "external": 54,
-        "internal": 38,
-        "total": 92
     },
     "GEOSX/LvArray": {
         "external": 64,
@@ -949,6 +949,11 @@
         "internal": 11,
         "total": 14
     },
+    "LLNL/spot2_container": {
+        "external": 2,
+        "internal": 12,
+        "total": 14
+    },
     "flux-framework/capacitor": {
         "external": 5,
         "internal": 9,
@@ -1124,9 +1129,9 @@
         "internal": 10,
         "total": 13
     },
-    "LLNL/spot2_container": {
-        "external": 1,
-        "internal": 12,
+    "LLNL/radiuss-spack-configs": {
+        "external": 0,
+        "internal": 13,
         "total": 13
     },
     "LLNL/spotbe": {
@@ -1252,11 +1257,6 @@
     "LLNL/parelag": {
         "external": 1,
         "internal": 11,
-        "total": 12
-    },
-    "LLNL/radiuss-spack-configs": {
-        "external": 0,
-        "internal": 12,
         "total": 12
     },
     "LLNL/simpool": {
@@ -1839,6 +1839,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/pytaridx": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/qnd": {
         "external": 1,
         "internal": 9,
@@ -2017,11 +2022,6 @@
     "ESGF/esgf-notify": {
         "external": 9,
         "internal": 1,
-        "total": 10
-    },
-    "GMLC-TDC/HELICS-Use-Cases": {
-        "external": 8,
-        "internal": 2,
         "total": 10
     },
     "ESGF/esgf-auth": {
@@ -2782,6 +2782,11 @@
     "GMLC-TDC/helics-ns3": {
         "external": 6,
         "internal": 3,
+        "total": 9
+    },
+    "GMLC-TDC/HELICS-Use-Cases": {
+        "external": 7,
+        "internal": 2,
         "total": 9
     },
     "ESGF/esgf-devOps": {
