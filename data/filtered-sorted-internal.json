@@ -1,18 +1,23 @@
 {
+    "LLNL/axom": {
+        "external": 4,
+        "internal": 42,
+        "total": 46
+    },
     "LLNL/RAJA": {
         "external": 13,
         "internal": 41,
         "total": 54
     },
-    "LLNL/axom": {
-        "external": 5,
-        "internal": 41,
-        "total": 46
-    },
     "mfem/web": {
         "external": 55,
         "internal": 38,
         "total": 93
+    },
+    "LLNL/conduit": {
+        "external": 8,
+        "internal": 34,
+        "total": 42
     },
     "LLNL/gidiplus": {
         "external": 0,
@@ -23,11 +28,6 @@
         "external": 11,
         "internal": 33,
         "total": 44
-    },
-    "LLNL/conduit": {
-        "external": 9,
-        "internal": 33,
-        "total": 42
     },
     "LLNL/RAJAPerf": {
         "external": 3,
@@ -50,8 +50,8 @@
         "total": 29
     },
     "LLNL/Umpire": {
-        "external": 11,
-        "internal": 23,
+        "external": 10,
+        "internal": 24,
         "total": 34
     },
     "GLVis/glvis": {
@@ -139,6 +139,11 @@
         "internal": 19,
         "total": 20
     },
+    "LLNL/ATS": {
+        "external": 0,
+        "internal": 19,
+        "total": 19
+    },
     "LLNL/AutomaDeD": {
         "external": 0,
         "internal": 19,
@@ -198,11 +203,6 @@
         "external": 1,
         "internal": 18,
         "total": 19
-    },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
     },
     "LLNL/Adagio": {
         "external": 0,
@@ -394,6 +394,11 @@
         "internal": 15,
         "total": 15
     },
+    "LLNL/shroud": {
+        "external": 0,
+        "internal": 15,
+        "total": 15
+    },
     "LLNL/uberenv": {
         "external": 0,
         "internal": 15,
@@ -435,11 +440,6 @@
         "total": 15
     },
     "LLNL/mib": {
-        "external": 1,
-        "internal": 14,
-        "total": 15
-    },
-    "LLNL/shroud": {
         "external": 1,
         "internal": 14,
         "total": 15
@@ -669,6 +669,11 @@
         "internal": 11,
         "total": 16
     },
+    "LLNL/pyranda": {
+        "external": 4,
+        "internal": 11,
+        "total": 15
+    },
     "LLNL/COGENT": {
         "external": 3,
         "internal": 11,
@@ -744,6 +749,11 @@
         "internal": 11,
         "total": 11
     },
+    "LLNL/UMT": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
     "LLNL/clippy": {
         "external": 0,
         "internal": 11,
@@ -808,11 +818,6 @@
         "external": 5,
         "internal": 10,
         "total": 15
-    },
-    "LLNL/pyranda": {
-        "external": 4,
-        "internal": 10,
-        "total": 14
     },
     "LLNL/Abmarl": {
         "external": 3,
@@ -895,11 +900,6 @@
         "total": 11
     },
     "LLNL/Privateer": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/UMT": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -1274,6 +1274,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/FGPU": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/GOTCHA-tracer": {
         "external": 1,
         "internal": 9,
@@ -1360,6 +1365,11 @@
         "total": 10
     },
     "LLNL/flux-wrappers": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/fudge": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -1540,6 +1550,11 @@
         "total": 9
     },
     "LLNL/MuyGPyS": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/NPB": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -1725,11 +1740,6 @@
         "total": 9
     },
     "LLNL/fpzip": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/fudge": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -1959,11 +1969,6 @@
         "internal": 8,
         "total": 10
     },
-    "LLNL/FGPU": {
-        "external": 2,
-        "internal": 8,
-        "total": 10
-    },
     "LLNL/gitlab-runner-auth": {
         "external": 2,
         "internal": 8,
@@ -1990,11 +1995,6 @@
         "total": 9
     },
     "LLNL/LibPowerMon": {
-        "external": 1,
-        "internal": 8,
-        "total": 9
-    },
-    "LLNL/NPB": {
         "external": 1,
         "internal": 8,
         "total": 9

@@ -6,8 +6,8 @@
     },
     "spack/spack": {
         "external": 916,
-        "internal": 69,
-        "total": 985
+        "internal": 70,
+        "total": 986
     },
     "openzfs/zfs": {
         "external": 467,
@@ -15,8 +15,8 @@
         "total": 471
     },
     "mfem/mfem": {
-        "external": 359,
-        "internal": 86,
+        "external": 358,
+        "internal": 87,
         "total": 445
     },
     "mfem/data": {
@@ -120,8 +120,8 @@
         "total": 47
     },
     "LLNL/axom": {
-        "external": 5,
-        "internal": 41,
+        "external": 4,
+        "internal": 42,
         "total": 46
     },
     "openzfs/openzfs-docs": {
@@ -145,8 +145,8 @@
         "total": 43
     },
     "LLNL/conduit": {
-        "external": 9,
-        "internal": 33,
+        "external": 8,
+        "internal": 34,
         "total": 42
     },
     "hpc/mpifileutils": {
@@ -175,8 +175,8 @@
         "total": 34
     },
     "LLNL/Umpire": {
-        "external": 11,
-        "internal": 23,
+        "external": 10,
+        "internal": 24,
         "total": 34
     },
     "LLNL/gidiplus": {
@@ -469,6 +469,11 @@
         "internal": 18,
         "total": 19
     },
+    "LLNL/ATS": {
+        "external": 0,
+        "internal": 19,
+        "total": 19
+    },
     "LLNL/AutomaDeD": {
         "external": 0,
         "internal": 19,
@@ -528,11 +533,6 @@
         "external": 19,
         "internal": 0,
         "total": 19
-    },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
     },
     "LLNL/Adagio": {
         "external": 0,
@@ -844,9 +844,14 @@
         "internal": 9,
         "total": 15
     },
+    "LLNL/pyranda": {
+        "external": 4,
+        "internal": 11,
+        "total": 15
+    },
     "LLNL/shroud": {
-        "external": 1,
-        "internal": 14,
+        "external": 0,
+        "internal": 15,
         "total": 15
     },
     "LLNL/simul": {
@@ -937,11 +942,6 @@
     "LLNL/apollo": {
         "external": 2,
         "internal": 12,
-        "total": 14
-    },
-    "LLNL/pyranda": {
-        "external": 4,
-        "internal": 10,
         "total": 14
     },
     "LLNL/smoothG": {
@@ -1395,8 +1395,8 @@
         "total": 11
     },
     "LLNL/UMT": {
-        "external": 1,
-        "internal": 10,
+        "external": 0,
+        "internal": 11,
         "total": 11
     },
     "LLNL/USER-EPH": {
@@ -1590,8 +1590,8 @@
         "total": 10
     },
     "LLNL/FGPU": {
-        "external": 2,
-        "internal": 8,
+        "external": 1,
+        "internal": 9,
         "total": 10
     },
     "LLNL/FRS": {
@@ -1760,6 +1760,11 @@
         "total": 10
     },
     "LLNL/flux-wrappers": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/fudge": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -2210,8 +2215,8 @@
         "total": 9
     },
     "LLNL/NPB": {
-        "external": 1,
-        "internal": 8,
+        "external": 0,
+        "internal": 9,
         "total": 9
     },
     "LLNL/Open-Facility-Viewer": {
@@ -2415,11 +2420,6 @@
         "total": 9
     },
     "LLNL/fpzip": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/fudge": {
         "external": 0,
         "internal": 9,
         "total": 9
