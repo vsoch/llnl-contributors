@@ -15,19 +15,19 @@
         "total": 471
     },
     "mfem/mfem": {
-        "external": 358,
+        "external": 359,
         "internal": 87,
-        "total": 445
+        "total": 446
     },
     "mfem/data": {
-        "external": 355,
+        "external": 356,
         "internal": 86,
-        "total": 441
+        "total": 442
     },
     "mfem/PyMFEM": {
-        "external": 232,
+        "external": 233,
         "internal": 33,
-        "total": 265
+        "total": 266
     },
     "spack/spack.io": {
         "external": 174,
@@ -35,9 +35,9 @@
         "total": 180
     },
     "spack/spack-tutorial": {
-        "external": 115,
+        "external": 122,
         "internal": 31,
-        "total": 146
+        "total": 153
     },
     "spack/gnuconfig": {
         "external": 107,
