@@ -1194,6 +1194,11 @@
         "internal": 11,
         "total": 15
     },
+    "LLNL/H5Z-ZFP": {
+        "external": 4,
+        "internal": 10,
+        "total": 14
+    },
     "LLNL/GridKit": {
         "external": 4,
         "internal": 9,
@@ -1470,11 +1475,6 @@
         "total": 13
     },
     "LLNL/CcNav": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
-    "LLNL/H5Z-ZFP": {
         "external": 3,
         "internal": 10,
         "total": 13
