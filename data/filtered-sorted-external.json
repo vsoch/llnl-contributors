@@ -10,8 +10,8 @@
         "total": 76
     },
     "mfem/web": {
-        "external": 55,
-        "internal": 38,
+        "external": 56,
+        "internal": 37,
         "total": 93
     },
     "openzfs/spl": {
@@ -54,15 +54,15 @@
         "internal": 6,
         "total": 44
     },
+    "GLVis/glvis": {
+        "external": 37,
+        "internal": 21,
+        "total": 58
+    },
     "rose-compiler/rose-develop": {
         "external": 37,
         "internal": 6,
         "total": 43
-    },
-    "GLVis/glvis": {
-        "external": 36,
-        "internal": 22,
-        "total": 58
     },
     "CEED/Remhos": {
         "external": 35,
@@ -239,6 +239,21 @@
         "internal": 22,
         "total": 36
     },
+    "GLVis/doxygen": {
+        "external": 14,
+        "internal": 18,
+        "total": 32
+    },
+    "GLVis/releases": {
+        "external": 14,
+        "internal": 18,
+        "total": 32
+    },
+    "GLVis/web": {
+        "external": 14,
+        "internal": 18,
+        "total": 32
+    },
     "chaos/slurm": {
         "external": 14,
         "internal": 5,
@@ -288,21 +303,6 @@
         "external": 13,
         "internal": 41,
         "total": 54
-    },
-    "GLVis/doxygen": {
-        "external": 13,
-        "internal": 19,
-        "total": 32
-    },
-    "GLVis/releases": {
-        "external": 13,
-        "internal": 19,
-        "total": 32
-    },
-    "GLVis/web": {
-        "external": 13,
-        "internal": 19,
-        "total": 32
     },
     "CDAT/uvcdat-testdata": {
         "external": 13,
@@ -384,6 +384,21 @@
         "internal": 33,
         "total": 44
     },
+    "mfem/github-actions": {
+        "external": 11,
+        "internal": 17,
+        "total": 28
+    },
+    "mfem/doxygen": {
+        "external": 11,
+        "internal": 16,
+        "total": 27
+    },
+    "mfem/releases": {
+        "external": 11,
+        "internal": 16,
+        "total": 27
+    },
     "LLNL/UnifyFS": {
         "external": 11,
         "internal": 13,
@@ -441,23 +456,8 @@
     },
     "LLNL/Umpire": {
         "external": 10,
-        "internal": 24,
-        "total": 34
-    },
-    "mfem/github-actions": {
-        "external": 10,
-        "internal": 18,
-        "total": 28
-    },
-    "mfem/doxygen": {
-        "external": 10,
-        "internal": 17,
-        "total": 27
-    },
-    "mfem/releases": {
-        "external": 10,
-        "internal": 17,
-        "total": 27
+        "internal": 25,
+        "total": 35
     },
     "flux-framework/flux-core": {
         "external": 10,
@@ -619,6 +619,16 @@
         "internal": 34,
         "total": 42
     },
+    "GLVis/glvis-js": {
+        "external": 8,
+        "internal": 15,
+        "total": 23
+    },
+    "GLVis/pyglvis": {
+        "external": 8,
+        "internal": 15,
+        "total": 23
+    },
     "LLNL/magpie": {
         "external": 8,
         "internal": 10,
@@ -718,16 +728,6 @@
         "external": 7,
         "internal": 18,
         "total": 25
-    },
-    "GLVis/glvis-js": {
-        "external": 7,
-        "internal": 16,
-        "total": 23
-    },
-    "GLVis/pyglvis": {
-        "external": 7,
-        "internal": 16,
-        "total": 23
     },
     "LLNL/spheral": {
         "external": 7,
@@ -2539,11 +2539,6 @@
         "internal": 9,
         "total": 10
     },
-    "LLNL/fudge": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
     "LLNL/gtest-mpi-listener": {
         "external": 1,
         "internal": 9,
@@ -2723,6 +2718,11 @@
         "external": 1,
         "internal": 5,
         "total": 6
+    },
+    "hatchet/hatchet-tutorial": {
+        "external": 1,
+        "internal": 4,
+        "total": 5
     },
     "ECP-VeloC/rankstr": {
         "external": 1,
@@ -3105,6 +3105,11 @@
         "total": 10
     },
     "LLNL/direct-fuse": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/fudge": {
         "external": 0,
         "internal": 10,
         "total": 10
@@ -3800,11 +3805,6 @@
         "total": 8
     },
     "hatchet/hatchet-notebooks-sc19": {
-        "external": 0,
-        "internal": 4,
-        "total": 4
-    },
-    "hatchet/hatchet-tutorial": {
         "external": 0,
         "internal": 4,
         "total": 4

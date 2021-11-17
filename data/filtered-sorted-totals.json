@@ -1,7 +1,7 @@
 {
     "mfem/web": {
-        "external": 55,
-        "internal": 38,
+        "external": 56,
+        "internal": 37,
         "total": 93
     },
     "CDAT/cdat": {
@@ -35,8 +35,8 @@
         "total": 59
     },
     "GLVis/glvis": {
-        "external": 36,
-        "internal": 22,
+        "external": 37,
+        "internal": 21,
         "total": 58
     },
     "LLNL/RAJA": {
@@ -104,6 +104,11 @@
         "internal": 22,
         "total": 36
     },
+    "LLNL/Umpire": {
+        "external": 10,
+        "internal": 25,
+        "total": 35
+    },
     "CDAT/VisTrails": {
         "external": 33,
         "internal": 2,
@@ -112,11 +117,6 @@
     "LLNL/RAJAPerf": {
         "external": 3,
         "internal": 31,
-        "total": 34
-    },
-    "LLNL/Umpire": {
-        "external": 10,
-        "internal": 24,
         "total": 34
     },
     "LLNL/gidiplus": {
@@ -145,18 +145,18 @@
         "total": 32
     },
     "GLVis/doxygen": {
-        "external": 13,
-        "internal": 19,
+        "external": 14,
+        "internal": 18,
         "total": 32
     },
     "GLVis/releases": {
-        "external": 13,
-        "internal": 19,
+        "external": 14,
+        "internal": 18,
         "total": 32
     },
     "GLVis/web": {
-        "external": 13,
-        "internal": 19,
+        "external": 14,
+        "internal": 18,
         "total": 32
     },
     "spack/spack-cscs2019": {
@@ -195,8 +195,8 @@
         "total": 28
     },
     "mfem/github-actions": {
-        "external": 10,
-        "internal": 18,
+        "external": 11,
+        "internal": 17,
         "total": 28
     },
     "GMLC-TDC/HELICS": {
@@ -210,13 +210,13 @@
         "total": 27
     },
     "mfem/doxygen": {
-        "external": 10,
-        "internal": 17,
+        "external": 11,
+        "internal": 16,
         "total": 27
     },
     "mfem/releases": {
-        "external": 10,
-        "internal": 17,
+        "external": 11,
+        "internal": 16,
         "total": 27
     },
     "chaos/ldiskfsprogs": {
@@ -305,13 +305,13 @@
         "total": 23
     },
     "GLVis/glvis-js": {
-        "external": 7,
-        "internal": 16,
+        "external": 8,
+        "internal": 15,
         "total": 23
     },
     "GLVis/pyglvis": {
-        "external": 7,
-        "internal": 16,
+        "external": 8,
+        "internal": 15,
         "total": 23
     },
     "ESGF/esgf-installer": {
@@ -1705,8 +1705,8 @@
         "total": 10
     },
     "LLNL/fudge": {
-        "external": 1,
-        "internal": 9,
+        "external": 0,
+        "internal": 10,
         "total": 10
     },
     "LLNL/gitlab-runner-auth": {
@@ -3289,6 +3289,11 @@
         "internal": 3,
         "total": 5
     },
+    "hatchet/hatchet-tutorial": {
+        "external": 1,
+        "internal": 4,
+        "total": 5
+    },
     "dun/munge": {
         "external": 4,
         "internal": 1,
@@ -3480,11 +3485,6 @@
         "total": 4
     },
     "hatchet/hatchet-notebooks-sc19": {
-        "external": 0,
-        "internal": 4,
-        "total": 4
-    },
-    "hatchet/hatchet-tutorial": {
         "external": 0,
         "internal": 4,
         "total": 4

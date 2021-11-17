@@ -10,8 +10,8 @@
         "total": 54
     },
     "mfem/web": {
-        "external": 55,
-        "internal": 38,
+        "external": 56,
+        "internal": 37,
         "total": 93
     },
     "LLNL/conduit": {
@@ -44,20 +44,15 @@
         "internal": 28,
         "total": 32
     },
+    "LLNL/Umpire": {
+        "external": 10,
+        "internal": 25,
+        "total": 35
+    },
     "LLNL/llnl.github.io": {
         "external": 4,
         "internal": 25,
         "total": 29
-    },
-    "LLNL/Umpire": {
-        "external": 10,
-        "internal": 24,
-        "total": 34
-    },
-    "GLVis/glvis": {
-        "external": 36,
-        "internal": 22,
-        "total": 58
     },
     "LLNL/lbann": {
         "external": 14,
@@ -84,6 +79,11 @@
         "internal": 21,
         "total": 64
     },
+    "GLVis/glvis": {
+        "external": 37,
+        "internal": 21,
+        "total": 58
+    },
     "LLNL/libmsr": {
         "external": 5,
         "internal": 21,
@@ -93,21 +93,6 @@
         "external": 41,
         "internal": 19,
         "total": 60
-    },
-    "GLVis/doxygen": {
-        "external": 13,
-        "internal": 19,
-        "total": 32
-    },
-    "GLVis/releases": {
-        "external": 13,
-        "internal": 19,
-        "total": 32
-    },
-    "GLVis/web": {
-        "external": 13,
-        "internal": 19,
-        "total": 32
     },
     "LLNL/HPCCEA": {
         "external": 12,
@@ -159,10 +144,20 @@
         "internal": 19,
         "total": 19
     },
-    "mfem/github-actions": {
-        "external": 10,
+    "GLVis/doxygen": {
+        "external": 14,
         "internal": 18,
-        "total": 28
+        "total": 32
+    },
+    "GLVis/releases": {
+        "external": 14,
+        "internal": 18,
+        "total": 32
+    },
+    "GLVis/web": {
+        "external": 14,
+        "internal": 18,
+        "total": 32
     },
     "LLNL/scr": {
         "external": 7,
@@ -269,15 +264,10 @@
         "internal": 18,
         "total": 18
     },
-    "mfem/doxygen": {
-        "external": 10,
+    "mfem/github-actions": {
+        "external": 11,
         "internal": 17,
-        "total": 27
-    },
-    "mfem/releases": {
-        "external": 10,
-        "internal": 17,
-        "total": 27
+        "total": 28
     },
     "LLNL/SAMRAI": {
         "external": 6,
@@ -294,15 +284,15 @@
         "internal": 16,
         "total": 28
     },
-    "GLVis/glvis-js": {
-        "external": 7,
+    "mfem/doxygen": {
+        "external": 11,
         "internal": 16,
-        "total": 23
+        "total": 27
     },
-    "GLVis/pyglvis": {
-        "external": 7,
+    "mfem/releases": {
+        "external": 11,
         "internal": 16,
-        "total": 23
+        "total": 27
     },
     "LLNL/libROM": {
         "external": 4,
@@ -328,6 +318,16 @@
         "external": 54,
         "internal": 15,
         "total": 69
+    },
+    "GLVis/glvis-js": {
+        "external": 8,
+        "internal": 15,
+        "total": 23
+    },
+    "GLVis/pyglvis": {
+        "external": 8,
+        "internal": 15,
+        "total": 23
     },
     "LLNL/spheral": {
         "external": 7,
@@ -1044,6 +1044,11 @@
         "internal": 10,
         "total": 10
     },
+    "LLNL/fudge": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
     "LLNL/goulash": {
         "external": 0,
         "internal": 10,
@@ -1365,11 +1370,6 @@
         "total": 10
     },
     "LLNL/flux-wrappers": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/fudge": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -2549,12 +2549,12 @@
         "internal": 4,
         "total": 6
     },
-    "hatchet/hatchet-notebooks-sc19": {
-        "external": 0,
-        "internal": 4,
-        "total": 4
-    },
     "hatchet/hatchet-tutorial": {
+        "external": 1,
+        "internal": 4,
+        "total": 5
+    },
+    "hatchet/hatchet-notebooks-sc19": {
         "external": 0,
         "internal": 4,
         "total": 4
