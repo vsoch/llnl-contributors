@@ -2194,6 +2194,11 @@
         "internal": 6,
         "total": 27
     },
+    "hatchet/hatchet": {
+        "external": 10,
+        "internal": 6,
+        "total": 16
+    },
     "spack/spackbot": {
         "external": 8,
         "internal": 6,
@@ -2320,11 +2325,6 @@
         "total": 15
     },
     "chaos/pdsh": {
-        "external": 10,
-        "internal": 5,
-        "total": 15
-    },
-    "hatchet/hatchet": {
         "external": 10,
         "internal": 5,
         "total": 15

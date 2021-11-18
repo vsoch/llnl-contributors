@@ -469,17 +469,17 @@
         "internal": 9,
         "total": 19
     },
+    "hatchet/hatchet": {
+        "external": 10,
+        "internal": 6,
+        "total": 16
+    },
     "spack/legacy-spack.io": {
         "external": 10,
         "internal": 5,
         "total": 15
     },
     "chaos/pdsh": {
-        "external": 10,
-        "internal": 5,
-        "total": 15
-    },
-    "hatchet/hatchet": {
         "external": 10,
         "internal": 5,
         "total": 15

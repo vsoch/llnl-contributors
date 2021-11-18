@@ -709,6 +709,11 @@
         "internal": 5,
         "total": 16
     },
+    "hatchet/hatchet": {
+        "external": 10,
+        "internal": 6,
+        "total": 16
+    },
     "CDAT/uvcmetrics": {
         "external": 14,
         "internal": 2,
@@ -825,11 +830,6 @@
         "total": 15
     },
     "chaos/pdsh": {
-        "external": 10,
-        "internal": 5,
-        "total": 15
-    },
-    "hatchet/hatchet": {
         "external": 10,
         "internal": 5,
         "total": 15
