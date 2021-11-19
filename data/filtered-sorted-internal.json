@@ -470,9 +470,9 @@
         "total": 48
     },
     "hypre-space/hypre": {
-        "external": 21,
+        "external": 22,
         "internal": 13,
-        "total": 34
+        "total": 35
     },
     "hpc/Spindle": {
         "external": 16,
@@ -1145,9 +1145,9 @@
         "total": 10
     },
     "hpc/mpifileutils": {
-        "external": 33,
+        "external": 34,
         "internal": 9,
-        "total": 42
+        "total": 43
     },
     "flux-framework/flux-k8s": {
         "external": 10,
@@ -2435,6 +2435,11 @@
         "total": 8
     },
     "spack/contrib": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "spack/patches": {
         "external": 2,
         "internal": 5,
         "total": 7

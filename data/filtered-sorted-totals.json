@@ -79,6 +79,11 @@
         "internal": 6,
         "total": 44
     },
+    "hpc/mpifileutils": {
+        "external": 34,
+        "internal": 9,
+        "total": 43
+    },
     "rose-compiler/rose-develop": {
         "external": 37,
         "internal": 6,
@@ -87,11 +92,6 @@
     "LLNL/conduit": {
         "external": 8,
         "internal": 34,
-        "total": 42
-    },
-    "hpc/mpifileutils": {
-        "external": 33,
-        "internal": 9,
         "total": 42
     },
     "spack/spack-configs": {
@@ -109,6 +109,11 @@
         "internal": 25,
         "total": 35
     },
+    "hypre-space/hypre": {
+        "external": 22,
+        "internal": 13,
+        "total": 35
+    },
     "CDAT/VisTrails": {
         "external": 33,
         "internal": 2,
@@ -122,11 +127,6 @@
     "LLNL/gidiplus": {
         "external": 0,
         "internal": 34,
-        "total": 34
-    },
-    "hypre-space/hypre": {
-        "external": 21,
-        "internal": 13,
         "total": 34
     },
     "Alpine-DAV/ascent": {
@@ -3005,6 +3005,11 @@
         "total": 8
     },
     "spack/contrib": {
+        "external": 2,
+        "internal": 5,
+        "total": 7
+    },
+    "spack/patches": {
         "external": 2,
         "internal": 5,
         "total": 7
