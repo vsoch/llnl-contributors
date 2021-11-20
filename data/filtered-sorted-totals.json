@@ -434,6 +434,11 @@
         "internal": 18,
         "total": 19
     },
+    "LLNL/magpie": {
+        "external": 9,
+        "internal": 10,
+        "total": 19
+    },
     "LLNL/perf-dump": {
         "external": 1,
         "internal": 18,
@@ -547,11 +552,6 @@
     "LLNL/ior": {
         "external": 3,
         "internal": 15,
-        "total": 18
-    },
-    "LLNL/magpie": {
-        "external": 8,
-        "internal": 10,
         "total": 18
     },
     "LLNL/merlin": {
@@ -1369,6 +1369,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/gitlab-runner-auth": {
+        "external": 3,
+        "internal": 8,
+        "total": 11
+    },
     "LLNL/mappgene": {
         "external": 0,
         "internal": 11,
@@ -1707,11 +1712,6 @@
     "LLNL/fudge": {
         "external": 0,
         "internal": 10,
-        "total": 10
-    },
-    "LLNL/gitlab-runner-auth": {
-        "external": 2,
-        "internal": 8,
         "total": 10
     },
     "LLNL/goulash": {

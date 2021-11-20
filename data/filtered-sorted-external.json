@@ -544,6 +544,11 @@
         "internal": 0,
         "total": 10
     },
+    "LLNL/magpie": {
+        "external": 9,
+        "internal": 10,
+        "total": 19
+    },
     "CDAT/dv3d": {
         "external": 9,
         "internal": 2,
@@ -628,11 +633,6 @@
         "external": 8,
         "internal": 15,
         "total": 23
-    },
-    "LLNL/magpie": {
-        "external": 8,
-        "internal": 10,
-        "total": 18
     },
     "flux-framework/kubeflux": {
         "external": 8,
@@ -1524,6 +1524,11 @@
         "internal": 8,
         "total": 11
     },
+    "LLNL/gitlab-runner-auth": {
+        "external": 3,
+        "internal": 8,
+        "total": 11
+    },
     "flux-framework/flux-accounting": {
         "external": 3,
         "internal": 7,
@@ -2040,11 +2045,6 @@
         "total": 11
     },
     "LLNL/CoMD-Chapel": {
-        "external": 2,
-        "internal": 8,
-        "total": 10
-    },
-    "LLNL/gitlab-runner-auth": {
         "external": 2,
         "internal": 8,
         "total": 10

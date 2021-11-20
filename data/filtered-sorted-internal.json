@@ -800,9 +800,9 @@
         "total": 32
     },
     "LLNL/magpie": {
-        "external": 8,
+        "external": 9,
         "internal": 10,
-        "total": 18
+        "total": 19
     },
     "LLNL/units": {
         "external": 7,
@@ -1964,12 +1964,12 @@
         "internal": 8,
         "total": 11
     },
-    "LLNL/CoMD-Chapel": {
-        "external": 2,
-        "internal": 8,
-        "total": 10
-    },
     "LLNL/gitlab-runner-auth": {
+        "external": 3,
+        "internal": 8,
+        "total": 11
+    },
+    "LLNL/CoMD-Chapel": {
         "external": 2,
         "internal": 8,
         "total": 10
