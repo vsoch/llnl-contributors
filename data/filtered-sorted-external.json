@@ -1364,6 +1364,11 @@
         "internal": 2,
         "total": 6
     },
+    "GMLC-TDC/helics_doc_resources": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
     "dun/munge": {
         "external": 4,
         "internal": 1,
@@ -2510,6 +2515,11 @@
         "total": 10
     },
     "LLNL/Wemul": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/XPL": {
         "external": 1,
         "internal": 9,
         "total": 10
@@ -3675,6 +3685,11 @@
         "total": 9
     },
     "LLNL/sepsense": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/spdlayers": {
         "external": 0,
         "internal": 9,
         "total": 9

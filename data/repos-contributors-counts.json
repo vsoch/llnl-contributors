@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 919,
+        "external": 920,
         "internal": 71,
-        "total": 990
+        "total": 991
     },
     "openzfs/zfs": {
         "external": 467,
@@ -1704,6 +1704,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/XPL": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/acrotensor": {
         "external": 0,
         "internal": 10,
@@ -2604,6 +2609,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/spdlayers": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/spheral-docker": {
         "external": 0,
         "internal": 9,
@@ -3330,6 +3340,11 @@
         "total": 6
     },
     "GMLC-TDC/helics_benchmark_results": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
+    "GMLC-TDC/helics_doc_resources": {
         "external": 4,
         "internal": 2,
         "total": 6
