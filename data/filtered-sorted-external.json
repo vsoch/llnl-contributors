@@ -90,9 +90,9 @@
         "total": 34
     },
     "GMLC-TDC/HELICS": {
-        "external": 25,
+        "external": 26,
         "internal": 3,
-        "total": 28
+        "total": 29
     },
     "CDAT/vcs": {
         "external": 24,
@@ -634,6 +634,11 @@
         "internal": 15,
         "total": 23
     },
+    "LLNL/hiop": {
+        "external": 8,
+        "internal": 11,
+        "total": 19
+    },
     "flux-framework/kubeflux": {
         "external": 8,
         "internal": 9,
@@ -738,11 +743,6 @@
         "external": 7,
         "internal": 14,
         "total": 21
-    },
-    "LLNL/hiop": {
-        "external": 7,
-        "internal": 11,
-        "total": 18
     },
     "flux-framework/flux-core-v0.11": {
         "external": 7,
@@ -928,6 +928,11 @@
         "external": 6,
         "internal": 0,
         "total": 6
+    },
+    "LLNL/llnl.github.io": {
+        "external": 5,
+        "internal": 25,
+        "total": 30
     },
     "LLNL/libmsr": {
         "external": 5,
@@ -1138,11 +1143,6 @@
         "external": 4,
         "internal": 28,
         "total": 32
-    },
-    "LLNL/llnl.github.io": {
-        "external": 4,
-        "internal": 25,
-        "total": 29
     },
     "LLNL/maestrowf": {
         "external": 4,
@@ -1480,6 +1480,11 @@
         "total": 13
     },
     "LLNL/CcNav": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/ExaCA": {
         "external": 3,
         "internal": 10,
         "total": 13
@@ -1993,11 +1998,6 @@
         "external": 2,
         "internal": 11,
         "total": 13
-    },
-    "LLNL/ExaCA": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
     },
     "LLNL/MaPPeRTrac": {
         "external": 2,

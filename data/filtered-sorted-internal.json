@@ -50,9 +50,9 @@
         "total": 35
     },
     "LLNL/llnl.github.io": {
-        "external": 4,
+        "external": 5,
         "internal": 25,
-        "total": 29
+        "total": 30
     },
     "LLNL/lbann": {
         "external": 14,
@@ -645,9 +645,9 @@
         "total": 23
     },
     "LLNL/hiop": {
-        "external": 7,
+        "external": 8,
         "internal": 11,
-        "total": 18
+        "total": 19
     },
     "flux-framework/flux-core-v0.11": {
         "external": 7,
@@ -834,6 +834,11 @@
         "internal": 10,
         "total": 13
     },
+    "LLNL/ExaCA": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
     "LLNL/LULESH": {
         "external": 3,
         "internal": 10,
@@ -858,11 +863,6 @@
         "external": 3,
         "internal": 10,
         "total": 13
-    },
-    "LLNL/ExaCA": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
     },
     "LLNL/MaPPeRTrac": {
         "external": 2,
@@ -2585,9 +2585,9 @@
         "total": 4
     },
     "GMLC-TDC/HELICS": {
-        "external": 25,
+        "external": 26,
         "internal": 3,
-        "total": 28
+        "total": 29
     },
     "CDAT/vcs": {
         "external": 24,

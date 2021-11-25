@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 920,
+        "external": 921,
         "internal": 71,
-        "total": 991
+        "total": 992
     },
     "openzfs/zfs": {
         "external": 467,
@@ -240,13 +240,18 @@
         "total": 31
     },
     "LLNL/llnl.github.io": {
-        "external": 4,
+        "external": 5,
         "internal": 25,
-        "total": 29
+        "total": 30
     },
     "hpc/Spindle": {
         "external": 16,
         "internal": 13,
+        "total": 29
+    },
+    "GMLC-TDC/HELICS": {
+        "external": 26,
+        "internal": 3,
         "total": 29
     },
     "LLNL/Caliper": {
@@ -257,11 +262,6 @@
     "mfem/github-actions": {
         "external": 11,
         "internal": 17,
-        "total": 28
-    },
-    "GMLC-TDC/HELICS": {
-        "external": 25,
-        "internal": 3,
         "total": 28
     },
     "hpc/dcp": {
@@ -489,6 +489,11 @@
         "internal": 19,
         "total": 19
     },
+    "LLNL/hiop": {
+        "external": 8,
+        "internal": 11,
+        "total": 19
+    },
     "LLNL/llnl-hires-timers": {
         "external": 1,
         "internal": 18,
@@ -602,11 +607,6 @@
     "LLNL/graphlib": {
         "external": 0,
         "internal": 18,
-        "total": 18
-    },
-    "LLNL/hiop": {
-        "external": 7,
-        "internal": 11,
         "total": 18
     },
     "LLNL/ior": {
@@ -1059,6 +1059,11 @@
         "internal": 10,
         "total": 13
     },
+    "LLNL/ExaCA": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
     "LLNL/GridKit": {
         "external": 4,
         "internal": 9,
@@ -1197,11 +1202,6 @@
     "LLNL/CallFlow": {
         "external": 1,
         "internal": 11,
-        "total": 12
-    },
-    "LLNL/ExaCA": {
-        "external": 2,
-        "internal": 10,
         "total": 12
     },
     "LLNL/ExaConstit": {
