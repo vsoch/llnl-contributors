@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 921,
+        "external": 922,
         "internal": 71,
-        "total": 992
+        "total": 993
     },
     "openzfs/zfs": {
         "external": 467,
@@ -649,6 +649,11 @@
         "internal": 13,
         "total": 18
     },
+    "LLNL/units": {
+        "external": 8,
+        "internal": 10,
+        "total": 18
+    },
     "flux-framework/flux-core-v0.11": {
         "external": 7,
         "internal": 11,
@@ -697,11 +702,6 @@
     "LLNL/libyogrt": {
         "external": 1,
         "internal": 16,
-        "total": 17
-    },
-    "LLNL/units": {
-        "external": 7,
-        "internal": 10,
         "total": 17
     },
     "flux-framework/kubeflux": {

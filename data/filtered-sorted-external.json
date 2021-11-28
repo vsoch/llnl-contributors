@@ -639,6 +639,11 @@
         "internal": 11,
         "total": 19
     },
+    "LLNL/units": {
+        "external": 8,
+        "internal": 10,
+        "total": 18
+    },
     "flux-framework/kubeflux": {
         "external": 8,
         "internal": 9,
@@ -753,11 +758,6 @@
         "external": 7,
         "internal": 11,
         "total": 18
-    },
-    "LLNL/units": {
-        "external": 7,
-        "internal": 10,
-        "total": 17
     },
     "CDAT/cdp": {
         "external": 7,
