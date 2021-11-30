@@ -1979,6 +1979,11 @@
         "internal": 1,
         "total": 10
     },
+    "GMLC-TDC/helics-ns3": {
+        "external": 7,
+        "internal": 3,
+        "total": 10
+    },
     "ESGF/esgf-auth": {
         "external": 10,
         "internal": 0,
@@ -2734,11 +2739,6 @@
         "internal": 2,
         "total": 9
     },
-    "GMLC-TDC/helics-ns3": {
-        "external": 6,
-        "internal": 3,
-        "total": 9
-    },
     "GMLC-TDC/HELICS-Use-Cases": {
         "external": 7,
         "internal": 2,
@@ -3175,6 +3175,11 @@
         "total": 6
     },
     "spack/spack-repo-template": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spack-sbom": {
         "external": 1,
         "internal": 5,
         "total": 6

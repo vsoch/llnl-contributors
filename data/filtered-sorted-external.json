@@ -769,6 +769,11 @@
         "internal": 3,
         "total": 10
     },
+    "GMLC-TDC/helics-ns3": {
+        "external": 7,
+        "internal": 3,
+        "total": 10
+    },
     "PRUNERS/archer": {
         "external": 7,
         "internal": 2,
@@ -878,11 +883,6 @@
         "external": 6,
         "internal": 5,
         "total": 11
-    },
-    "GMLC-TDC/helics-ns3": {
-        "external": 6,
-        "internal": 3,
-        "total": 9
     },
     "CDAT/thermo": {
         "external": 6,
@@ -2705,6 +2705,11 @@
         "total": 6
     },
     "spack/spack-repo-template": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
+    "spack/spack-sbom": {
         "external": 1,
         "internal": 5,
         "total": 6
