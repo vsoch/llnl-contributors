@@ -90,9 +90,9 @@
         "total": 34
     },
     "GMLC-TDC/HELICS": {
-        "external": 26,
+        "external": 28,
         "internal": 3,
-        "total": 29
+        "total": 31
     },
     "CDAT/vcs": {
         "external": 24,
@@ -1684,11 +1684,6 @@
         "internal": 2,
         "total": 5
     },
-    "visit-dav/live-customer-response": {
-        "external": 3,
-        "internal": 2,
-        "total": 5
-    },
     "PRUNERS/pruners.github.io": {
         "external": 3,
         "internal": 2,
@@ -2069,6 +2064,11 @@
         "internal": 7,
         "total": 9
     },
+    "spack/spack-sc15-paper": {
+        "external": 2,
+        "internal": 6,
+        "total": 8
+    },
     "spack/contrib": {
         "external": 2,
         "internal": 5,
@@ -2185,6 +2185,11 @@
         "total": 4
     },
     "GMLC-TDC/ns-3-dev-git": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/spack": {
         "external": 2,
         "internal": 2,
         "total": 4

@@ -179,6 +179,11 @@
         "internal": 29,
         "total": 31
     },
+    "GMLC-TDC/HELICS": {
+        "external": 28,
+        "internal": 3,
+        "total": 31
+    },
     "LLNL/llnl.github.io": {
         "external": 5,
         "internal": 25,
@@ -187,11 +192,6 @@
     "hpc/Spindle": {
         "external": 16,
         "internal": 13,
-        "total": 29
-    },
-    "GMLC-TDC/HELICS": {
-        "external": 26,
-        "internal": 3,
         "total": 29
     },
     "LLNL/Caliper": {
@@ -2869,6 +2869,11 @@
         "internal": 8,
         "total": 8
     },
+    "spack/spack-sc15-paper": {
+        "external": 2,
+        "internal": 6,
+        "total": 8
+    },
     "spack/spack-stack-catalog": {
         "external": 3,
         "internal": 5,
@@ -3334,11 +3339,6 @@
         "internal": 2,
         "total": 5
     },
-    "visit-dav/live-customer-response": {
-        "external": 3,
-        "internal": 2,
-        "total": 5
-    },
     "PRUNERS/pruners.github.io": {
         "external": 3,
         "internal": 2,
@@ -3720,6 +3720,11 @@
         "total": 4
     },
     "GMLC-TDC/ns-3-dev-git": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/spack": {
         "external": 2,
         "internal": 2,
         "total": 4
