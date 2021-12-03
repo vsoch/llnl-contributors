@@ -49,15 +49,15 @@
         "internal": 19,
         "total": 60
     },
+    "GLVis/glvis": {
+        "external": 39,
+        "internal": 21,
+        "total": 60
+    },
     "rose-compiler/rose": {
         "external": 38,
         "internal": 6,
         "total": 44
-    },
-    "GLVis/glvis": {
-        "external": 37,
-        "internal": 21,
-        "total": 58
     },
     "rose-compiler/rose-develop": {
         "external": 37,

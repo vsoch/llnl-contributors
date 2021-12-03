@@ -29,15 +29,15 @@
         "internal": 19,
         "total": 60
     },
+    "GLVis/glvis": {
+        "external": 39,
+        "internal": 21,
+        "total": 60
+    },
     "openzfs/spl": {
         "external": 55,
         "internal": 4,
         "total": 59
-    },
-    "GLVis/glvis": {
-        "external": 37,
-        "internal": 21,
-        "total": 58
     },
     "LLNL/RAJA": {
         "external": 13,

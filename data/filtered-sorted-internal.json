@@ -80,9 +80,9 @@
         "total": 64
     },
     "GLVis/glvis": {
-        "external": 37,
+        "external": 39,
         "internal": 21,
-        "total": 58
+        "total": 60
     },
     "LLNL/libmsr": {
         "external": 5,
