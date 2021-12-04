@@ -50,9 +50,9 @@
         "total": 60
     },
     "GLVis/glvis": {
-        "external": 39,
+        "external": 40,
         "internal": 21,
-        "total": 60
+        "total": 61
     },
     "rose-compiler/rose": {
         "external": 38,
@@ -2180,6 +2180,11 @@
         "total": 4
     },
     "GMLC-TDC/matHELICS": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/networking": {
         "external": 2,
         "internal": 2,
         "total": 4

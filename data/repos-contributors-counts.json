@@ -84,14 +84,14 @@
         "internal": 21,
         "total": 64
     },
+    "GLVis/glvis": {
+        "external": 40,
+        "internal": 21,
+        "total": 61
+    },
     "CEED/benchmarks": {
         "external": 41,
         "internal": 19,
-        "total": 60
-    },
-    "GLVis/glvis": {
-        "external": 39,
-        "internal": 21,
         "total": 60
     },
     "openzfs/spl": {
@@ -3775,6 +3775,11 @@
         "total": 4
     },
     "GMLC-TDC/matHELICS": {
+        "external": 2,
+        "internal": 2,
+        "total": 4
+    },
+    "GMLC-TDC/networking": {
         "external": 2,
         "internal": 2,
         "total": 4
