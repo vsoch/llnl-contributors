@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 926,
+        "external": 927,
         "internal": 72,
-        "total": 998
+        "total": 999
     },
     "openzfs/zfs": {
         "external": 469,
