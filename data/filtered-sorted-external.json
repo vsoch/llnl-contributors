@@ -14,15 +14,15 @@
         "internal": 37,
         "total": 93
     },
+    "CEED/libCEED": {
+        "external": 55,
+        "internal": 15,
+        "total": 70
+    },
     "openzfs/spl": {
         "external": 55,
         "internal": 4,
         "total": 59
-    },
-    "CEED/libCEED": {
-        "external": 54,
-        "internal": 15,
-        "total": 69
     },
     "jpype-project/jpype": {
         "external": 46,
@@ -1144,17 +1144,17 @@
         "internal": 28,
         "total": 32
     },
+    "LLNL/serac": {
+        "external": 4,
+        "internal": 23,
+        "total": 27
+    },
     "LLNL/maestrowf": {
         "external": 4,
         "internal": 22,
         "total": 26
     },
     "LLNL/msr-safe": {
-        "external": 4,
-        "internal": 22,
-        "total": 26
-    },
-    "LLNL/serac": {
         "external": 4,
         "internal": 22,
         "total": 26
@@ -3735,6 +3735,11 @@
         "total": 9
     },
     "LLNL/trainGMM": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ygm-bench": {
         "external": 0,
         "internal": 9,
         "total": 9

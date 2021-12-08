@@ -54,6 +54,11 @@
         "internal": 25,
         "total": 30
     },
+    "LLNL/serac": {
+        "external": 4,
+        "internal": 23,
+        "total": 27
+    },
     "LLNL/lbann": {
         "external": 14,
         "internal": 22,
@@ -65,11 +70,6 @@
         "total": 26
     },
     "LLNL/msr-safe": {
-        "external": 4,
-        "internal": 22,
-        "total": 26
-    },
-    "LLNL/serac": {
         "external": 4,
         "internal": 22,
         "total": 26
@@ -315,9 +315,9 @@
         "total": 17
     },
     "CEED/libCEED": {
-        "external": 54,
+        "external": 55,
         "internal": 15,
-        "total": 69
+        "total": 70
     },
     "GLVis/glvis-js": {
         "external": 8,
@@ -1935,6 +1935,11 @@
         "total": 9
     },
     "LLNL/trainGMM": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ygm-bench": {
         "external": 0,
         "internal": 9,
         "total": 9

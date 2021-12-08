@@ -1,8 +1,8 @@
 {
     "LLNL/HPAC": {
-        "external": 1458,
+        "external": 1459,
         "internal": 10,
-        "total": 1468
+        "total": 1469
     },
     "spack/spack": {
         "external": 927,
@@ -75,9 +75,9 @@
         "total": 76
     },
     "CEED/libCEED": {
-        "external": 54,
+        "external": 55,
         "internal": 15,
-        "total": 69
+        "total": 70
     },
     "CEED/Laghos": {
         "external": 43,
@@ -264,6 +264,11 @@
         "internal": 17,
         "total": 28
     },
+    "LLNL/serac": {
+        "external": 4,
+        "internal": 23,
+        "total": 27
+    },
     "hpc/dcp": {
         "external": 21,
         "internal": 6,
@@ -300,11 +305,6 @@
         "total": 26
     },
     "LLNL/msr-safe": {
-        "external": 4,
-        "internal": 22,
-        "total": 26
-    },
-    "LLNL/serac": {
         "external": 4,
         "internal": 22,
         "total": 26
@@ -2652,6 +2652,11 @@
     "LLNL/unum": {
         "external": 1,
         "internal": 8,
+        "total": 9
+    },
+    "LLNL/ygm-bench": {
+        "external": 0,
+        "internal": 9,
         "total": 9
     },
     "LLNL/yorick-gl": {
