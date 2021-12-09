@@ -2384,6 +2384,11 @@
         "internal": 11,
         "total": 12
     },
+    "LLNL/clippy": {
+        "external": 1,
+        "internal": 11,
+        "total": 12
+    },
     "LLNL/cruise": {
         "external": 1,
         "internal": 11,
@@ -2425,6 +2430,11 @@
         "total": 11
     },
     "LLNL/caliper-examples": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/clippy-cpp": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -2929,6 +2939,11 @@
         "internal": 15,
         "total": 15
     },
+    "LLNL/radiuss-spack-testing": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
     "LLNL/scr-fe": {
         "external": 0,
         "internal": 14,
@@ -2955,11 +2970,6 @@
         "total": 13
     },
     "LLNL/radiuss-ci": {
-        "external": 0,
-        "internal": 12,
-        "total": 12
-    },
-    "LLNL/radiuss-spack-testing": {
         "external": 0,
         "internal": 12,
         "total": 12
@@ -3010,11 +3020,6 @@
         "total": 11
     },
     "LLNL/UMT": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/clippy": {
         "external": 0,
         "internal": 11,
         "total": 11
@@ -3120,11 +3125,6 @@
         "total": 10
     },
     "LLNL/barni": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/clippy-cpp": {
         "external": 0,
         "internal": 10,
         "total": 10
@@ -3870,6 +3870,11 @@
         "total": 3
     },
     "mfem/tpls": {
+        "external": 0,
+        "internal": 3,
+        "total": 3
+    },
+    "mfem/notes": {
         "external": 0,
         "internal": 3,
         "total": 3
