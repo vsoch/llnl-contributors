@@ -349,6 +349,11 @@
         "internal": 16,
         "total": 28
     },
+    "spack/spack-monitor": {
+        "external": 12,
+        "internal": 13,
+        "total": 25
+    },
     "hpc/OpenLorenz": {
         "external": 12,
         "internal": 11,
@@ -400,11 +405,6 @@
         "total": 27
     },
     "LLNL/UnifyFS": {
-        "external": 11,
-        "internal": 13,
-        "total": 24
-    },
-    "spack/spack-monitor": {
         "external": 11,
         "internal": 13,
         "total": 24

@@ -15,19 +15,19 @@
         "total": 473
     },
     "mfem/mfem": {
-        "external": 362,
+        "external": 363,
         "internal": 86,
-        "total": 448
+        "total": 449
     },
     "mfem/data": {
-        "external": 359,
+        "external": 360,
         "internal": 85,
-        "total": 444
+        "total": 445
     },
     "mfem/PyMFEM": {
-        "external": 235,
+        "external": 236,
         "internal": 33,
-        "total": 268
+        "total": 269
     },
     "spack/spack.io": {
         "external": 174,
@@ -319,6 +319,11 @@
         "internal": 19,
         "total": 25
     },
+    "spack/spack-monitor": {
+        "external": 12,
+        "internal": 13,
+        "total": 25
+    },
     "LLNL/UnifyFS": {
         "external": 11,
         "internal": 13,
@@ -327,11 +332,6 @@
     "LLNL/wrap": {
         "external": 6,
         "internal": 18,
-        "total": 24
-    },
-    "spack/spack-monitor": {
-        "external": 11,
-        "internal": 13,
         "total": 24
     },
     "chaos/diod": {
