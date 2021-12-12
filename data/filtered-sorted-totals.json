@@ -59,14 +59,14 @@
         "internal": 1,
         "total": 47
     },
+    "openzfs/openzfs-docs": {
+        "external": 45,
+        "internal": 2,
+        "total": 47
+    },
     "LLNL/axom": {
         "external": 4,
         "internal": 42,
-        "total": 46
-    },
-    "openzfs/openzfs-docs": {
-        "external": 44,
-        "internal": 2,
         "total": 46
     },
     "LLNL/blt": {
