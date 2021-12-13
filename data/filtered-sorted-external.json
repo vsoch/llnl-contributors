@@ -24,14 +24,14 @@
         "internal": 4,
         "total": 59
     },
+    "openzfs/openzfs-docs": {
+        "external": 46,
+        "internal": 2,
+        "total": 48
+    },
     "jpype-project/jpype": {
         "external": 46,
         "internal": 1,
-        "total": 47
-    },
-    "openzfs/openzfs-docs": {
-        "external": 45,
-        "internal": 2,
         "total": 47
     },
     "CEED/Laghos": {
