@@ -1509,12 +1509,12 @@
         "internal": 10,
         "total": 13
     },
-    "LLNL/mpibind": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
     "LLNL/AMPE": {
+        "external": 3,
+        "internal": 9,
+        "total": 12
+    },
+    "LLNL/mpibind": {
         "external": 3,
         "internal": 9,
         "total": 12
@@ -3455,6 +3455,11 @@
         "total": 9
     },
     "LLNL/Task-Time-Tracker": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/Thomson-Scattering-Cross-Section-Calculator": {
         "external": 0,
         "internal": 9,
         "total": 9
