@@ -164,6 +164,11 @@
         "internal": 10,
         "total": 32
     },
+    "LLNL/llnl.github.io": {
+        "external": 5,
+        "internal": 26,
+        "total": 31
+    },
     "LLNL/zfp": {
         "external": 15,
         "internal": 16,
@@ -183,11 +188,6 @@
         "external": 28,
         "internal": 3,
         "total": 31
-    },
-    "LLNL/llnl.github.io": {
-        "external": 5,
-        "internal": 25,
-        "total": 30
     },
     "hpc/Spindle": {
         "external": 16,
@@ -2337,6 +2337,11 @@
     "LLNL/caliper-compiler": {
         "external": 1,
         "internal": 8,
+        "total": 9
+    },
+    "LLNL/croquis": {
+        "external": 0,
+        "internal": 9,
         "total": 9
     },
     "LLNL/cryoH2vehicle": {

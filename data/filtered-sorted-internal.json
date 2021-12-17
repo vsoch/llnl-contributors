@@ -44,15 +44,15 @@
         "internal": 28,
         "total": 32
     },
+    "LLNL/llnl.github.io": {
+        "external": 5,
+        "internal": 26,
+        "total": 31
+    },
     "LLNL/Umpire": {
         "external": 10,
         "internal": 25,
         "total": 35
-    },
-    "LLNL/llnl.github.io": {
-        "external": 5,
-        "internal": 25,
-        "total": 30
     },
     "LLNL/serac": {
         "external": 4,
@@ -1720,6 +1720,11 @@
         "total": 9
     },
     "LLNL/bmsl": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/croquis": {
         "external": 0,
         "internal": 9,
         "total": 9

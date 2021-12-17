@@ -931,8 +931,8 @@
     },
     "LLNL/llnl.github.io": {
         "external": 5,
-        "internal": 25,
-        "total": 30
+        "internal": 26,
+        "total": 31
     },
     "LLNL/libmsr": {
         "external": 5,
@@ -3520,6 +3520,11 @@
         "total": 9
     },
     "LLNL/bmsl": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/croquis": {
         "external": 0,
         "internal": 9,
         "total": 9
