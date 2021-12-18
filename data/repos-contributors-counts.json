@@ -6,8 +6,8 @@
     },
     "spack/spack": {
         "external": 929,
-        "internal": 72,
-        "total": 1001
+        "internal": 73,
+        "total": 1002
     },
     "openzfs/zfs": {
         "external": 471,
@@ -15,19 +15,19 @@
         "total": 475
     },
     "mfem/mfem": {
-        "external": 364,
+        "external": 365,
         "internal": 86,
-        "total": 450
+        "total": 451
     },
     "mfem/data": {
-        "external": 361,
+        "external": 362,
         "internal": 85,
-        "total": 446
+        "total": 447
     },
     "mfem/PyMFEM": {
-        "external": 237,
+        "external": 238,
         "internal": 33,
-        "total": 270
+        "total": 271
     },
     "spack/spack.io": {
         "external": 174,
