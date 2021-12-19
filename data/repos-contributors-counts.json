@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 929,
-        "internal": 73,
-        "total": 1002
+        "external": 932,
+        "internal": 72,
+        "total": 1004
     },
     "openzfs/zfs": {
         "external": 471,
@@ -15,13 +15,13 @@
         "total": 475
     },
     "mfem/mfem": {
-        "external": 365,
-        "internal": 86,
+        "external": 366,
+        "internal": 85,
         "total": 451
     },
     "mfem/data": {
-        "external": 362,
-        "internal": 85,
+        "external": 363,
+        "internal": 84,
         "total": 447
     },
     "mfem/PyMFEM": {
@@ -125,8 +125,8 @@
         "total": 47
     },
     "LLNL/axom": {
-        "external": 4,
-        "internal": 42,
+        "external": 5,
+        "internal": 41,
         "total": 46
     },
     "LLNL/blt": {
@@ -265,8 +265,8 @@
         "total": 28
     },
     "LLNL/serac": {
-        "external": 4,
-        "internal": 23,
+        "external": 5,
+        "internal": 22,
         "total": 27
     },
     "hpc/dcp": {
@@ -929,6 +929,11 @@
         "internal": 14,
         "total": 14
     },
+    "LLNL/CARE": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
     "LLNL/COGENT": {
         "external": 3,
         "internal": 11,
@@ -1059,11 +1064,6 @@
         "internal": 10,
         "total": 13
     },
-    "LLNL/CARE": {
-        "external": 0,
-        "internal": 13,
-        "total": 13
-    },
     "LLNL/CcNav": {
         "external": 3,
         "internal": 10,
@@ -1112,6 +1112,11 @@
     "LLNL/b-mpi3": {
         "external": 3,
         "internal": 10,
+        "total": 13
+    },
+    "LLNL/clippy": {
+        "external": 2,
+        "internal": 11,
         "total": 13
     },
     "LLNL/devil_ray": {
@@ -1239,9 +1244,9 @@
         "internal": 10,
         "total": 12
     },
-    "LLNL/clippy": {
-        "external": 1,
-        "internal": 11,
+    "LLNL/clippy-cpp": {
+        "external": 2,
+        "internal": 10,
         "total": 12
     },
     "LLNL/cruise": {
@@ -1427,11 +1432,6 @@
     "LLNL/certipy": {
         "external": 3,
         "internal": 8,
-        "total": 11
-    },
-    "LLNL/clippy-cpp": {
-        "external": 1,
-        "internal": 10,
         "total": 11
     },
     "LLNL/clippy-tutorial": {

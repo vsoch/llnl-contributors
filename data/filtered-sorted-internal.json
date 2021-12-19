@@ -1,13 +1,13 @@
 {
-    "LLNL/axom": {
-        "external": 4,
-        "internal": 42,
-        "total": 46
-    },
     "LLNL/RAJA": {
         "external": 13,
         "internal": 41,
         "total": 54
+    },
+    "LLNL/axom": {
+        "external": 5,
+        "internal": 41,
+        "total": 46
     },
     "mfem/web": {
         "external": 56,
@@ -54,15 +54,15 @@
         "internal": 25,
         "total": 35
     },
-    "LLNL/serac": {
-        "external": 4,
-        "internal": 23,
-        "total": 27
-    },
     "LLNL/lbann": {
         "external": 14,
         "internal": 22,
         "total": 36
+    },
+    "LLNL/serac": {
+        "external": 5,
+        "internal": 22,
+        "total": 27
     },
     "LLNL/maestrowf": {
         "external": 4,
@@ -535,9 +535,9 @@
         "total": 15
     },
     "LLNL/CARE": {
-        "external": 0,
+        "external": 1,
         "internal": 13,
-        "total": 13
+        "total": 14
     },
     "LLNL/Jekyll-LLNL-Theme": {
         "external": 0,
@@ -699,6 +699,11 @@
         "internal": 11,
         "total": 13
     },
+    "LLNL/clippy": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
     "LLNL/devil_ray": {
         "external": 2,
         "internal": 11,
@@ -715,11 +720,6 @@
         "total": 12
     },
     "LLNL/LAST": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
-    },
-    "LLNL/clippy": {
         "external": 1,
         "internal": 11,
         "total": 12
@@ -884,6 +884,11 @@
         "internal": 10,
         "total": 12
     },
+    "LLNL/clippy-cpp": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
     "LLNL/inq": {
         "external": 2,
         "internal": 10,
@@ -915,11 +920,6 @@
         "total": 11
     },
     "LLNL/caliper-examples": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/clippy-cpp": {
         "external": 1,
         "internal": 10,
         "total": 11
