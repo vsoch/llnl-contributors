@@ -544,6 +544,11 @@
         "internal": 0,
         "total": 10
     },
+    "LLNL/conduit": {
+        "external": 9,
+        "internal": 34,
+        "total": 43
+    },
     "LLNL/magpie": {
         "external": 9,
         "internal": 10,
@@ -618,11 +623,6 @@
         "external": 9,
         "internal": 0,
         "total": 9
-    },
-    "LLNL/conduit": {
-        "external": 8,
-        "internal": 34,
-        "total": 42
     },
     "GLVis/glvis-js": {
         "external": 8,

@@ -5,14 +5,14 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 932,
+        "external": 934,
         "internal": 72,
-        "total": 1004
+        "total": 1006
     },
     "openzfs/zfs": {
-        "external": 471,
+        "external": 472,
         "internal": 4,
-        "total": 475
+        "total": 476
     },
     "mfem/mfem": {
         "external": 366,
@@ -139,6 +139,11 @@
         "internal": 6,
         "total": 44
     },
+    "LLNL/conduit": {
+        "external": 9,
+        "internal": 34,
+        "total": 43
+    },
     "hpc/mpifileutils": {
         "external": 34,
         "internal": 9,
@@ -148,11 +153,6 @@
         "external": 37,
         "internal": 6,
         "total": 43
-    },
-    "LLNL/conduit": {
-        "external": 8,
-        "internal": 34,
-        "total": 42
     },
     "spack/spack-configs": {
         "external": 29,
