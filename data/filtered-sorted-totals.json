@@ -109,6 +109,11 @@
         "internal": 25,
         "total": 35
     },
+    "LLNL/gidiplus": {
+        "external": 1,
+        "internal": 34,
+        "total": 35
+    },
     "hypre-space/hypre": {
         "external": 22,
         "internal": 13,
@@ -122,11 +127,6 @@
     "LLNL/RAJAPerf": {
         "external": 3,
         "internal": 31,
-        "total": 34
-    },
-    "LLNL/gidiplus": {
-        "external": 0,
-        "internal": 34,
         "total": 34
     },
     "Alpine-DAV/ascent": {
@@ -2095,6 +2095,11 @@
         "total": 9
     },
     "LLNL/DJINN": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ExaCA-Data": {
         "external": 0,
         "internal": 9,
         "total": 9

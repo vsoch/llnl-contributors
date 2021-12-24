@@ -20,9 +20,9 @@
         "total": 43
     },
     "LLNL/gidiplus": {
-        "external": 0,
+        "external": 1,
         "internal": 34,
-        "total": 34
+        "total": 35
     },
     "LLNL/blt": {
         "external": 11,
@@ -1505,6 +1505,11 @@
         "total": 9
     },
     "LLNL/DJINN": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ExaCA-Data": {
         "external": 0,
         "internal": 9,
         "total": 9

@@ -2269,6 +2269,11 @@
         "internal": 0,
         "total": 2
     },
+    "LLNL/gidiplus": {
+        "external": 1,
+        "internal": 34,
+        "total": 35
+    },
     "LLNL/axom-docker": {
         "external": 1,
         "internal": 19,
@@ -2824,11 +2829,6 @@
         "internal": 0,
         "total": 1
     },
-    "LLNL/gidiplus": {
-        "external": 0,
-        "internal": 34,
-        "total": 34
-    },
     "LLNL/ATS": {
         "external": 0,
         "internal": 19,
@@ -3305,6 +3305,11 @@
         "total": 9
     },
     "LLNL/DJINN": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ExaCA-Data": {
         "external": 0,
         "internal": 9,
         "total": 9
