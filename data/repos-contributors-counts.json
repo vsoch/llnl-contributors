@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 934,
+        "external": 935,
         "internal": 72,
-        "total": 1006
+        "total": 1007
     },
     "openzfs/zfs": {
         "external": 473,
@@ -129,6 +129,11 @@
         "internal": 41,
         "total": 46
     },
+    "LLNL/conduit": {
+        "external": 10,
+        "internal": 34,
+        "total": 44
+    },
     "LLNL/blt": {
         "external": 11,
         "internal": 33,
@@ -138,11 +143,6 @@
         "external": 38,
         "internal": 6,
         "total": 44
-    },
-    "LLNL/conduit": {
-        "external": 9,
-        "internal": 34,
-        "total": 43
     },
     "hpc/mpifileutils": {
         "external": 34,
@@ -1379,6 +1379,11 @@
         "internal": 11,
         "total": 11
     },
+    "LLNL/ExaCA-Data": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/ExaCMech": {
         "external": 0,
         "internal": 11,
@@ -2155,11 +2160,6 @@
         "total": 9
     },
     "LLNL/DJINN": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/ExaCA-Data": {
         "external": 0,
         "internal": 9,
         "total": 9

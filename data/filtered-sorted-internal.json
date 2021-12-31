@@ -15,9 +15,9 @@
         "total": 93
     },
     "LLNL/conduit": {
-        "external": 9,
+        "external": 10,
         "internal": 34,
-        "total": 43
+        "total": 44
     },
     "LLNL/gidiplus": {
         "external": 1,
@@ -904,6 +904,11 @@
         "internal": 10,
         "total": 11
     },
+    "LLNL/ExaCA-Data": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
     "LLNL/Privateer": {
         "external": 1,
         "internal": 10,
@@ -1505,11 +1510,6 @@
         "total": 9
     },
     "LLNL/DJINN": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/ExaCA-Data": {
         "external": 0,
         "internal": 9,
         "total": 9
