@@ -2504,6 +2504,11 @@
         "internal": 5,
         "total": 7
     },
+    "spack/canonical-unparse": {
+        "external": 1,
+        "internal": 5,
+        "total": 6
+    },
     "spack/label-schema": {
         "external": 1,
         "internal": 5,
