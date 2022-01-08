@@ -324,6 +324,11 @@
         "internal": 18,
         "total": 22
     },
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 22,
+        "total": 22
+    },
     "LLNL/spheral": {
         "external": 7,
         "internal": 15,

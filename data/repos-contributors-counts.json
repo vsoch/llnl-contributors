@@ -10,9 +10,9 @@
         "total": 1009
     },
     "openzfs/zfs": {
-        "external": 473,
+        "external": 474,
         "internal": 4,
-        "total": 477
+        "total": 478
     },
     "mfem/mfem": {
         "external": 368,
@@ -382,6 +382,11 @@
     "LLNL/STAT": {
         "external": 4,
         "internal": 18,
+        "total": 22
+    },
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 22,
         "total": 22
     },
     "LLNL/spheral": {

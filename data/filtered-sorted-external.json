@@ -2839,6 +2839,11 @@
         "internal": 0,
         "total": 1
     },
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 22,
+        "total": 22
+    },
     "LLNL/ATS": {
         "external": 0,
         "internal": 19,

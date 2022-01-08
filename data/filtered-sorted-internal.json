@@ -74,6 +74,11 @@
         "internal": 22,
         "total": 26
     },
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 22,
+        "total": 22
+    },
     "CEED/Laghos": {
         "external": 43,
         "internal": 21,
