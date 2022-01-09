@@ -299,11 +299,6 @@
         "internal": 0,
         "total": 14
     },
-    "LLNL/RAJA": {
-        "external": 13,
-        "internal": 41,
-        "total": 54
-    },
     "CDAT/uvcdat-testdata": {
         "external": 13,
         "internal": 2,
@@ -338,6 +333,11 @@
         "external": 13,
         "internal": 0,
         "total": 13
+    },
+    "LLNL/RAJA": {
+        "external": 12,
+        "internal": 42,
+        "total": 54
     },
     "LLNL/HPCCEA": {
         "external": 12,
@@ -1441,8 +1441,8 @@
     },
     "LLNL/RAJAPerf": {
         "external": 3,
-        "internal": 31,
-        "total": 34
+        "internal": 32,
+        "total": 35
     },
     "LLNL/DiHydrogen": {
         "external": 3,
@@ -1931,8 +1931,8 @@
     },
     "LLNL/RAJAProxies": {
         "external": 2,
-        "internal": 29,
-        "total": 31
+        "internal": 30,
+        "total": 32
     },
     "LLNL/DragonView": {
         "external": 2,
@@ -1943,11 +1943,6 @@
         "external": 2,
         "internal": 18,
         "total": 20
-    },
-    "LLNL/camp": {
-        "external": 2,
-        "internal": 16,
-        "total": 18
     },
     "LLNL/umap": {
         "external": 2,
@@ -2308,6 +2303,11 @@
         "external": 1,
         "internal": 18,
         "total": 19
+    },
+    "LLNL/camp": {
+        "external": 1,
+        "internal": 17,
+        "total": 18
     },
     "LLNL/libyogrt": {
         "external": 1,

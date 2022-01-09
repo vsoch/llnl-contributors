@@ -1,13 +1,13 @@
 {
     "LLNL/HPAC": {
-        "external": 1459,
-        "internal": 10,
+        "external": 1458,
+        "internal": 11,
         "total": 1469
     },
     "spack/spack": {
-        "external": 937,
-        "internal": 72,
-        "total": 1009
+        "external": 938,
+        "internal": 73,
+        "total": 1011
     },
     "openzfs/zfs": {
         "external": 474,
@@ -100,8 +100,8 @@
         "total": 59
     },
     "LLNL/RAJA": {
-        "external": 13,
-        "internal": 41,
+        "external": 12,
+        "internal": 42,
         "total": 54
     },
     "visit-dav/visit": {
@@ -164,6 +164,11 @@
         "internal": 22,
         "total": 36
     },
+    "LLNL/RAJAPerf": {
+        "external": 3,
+        "internal": 32,
+        "total": 35
+    },
     "LLNL/Umpire": {
         "external": 10,
         "internal": 25,
@@ -183,11 +188,6 @@
         "external": 33,
         "internal": 2,
         "total": 35
-    },
-    "LLNL/RAJAPerf": {
-        "external": 3,
-        "internal": 31,
-        "total": 34
     },
     "Alpine-DAV/ascent": {
         "external": 29,
@@ -219,6 +219,11 @@
         "internal": 18,
         "total": 32
     },
+    "LLNL/RAJAProxies": {
+        "external": 2,
+        "internal": 30,
+        "total": 32
+    },
     "spack/spack-cscs2019": {
         "external": 22,
         "internal": 10,
@@ -237,11 +242,6 @@
     "LLNL/HPCCEA": {
         "external": 12,
         "internal": 19,
-        "total": 31
-    },
-    "LLNL/RAJAProxies": {
-        "external": 2,
-        "internal": 29,
         "total": 31
     },
     "GMLC-TDC/HELICS": {
@@ -585,8 +585,8 @@
         "total": 18
     },
     "LLNL/camp": {
-        "external": 2,
-        "internal": 16,
+        "external": 1,
+        "internal": 17,
         "total": 18
     },
     "LLNL/cardioid": {
