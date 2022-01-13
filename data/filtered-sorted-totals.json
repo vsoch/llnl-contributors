@@ -44,6 +44,11 @@
         "internal": 42,
         "total": 54
     },
+    "openzfs/openzfs-docs": {
+        "external": 47,
+        "internal": 2,
+        "total": 49
+    },
     "visit-dav/visit": {
         "external": 43,
         "internal": 6,
@@ -54,19 +59,14 @@
         "internal": 13,
         "total": 48
     },
-    "openzfs/openzfs-docs": {
-        "external": 46,
-        "internal": 2,
-        "total": 48
-    },
     "jpype-project/jpype": {
         "external": 46,
         "internal": 1,
         "total": 47
     },
     "LLNL/axom": {
-        "external": 5,
-        "internal": 41,
+        "external": 6,
+        "internal": 40,
         "total": 46
     },
     "LLNL/conduit": {
@@ -204,11 +204,6 @@
         "internal": 17,
         "total": 28
     },
-    "LLNL/serac": {
-        "external": 5,
-        "internal": 22,
-        "total": 27
-    },
     "hpc/dcp": {
         "external": 21,
         "internal": 6,
@@ -247,6 +242,11 @@
     "LLNL/msr-safe": {
         "external": 4,
         "internal": 22,
+        "total": 26
+    },
+    "LLNL/serac": {
+        "external": 5,
+        "internal": 21,
         "total": 26
     },
     "LLNL/scr": {
@@ -324,11 +324,6 @@
         "internal": 18,
         "total": 22
     },
-    "LLNL/serac_tests": {
-        "external": 0,
-        "internal": 22,
-        "total": 22
-    },
     "LLNL/spheral": {
         "external": 7,
         "internal": 15,
@@ -357,6 +352,11 @@
     "LLNL/DragonView": {
         "external": 2,
         "internal": 19,
+        "total": 21
+    },
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 21,
         "total": 21
     },
     "flux-framework/flux-sched": {
@@ -1194,6 +1194,11 @@
         "internal": 10,
         "total": 12
     },
+    "LLNL/Silo": {
+        "external": 3,
+        "internal": 9,
+        "total": 12
+    },
     "LLNL/clippy-cpp": {
         "external": 2,
         "internal": 10,
@@ -1352,11 +1357,6 @@
     "LLNL/Privateer": {
         "external": 1,
         "internal": 10,
-        "total": 11
-    },
-    "LLNL/Silo": {
-        "external": 2,
-        "internal": 9,
         "total": 11
     },
     "LLNL/UMT": {
@@ -3159,11 +3159,6 @@
         "internal": 2,
         "total": 7
     },
-    "GMLC-TDC/MATPOWER-wrapper": {
-        "external": 5,
-        "internal": 2,
-        "total": 7
-    },
     "GMLC-TDC/pesgm-2019-helics-tutorial": {
         "external": 5,
         "internal": 2,
@@ -3310,6 +3305,11 @@
         "total": 6
     },
     "GMLC-TDC/HELICS.jl": {
+        "external": 4,
+        "internal": 2,
+        "total": 6
+    },
+    "GMLC-TDC/MATPOWER-wrapper": {
         "external": 4,
         "internal": 2,
         "total": 6
