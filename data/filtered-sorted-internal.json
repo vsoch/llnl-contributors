@@ -14,6 +14,11 @@
         "internal": 37,
         "total": 94
     },
+    "LLNL/blt": {
+        "external": 11,
+        "internal": 34,
+        "total": 45
+    },
     "LLNL/conduit": {
         "external": 10,
         "internal": 34,
@@ -23,11 +28,6 @@
         "external": 1,
         "internal": 34,
         "total": 35
-    },
-    "LLNL/blt": {
-        "external": 11,
-        "internal": 33,
-        "total": 44
     },
     "LLNL/RAJAPerf": {
         "external": 3,
@@ -1170,9 +1170,9 @@
         "total": 19
     },
     "flux-framework/kubeflux": {
-        "external": 8,
+        "external": 9,
         "internal": 9,
-        "total": 17
+        "total": 18
     },
     "LLNL/INGRID": {
         "external": 6,
@@ -1605,6 +1605,11 @@
         "total": 9
     },
     "LLNL/PF3DK": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/PNE_MTINV": {
         "external": 0,
         "internal": 9,
         "total": 9
