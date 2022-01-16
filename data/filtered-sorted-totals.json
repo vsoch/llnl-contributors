@@ -2584,6 +2584,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/spack": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/spdlayers": {
         "external": 0,
         "internal": 9,
