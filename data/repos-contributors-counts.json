@@ -114,15 +114,15 @@
         "internal": 6,
         "total": 49
     },
+    "jpype-project/jpype": {
+        "external": 47,
+        "internal": 1,
+        "total": 48
+    },
     "CEED/Remhos": {
         "external": 35,
         "internal": 13,
         "total": 48
-    },
-    "jpype-project/jpype": {
-        "external": 46,
-        "internal": 1,
-        "total": 47
     },
     "LLNL/axom": {
         "external": 6,
