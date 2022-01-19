@@ -45,19 +45,19 @@
         "total": 54
     },
     "openzfs/openzfs-docs": {
-        "external": 47,
+        "external": 49,
         "internal": 2,
-        "total": 49
+        "total": 51
     },
     "visit-dav/visit": {
-        "external": 43,
+        "external": 44,
         "internal": 6,
-        "total": 49
+        "total": 50
     },
     "jpype-project/jpype": {
-        "external": 47,
+        "external": 48,
         "internal": 1,
-        "total": 48
+        "total": 49
     },
     "CEED/Remhos": {
         "external": 35,

@@ -2225,9 +2225,9 @@
         "total": 9
     },
     "visit-dav/visit": {
-        "external": 43,
+        "external": 44,
         "internal": 6,
-        "total": 49
+        "total": 50
     },
     "rose-compiler/rose": {
         "external": 38,
@@ -2745,9 +2745,9 @@
         "total": 93
     },
     "openzfs/openzfs-docs": {
-        "external": 47,
+        "external": 49,
         "internal": 2,
-        "total": 49
+        "total": 51
     },
     "CDAT/VisTrails": {
         "external": 33,
@@ -3200,9 +3200,9 @@
         "total": 3
     },
     "jpype-project/jpype": {
-        "external": 47,
+        "external": 48,
         "internal": 1,
-        "total": 48
+        "total": 49
     },
     "ESGF/esgf-installer": {
         "external": 22,
