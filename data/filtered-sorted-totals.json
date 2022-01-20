@@ -1405,8 +1405,8 @@
         "total": 11
     },
     "LLNL/mstk-docker": {
-        "external": 1,
-        "internal": 10,
+        "external": 2,
+        "internal": 9,
         "total": 11
     },
     "LLNL/paraDIS_lib": {
