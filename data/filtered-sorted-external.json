@@ -5,9 +5,9 @@
         "total": 93
     },
     "GEOSX/LvArray": {
-        "external": 64,
+        "external": 66,
         "internal": 12,
-        "total": 76
+        "total": 78
     },
     "mfem/web": {
         "external": 57,
@@ -939,12 +939,12 @@
         "internal": 26,
         "total": 31
     },
-    "LLNL/libmsr": {
-        "external": 5,
-        "internal": 21,
-        "total": 26
-    },
     "LLNL/serac": {
+        "external": 5,
+        "internal": 22,
+        "total": 27
+    },
+    "LLNL/libmsr": {
         "external": 5,
         "internal": 21,
         "total": 26
@@ -2529,6 +2529,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/MuyGPyS": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/OpenRES": {
         "external": 1,
         "internal": 9,
@@ -2841,8 +2846,8 @@
     },
     "LLNL/serac_tests": {
         "external": 0,
-        "internal": 21,
-        "total": 21
+        "internal": 22,
+        "total": 22
     },
     "LLNL/ATS": {
         "external": 0,
@@ -3370,11 +3375,6 @@
         "total": 9
     },
     "LLNL/MultiscaleTopOpt": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/MuyGPyS": {
         "external": 0,
         "internal": 9,
         "total": 9

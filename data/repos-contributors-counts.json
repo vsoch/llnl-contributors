@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 947,
+        "external": 949,
         "internal": 73,
-        "total": 1020
+        "total": 1022
     },
     "openzfs/zfs": {
         "external": 474,
@@ -15,19 +15,19 @@
         "total": 478
     },
     "mfem/mfem": {
-        "external": 368,
+        "external": 370,
         "internal": 85,
-        "total": 453
+        "total": 455
     },
     "mfem/data": {
-        "external": 365,
+        "external": 367,
         "internal": 84,
-        "total": 449
+        "total": 451
     },
     "mfem/PyMFEM": {
-        "external": 240,
+        "external": 242,
         "internal": 33,
-        "total": 273
+        "total": 275
     },
     "spack/spack.io": {
         "external": 174,
@@ -70,9 +70,9 @@
         "total": 93
     },
     "GEOSX/LvArray": {
-        "external": 64,
+        "external": 66,
         "internal": 12,
-        "total": 76
+        "total": 78
     },
     "CEED/libCEED": {
         "external": 55,
@@ -264,6 +264,11 @@
         "internal": 17,
         "total": 28
     },
+    "LLNL/serac": {
+        "external": 5,
+        "internal": 22,
+        "total": 27
+    },
     "hpc/dcp": {
         "external": 21,
         "internal": 6,
@@ -302,11 +307,6 @@
     "LLNL/msr-safe": {
         "external": 4,
         "internal": 22,
-        "total": 26
-    },
-    "LLNL/serac": {
-        "external": 5,
-        "internal": 21,
         "total": 26
     },
     "LLNL/scr": {
@@ -384,6 +384,11 @@
         "internal": 18,
         "total": 22
     },
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 22,
+        "total": 22
+    },
     "LLNL/spheral": {
         "external": 7,
         "internal": 15,
@@ -412,11 +417,6 @@
     "LLNL/DragonView": {
         "external": 2,
         "internal": 19,
-        "total": 21
-    },
-    "LLNL/serac_tests": {
-        "external": 0,
-        "internal": 21,
         "total": 21
     },
     "flux-framework/flux-sched": {
@@ -1674,6 +1674,11 @@
         "internal": 9,
         "total": 10
     },
+    "LLNL/MuyGPyS": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
     "LLNL/NDDAV": {
         "external": 0,
         "internal": 10,
@@ -2235,11 +2240,6 @@
         "total": 9
     },
     "LLNL/MultiscaleTopOpt": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/MuyGPyS": {
         "external": 0,
         "internal": 9,
         "total": 9
