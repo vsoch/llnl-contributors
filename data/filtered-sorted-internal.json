@@ -560,9 +560,9 @@
         "total": 13
     },
     "GEOSX/LvArray": {
-        "external": 66,
+        "external": 67,
         "internal": 12,
-        "total": 78
+        "total": 79
     },
     "LLNL/GOTCHA": {
         "external": 6,
