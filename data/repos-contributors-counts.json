@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 950,
+        "external": 952,
         "internal": 73,
-        "total": 1023
+        "total": 1025
     },
     "openzfs/zfs": {
         "external": 474,
@@ -30,9 +30,9 @@
         "total": 275
     },
     "spack/spack.io": {
-        "external": 174,
+        "external": 173,
         "internal": 6,
-        "total": 180
+        "total": 179
     },
     "spack/spack-tutorial": {
         "external": 122,
