@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 952,
+        "external": 953,
         "internal": 73,
-        "total": 1025
+        "total": 1026
     },
     "openzfs/zfs": {
         "external": 474,
@@ -15,19 +15,19 @@
         "total": 478
     },
     "mfem/mfem": {
-        "external": 370,
+        "external": 372,
         "internal": 85,
-        "total": 455
+        "total": 457
     },
     "mfem/data": {
-        "external": 367,
+        "external": 369,
         "internal": 84,
-        "total": 451
+        "total": 453
     },
     "mfem/PyMFEM": {
-        "external": 242,
+        "external": 244,
         "internal": 33,
-        "total": 275
+        "total": 277
     },
     "spack/spack.io": {
         "external": 173,
@@ -85,9 +85,9 @@
         "total": 64
     },
     "GLVis/glvis": {
-        "external": 40,
+        "external": 41,
         "internal": 21,
-        "total": 61
+        "total": 62
     },
     "CEED/benchmarks": {
         "external": 41,
@@ -1104,6 +1104,11 @@
         "internal": 10,
         "total": 13
     },
+    "LLNL/Silo": {
+        "external": 4,
+        "internal": 9,
+        "total": 13
+    },
     "LLNL/UEDGE": {
         "external": 4,
         "internal": 9,
@@ -1252,11 +1257,6 @@
     "LLNL/PyDV": {
         "external": 2,
         "internal": 10,
-        "total": 12
-    },
-    "LLNL/Silo": {
-        "external": 3,
-        "internal": 9,
         "total": 12
     },
     "LLNL/clippy-cpp": {
@@ -2735,6 +2735,11 @@
         "total": 9
     },
     "flux-framework/flux-depend": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/flux-k8s-orchestrator": {
         "external": 3,
         "internal": 6,
         "total": 9

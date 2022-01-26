@@ -25,9 +25,9 @@
         "total": 64
     },
     "GLVis/glvis": {
-        "external": 40,
+        "external": 41,
         "internal": 21,
-        "total": 61
+        "total": 62
     },
     "CEED/benchmarks": {
         "external": 41,
@@ -1044,6 +1044,11 @@
         "internal": 10,
         "total": 13
     },
+    "LLNL/Silo": {
+        "external": 4,
+        "internal": 9,
+        "total": 13
+    },
     "LLNL/UEDGE": {
         "external": 4,
         "internal": 9,
@@ -1192,11 +1197,6 @@
     "LLNL/PyDV": {
         "external": 2,
         "internal": 10,
-        "total": 12
-    },
-    "LLNL/Silo": {
-        "external": 3,
-        "internal": 9,
         "total": 12
     },
     "LLNL/clippy-cpp": {
@@ -2675,6 +2675,11 @@
         "total": 9
     },
     "flux-framework/flux-depend": {
+        "external": 3,
+        "internal": 6,
+        "total": 9
+    },
+    "flux-framework/flux-k8s-orchestrator": {
         "external": 3,
         "internal": 6,
         "total": 9
