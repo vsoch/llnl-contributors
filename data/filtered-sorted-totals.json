@@ -104,6 +104,11 @@
         "internal": 22,
         "total": 36
     },
+    "hypre-space/hypre": {
+        "external": 23,
+        "internal": 13,
+        "total": 36
+    },
     "LLNL/RAJAPerf": {
         "external": 3,
         "internal": 32,
@@ -117,11 +122,6 @@
     "LLNL/gidiplus": {
         "external": 1,
         "internal": 34,
-        "total": 35
-    },
-    "hypre-space/hypre": {
-        "external": 22,
-        "internal": 13,
         "total": 35
     },
     "CDAT/VisTrails": {

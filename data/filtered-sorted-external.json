@@ -99,15 +99,15 @@
         "internal": 3,
         "total": 27
     },
+    "hypre-space/hypre": {
+        "external": 23,
+        "internal": 13,
+        "total": 36
+    },
     "spack/seps": {
         "external": 23,
         "internal": 10,
         "total": 33
-    },
-    "hypre-space/hypre": {
-        "external": 22,
-        "internal": 13,
-        "total": 35
     },
     "spack/spack-cscs2019": {
         "external": 22,
