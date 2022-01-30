@@ -50,9 +50,9 @@
         "total": 51
     },
     "visit-dav/visit": {
-        "external": 44,
+        "external": 45,
         "internal": 6,
-        "total": 50
+        "total": 51
     },
     "jpype-project/jpype": {
         "external": 48,
@@ -769,6 +769,11 @@
         "internal": 15,
         "total": 15
     },
+    "LLNL/Silo": {
+        "external": 4,
+        "internal": 11,
+        "total": 15
+    },
     "LLNL/fdtree": {
         "external": 1,
         "internal": 14,
@@ -909,6 +914,11 @@
         "internal": 12,
         "total": 14
     },
+    "LLNL/metall": {
+        "external": 2,
+        "internal": 12,
+        "total": 14
+    },
     "LLNL/smoothG": {
         "external": 3,
         "internal": 11,
@@ -1044,11 +1054,6 @@
         "internal": 10,
         "total": 13
     },
-    "LLNL/Silo": {
-        "external": 4,
-        "internal": 9,
-        "total": 13
-    },
     "LLNL/UEDGE": {
         "external": 4,
         "internal": 9,
@@ -1080,11 +1085,6 @@
         "total": 13
     },
     "LLNL/lwgrp": {
-        "external": 1,
-        "internal": 12,
-        "total": 13
-    },
-    "LLNL/metall": {
         "external": 1,
         "internal": 12,
         "total": 13
