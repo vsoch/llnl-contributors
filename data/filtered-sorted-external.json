@@ -45,9 +45,9 @@
         "total": 64
     },
     "GLVis/glvis": {
-        "external": 41,
+        "external": 42,
         "internal": 21,
-        "total": 62
+        "total": 63
     },
     "CEED/benchmarks": {
         "external": 41,
@@ -639,6 +639,11 @@
         "internal": 15,
         "total": 23
     },
+    "flux-framework/flux-sched": {
+        "external": 8,
+        "internal": 14,
+        "total": 22
+    },
     "LLNL/hiop": {
         "external": 8,
         "internal": 11,
@@ -743,11 +748,6 @@
         "external": 7,
         "internal": 15,
         "total": 22
-    },
-    "flux-framework/flux-sched": {
-        "external": 7,
-        "internal": 14,
-        "total": 21
     },
     "flux-framework/flux-core-v0.11": {
         "external": 7,
@@ -1499,6 +1499,11 @@
         "internal": 10,
         "total": 13
     },
+    "LLNL/MaPPeRTrac": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
     "LLNL/MacPatch": {
         "external": 3,
         "internal": 10,
@@ -2008,11 +2013,6 @@
         "external": 2,
         "internal": 11,
         "total": 13
-    },
-    "LLNL/MaPPeRTrac": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
     },
     "LLNL/MacPatch-AutoPKG": {
         "external": 2,
