@@ -5,9 +5,9 @@
         "total": 93
     },
     "GEOSX/LvArray": {
-        "external": 67,
+        "external": 64,
         "internal": 12,
-        "total": 79
+        "total": 76
     },
     "mfem/web": {
         "external": 57,
@@ -463,6 +463,11 @@
         "external": 10,
         "internal": 25,
         "total": 35
+    },
+    "LLNL/hatchet": {
+        "external": 10,
+        "internal": 13,
+        "total": 23
     },
     "flux-framework/flux-core": {
         "external": 10,
@@ -1499,11 +1504,6 @@
         "internal": 10,
         "total": 13
     },
-    "LLNL/MaPPeRTrac": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
     "LLNL/MacPatch": {
         "external": 3,
         "internal": 10,
@@ -2039,6 +2039,11 @@
         "internal": 10,
         "total": 12
     },
+    "LLNL/mappertrac": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
     "LLNL/Juqbox.jl": {
         "external": 2,
         "internal": 9,
@@ -2470,6 +2475,11 @@
         "total": 11
     },
     "LLNL/clippy-tutorial": {
+        "external": 1,
+        "internal": 10,
+        "total": 11
+    },
+    "LLNL/hatchet-tutorial": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -3175,6 +3185,11 @@
         "total": 10
     },
     "LLNL/goulash": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/hatchet-notebooks-sc19": {
         "external": 0,
         "internal": 10,
         "total": 10

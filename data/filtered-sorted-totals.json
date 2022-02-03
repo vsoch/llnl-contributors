@@ -10,9 +10,9 @@
         "total": 93
     },
     "GEOSX/LvArray": {
-        "external": 67,
+        "external": 64,
         "internal": 12,
-        "total": 79
+        "total": 76
     },
     "CEED/libCEED": {
         "external": 55,
@@ -292,6 +292,11 @@
     "LLNL/LaunchMON": {
         "external": 5,
         "internal": 18,
+        "total": 23
+    },
+    "LLNL/hatchet": {
+        "external": 10,
+        "internal": 13,
         "total": 23
     },
     "hpc/OpenLorenz": {
@@ -1044,11 +1049,6 @@
         "internal": 10,
         "total": 13
     },
-    "LLNL/MaPPeRTrac": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
     "LLNL/MacPatch": {
         "external": 3,
         "internal": 10,
@@ -1210,6 +1210,11 @@
         "total": 12
     },
     "LLNL/inq": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/mappertrac": {
         "external": 2,
         "internal": 10,
         "total": 12
@@ -1392,6 +1397,11 @@
     "LLNL/gitlab-runner-auth": {
         "external": 3,
         "internal": 8,
+        "total": 11
+    },
+    "LLNL/hatchet-tutorial": {
+        "external": 1,
+        "internal": 10,
         "total": 11
     },
     "LLNL/lime": {
@@ -1752,6 +1762,11 @@
     "LLNL/gtest-mpi-listener": {
         "external": 1,
         "internal": 9,
+        "total": 10
+    },
+    "LLNL/hatchet-notebooks-sc19": {
+        "external": 0,
+        "internal": 10,
         "total": 10
     },
     "LLNL/hdtopology": {
