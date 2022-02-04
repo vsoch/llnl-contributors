@@ -2605,9 +2605,9 @@
         "total": 59
     },
     "openzfs/zfs-buildbot": {
-        "external": 18,
+        "external": 19,
         "internal": 4,
-        "total": 22
+        "total": 23
     },
     "rose-compiler/build-blocker-plugin": {
         "external": 5,
@@ -2765,9 +2765,9 @@
         "total": 93
     },
     "openzfs/openzfs-docs": {
-        "external": 49,
+        "external": 50,
         "internal": 2,
-        "total": 51
+        "total": 52
     },
     "CDAT/VisTrails": {
         "external": 33,
@@ -2814,17 +2814,17 @@
         "internal": 2,
         "total": 12
     },
+    "GMLC-TDC/HELICS-Examples": {
+        "external": 10,
+        "internal": 2,
+        "total": 12
+    },
     "CDAT/dv3d": {
         "external": 9,
         "internal": 2,
         "total": 11
     },
     "CDAT/genutil": {
-        "external": 9,
-        "internal": 2,
-        "total": 11
-    },
-    "GMLC-TDC/HELICS-Examples": {
         "external": 9,
         "internal": 2,
         "total": 11

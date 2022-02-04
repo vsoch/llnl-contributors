@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 958,
+        "external": 959,
         "internal": 73,
-        "total": 1031
+        "total": 1032
     },
     "openzfs/zfs": {
         "external": 475,
@@ -105,9 +105,9 @@
         "total": 54
     },
     "openzfs/openzfs-docs": {
-        "external": 49,
+        "external": 50,
         "internal": 2,
-        "total": 51
+        "total": 52
     },
     "visit-dav/visit": {
         "external": 45,
@@ -379,6 +379,11 @@
         "internal": 15,
         "total": 23
     },
+    "openzfs/zfs-buildbot": {
+        "external": 19,
+        "internal": 4,
+        "total": 23
+    },
     "ESGF/esgf-installer": {
         "external": 22,
         "internal": 1,
@@ -402,11 +407,6 @@
     "flux-framework/flux-sched": {
         "external": 8,
         "internal": 14,
-        "total": 22
-    },
-    "openzfs/zfs-buildbot": {
-        "external": 18,
-        "internal": 4,
         "total": 22
     },
     "CDAT/cdms": {
@@ -1339,6 +1339,11 @@
         "internal": 2,
         "total": 12
     },
+    "GMLC-TDC/HELICS-Examples": {
+        "external": 10,
+        "internal": 2,
+        "total": 12
+    },
     "ESGF/esgf-test-suite": {
         "external": 12,
         "internal": 0,
@@ -1557,11 +1562,6 @@
     "CDAT/cdat-notebook-widgets": {
         "external": 10,
         "internal": 1,
-        "total": 11
-    },
-    "GMLC-TDC/HELICS-Examples": {
-        "external": 9,
-        "internal": 2,
         "total": 11
     },
     "ESGF/CDNOT": {

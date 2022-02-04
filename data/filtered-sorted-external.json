@@ -25,9 +25,9 @@
         "total": 59
     },
     "openzfs/openzfs-docs": {
-        "external": 49,
+        "external": 50,
         "internal": 2,
-        "total": 51
+        "total": 52
     },
     "jpype-project/jpype": {
         "external": 48,
@@ -159,6 +159,11 @@
         "internal": 5,
         "total": 24
     },
+    "openzfs/zfs-buildbot": {
+        "external": 19,
+        "internal": 4,
+        "total": 23
+    },
     "CDAT/cdms": {
         "external": 19,
         "internal": 3,
@@ -178,11 +183,6 @@
         "external": 19,
         "internal": 0,
         "total": 19
-    },
-    "openzfs/zfs-buildbot": {
-        "external": 18,
-        "internal": 4,
-        "total": 22
     },
     "ESGF/esgf-node-manager": {
         "external": 18,
@@ -509,6 +509,11 @@
         "internal": 2,
         "total": 12
     },
+    "GMLC-TDC/HELICS-Examples": {
+        "external": 10,
+        "internal": 2,
+        "total": 12
+    },
     "ESGF/esgf-globus-download": {
         "external": 10,
         "internal": 1,
@@ -570,11 +575,6 @@
         "total": 11
     },
     "CDAT/genutil": {
-        "external": 9,
-        "internal": 2,
-        "total": 11
-    },
-    "GMLC-TDC/HELICS-Examples": {
         "external": 9,
         "internal": 2,
         "total": 11
