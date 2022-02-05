@@ -759,6 +759,11 @@
         "internal": 12,
         "total": 15
     },
+    "LLNL/CARE": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
     "LLNL/INGRID": {
         "external": 6,
         "internal": 9,
@@ -882,11 +887,6 @@
     "LLNL/scr-fe": {
         "external": 0,
         "internal": 14,
-        "total": 14
-    },
-    "LLNL/CARE": {
-        "external": 1,
-        "internal": 13,
         "total": 14
     },
     "LLNL/COGENT": {
@@ -1479,6 +1479,11 @@
         "internal": 6,
         "total": 11
     },
+    "spack/spack-infrastructure": {
+        "external": 6,
+        "internal": 5,
+        "total": 11
+    },
     "spack/spack-tutorial-container": {
         "external": 6,
         "internal": 5,
@@ -1945,11 +1950,6 @@
         "total": 10
     },
     "spack/localized-docs": {
-        "external": 5,
-        "internal": 5,
-        "total": 10
-    },
-    "spack/spack-infrastructure": {
         "external": 5,
         "internal": 5,
         "total": 10

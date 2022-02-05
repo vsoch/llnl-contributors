@@ -439,6 +439,11 @@
         "internal": 14,
         "total": 16
     },
+    "LLNL/CARE": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
     "LLNL/fdtree": {
         "external": 1,
         "internal": 14,
@@ -543,11 +548,6 @@
         "external": 2,
         "internal": 13,
         "total": 15
-    },
-    "LLNL/CARE": {
-        "external": 1,
-        "internal": 13,
-        "total": 14
     },
     "LLNL/Jekyll-LLNL-Theme": {
         "external": 0,
@@ -2404,17 +2404,17 @@
         "internal": 5,
         "total": 15
     },
+    "spack/spack-infrastructure": {
+        "external": 6,
+        "internal": 5,
+        "total": 11
+    },
     "spack/spack-tutorial-container": {
         "external": 6,
         "internal": 5,
         "total": 11
     },
     "spack/localized-docs": {
-        "external": 5,
-        "internal": 5,
-        "total": 10
-    },
-    "spack/spack-infrastructure": {
         "external": 5,
         "internal": 5,
         "total": 10
