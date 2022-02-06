@@ -439,6 +439,11 @@
         "internal": 19,
         "total": 19
     },
+    "LLNL/camp": {
+        "external": 1,
+        "internal": 18,
+        "total": 19
+    },
     "LLNL/hiop": {
         "external": 8,
         "internal": 11,
@@ -527,11 +532,6 @@
     "LLNL/boxfish": {
         "external": 0,
         "internal": 18,
-        "total": 18
-    },
-    "LLNL/camp": {
-        "external": 1,
-        "internal": 17,
         "total": 18
     },
     "LLNL/cardioid": {

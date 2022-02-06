@@ -2314,6 +2314,11 @@
         "internal": 18,
         "total": 19
     },
+    "LLNL/camp": {
+        "external": 1,
+        "internal": 18,
+        "total": 19
+    },
     "LLNL/llnl-hires-timers": {
         "external": 1,
         "internal": 18,
@@ -2323,11 +2328,6 @@
         "external": 1,
         "internal": 18,
         "total": 19
-    },
-    "LLNL/camp": {
-        "external": 1,
-        "internal": 17,
-        "total": 18
     },
     "LLNL/libyogrt": {
         "external": 1,
