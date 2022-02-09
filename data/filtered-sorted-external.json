@@ -2799,17 +2799,17 @@
         "internal": 5,
         "total": 6
     },
-    "hatchet/hatchet-tutorial": {
-        "external": 1,
-        "internal": 4,
-        "total": 5
-    },
     "ECP-VeloC/rankstr": {
         "external": 1,
         "internal": 3,
         "total": 4
     },
     "ECP-VeloC/spath": {
+        "external": 1,
+        "internal": 3,
+        "total": 4
+    },
+    "hatchet/hatchet-tutorial": {
         "external": 1,
         "internal": 3,
         "total": 4
@@ -3345,6 +3345,11 @@
         "total": 9
     },
     "LLNL/DJINN": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/DNN-MFBO": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -3904,11 +3909,6 @@
         "internal": 8,
         "total": 8
     },
-    "hatchet/hatchet-notebooks-sc19": {
-        "external": 0,
-        "internal": 4,
-        "total": 4
-    },
     "GLVis/data": {
         "external": 0,
         "internal": 4,
@@ -3925,6 +3925,11 @@
         "total": 3
     },
     "mfem/tpls": {
+        "external": 0,
+        "internal": 3,
+        "total": 3
+    },
+    "hatchet/hatchet-notebooks-sc19": {
         "external": 0,
         "internal": 3,
         "total": 3

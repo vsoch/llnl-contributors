@@ -2134,6 +2134,11 @@
         "internal": 9,
         "total": 9
     },
+    "LLNL/DNN-MFBO": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
     "LLNL/FPChecker": {
         "external": 0,
         "internal": 9,
@@ -3384,11 +3389,6 @@
         "internal": 3,
         "total": 5
     },
-    "hatchet/hatchet-tutorial": {
-        "external": 1,
-        "internal": 4,
-        "total": 5
-    },
     "dun/munge": {
         "external": 4,
         "internal": 1,
@@ -3574,9 +3574,9 @@
         "internal": 3,
         "total": 4
     },
-    "hatchet/hatchet-notebooks-sc19": {
-        "external": 0,
-        "internal": 4,
+    "hatchet/hatchet-tutorial": {
+        "external": 1,
+        "internal": 3,
         "total": 4
     },
     "visit-dav/visit-deps": {
@@ -3835,6 +3835,11 @@
         "total": 3
     },
     "mfem/tpls": {
+        "external": 0,
+        "internal": 3,
+        "total": 3
+    },
+    "hatchet/hatchet-notebooks-sc19": {
         "external": 0,
         "internal": 3,
         "total": 3
