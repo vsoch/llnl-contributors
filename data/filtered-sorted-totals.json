@@ -95,9 +95,9 @@
         "total": 43
     },
     "spack/spack-configs": {
-        "external": 29,
+        "external": 30,
         "internal": 10,
-        "total": 39
+        "total": 40
     },
     "LLNL/lbann": {
         "external": 14,
@@ -924,6 +924,11 @@
         "internal": 12,
         "total": 14
     },
+    "LLNL/radiuss-spack-configs": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
     "LLNL/smoothG": {
         "external": 3,
         "internal": 11,
@@ -1102,11 +1107,6 @@
     "LLNL/mpibind": {
         "external": 3,
         "internal": 10,
-        "total": 13
-    },
-    "LLNL/radiuss-spack-configs": {
-        "external": 0,
-        "internal": 13,
         "total": 13
     },
     "LLNL/spotbe": {
@@ -2070,6 +2070,11 @@
         "total": 9
     },
     "LLNL/Frescox": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ferdinand": {
         "external": 0,
         "internal": 9,
         "total": 9

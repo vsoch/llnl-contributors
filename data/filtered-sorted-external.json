@@ -80,9 +80,9 @@
         "total": 35
     },
     "spack/spack-configs": {
-        "external": 29,
+        "external": 30,
         "internal": 10,
-        "total": 39
+        "total": 40
     },
     "Alpine-DAV/ascent": {
         "external": 29,
@@ -2989,17 +2989,17 @@
         "internal": 14,
         "total": 14
     },
+    "LLNL/radiuss-spack-configs": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
     "LLNL/Jekyll-LLNL-Theme": {
         "external": 0,
         "internal": 13,
         "total": 13
     },
     "LLNL/irep": {
-        "external": 0,
-        "internal": 13,
-        "total": 13
-    },
-    "LLNL/radiuss-spack-configs": {
         "external": 0,
         "internal": 13,
         "total": 13
@@ -3285,6 +3285,11 @@
         "total": 10
     },
     "LLNL/Frescox": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ferdinand": {
         "external": 0,
         "internal": 9,
         "total": 9
