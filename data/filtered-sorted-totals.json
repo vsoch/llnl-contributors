@@ -66,8 +66,8 @@
     },
     "LLNL/axom": {
         "external": 6,
-        "internal": 40,
-        "total": 46
+        "internal": 41,
+        "total": 47
     },
     "LLNL/blt": {
         "external": 11,
@@ -909,6 +909,11 @@
         "internal": 10,
         "total": 14
     },
+    "LLNL/LULESH": {
+        "external": 3,
+        "internal": 11,
+        "total": 14
+    },
     "LLNL/MACSio": {
         "external": 3,
         "internal": 11,
@@ -1047,11 +1052,6 @@
     "LLNL/Jekyll-LLNL-Theme": {
         "external": 0,
         "internal": 13,
-        "total": 13
-    },
-    "LLNL/LULESH": {
-        "external": 3,
-        "internal": 10,
         "total": 13
     },
     "LLNL/MacPatch": {
