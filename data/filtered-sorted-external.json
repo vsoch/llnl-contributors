@@ -1199,6 +1199,11 @@
         "internal": 11,
         "total": 15
     },
+    "LLNL/CcNav": {
+        "external": 4,
+        "internal": 10,
+        "total": 14
+    },
     "LLNL/H5Z-ZFP": {
         "external": 4,
         "internal": 10,
@@ -1490,11 +1495,6 @@
         "total": 14
     },
     "LLNL/Abmarl": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
-    "LLNL/CcNav": {
         "external": 3,
         "internal": 10,
         "total": 13

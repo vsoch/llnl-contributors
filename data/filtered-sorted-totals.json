@@ -894,6 +894,11 @@
         "internal": 11,
         "total": 14
     },
+    "LLNL/CcNav": {
+        "external": 4,
+        "internal": 10,
+        "total": 14
+    },
     "LLNL/Curvallis": {
         "external": 5,
         "internal": 9,
@@ -1030,11 +1035,6 @@
         "total": 14
     },
     "LLNL/Abmarl": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
-    "LLNL/CcNav": {
         "external": 3,
         "internal": 10,
         "total": 13
