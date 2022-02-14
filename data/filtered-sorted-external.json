@@ -1189,11 +1189,6 @@
         "internal": 12,
         "total": 16
     },
-    "LLNL/Silo": {
-        "external": 4,
-        "internal": 11,
-        "total": 15
-    },
     "LLNL/pyranda": {
         "external": 4,
         "internal": 11,
@@ -1485,6 +1480,11 @@
         "total": 14
     },
     "LLNL/MACSio": {
+        "external": 3,
+        "internal": 11,
+        "total": 14
+    },
+    "LLNL/Silo": {
         "external": 3,
         "internal": 11,
         "total": 14
