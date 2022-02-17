@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 962,
+        "external": 963,
         "internal": 73,
-        "total": 1035
+        "total": 1036
     },
     "openzfs/zfs": {
         "external": 479,
@@ -2350,6 +2350,11 @@
         "total": 9
     },
     "LLNL/SW4CK": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/SYNDATA": {
         "external": 0,
         "internal": 9,
         "total": 9
