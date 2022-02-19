@@ -99,14 +99,14 @@
         "internal": 10,
         "total": 40
     },
+    "hypre-space/hypre": {
+        "external": 24,
+        "internal": 13,
+        "total": 37
+    },
     "LLNL/lbann": {
         "external": 14,
         "internal": 22,
-        "total": 36
-    },
-    "hypre-space/hypre": {
-        "external": 23,
-        "internal": 13,
         "total": 36
     },
     "LLNL/RAJAPerf": {

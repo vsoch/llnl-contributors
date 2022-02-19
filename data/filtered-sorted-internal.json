@@ -495,9 +495,9 @@
         "total": 48
     },
     "hypre-space/hypre": {
-        "external": 23,
+        "external": 24,
         "internal": 13,
-        "total": 36
+        "total": 37
     },
     "hpc/Spindle": {
         "external": 16,

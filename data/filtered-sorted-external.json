@@ -94,15 +94,15 @@
         "internal": 3,
         "total": 31
     },
+    "hypre-space/hypre": {
+        "external": 24,
+        "internal": 13,
+        "total": 37
+    },
     "CDAT/vcs": {
         "external": 24,
         "internal": 3,
         "total": 27
-    },
-    "hypre-space/hypre": {
-        "external": 23,
-        "internal": 13,
-        "total": 36
     },
     "spack/seps": {
         "external": 23,
