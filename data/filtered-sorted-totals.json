@@ -50,9 +50,9 @@
         "total": 52
     },
     "visit-dav/visit": {
-        "external": 45,
+        "external": 46,
         "internal": 6,
-        "total": 51
+        "total": 52
     },
     "jpype-project/jpype": {
         "external": 48,
@@ -294,6 +294,11 @@
         "internal": 18,
         "total": 23
     },
+    "LLNL/STAT": {
+        "external": 5,
+        "internal": 18,
+        "total": 23
+    },
     "LLNL/hatchet": {
         "external": 10,
         "internal": 13,
@@ -328,11 +333,6 @@
         "external": 22,
         "internal": 1,
         "total": 23
-    },
-    "LLNL/STAT": {
-        "external": 4,
-        "internal": 18,
-        "total": 22
     },
     "LLNL/serac_tests": {
         "external": 0,

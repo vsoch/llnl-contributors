@@ -35,9 +35,9 @@
         "total": 49
     },
     "visit-dav/visit": {
-        "external": 45,
+        "external": 46,
         "internal": 6,
-        "total": 51
+        "total": 52
     },
     "CEED/Laghos": {
         "external": 43,
@@ -964,6 +964,11 @@
         "internal": 18,
         "total": 23
     },
+    "LLNL/STAT": {
+        "external": 5,
+        "internal": 18,
+        "total": 23
+    },
     "LLNL/lmt": {
         "external": 5,
         "internal": 15,
@@ -1158,11 +1163,6 @@
         "external": 4,
         "internal": 22,
         "total": 26
-    },
-    "LLNL/STAT": {
-        "external": 4,
-        "internal": 18,
-        "total": 22
     },
     "LLNL/libROM": {
         "external": 4,

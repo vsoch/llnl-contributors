@@ -180,9 +180,9 @@
         "total": 23
     },
     "LLNL/STAT": {
-        "external": 4,
+        "external": 5,
         "internal": 18,
-        "total": 22
+        "total": 23
     },
     "LLNL/adept-utils": {
         "external": 2,
@@ -2255,9 +2255,9 @@
         "total": 9
     },
     "visit-dav/visit": {
-        "external": 45,
+        "external": 46,
         "internal": 6,
-        "total": 51
+        "total": 52
     },
     "rose-compiler/rose": {
         "external": 38,
