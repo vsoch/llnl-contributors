@@ -949,6 +949,11 @@
         "internal": 26,
         "total": 31
     },
+    "LLNL/maestrowf": {
+        "external": 5,
+        "internal": 22,
+        "total": 27
+    },
     "LLNL/serac": {
         "external": 5,
         "internal": 22,
@@ -1153,11 +1158,6 @@
         "external": 4,
         "internal": 28,
         "total": 32
-    },
-    "LLNL/maestrowf": {
-        "external": 4,
-        "internal": 22,
-        "total": 26
     },
     "LLNL/msr-safe": {
         "external": 4,

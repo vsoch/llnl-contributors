@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 963,
+        "external": 964,
         "internal": 73,
-        "total": 1036
+        "total": 1037
     },
     "openzfs/zfs": {
         "external": 480,
@@ -15,14 +15,14 @@
         "total": 484
     },
     "mfem/mfem": {
-        "external": 377,
+        "external": 378,
         "internal": 87,
-        "total": 464
+        "total": 465
     },
     "mfem/data": {
-        "external": 374,
+        "external": 375,
         "internal": 86,
-        "total": 460
+        "total": 461
     },
     "mfem/PyMFEM": {
         "external": 258,
@@ -264,6 +264,11 @@
         "internal": 17,
         "total": 28
     },
+    "LLNL/maestrowf": {
+        "external": 5,
+        "internal": 22,
+        "total": 27
+    },
     "LLNL/serac": {
         "external": 5,
         "internal": 22,
@@ -293,11 +298,6 @@
         "external": 24,
         "internal": 3,
         "total": 27
-    },
-    "LLNL/maestrowf": {
-        "external": 4,
-        "internal": 22,
-        "total": 26
     },
     "LLNL/libmsr": {
         "external": 5,

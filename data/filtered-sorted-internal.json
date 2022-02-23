@@ -59,15 +59,15 @@
         "internal": 22,
         "total": 36
     },
-    "LLNL/serac": {
+    "LLNL/maestrowf": {
         "external": 5,
         "internal": 22,
         "total": 27
     },
-    "LLNL/maestrowf": {
-        "external": 4,
+    "LLNL/serac": {
+        "external": 5,
         "internal": 22,
-        "total": 26
+        "total": 27
     },
     "LLNL/msr-safe": {
         "external": 4,
