@@ -5,14 +5,14 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 964,
+        "external": 965,
         "internal": 73,
-        "total": 1037
+        "total": 1038
     },
     "openzfs/zfs": {
-        "external": 480,
+        "external": 481,
         "internal": 4,
-        "total": 484
+        "total": 485
     },
     "mfem/mfem": {
         "external": 378,
@@ -139,15 +139,15 @@
         "internal": 34,
         "total": 44
     },
+    "hpc/mpifileutils": {
+        "external": 35,
+        "internal": 9,
+        "total": 44
+    },
     "rose-compiler/rose": {
         "external": 38,
         "internal": 6,
         "total": 44
-    },
-    "hpc/mpifileutils": {
-        "external": 34,
-        "internal": 9,
-        "total": 43
     },
     "rose-compiler/rose-develop": {
         "external": 37,
@@ -709,6 +709,11 @@
         "internal": 15,
         "total": 17
     },
+    "LLNL/HPC-Tutorials": {
+        "external": 2,
+        "internal": 15,
+        "total": 17
+    },
     "LLNL/Rescal-snow": {
         "external": 6,
         "internal": 11,
@@ -742,11 +747,6 @@
     "LLNL/Exaworks-SDK": {
         "external": 6,
         "internal": 10,
-        "total": 16
-    },
-    "LLNL/HPC-Tutorials": {
-        "external": 1,
-        "internal": 15,
         "total": 16
     },
     "LLNL/SNLS": {
