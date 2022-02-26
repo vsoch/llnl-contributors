@@ -5,9 +5,9 @@
         "total": 1469
     },
     "spack/spack": {
-        "external": 965,
+        "external": 966,
         "internal": 73,
-        "total": 1038
+        "total": 1039
     },
     "openzfs/zfs": {
         "external": 481,
@@ -70,9 +70,9 @@
         "total": 93
     },
     "GEOSX/LvArray": {
-        "external": 64,
+        "external": 66,
         "internal": 12,
-        "total": 76
+        "total": 78
     },
     "CEED/libCEED": {
         "external": 55,
@@ -1214,6 +1214,11 @@
         "internal": 12,
         "total": 12
     },
+    "LLNL/zfpy-wheels": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
     "LLNL/Sina": {
         "external": 0,
         "internal": 12,
@@ -1382,11 +1387,6 @@
     "flux-framework/PerfFlowAspect": {
         "external": 3,
         "internal": 8,
-        "total": 11
-    },
-    "LLNL/zfpy-wheels": {
-        "external": 1,
-        "internal": 10,
         "total": 11
     },
     "LLNL/Yet-Another-Hauser-Feshbach-Code": {

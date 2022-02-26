@@ -565,9 +565,9 @@
         "total": 13
     },
     "GEOSX/LvArray": {
-        "external": 64,
+        "external": 66,
         "internal": 12,
-        "total": 76
+        "total": 78
     },
     "LLNL/GOTCHA": {
         "external": 6,
@@ -884,6 +884,11 @@
         "internal": 10,
         "total": 13
     },
+    "LLNL/zfpy-wheels": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
     "LLNL/MacPatch-AutoPKG": {
         "external": 2,
         "internal": 10,
@@ -913,11 +918,6 @@
         "external": 2,
         "internal": 10,
         "total": 12
-    },
-    "LLNL/zfpy-wheels": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
     },
     "LLNL/Yet-Another-Hauser-Feshbach-Code": {
         "external": 1,
