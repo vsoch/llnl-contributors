@@ -746,8 +746,8 @@
     },
     "LLNL/scr": {
         "external": 7,
-        "internal": 18,
-        "total": 25
+        "internal": 19,
+        "total": 26
     },
     "LLNL/spheral": {
         "external": 7,
@@ -2044,6 +2044,11 @@
         "internal": 10,
         "total": 12
     },
+    "LLNL/hatchet-tutorial": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
     "LLNL/inq": {
         "external": 2,
         "internal": 10,
@@ -2479,11 +2484,6 @@
         "internal": 10,
         "total": 11
     },
-    "LLNL/hatchet-tutorial": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
     "LLNL/paraDIS_lib": {
         "external": 1,
         "internal": 10,
@@ -2635,6 +2635,11 @@
         "total": 10
     },
     "LLNL/mpiGraph": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/op": {
         "external": 1,
         "internal": 9,
         "total": 10
