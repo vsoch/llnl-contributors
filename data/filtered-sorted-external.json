@@ -25,9 +25,9 @@
         "total": 59
     },
     "openzfs/openzfs-docs": {
-        "external": 50,
+        "external": 52,
         "internal": 2,
-        "total": 52
+        "total": 54
     },
     "jpype-project/jpype": {
         "external": 48,

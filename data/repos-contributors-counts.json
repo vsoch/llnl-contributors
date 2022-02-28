@@ -104,15 +104,15 @@
         "internal": 42,
         "total": 54
     },
+    "openzfs/openzfs-docs": {
+        "external": 52,
+        "internal": 2,
+        "total": 54
+    },
     "visit-dav/visit": {
         "external": 47,
         "internal": 6,
         "total": 53
-    },
-    "openzfs/openzfs-docs": {
-        "external": 50,
-        "internal": 2,
-        "total": 52
     },
     "jpype-project/jpype": {
         "external": 48,
