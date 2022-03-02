@@ -1,8 +1,8 @@
 {
     "LLNL/HPAC": {
         "external": 1458,
-        "internal": 11,
-        "total": 1469
+        "internal": 10,
+        "total": 1468
     },
     "spack/spack": {
         "external": 966,
@@ -51,13 +51,13 @@
     },
     "LLNL/lustre": {
         "external": 106,
-        "internal": 14,
-        "total": 120
+        "internal": 13,
+        "total": 119
     },
     "LLNL/spotfe": {
         "external": 105,
-        "internal": 12,
-        "total": 117
+        "internal": 11,
+        "total": 116
     },
     "mfem/web": {
         "external": 57,
@@ -99,15 +99,15 @@
         "internal": 4,
         "total": 59
     },
-    "LLNL/RAJA": {
-        "external": 12,
-        "internal": 42,
-        "total": 54
-    },
     "openzfs/openzfs-docs": {
         "external": 52,
         "internal": 2,
         "total": 54
+    },
+    "LLNL/RAJA": {
+        "external": 12,
+        "internal": 41,
+        "total": 53
     },
     "visit-dav/visit": {
         "external": 47,
@@ -126,17 +126,12 @@
     },
     "LLNL/axom": {
         "external": 6,
-        "internal": 41,
-        "total": 47
+        "internal": 40,
+        "total": 46
     },
     "LLNL/blt": {
         "external": 11,
-        "internal": 34,
-        "total": 45
-    },
-    "LLNL/conduit": {
-        "external": 10,
-        "internal": 34,
+        "internal": 33,
         "total": 44
     },
     "hpc/mpifileutils": {
@@ -148,6 +143,11 @@
         "external": 38,
         "internal": 6,
         "total": 44
+    },
+    "LLNL/conduit": {
+        "external": 10,
+        "internal": 33,
+        "total": 43
     },
     "rose-compiler/rose-develop": {
         "external": 37,
@@ -166,28 +166,28 @@
     },
     "LLNL/lbann": {
         "external": 14,
-        "internal": 22,
-        "total": 36
-    },
-    "LLNL/RAJAPerf": {
-        "external": 3,
-        "internal": 32,
-        "total": 35
-    },
-    "LLNL/Umpire": {
-        "external": 10,
-        "internal": 25,
-        "total": 35
-    },
-    "LLNL/gidiplus": {
-        "external": 1,
-        "internal": 34,
+        "internal": 21,
         "total": 35
     },
     "CDAT/VisTrails": {
         "external": 33,
         "internal": 2,
         "total": 35
+    },
+    "LLNL/RAJAPerf": {
+        "external": 3,
+        "internal": 31,
+        "total": 34
+    },
+    "LLNL/Umpire": {
+        "external": 10,
+        "internal": 24,
+        "total": 34
+    },
+    "LLNL/gidiplus": {
+        "external": 1,
+        "internal": 33,
+        "total": 34
     },
     "Alpine-DAV/ascent": {
         "external": 29,
@@ -198,11 +198,6 @@
         "external": 23,
         "internal": 10,
         "total": 33
-    },
-    "LLNL/CHAI": {
-        "external": 4,
-        "internal": 28,
-        "total": 32
     },
     "GLVis/doxygen": {
         "external": 14,
@@ -219,29 +214,19 @@
         "internal": 18,
         "total": 32
     },
-    "LLNL/RAJAProxies": {
-        "external": 2,
-        "internal": 30,
-        "total": 32
-    },
     "spack/spack-cscs2019": {
         "external": 22,
         "internal": 10,
         "total": 32
     },
-    "LLNL/llnl.github.io": {
-        "external": 5,
-        "internal": 26,
+    "LLNL/CHAI": {
+        "external": 4,
+        "internal": 27,
         "total": 31
     },
-    "LLNL/zfp": {
-        "external": 15,
-        "internal": 16,
-        "total": 31
-    },
-    "LLNL/HPCCEA": {
-        "external": 12,
-        "internal": 19,
+    "LLNL/RAJAProxies": {
+        "external": 2,
+        "internal": 29,
         "total": 31
     },
     "GMLC-TDC/HELICS": {
@@ -249,29 +234,34 @@
         "internal": 3,
         "total": 31
     },
+    "LLNL/llnl.github.io": {
+        "external": 5,
+        "internal": 25,
+        "total": 30
+    },
+    "LLNL/zfp": {
+        "external": 15,
+        "internal": 15,
+        "total": 30
+    },
+    "LLNL/HPCCEA": {
+        "external": 12,
+        "internal": 18,
+        "total": 30
+    },
     "hpc/Spindle": {
         "external": 16,
         "internal": 13,
         "total": 29
-    },
-    "LLNL/Caliper": {
-        "external": 12,
-        "internal": 16,
-        "total": 28
     },
     "mfem/github-actions": {
         "external": 11,
         "internal": 17,
         "total": 28
     },
-    "LLNL/maestrowf": {
-        "external": 5,
-        "internal": 22,
-        "total": 27
-    },
-    "LLNL/serac": {
-        "external": 5,
-        "internal": 22,
+    "LLNL/Caliper": {
+        "external": 12,
+        "internal": 15,
         "total": 27
     },
     "hpc/dcp": {
@@ -299,24 +289,29 @@
         "internal": 3,
         "total": 27
     },
-    "LLNL/scr": {
-        "external": 7,
-        "internal": 19,
-        "total": 26
-    },
-    "LLNL/libmsr": {
+    "LLNL/maestrowf": {
         "external": 5,
         "internal": 21,
         "total": 26
     },
-    "LLNL/msr-safe": {
-        "external": 4,
-        "internal": 22,
+    "LLNL/serac": {
+        "external": 5,
+        "internal": 21,
         "total": 26
     },
-    "LLNL/PnMPI": {
-        "external": 6,
-        "internal": 19,
+    "LLNL/scr": {
+        "external": 7,
+        "internal": 18,
+        "total": 25
+    },
+    "LLNL/libmsr": {
+        "external": 5,
+        "internal": 20,
+        "total": 25
+    },
+    "LLNL/msr-safe": {
+        "external": 4,
+        "internal": 21,
         "total": 25
     },
     "spack/spack-monitor": {
@@ -324,12 +319,7 @@
         "internal": 13,
         "total": 25
     },
-    "LLNL/UnifyFS": {
-        "external": 11,
-        "internal": 13,
-        "total": 24
-    },
-    "LLNL/wrap": {
+    "LLNL/PnMPI": {
         "external": 6,
         "internal": 18,
         "total": 24
@@ -339,9 +329,9 @@
         "internal": 5,
         "total": 24
     },
-    "LLNL/SAMRAI": {
-        "external": 6,
-        "internal": 17,
+    "LLNL/UnifyFS": {
+        "external": 11,
+        "internal": 12,
         "total": 23
     },
     "ESGF/esgf.github.io": {
@@ -349,19 +339,9 @@
         "internal": 3,
         "total": 23
     },
-    "LLNL/LaunchMON": {
-        "external": 5,
-        "internal": 18,
-        "total": 23
-    },
-    "LLNL/STAT": {
-        "external": 5,
-        "internal": 18,
-        "total": 23
-    },
-    "LLNL/hatchet": {
-        "external": 10,
-        "internal": 13,
+    "LLNL/wrap": {
+        "external": 6,
+        "internal": 17,
         "total": 23
     },
     "hpc/OpenLorenz": {
@@ -394,14 +374,24 @@
         "internal": 1,
         "total": 23
     },
-    "LLNL/serac_tests": {
-        "external": 0,
-        "internal": 22,
+    "LLNL/SAMRAI": {
+        "external": 6,
+        "internal": 16,
         "total": 22
     },
-    "LLNL/spheral": {
-        "external": 7,
-        "internal": 15,
+    "LLNL/LaunchMON": {
+        "external": 5,
+        "internal": 17,
+        "total": 22
+    },
+    "LLNL/STAT": {
+        "external": 5,
+        "internal": 17,
+        "total": 22
+    },
+    "LLNL/hatchet": {
+        "external": 10,
+        "internal": 12,
         "total": 22
     },
     "flux-framework/flux-sched": {
@@ -424,9 +414,14 @@
         "internal": 0,
         "total": 22
     },
-    "LLNL/DragonView": {
-        "external": 2,
-        "internal": 19,
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 21,
+        "total": 21
+    },
+    "LLNL/spheral": {
+        "external": 7,
+        "internal": 14,
         "total": 21
     },
     "ESGF/config": {
@@ -439,94 +434,39 @@
         "internal": 0,
         "total": 21
     },
-    "LLNL/adept-utils": {
+    "LLNL/DragonView": {
         "external": 2,
         "internal": 18,
         "total": 20
     },
+    "LLNL/adept-utils": {
+        "external": 2,
+        "internal": 17,
+        "total": 19
+    },
     "LLNL/axom-docker": {
         "external": 1,
-        "internal": 19,
-        "total": 20
+        "internal": 18,
+        "total": 19
     },
     "LLNL/callpath": {
         "external": 1,
-        "internal": 19,
-        "total": 20
+        "internal": 18,
+        "total": 19
     },
     "LLNL/libROM": {
         "external": 4,
-        "internal": 16,
-        "total": 20
+        "internal": 15,
+        "total": 19
     },
     "LLNL/lmt": {
         "external": 5,
-        "internal": 15,
-        "total": 20
+        "internal": 14,
+        "total": 19
     },
     "LLNL/mpi-tools": {
         "external": 1,
-        "internal": 19,
-        "total": 20
-    },
-    "LLNL/Kripke": {
-        "external": 4,
-        "internal": 15,
-        "total": 19
-    },
-    "LLNL/ADAPT": {
-        "external": 1,
         "internal": 18,
-        "total": 19
-    },
-    "LLNL/ATS": {
-        "external": 0,
-        "internal": 19,
-        "total": 19
-    },
-    "LLNL/AutomaDeD": {
-        "external": 0,
-        "internal": 19,
-        "total": 19
-    },
-    "LLNL/DiHydrogen": {
-        "external": 3,
-        "internal": 16,
-        "total": 19
-    },
-    "LLNL/Gremlins": {
-        "external": 0,
-        "internal": 19,
-        "total": 19
-    },
-    "LLNL/camp": {
-        "external": 1,
-        "internal": 18,
-        "total": 19
-    },
-    "LLNL/hiop": {
-        "external": 8,
-        "internal": 11,
-        "total": 19
-    },
-    "LLNL/llnl-hires-timers": {
-        "external": 1,
-        "internal": 18,
-        "total": 19
-    },
-    "LLNL/magpie": {
-        "external": 9,
-        "internal": 10,
-        "total": 19
-    },
-    "LLNL/perf-dump": {
-        "external": 1,
-        "internal": 18,
-        "total": 19
-    },
-    "LLNL/rubik": {
-        "external": 0,
-        "internal": 19,
         "total": 19
     },
     "flux-framework/flux-k8s": {
@@ -559,109 +499,64 @@
         "internal": 0,
         "total": 19
     },
-    "LLNL/Adagio": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/DysectAPI": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/GOTCHA": {
-        "external": 6,
-        "internal": 12,
-        "total": 18
-    },
-    "LLNL/MemAxes": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/Mitos": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/axom_data": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/boxfish": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/cardioid": {
+    "LLNL/Kripke": {
         "external": 4,
         "internal": 14,
         "total": 18
     },
-    "LLNL/core_stack_merge": {
+    "LLNL/ADAPT": {
+        "external": 1,
+        "internal": 17,
+        "total": 18
+    },
+    "LLNL/ATS": {
         "external": 0,
         "internal": 18,
         "total": 18
     },
-    "LLNL/cram": {
+    "LLNL/AutomaDeD": {
         "external": 0,
         "internal": 18,
         "total": 18
     },
-    "LLNL/dataracebench": {
-        "external": 5,
-        "internal": 13,
-        "total": 18
-    },
-    "LLNL/graphlib": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/ior": {
+    "LLNL/DiHydrogen": {
         "external": 3,
         "internal": 15,
         "total": 18
     },
-    "LLNL/merlin": {
-        "external": 4,
-        "internal": 14,
-        "total": 18
-    },
-    "LLNL/muster": {
+    "LLNL/Gremlins": {
         "external": 0,
         "internal": 18,
         "total": 18
     },
-    "LLNL/nami": {
-        "external": 0,
-        "internal": 18,
+    "LLNL/camp": {
+        "external": 1,
+        "internal": 17,
         "total": 18
     },
-    "LLNL/pynamic": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/qball": {
-        "external": 5,
-        "internal": 13,
-        "total": 18
-    },
-    "LLNL/ravel": {
-        "external": 0,
-        "internal": 18,
-        "total": 18
-    },
-    "LLNL/simutil": {
-        "external": 5,
-        "internal": 13,
-        "total": 18
-    },
-    "LLNL/units": {
+    "LLNL/hiop": {
         "external": 8,
         "internal": 10,
+        "total": 18
+    },
+    "LLNL/llnl-hires-timers": {
+        "external": 1,
+        "internal": 17,
+        "total": 18
+    },
+    "LLNL/magpie": {
+        "external": 9,
+        "internal": 9,
+        "total": 18
+    },
+    "LLNL/perf-dump": {
+        "external": 1,
+        "internal": 17,
+        "total": 18
+    },
+    "LLNL/rubik": {
+        "external": 0,
+        "internal": 18,
         "total": 18
     },
     "flux-framework/flux-core-v0.11": {
@@ -704,24 +599,109 @@
         "internal": 1,
         "total": 18
     },
-    "LLNL/umap": {
-        "external": 2,
-        "internal": 15,
+    "LLNL/Adagio": {
+        "external": 0,
+        "internal": 17,
         "total": 17
     },
-    "LLNL/HPC-Tutorials": {
-        "external": 2,
-        "internal": 15,
+    "LLNL/DysectAPI": {
+        "external": 0,
+        "internal": 17,
         "total": 17
     },
-    "LLNL/Rescal-snow": {
+    "LLNL/GOTCHA": {
         "external": 6,
         "internal": 11,
         "total": 17
     },
-    "LLNL/libyogrt": {
-        "external": 1,
-        "internal": 16,
+    "LLNL/MemAxes": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/Mitos": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/axom_data": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/boxfish": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/cardioid": {
+        "external": 4,
+        "internal": 13,
+        "total": 17
+    },
+    "LLNL/core_stack_merge": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/cram": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/dataracebench": {
+        "external": 5,
+        "internal": 12,
+        "total": 17
+    },
+    "LLNL/graphlib": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/ior": {
+        "external": 3,
+        "internal": 14,
+        "total": 17
+    },
+    "LLNL/merlin": {
+        "external": 4,
+        "internal": 13,
+        "total": 17
+    },
+    "LLNL/muster": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/nami": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/pynamic": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/qball": {
+        "external": 5,
+        "internal": 12,
+        "total": 17
+    },
+    "LLNL/ravel": {
+        "external": 0,
+        "internal": 17,
+        "total": 17
+    },
+    "LLNL/simutil": {
+        "external": 5,
+        "internal": 12,
+        "total": 17
+    },
+    "LLNL/units": {
+        "external": 8,
+        "internal": 9,
         "total": 17
     },
     "ESGF/esgf-prepare": {
@@ -729,49 +709,24 @@
         "internal": 1,
         "total": 17
     },
-    "LLNL/Adiak": {
-        "external": 1,
-        "internal": 15,
+    "LLNL/umap": {
+        "external": 2,
+        "internal": 14,
         "total": 16
     },
-    "LLNL/umap-apps": {
-        "external": 1,
-        "internal": 15,
+    "LLNL/HPC-Tutorials": {
+        "external": 2,
+        "internal": 14,
         "total": 16
     },
-    "LLNL/Elemental": {
-        "external": 1,
-        "internal": 15,
-        "total": 16
-    },
-    "LLNL/Exaworks-SDK": {
+    "LLNL/Rescal-snow": {
         "external": 6,
         "internal": 10,
         "total": 16
     },
-    "LLNL/SNLS": {
+    "LLNL/libyogrt": {
         "external": 1,
         "internal": 15,
-        "total": 16
-    },
-    "LLNL/dtcmp": {
-        "external": 4,
-        "internal": 12,
-        "total": 16
-    },
-    "LLNL/havoqgt": {
-        "external": 2,
-        "internal": 14,
-        "total": 16
-    },
-    "LLNL/lustre-tools-llnl": {
-        "external": 2,
-        "internal": 14,
-        "total": 16
-    },
-    "LLNL/scraper": {
-        "external": 5,
-        "internal": 11,
         "total": 16
     },
     "chaos/scrub": {
@@ -804,99 +759,49 @@
         "internal": 0,
         "total": 16
     },
-    "LLNL/slapi": {
-        "external": 0,
-        "internal": 15,
-        "total": 15
-    },
-    "LLNL/maestro_sheetmusic": {
-        "external": 0,
-        "internal": 15,
-        "total": 15
-    },
-    "LLNL/Aluminum": {
-        "external": 3,
-        "internal": 12,
-        "total": 15
-    },
-    "LLNL/CARE": {
+    "LLNL/Adiak": {
         "external": 1,
         "internal": 14,
         "total": 15
     },
-    "LLNL/INGRID": {
+    "LLNL/umap-apps": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/Elemental": {
+        "external": 1,
+        "internal": 14,
+        "total": 15
+    },
+    "LLNL/Exaworks-SDK": {
         "external": 6,
         "internal": 9,
         "total": 15
     },
-    "LLNL/MPI-Stages": {
-        "external": 5,
-        "internal": 10,
-        "total": 15
-    },
-    "LLNL/RAJA-project-template": {
-        "external": 0,
-        "internal": 15,
-        "total": 15
-    },
-    "LLNL/fdtree": {
+    "LLNL/SNLS": {
         "external": 1,
         "internal": 14,
         "total": 15
     },
-    "LLNL/mdtest": {
-        "external": 1,
-        "internal": 14,
-        "total": 15
-    },
-    "LLNL/merlin-spellbook": {
-        "external": 2,
-        "internal": 13,
-        "total": 15
-    },
-    "LLNL/mib": {
-        "external": 1,
-        "internal": 14,
-        "total": 15
-    },
-    "LLNL/mpiP": {
-        "external": 6,
-        "internal": 9,
-        "total": 15
-    },
-    "LLNL/pyranda": {
+    "LLNL/dtcmp": {
         "external": 4,
         "internal": 11,
         "total": 15
     },
-    "LLNL/raja-suite-dev-env": {
-        "external": 0,
-        "internal": 15,
+    "LLNL/havoqgt": {
+        "external": 2,
+        "internal": 13,
         "total": 15
     },
-    "LLNL/shroud": {
-        "external": 0,
-        "internal": 15,
+    "LLNL/lustre-tools-llnl": {
+        "external": 2,
+        "internal": 13,
         "total": 15
     },
-    "LLNL/simul": {
-        "external": 1,
-        "internal": 14,
-        "total": 15
-    },
-    "LLNL/spl": {
-        "external": 1,
-        "internal": 14,
-        "total": 15
-    },
-    "LLNL/uberenv": {
-        "external": 0,
-        "internal": 15,
-        "total": 15
-    },
-    "LLNL/zfs": {
-        "external": 1,
-        "internal": 14,
+    "LLNL/scraper": {
+        "external": 5,
+        "internal": 10,
         "total": 15
     },
     "flux-framework/flux-security": {
@@ -929,84 +834,104 @@
         "internal": 0,
         "total": 15
     },
-    "LLNL/radiuss-spack-testing": {
-        "external": 0,
-        "internal": 14,
-        "total": 14
-    },
     "chaos/genders": {
         "external": 6,
         "internal": 8,
         "total": 14
     },
-    "LLNL/scr-fe": {
+    "LLNL/slapi": {
         "external": 0,
         "internal": 14,
         "total": 14
     },
-    "LLNL/COGENT": {
+    "LLNL/maestro_sheetmusic": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
+    "LLNL/Aluminum": {
         "external": 3,
         "internal": 11,
         "total": 14
     },
-    "LLNL/CcNav": {
-        "external": 4,
-        "internal": 10,
+    "LLNL/CARE": {
+        "external": 1,
+        "internal": 13,
         "total": 14
     },
-    "LLNL/Curvallis": {
+    "LLNL/INGRID": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "LLNL/MPI-Stages": {
         "external": 5,
         "internal": 9,
         "total": 14
     },
-    "LLNL/GridDyn": {
-        "external": 2,
-        "internal": 12,
-        "total": 14
-    },
-    "LLNL/H5Z-ZFP": {
-        "external": 4,
-        "internal": 10,
-        "total": 14
-    },
-    "LLNL/LULESH": {
-        "external": 3,
-        "internal": 11,
-        "total": 14
-    },
-    "LLNL/MACSio": {
-        "external": 3,
-        "internal": 11,
-        "total": 14
-    },
-    "LLNL/Silo": {
-        "external": 3,
-        "internal": 11,
-        "total": 14
-    },
-    "LLNL/apollo": {
-        "external": 2,
-        "internal": 12,
-        "total": 14
-    },
-    "LLNL/metall": {
-        "external": 2,
-        "internal": 12,
-        "total": 14
-    },
-    "LLNL/radiuss-spack-configs": {
+    "LLNL/RAJA-project-template": {
         "external": 0,
         "internal": 14,
         "total": 14
     },
-    "LLNL/smoothG": {
-        "external": 3,
-        "internal": 11,
+    "LLNL/fdtree": {
+        "external": 1,
+        "internal": 13,
         "total": 14
     },
-    "LLNL/spot2_container": {
+    "LLNL/mdtest": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/merlin-spellbook": {
         "external": 2,
         "internal": 12,
+        "total": 14
+    },
+    "LLNL/mib": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/mpiP": {
+        "external": 6,
+        "internal": 8,
+        "total": 14
+    },
+    "LLNL/pyranda": {
+        "external": 4,
+        "internal": 10,
+        "total": 14
+    },
+    "LLNL/raja-suite-dev-env": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
+    "LLNL/shroud": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
+    "LLNL/simul": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/spl": {
+        "external": 1,
+        "internal": 13,
+        "total": 14
+    },
+    "LLNL/uberenv": {
+        "external": 0,
+        "internal": 14,
+        "total": 14
+    },
+    "LLNL/zfs": {
+        "external": 1,
+        "internal": 13,
         "total": 14
     },
     "flux-framework/capacitor": {
@@ -1094,89 +1019,79 @@
         "internal": 0,
         "total": 14
     },
-    "LLNL/Abmarl": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
-    "LLNL/ExaCA": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
-    "LLNL/GridKit": {
-        "external": 4,
-        "internal": 9,
-        "total": 13
-    },
-    "LLNL/Jekyll-LLNL-Theme": {
+    "LLNL/radiuss-spack-testing": {
         "external": 0,
         "internal": 13,
         "total": 13
     },
-    "LLNL/MacPatch": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
-    "LLNL/Quicksilver": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
-    "LLNL/UEDGE": {
-        "external": 4,
-        "internal": 9,
-        "total": 13
-    },
-    "LLNL/ac-mpibind": {
-        "external": 2,
-        "internal": 11,
-        "total": 13
-    },
-    "LLNL/b-mpi3": {
-        "external": 3,
-        "internal": 10,
-        "total": 13
-    },
-    "LLNL/clippy": {
-        "external": 2,
-        "internal": 11,
-        "total": 13
-    },
-    "LLNL/devil_ray": {
-        "external": 2,
-        "internal": 11,
-        "total": 13
-    },
-    "LLNL/irep": {
+    "LLNL/scr-fe": {
         "external": 0,
         "internal": 13,
         "total": 13
     },
-    "LLNL/lwgrp": {
-        "external": 1,
-        "internal": 12,
-        "total": 13
-    },
-    "LLNL/mgmol": {
-        "external": 4,
-        "internal": 9,
-        "total": 13
-    },
-    "LLNL/mpibind": {
+    "LLNL/COGENT": {
         "external": 3,
         "internal": 10,
         "total": 13
     },
-    "LLNL/spotbe": {
-        "external": 1,
-        "internal": 12,
+    "LLNL/CcNav": {
+        "external": 4,
+        "internal": 9,
         "total": 13
     },
-    "LLNL/variorum": {
-        "external": 1,
-        "internal": 12,
+    "LLNL/Curvallis": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
+    "LLNL/GridDyn": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
+    "LLNL/H5Z-ZFP": {
+        "external": 4,
+        "internal": 9,
+        "total": 13
+    },
+    "LLNL/LULESH": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/MACSio": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/Silo": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/apollo": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
+    "LLNL/metall": {
+        "external": 2,
+        "internal": 11,
+        "total": 13
+    },
+    "LLNL/radiuss-spack-configs": {
+        "external": 0,
+        "internal": 13,
+        "total": 13
+    },
+    "LLNL/smoothG": {
+        "external": 3,
+        "internal": 10,
+        "total": 13
+    },
+    "LLNL/spot2_container": {
+        "external": 2,
+        "internal": 11,
         "total": 13
     },
     "ATOMScience-org/AMPL": {
@@ -1209,114 +1124,89 @@
         "internal": 0,
         "total": 13
     },
-    "LLNL/radiuss-ci": {
-        "external": 0,
-        "internal": 12,
-        "total": 12
-    },
-    "LLNL/zfpy-wheels": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
-    },
-    "LLNL/Sina": {
-        "external": 0,
-        "internal": 12,
-        "total": 12
-    },
-    "LLNL/AMPE": {
+    "LLNL/Abmarl": {
         "external": 3,
         "internal": 9,
         "total": 12
     },
-    "LLNL/CallFlow": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
-    },
-    "LLNL/ExaConstit": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
-    },
-    "LLNL/LAST": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
-    },
-    "LLNL/MPIDiff": {
-        "external": 0,
-        "internal": 12,
-        "total": 12
-    },
-    "LLNL/MacPatch-AutoPKG": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
-    },
-    "LLNL/OMSClient": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
-    },
-    "LLNL/PyDV": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
-    },
-    "LLNL/clippy-cpp": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
-    },
-    "LLNL/cruise": {
-        "external": 1,
-        "internal": 11,
-        "total": 12
-    },
-    "LLNL/hatchet-tutorial": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
-    },
-    "LLNL/inq": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
-    },
-    "LLNL/mappertrac": {
-        "external": 2,
-        "internal": 10,
-        "total": 12
-    },
-    "LLNL/pLiner": {
+    "LLNL/ExaCA": {
         "external": 3,
         "internal": 9,
         "total": 12
     },
-    "LLNL/parelag": {
+    "LLNL/GridKit": {
+        "external": 4,
+        "internal": 8,
+        "total": 12
+    },
+    "LLNL/Jekyll-LLNL-Theme": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
+    "LLNL/MacPatch": {
+        "external": 3,
+        "internal": 9,
+        "total": 12
+    },
+    "LLNL/Quicksilver": {
+        "external": 3,
+        "internal": 9,
+        "total": 12
+    },
+    "LLNL/UEDGE": {
+        "external": 4,
+        "internal": 8,
+        "total": 12
+    },
+    "LLNL/ac-mpibind": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/b-mpi3": {
+        "external": 3,
+        "internal": 9,
+        "total": 12
+    },
+    "LLNL/clippy": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/devil_ray": {
+        "external": 2,
+        "internal": 10,
+        "total": 12
+    },
+    "LLNL/irep": {
+        "external": 0,
+        "internal": 12,
+        "total": 12
+    },
+    "LLNL/lwgrp": {
         "external": 1,
         "internal": 11,
         "total": 12
     },
-    "LLNL/simpool": {
-        "external": 0,
-        "internal": 12,
+    "LLNL/mgmol": {
+        "external": 4,
+        "internal": 8,
         "total": 12
     },
-    "LLNL/sundials": {
+    "LLNL/mpibind": {
+        "external": 3,
+        "internal": 9,
+        "total": 12
+    },
+    "LLNL/spotbe": {
         "external": 1,
         "internal": 11,
         "total": 12
     },
-    "LLNL/wcs": {
-        "external": 0,
-        "internal": 12,
-        "total": 12
-    },
-    "LLNL/ygm": {
-        "external": 0,
-        "internal": 12,
+    "LLNL/variorum": {
+        "external": 1,
+        "internal": 11,
         "total": 12
     },
     "flux-framework/FluxRM.jl": {
@@ -1374,6 +1264,11 @@
         "internal": 0,
         "total": 12
     },
+    "LLNL/radiuss-ci": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
     "chaos/cerebro": {
         "external": 4,
         "internal": 7,
@@ -1394,64 +1289,54 @@
         "internal": 8,
         "total": 11
     },
-    "LLNL/Yet-Another-Hauser-Feshbach-Code": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/.github": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/ExaCA-Data": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/ExaCMech": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/FAROS": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/Juqbox.jl": {
+    "LLNL/zfpy-wheels": {
         "external": 2,
         "internal": 9,
         "total": 11
     },
-    "LLNL/PIPS-SBB": {
-        "external": 2,
-        "internal": 9,
-        "total": 11
-    },
-    "LLNL/Privateer": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/UMT": {
+    "LLNL/Sina": {
         "external": 0,
         "internal": 11,
         "total": 11
     },
-    "LLNL/USER-EPH": {
+    "LLNL/AMPE": {
+        "external": 3,
+        "internal": 8,
+        "total": 11
+    },
+    "LLNL/CallFlow": {
         "external": 1,
         "internal": 10,
         "total": 11
     },
-    "LLNL/burstfs": {
+    "LLNL/ExaConstit": {
         "external": 1,
         "internal": 10,
         "total": 11
     },
-    "LLNL/caliper-examples": {
+    "LLNL/LAST": {
         "external": 1,
         "internal": 10,
+        "total": 11
+    },
+    "LLNL/MPIDiff": {
+        "external": 0,
+        "internal": 11,
+        "total": 11
+    },
+    "LLNL/MacPatch-AutoPKG": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "LLNL/OMSClient": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "LLNL/PyDV": {
+        "external": 2,
+        "internal": 9,
         "total": 11
     },
     "LLNL/certipy": {
@@ -1459,7 +1344,12 @@
         "internal": 8,
         "total": 11
     },
-    "LLNL/clippy-tutorial": {
+    "LLNL/clippy-cpp": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "LLNL/cruise": {
         "external": 1,
         "internal": 10,
         "total": 11
@@ -1469,64 +1359,49 @@
         "internal": 8,
         "total": 11
     },
-    "LLNL/lime": {
+    "LLNL/hatchet-tutorial": {
         "external": 2,
         "internal": 9,
         "total": 11
     },
-    "LLNL/mappgene": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/mstk-docker": {
+    "LLNL/inq": {
         "external": 2,
         "internal": 9,
         "total": 11
     },
-    "LLNL/paraDIS_lib": {
+    "LLNL/mappertrac": {
+        "external": 2,
+        "internal": 9,
+        "total": 11
+    },
+    "LLNL/pLiner": {
+        "external": 3,
+        "internal": 8,
+        "total": 11
+    },
+    "LLNL/parelag": {
         "external": 1,
         "internal": 10,
         "total": 11
     },
-    "LLNL/py-hostlist": {
+    "LLNL/simpool": {
         "external": 0,
         "internal": 11,
         "total": 11
     },
-    "LLNL/quandary": {
-        "external": 0,
-        "internal": 11,
-        "total": 11
-    },
-    "LLNL/rhizome": {
-        "external": 2,
-        "internal": 9,
-        "total": 11
-    },
-    "LLNL/saamge": {
+    "LLNL/sundials": {
         "external": 1,
         "internal": 10,
         "total": 11
     },
-    "LLNL/spark-hdf5": {
-        "external": 1,
-        "internal": 10,
-        "total": 11
-    },
-    "LLNL/strawman": {
+    "LLNL/wcs": {
         "external": 0,
         "internal": 11,
         "total": 11
     },
-    "LLNL/ygm-tutorial": {
+    "LLNL/ygm": {
         "external": 0,
         "internal": 11,
-        "total": 11
-    },
-    "LLNL/yorick": {
-        "external": 2,
-        "internal": 9,
         "total": 11
     },
     "chaos/ngrm": {
@@ -1599,342 +1474,97 @@
         "internal": 0,
         "total": 11
     },
-    "LLNL/ddcMDconverter": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/AMG": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/AutoParBench": {
+    "LLNL/Yet-Another-Hauser-Feshbach-Code": {
         "external": 1,
         "internal": 9,
         "total": 10
     },
-    "LLNL/CoMD-Chapel": {
+    "LLNL/.github": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/ExaCA-Data": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/ExaCMech": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/FAROS": {
+        "external": 0,
+        "internal": 10,
+        "total": 10
+    },
+    "LLNL/Juqbox.jl": {
         "external": 2,
         "internal": 8,
         "total": 10
     },
-    "LLNL/Collabmaps": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/Comb": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/FAST": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/FGPU": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/FRS": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/GOTCHA-tracer": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/GRAPE": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/ISO-DART": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/LOKI": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/MAT": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/MI-ChemVis": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/MacPatch-Docs": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/MacPatch-Docs-gh": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/MemSurfer": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/MuyGPyS": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/NDDAV": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/OpenRES": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/PYB11Generator": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/QRUS": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/RAJA-tutorials": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/RASE": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/Sedov-ML": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/SoRa": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/TopoMS": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/TreeScope": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/Wemul": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/XPL": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/acrotensor": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/adapt-fp": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/avalaunch": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/barni": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/blockbuster": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/bridge-kernel": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/coda-calibration-tool": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/cowc": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/ddcMD": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/direct-fuse": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/fastcam": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/flux-wrappers": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/fudge": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/goulash": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/gtest-mpi-listener": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/hatchet-notebooks-sc19": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/hdtopology": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/iris": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/json-cwx": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/loupe": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/melodee": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/metall-tutorial": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/mpiBench": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/mpiGraph": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/ns3-if77-module": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/op": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/prorad": {
+    "LLNL/PIPS-SBB": {
         "external": 2,
         "internal": 8,
         "total": 10
     },
-    "LLNL/psuade": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/psuade-lite": {
+    "LLNL/Privateer": {
         "external": 1,
         "internal": 9,
         "total": 10
     },
-    "LLNL/pytaridx": {
+    "LLNL/UMT": {
         "external": 0,
         "internal": 10,
         "total": 10
     },
-    "LLNL/qnd": {
+    "LLNL/USER-EPH": {
         "external": 1,
         "internal": 9,
         "total": 10
     },
-    "LLNL/quantkriging": {
+    "LLNL/burstfs": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/caliper-examples": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/clippy-tutorial": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/lime": {
+        "external": 2,
+        "internal": 8,
+        "total": 10
+    },
+    "LLNL/mappgene": {
         "external": 0,
         "internal": 10,
         "total": 10
     },
-    "LLNL/radiuss-automation": {
+    "LLNL/mstk-docker": {
+        "external": 2,
+        "internal": 8,
+        "total": 10
+    },
+    "LLNL/paraDIS_lib": {
+        "external": 1,
+        "internal": 9,
+        "total": 10
+    },
+    "LLNL/py-hostlist": {
         "external": 0,
         "internal": 10,
         "total": 10
     },
-    "LLNL/radiuss-ci-info-action": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/radiuss-stack": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/radiuss-uberenv": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/recbis": {
+    "LLNL/quandary": {
         "external": 0,
         "internal": 10,
         "total": 10
@@ -1944,54 +1574,34 @@
         "internal": 8,
         "total": 10
     },
-    "LLNL/ross-matrix-models": {
-        "external": 0,
-        "internal": 10,
+    "LLNL/rhizome": {
+        "external": 2,
+        "internal": 8,
         "total": 10
     },
-    "LLNL/scisample": {
+    "LLNL/saamge": {
         "external": 1,
         "internal": 9,
         "total": 10
     },
-    "LLNL/scr-top": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/selfsupervised": {
+    "LLNL/spark-hdf5": {
         "external": 1,
         "internal": 9,
         "total": 10
     },
-    "LLNL/simplexdesign": {
+    "LLNL/strawman": {
         "external": 0,
         "internal": 10,
         "total": 10
     },
-    "LLNL/sonar-driver": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/spawnnet": {
-        "external": 1,
-        "internal": 9,
-        "total": 10
-    },
-    "LLNL/typeforge": {
+    "LLNL/ygm-tutorial": {
         "external": 0,
         "internal": 10,
         "total": 10
     },
-    "LLNL/variorum-spack-mirrors": {
-        "external": 0,
-        "internal": 10,
-        "total": 10
-    },
-    "LLNL/yorick-doc": {
-        "external": 1,
-        "internal": 9,
+    "LLNL/yorick": {
+        "external": 2,
+        "internal": 8,
         "total": 10
     },
     "flux-framework/flux-accounting": {
@@ -2134,212 +1744,127 @@
         "internal": 7,
         "total": 9
     },
-    "LLNL/Frescox": {
+    "LLNL/ddcMDconverter": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/ferdinand": {
+    "LLNL/AMG": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/2022_DVRFS_microbiome": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/2DHEVF": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/ANS": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/BAnD": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/BCML-COVID19": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Babel": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/CRADL": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/CUDAMicroBench": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Copson_Expansion_Solution": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/CxxPolyFit": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/DFTT": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/DJINN": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/DNN-MFBO": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/FPChecker": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/GpuMatMatPaper": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/H2OI95": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/HyDAGS": {
+    "LLNL/AutoParBench": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/LH2Transfer": {
+    "LLNL/CoMD-Chapel": {
+        "external": 2,
+        "internal": 7,
+        "total": 9
+    },
+    "LLNL/Collabmaps": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/LIST": {
+    "LLNL/Comb": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/LibPowerMon": {
+    "LLNL/FAST": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/FGPU": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/MPI-Usage": {
+    "LLNL/FRS": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/MTL-suite": {
+    "LLNL/GOTCHA-tracer": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/GRAPE": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/ISO-DART": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/MTLRecSys": {
+    "LLNL/LOKI": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/MahonFitting": {
+    "LLNL/MAT": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/MI-ChemVis": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/MerlinWorkflows": {
+    "LLNL/MacPatch-Docs": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/MacPatch-Docs-gh": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/MemSurfer": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/MuyGPyS": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/NDDAV": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/MultiscaleTopOpt": {
+    "LLNL/OpenRES": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/PYB11Generator": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/NPB": {
+    "LLNL/QRUS": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/RAJA-tutorials": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/Open-Facility-Viewer": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/PENNANT": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/PF3DCOMM": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/PF3DIO": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/PF3DK": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/PNE_MTINV": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/PairScore": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/PolyClipper": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/RAJA-SDP": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/SAFIRE": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/SBLLmalloc": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/SC-PD-FED": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/SCR-model": {
+    "LLNL/RASE": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -2349,197 +1874,127 @@
         "internal": 8,
         "total": 9
     },
-    "LLNL/STKAddressConverter": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/SW4CK": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/SYNDATA": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Saloon": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/ScrubJay": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/SmallMolEval": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Task-Time-Tracker": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Thomson-Scattering-Cross-Section-Calculator": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Tizona": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Tool-Gear": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/TourRobotDance": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/UQ_combustion": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/Varity": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/WRF-IBM": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/al_nlp": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/ap": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/autoatlas": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/backstroke": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/bindee": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/bmsl": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/caliper-compiler": {
+    "LLNL/Sedov-ML": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/croquis": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/cryoH2vehicle": {
+    "LLNL/SoRa": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/csld": {
+    "LLNL/TopoMS": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/cxxopts": {
+    "LLNL/TreeScope": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/cyme-launcher": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/dynim": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/f-strings": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/flume-plugins": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/fpp": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/fpzip": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/gecko": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/goTLS": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/googletest-mpi-listener": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/graph-embed": {
+    "LLNL/Wemul": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/ibtopo": {
+    "LLNL/XPL": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/acrotensor": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/iirabm": {
+    "LLNL/adapt-fp": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/iniabu": {
+    "LLNL/avalaunch": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/barni": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/kosh": {
+    "LLNL/blockbuster": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/bridge-kernel": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/coda-calibration-tool": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/cowc": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/ddcMD": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/direct-fuse": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/fastcam": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/flux-wrappers": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/fudge": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/goulash": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/gtest-mpi-listener": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/hatchet-notebooks-sc19": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/hdtopology": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/iris": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/json-cwx": {
         "external": 0,
         "internal": 9,
         "total": 9
@@ -2554,202 +2009,142 @@
         "internal": 8,
         "total": 9
     },
-    "LLNL/ldms-plugins-llnl": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/legion": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/letop": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/lime-apps": {
+    "LLNL/loupe": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/mhysa": {
+    "LLNL/melodee": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/minq": {
+    "LLNL/metall-tutorial": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/mpileaks": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/mpy1": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/mttime": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/narrows": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/nfs-directory-source": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/ovis": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/parelagmc": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/phloem": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/pmgr_collective": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/polycube": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/pyMMAopt": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/pyPICfusion": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/pyorick": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/pysaber": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/radiuss-ci-info-action-go": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/radiuss-docker": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/rover": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/rst2slides": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/sepsense": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/spack": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/spdlayers": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/spheral-docker": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/spify": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/tango": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/tox": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/trainGMM": {
-        "external": 0,
-        "internal": 9,
-        "total": 9
-    },
-    "LLNL/unum": {
+    "LLNL/mpiBench": {
         "external": 1,
         "internal": 8,
         "total": 9
     },
-    "LLNL/ygm-bench": {
+    "LLNL/mpiGraph": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/ns3-if77-module": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/yorick-gl": {
+    "LLNL/op": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/prorad": {
+        "external": 2,
+        "internal": 7,
+        "total": 9
+    },
+    "LLNL/psuade": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/yorick-ml4": {
+    "LLNL/psuade-lite": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/pytaridx": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/yorick-mpeg": {
+    "LLNL/qnd": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/quantkriging": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/yorick-z": {
+    "LLNL/radiuss-automation": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/zero-rk": {
+    "LLNL/radiuss-ci-info-action": {
         "external": 0,
         "internal": 9,
         "total": 9
     },
-    "LLNL/zhw": {
+    "LLNL/radiuss-stack": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/radiuss-uberenv": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/recbis": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/ross-matrix-models": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/scisample": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/scr-top": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/selfsupervised": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/simplexdesign": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/sonar-driver": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/spawnnet": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/typeforge": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/variorum-spack-mirrors": {
+        "external": 0,
+        "internal": 9,
+        "total": 9
+    },
+    "LLNL/yorick-doc": {
         "external": 1,
         "internal": 8,
         "total": 9
@@ -2924,29 +2319,324 @@
         "internal": 0,
         "total": 9
     },
+    "LLNL/Frescox": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/ferdinand": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/2022_DVRFS_microbiome": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/2DHEVF": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/ANS": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/BAnD": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/BCML-COVID19": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/Babel": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
     "LLNL/CDash": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/FastGlobalFileStatus": {
+    "LLNL/CRADL": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/MountPointAttributes": {
+    "LLNL/CUDAMicroBench": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/MultiMatTest": {
+    "LLNL/Copson_Expansion_Solution": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/WVL": {
+    "LLNL/CxxPolyFit": {
         "external": 0,
         "internal": 8,
+        "total": 8
+    },
+    "LLNL/DFTT": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/DJINN": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/DNN-MFBO": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/FPChecker": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/GpuMatMatPaper": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/H2OI95": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/HyDAGS": {
+        "external": 1,
+        "internal": 7,
+        "total": 8
+    },
+    "LLNL/LH2Transfer": {
+        "external": 1,
+        "internal": 7,
+        "total": 8
+    },
+    "LLNL/LIST": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/LibPowerMon": {
+        "external": 1,
+        "internal": 7,
+        "total": 8
+    },
+    "LLNL/MPI-Usage": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/MTL-suite": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/MTLRecSys": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/MahonFitting": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/MerlinWorkflows": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/MultiscaleTopOpt": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/NPB": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/Open-Facility-Viewer": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/PENNANT": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/PF3DCOMM": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/PF3DIO": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/PF3DK": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/PNE_MTINV": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/PairScore": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/PolyClipper": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/RAJA-SDP": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/SAFIRE": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/SBLLmalloc": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/SC-PD-FED": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/SCR-model": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/STKAddressConverter": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/SW4CK": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/SYNDATA": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/Saloon": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/ScrubJay": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/SmallMolEval": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/Task-Time-Tracker": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/Thomson-Scattering-Cross-Section-Calculator": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/Tizona": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/Tool-Gear": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/TourRobotDance": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/UQ_combustion": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/Varity": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/WRF-IBM": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/al_nlp": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/ap": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/autoatlas": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/backstroke": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/bindee": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/bmsl": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/caliper-compiler": {
+        "external": 1,
+        "internal": 7,
         "total": 8
     },
     "LLNL/configurable-http-proxy": {
@@ -2954,17 +2644,87 @@
         "internal": 8,
         "total": 8
     },
-    "LLNL/coreFPUtest": {
+    "LLNL/croquis": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/geopm": {
+    "LLNL/cryoH2vehicle": {
+        "external": 1,
+        "internal": 7,
+        "total": 8
+    },
+    "LLNL/csld": {
+        "external": 1,
+        "internal": 7,
+        "total": 8
+    },
+    "LLNL/cxxopts": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/hscs": {
+    "LLNL/cyme-launcher": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/dynim": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/f-strings": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/flume-plugins": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/fpp": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/fpzip": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/gecko": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/goTLS": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/googletest-mpi-listener": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/graph-embed": {
+        "external": 1,
+        "internal": 7,
+        "total": 8
+    },
+    "LLNL/ibtopo": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/iirabm": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/iniabu": {
         "external": 0,
         "internal": 8,
         "total": 8
@@ -2974,34 +2734,209 @@
         "internal": 8,
         "total": 8
     },
-    "LLNL/omnibus-gitlab": {
+    "LLNL/kosh": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/open-source-guidelines": {
+    "LLNL/ldms-plugins-llnl": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/python-lora": {
+    "LLNL/legion": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/radiuss": {
+    "LLNL/letop": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/refex-rolx": {
+    "LLNL/lime-apps": {
+        "external": 1,
+        "internal": 7,
+        "total": 8
+    },
+    "LLNL/mhysa": {
         "external": 0,
         "internal": 8,
         "total": 8
     },
-    "LLNL/umpire-interactive-tutorial": {
+    "LLNL/minq": {
         "external": 0,
         "internal": 8,
+        "total": 8
+    },
+    "LLNL/mpileaks": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/mpy1": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/mttime": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/narrows": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/nfs-directory-source": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/ovis": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/parelagmc": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/phloem": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/pmgr_collective": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/polycube": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/pyMMAopt": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/pyPICfusion": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/pyorick": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/pysaber": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/radiuss-ci-info-action-go": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/radiuss-docker": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/rover": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/rst2slides": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/sepsense": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/spack": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/spdlayers": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/spheral-docker": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/spify": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/tango": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/tox": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/trainGMM": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/unum": {
+        "external": 1,
+        "internal": 7,
+        "total": 8
+    },
+    "LLNL/ygm-bench": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/yorick-gl": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/yorick-ml4": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/yorick-mpeg": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/yorick-z": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/zero-rk": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
+    "LLNL/zhw": {
+        "external": 1,
+        "internal": 7,
         "total": 8
     },
     "spack/spack-sc15-paper": {
@@ -3158,6 +3093,71 @@
         "external": 8,
         "internal": 0,
         "total": 8
+    },
+    "LLNL/FastGlobalFileStatus": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/MountPointAttributes": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/MultiMatTest": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/WVL": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/coreFPUtest": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/geopm": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/hscs": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/omnibus-gitlab": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/open-source-guidelines": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/python-lora": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/radiuss": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/refex-rolx": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
+    },
+    "LLNL/umpire-interactive-tutorial": {
+        "external": 0,
+        "internal": 7,
+        "total": 7
     },
     "spack/contrib": {
         "external": 2,
