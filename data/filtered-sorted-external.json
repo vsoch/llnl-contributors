@@ -15,9 +15,9 @@
         "total": 94
     },
     "CEED/libCEED": {
-        "external": 55,
+        "external": 56,
         "internal": 15,
-        "total": 70
+        "total": 71
     },
     "openzfs/spl": {
         "external": 55,
