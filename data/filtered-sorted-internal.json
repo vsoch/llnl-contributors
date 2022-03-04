@@ -1794,6 +1794,11 @@
         "internal": 8,
         "total": 8
     },
+    "LLNL/XNAS": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
     "LLNL/al_nlp": {
         "external": 0,
         "internal": 8,
@@ -2260,9 +2265,9 @@
         "total": 7
     },
     "visit-dav/visit": {
-        "external": 47,
+        "external": 48,
         "internal": 6,
-        "total": 53
+        "total": 54
     },
     "rose-compiler/rose": {
         "external": 38,
@@ -3139,6 +3144,11 @@
         "internal": 2,
         "total": 5
     },
+    "GMLC-TDC/networking": {
+        "external": 3,
+        "internal": 2,
+        "total": 5
+    },
     "GMLC-TDC/utilities": {
         "external": 3,
         "internal": 2,
@@ -3195,11 +3205,6 @@
         "total": 4
     },
     "GMLC-TDC/matHELICS": {
-        "external": 2,
-        "internal": 2,
-        "total": 4
-    },
-    "GMLC-TDC/networking": {
         "external": 2,
         "internal": 2,
         "total": 4
