@@ -5,9 +5,9 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 966,
+        "external": 969,
         "internal": 73,
-        "total": 1039
+        "total": 1042
     },
     "openzfs/zfs": {
         "external": 482,
@@ -264,6 +264,11 @@
         "internal": 15,
         "total": 27
     },
+    "LLNL/serac": {
+        "external": 5,
+        "internal": 22,
+        "total": 27
+    },
     "hpc/dcp": {
         "external": 21,
         "internal": 6,
@@ -290,11 +295,6 @@
         "total": 27
     },
     "LLNL/maestrowf": {
-        "external": 5,
-        "internal": 21,
-        "total": 26
-    },
-    "LLNL/serac": {
         "external": 5,
         "internal": 21,
         "total": 26
@@ -394,6 +394,11 @@
         "internal": 12,
         "total": 22
     },
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 22,
+        "total": 22
+    },
     "flux-framework/flux-sched": {
         "external": 8,
         "internal": 14,
@@ -413,11 +418,6 @@
         "external": 22,
         "internal": 0,
         "total": 22
-    },
-    "LLNL/serac_tests": {
-        "external": 0,
-        "internal": 21,
-        "total": 21
     },
     "LLNL/spheral": {
         "external": 7,
@@ -2844,6 +2844,11 @@
         "internal": 8,
         "total": 8
     },
+    "LLNL/radiuss": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
     "LLNL/radiuss-ci-info-action-go": {
         "external": 0,
         "internal": 8,
@@ -3145,11 +3150,6 @@
         "total": 7
     },
     "LLNL/python-lora": {
-        "external": 0,
-        "internal": 7,
-        "total": 7
-    },
-    "LLNL/radiuss": {
         "external": 0,
         "internal": 7,
         "total": 7

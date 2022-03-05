@@ -54,6 +54,16 @@
         "internal": 24,
         "total": 34
     },
+    "LLNL/serac": {
+        "external": 5,
+        "internal": 22,
+        "total": 27
+    },
+    "LLNL/serac_tests": {
+        "external": 0,
+        "internal": 22,
+        "total": 22
+    },
     "CEED/Laghos": {
         "external": 43,
         "internal": 21,
@@ -74,20 +84,10 @@
         "internal": 21,
         "total": 26
     },
-    "LLNL/serac": {
-        "external": 5,
-        "internal": 21,
-        "total": 26
-    },
     "LLNL/msr-safe": {
         "external": 4,
         "internal": 21,
         "total": 25
-    },
-    "LLNL/serac_tests": {
-        "external": 0,
-        "internal": 21,
-        "total": 21
     },
     "LLNL/libmsr": {
         "external": 5,
@@ -2009,6 +2009,11 @@
         "internal": 8,
         "total": 8
     },
+    "LLNL/radiuss": {
+        "external": 0,
+        "internal": 8,
+        "total": 8
+    },
     "LLNL/radiuss-ci-info-action-go": {
         "external": 0,
         "internal": 8,
@@ -2245,11 +2250,6 @@
         "total": 7
     },
     "LLNL/python-lora": {
-        "external": 0,
-        "internal": 7,
-        "total": 7
-    },
-    "LLNL/radiuss": {
         "external": 0,
         "internal": 7,
         "total": 7
