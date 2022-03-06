@@ -5,14 +5,14 @@
         "total": 1468
     },
     "spack/spack": {
-        "external": 969,
+        "external": 970,
         "internal": 73,
-        "total": 1042
+        "total": 1043
     },
     "openzfs/zfs": {
-        "external": 482,
+        "external": 483,
         "internal": 4,
-        "total": 486
+        "total": 487
     },
     "mfem/mfem": {
         "external": 378,
