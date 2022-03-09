@@ -55,9 +55,9 @@
         "total": 34
     },
     "LLNL/serac": {
-        "external": 5,
+        "external": 6,
         "internal": 22,
-        "total": 27
+        "total": 28
     },
     "LLNL/serac_tests": {
         "external": 0,
@@ -1255,9 +1255,9 @@
         "total": 13
     },
     "LLNL/GridKit": {
-        "external": 4,
+        "external": 5,
         "internal": 8,
-        "total": 12
+        "total": 13
     },
     "LLNL/UEDGE": {
         "external": 4,
@@ -1465,6 +1465,11 @@
         "total": 9
     },
     "LLNL/ldapotp-jni-lib": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
+    "LLNL/lime-apps": {
         "external": 1,
         "internal": 8,
         "total": 9
@@ -2185,11 +2190,6 @@
         "total": 8
     },
     "LLNL/graph-embed": {
-        "external": 1,
-        "internal": 7,
-        "total": 8
-    },
-    "LLNL/lime-apps": {
         "external": 1,
         "internal": 7,
         "total": 8

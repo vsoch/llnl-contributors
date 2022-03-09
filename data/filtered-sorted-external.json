@@ -829,6 +829,11 @@
         "internal": 40,
         "total": 46
     },
+    "LLNL/serac": {
+        "external": 6,
+        "internal": 22,
+        "total": 28
+    },
     "LLNL/PnMPI": {
         "external": 6,
         "internal": 18,
@@ -949,11 +954,6 @@
         "internal": 25,
         "total": 30
     },
-    "LLNL/serac": {
-        "external": 5,
-        "internal": 22,
-        "total": 27
-    },
     "LLNL/maestrowf": {
         "external": 5,
         "internal": 21,
@@ -1055,6 +1055,11 @@
         "total": 14
     },
     "LLNL/Curvallis": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
+    "LLNL/GridKit": {
         "external": 5,
         "internal": 8,
         "total": 13
@@ -1203,11 +1208,6 @@
         "external": 4,
         "internal": 9,
         "total": 13
-    },
-    "LLNL/GridKit": {
-        "external": 4,
-        "internal": 8,
-        "total": 12
     },
     "LLNL/UEDGE": {
         "external": 4,
@@ -2639,6 +2639,11 @@
         "internal": 8,
         "total": 9
     },
+    "LLNL/lime-apps": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
     "LLNL/loupe": {
         "external": 1,
         "internal": 8,
@@ -2725,11 +2730,6 @@
         "total": 8
     },
     "LLNL/graph-embed": {
-        "external": 1,
-        "internal": 7,
-        "total": 8
-    },
-    "LLNL/lime-apps": {
         "external": 1,
         "internal": 7,
         "total": 8

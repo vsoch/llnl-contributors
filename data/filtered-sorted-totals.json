@@ -194,6 +194,11 @@
         "internal": 13,
         "total": 29
     },
+    "LLNL/serac": {
+        "external": 6,
+        "internal": 22,
+        "total": 28
+    },
     "mfem/github-actions": {
         "external": 11,
         "internal": 17,
@@ -202,11 +207,6 @@
     "LLNL/Caliper": {
         "external": 12,
         "internal": 15,
-        "total": 27
-    },
-    "LLNL/serac": {
-        "external": 5,
-        "internal": 22,
         "total": 27
     },
     "hpc/dcp": {
@@ -989,6 +989,11 @@
         "internal": 11,
         "total": 13
     },
+    "LLNL/GridKit": {
+        "external": 5,
+        "internal": 8,
+        "total": 13
+    },
     "LLNL/H5Z-ZFP": {
         "external": 4,
         "internal": 9,
@@ -1072,11 +1077,6 @@
     "LLNL/ExaCA": {
         "external": 3,
         "internal": 9,
-        "total": 12
-    },
-    "LLNL/GridKit": {
-        "external": 4,
-        "internal": 8,
         "total": 12
     },
     "LLNL/Jekyll-LLNL-Theme": {
@@ -1949,6 +1949,11 @@
         "internal": 8,
         "total": 9
     },
+    "LLNL/lime-apps": {
+        "external": 1,
+        "internal": 8,
+        "total": 9
+    },
     "LLNL/loupe": {
         "external": 1,
         "internal": 8,
@@ -2697,11 +2702,6 @@
     "LLNL/letop": {
         "external": 0,
         "internal": 8,
-        "total": 8
-    },
-    "LLNL/lime-apps": {
-        "external": 1,
-        "internal": 7,
         "total": 8
     },
     "LLNL/mhysa": {
